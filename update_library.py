@@ -31,15 +31,15 @@ PROGRESS_FILE = DB_PATH / "progress.json"
 sys.path.insert(0, str(DB_PATH))
 
 # ── Konfiguration ───────────────────────────────────────────
-MAX_ANIME  = 0   # 0 = alle
-MAX_MOVIES = 0
+MAX_ANIME  = 0   # 0 = alle (2350+)
+MAX_MOVIES = 0   # 0 = alle
 
 LANGUAGES = ["ger-dub", "ger-sub", "eng-sub"]
 LANG_DISPLAY = {"ger-dub": "Ger Dub", "ger-sub": "Ger Sub", "eng-sub": "Eng Sub"}
 LANG_NUMBER  = {"ger-dub": "1", "ger-sub": "2", "eng-sub": "3"}
 
 # Alle N Animes auf GitHub pushen (0 = nur am Ende)
-PUSH_INTERVAL = 100
+PUSH_INTERVAL = 50
 
 # ── Dependencies sicherstellen ──────────────────────────────
 def install_deps():
