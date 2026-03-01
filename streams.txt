@@ -1,0 +1,4 @@
+# Stream-URLs
+# Format: EpisodenID|DirectStreamURL
+# Beispiel:
+# attack-on-titan-s01e01|https://voe.sx/raw/....m3u8

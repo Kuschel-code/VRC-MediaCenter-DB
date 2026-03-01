@@ -1,0 +1,4 @@
+# Anime-Bibliothek
+# Format: Titel|ThumbURL|ContentID|Genre|Jahr|Rating
+# Beispiel:
+# Attack on Titan||attack-on-titan|Action|2013|9.0

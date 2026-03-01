@@ -1,0 +1,4 @@
+# Film-Bibliothek
+# Format: Titel|ThumbURL|ContentID|Genre|Jahr|Rating
+# Beispiel:
+# Spider-Man: No Way Home||spider-man-no-way-home|Action|2021|8.3

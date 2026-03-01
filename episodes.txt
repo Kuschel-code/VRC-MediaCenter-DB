@@ -1,0 +1,5 @@
+# Episodenlisten
+# Format: ContentID|EpisodeTitel|EpisodenID
+# Beispiel:
+# attack-on-titan|Episode 1|attack-on-titan-s01e01
+# attack-on-titan|Episode 2|attack-on-titan-s01e02
