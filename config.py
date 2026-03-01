@@ -1,20 +1,17 @@
-# Backend-Konfiguration für MyWorldMediaCenter
-# Passe diese Werte an dein Setup an.
+# Backend-Konfiguration fur MyWorldMediaCenter
 
-# Server-Port
 PORT = 7800
 
 # AniWorld Basis-URL
 ANIWORLD_BASE = "https://aniworld.to"
 
 # Bevorzugte Hoster-Reihenfolge (erster verfügbarer wird genommen)
-# VOE liefert meist HLS/MP4. Vidoza wurde von AniWorld offiziell eingestellt (2025).
 PREFERRED_HOSTERS = ["VOE", "Vidmoly", "Streamtape"]
 
 # Cache-Zeiten in Sekunden
-LIBRARY_CACHE_TTL = 3600      # 1 Stunde für Inhaltslisten
-EPISODE_CACHE_TTL = 1800      # 30 Minuten für Episodenlisten
-STREAM_CACHE_TTL = 600        # 10 Minuten für Stream-URLs (können ablaufen)
+LIBRARY_CACHE_TTL = 3600
+EPISODE_CACHE_TTL = 1800
+STREAM_CACHE_TTL = 600
 
 # Request Headers (Browser-Simulation)
 REQUEST_HEADERS = {
@@ -24,9 +21,5 @@ REQUEST_HEADERS = {
     "Referer": "https://aniworld.to/",
 }
 
-# Manuell konfigurierte Inhalte (falls AniWorld-Scraping nicht gewünscht)
-# Format: Liste von Dicts mit title, thumb, content_id, genre, year, rating, url_path
-# url_path = AniWorld-Pfad z.B. "/anime/stream/attack-on-titan"
-MANUAL_ANIME = []
-MANUAL_MOVIES = []
-MANUAL_SERIES = []
+# Stream Kiste (Filme)
+STREAMKISTE_BASE = "https://streamkiste.tv"
