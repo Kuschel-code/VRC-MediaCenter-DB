@@ -1,5 +1,150 @@
-# Episodenlisten
-# Format: ContentID|EpisodeTitel|EpisodenID
-# Beispiel:
-# attack-on-titan|Episode 1|attack-on-titan-s01e01
-# attack-on-titan|Episode 2|attack-on-titan-s01e02
+100-sleeping-princes-the-kingdom-of-dreams|The Sudden Beginning of a Dream|100-sleeping-princes-the-kingdom-of-dreams-s1-ep1
+100-sleeping-princes-the-kingdom-of-dreams|The Curse Within Your Eyes|100-sleeping-princes-the-kingdom-of-dreams-s1-ep2
+100-sleeping-princes-the-kingdom-of-dreams|Memories in the Scent of Pancakes|100-sleeping-princes-the-kingdom-of-dreams-s1-ep3
+100-sleeping-princes-the-kingdom-of-dreams|The Pirate Ship Barenarossa|100-sleeping-princes-the-kingdom-of-dreams-s1-ep4
+100-sleeping-princes-the-kingdom-of-dreams|Requiem for a Dark Shadow|100-sleeping-princes-the-kingdom-of-dreams-s1-ep5
+100-sleeping-princes-the-kingdom-of-dreams|The Three Brothers of the Snow Kingdom|100-sleeping-princes-the-kingdom-of-dreams-s1-ep6
+100-sleeping-princes-the-kingdom-of-dreams|The Gift of Powdered Snow|100-sleeping-princes-the-kingdom-of-dreams-s1-ep7
+100-sleeping-princes-the-kingdom-of-dreams|Labyrinth of Recollection|100-sleeping-princes-the-kingdom-of-dreams-s1-ep8
+100-sleeping-princes-the-kingdom-of-dreams|A Tea Party in Reverse|100-sleeping-princes-the-kingdom-of-dreams-s1-ep9
+100-sleeping-princes-the-kingdom-of-dreams|A Fleeting Aroma|100-sleeping-princes-the-kingdom-of-dreams-s1-ep10
+100-sleeping-princes-the-kingdom-of-dreams|The Defiant Ones|100-sleeping-princes-the-kingdom-of-dreams-s1-ep11
+100-sleeping-princes-the-kingdom-of-dreams|The Light Is with You|100-sleeping-princes-the-kingdom-of-dreams-s1-ep12
+12-kingdoms-juuni-kokki|Shadow of the Moon, The Sea of Shadow - Chapter 1|12-kingdoms-juuni-kokki-s1-ep1
+12-kingdoms-juuni-kokki|Shadow of the Moon, The Sea of Shadow - Chapter 2|12-kingdoms-juuni-kokki-s1-ep2
+12-kingdoms-juuni-kokki|Shadow of the Moon, The Sea of Shadow - Chapter 3|12-kingdoms-juuni-kokki-s1-ep3
+12-kingdoms-juuni-kokki|Shadow of the Moon, The Sea of Shadow - Chapter 4|12-kingdoms-juuni-kokki-s1-ep4
+12-kingdoms-juuni-kokki|Shadow of the Moon, The Sea of Shadow - Chapter 5|12-kingdoms-juuni-kokki-s1-ep5
+12-kingdoms-juuni-kokki|Shadow of the Moon, The Sea of Shadow - Chapter 6|12-kingdoms-juuni-kokki-s1-ep6
+12-kingdoms-juuni-kokki|Shadow of the Moon, The Sea of Shadow - Chapter 7|12-kingdoms-juuni-kokki-s1-ep7
+12-kingdoms-juuni-kokki|Shadow of the Moon, The Sea of Shadow - Chapter 8|12-kingdoms-juuni-kokki-s1-ep8
+12-kingdoms-juuni-kokki|Shadow of the Moon, The Sea of Shadow - Chapter 9|12-kingdoms-juuni-kokki-s1-ep9
+12-kingdoms-juuni-kokki|Shadow of the Moon, The Sea of Shadow - Chapter 10|12-kingdoms-juuni-kokki-s1-ep10
+12-kingdoms-juuni-kokki|Shadow of the Moon, The Sea of Shadow - Chapter 11|12-kingdoms-juuni-kokki-s1-ep11
+12-kingdoms-juuni-kokki|Shadow of the Moon, The Sea of Shadow - Chapter 12|12-kingdoms-juuni-kokki-s1-ep12
+12-kingdoms-juuni-kokki|Shadow of the Moon, The Sea of Shadow - Last Chapter|12-kingdoms-juuni-kokki-s1-ep13
+12-kingdoms-juuni-kokki|Shadow of the Moon, The Sea of Shadow - Transition Chapter|12-kingdoms-juuni-kokki-s1-ep14
+12-kingdoms-juuni-kokki|The Sea of Wind, The Shore of The Maze - Chapter 1|12-kingdoms-juuni-kokki-s1-ep15
+12-kingdoms-juuni-kokki|The Sea of Wind, The Shore of The Maze - Chapter 2|12-kingdoms-juuni-kokki-s1-ep16
+12-kingdoms-juuni-kokki|The Sea of Wind, The Shore of The Maze - Chapter 3|12-kingdoms-juuni-kokki-s1-ep17
+12-kingdoms-juuni-kokki|The Sea of Wind, The Shore of The Maze - Chapter 4|12-kingdoms-juuni-kokki-s1-ep18
+12-kingdoms-juuni-kokki|The Sea of Wind, The Shore of The Maze - Chapter 5|12-kingdoms-juuni-kokki-s1-ep19
+12-kingdoms-juuni-kokki|The Sea of Wind, The Shore of The Maze - Last Chapter|12-kingdoms-juuni-kokki-s1-ep20
+12-kingdoms-juuni-kokki|The Sea of Wind, The Shore of The Maze - Transition Chapter|12-kingdoms-juuni-kokki-s1-ep21
+12-kingdoms-juuni-kokki|A Letter|12-kingdoms-juuni-kokki-s1-ep22
+12-kingdoms-juuni-kokki|A Great Distance in The Wind, The Sky at Dawn - Chapter 1|12-kingdoms-juuni-kokki-s1-ep23
+12-kingdoms-juuni-kokki|A Great Distance in The Wind, The Sky at Dawn - Chapter 2|12-kingdoms-juuni-kokki-s1-ep24
+12-kingdoms-juuni-kokki|A Great Distance in The Wind, The Sky at Dawn - Chapter 3|12-kingdoms-juuni-kokki-s1-ep25
+12-kingdoms-juuni-kokki|A Great Distance in The Wind, The Sky at Dawn - Chapter 4|12-kingdoms-juuni-kokki-s1-ep26
+12-kingdoms-juuni-kokki|A Great Distance in The Wind, The Sky at Dawn - Chapter 5|12-kingdoms-juuni-kokki-s1-ep27
+12-kingdoms-juuni-kokki|A Great Distance in The Wind, The Sky at Dawn - Chapter 6|12-kingdoms-juuni-kokki-s1-ep28
+12-kingdoms-juuni-kokki|A Great Distance in The Wind, The Sky at Dawn - Chapter 7|12-kingdoms-juuni-kokki-s1-ep29
+12-kingdoms-juuni-kokki|A Great Distance in The Wind, The Sky at Dawn - Chapter 8|12-kingdoms-juuni-kokki-s1-ep30
+12-kingdoms-juuni-kokki|A Great Distance in The Wind, The Sky at Dawn - Interlude|12-kingdoms-juuni-kokki-s1-ep31
+12-kingdoms-juuni-kokki|A Great Distance in The Wind, The Sky at Dawn - Chapter 9|12-kingdoms-juuni-kokki-s1-ep32
+12-kingdoms-juuni-kokki|A Great Distance in The Wind, The Sky at Dawn - Chapter 10|12-kingdoms-juuni-kokki-s1-ep33
+12-kingdoms-juuni-kokki|A Great Distance in The Wind, The Sky at Dawn - Chapter 11|12-kingdoms-juuni-kokki-s1-ep34
+12-kingdoms-juuni-kokki|A Great Distance in The Wind, The Sky at Dawn - Chapter 12|12-kingdoms-juuni-kokki-s1-ep35
+12-kingdoms-juuni-kokki|A Great Distance in The Wind, The Sky at Dawn - Chapter 13|12-kingdoms-juuni-kokki-s1-ep36
+12-kingdoms-juuni-kokki|A Great Distance in The Wind, The Sky at Dawn - Chapter 14|12-kingdoms-juuni-kokki-s1-ep37
+12-kingdoms-juuni-kokki|A Great Distance in The Wind, The Sky at Dawn - Chapter 15|12-kingdoms-juuni-kokki-s1-ep38
+12-kingdoms-juuni-kokki|A Great Distance in The Wind, The Sky at Dawn - Last Chapter|12-kingdoms-juuni-kokki-s1-ep39
+12-kingdoms-juuni-kokki|Ally of the Moon|12-kingdoms-juuni-kokki-s1-ep40
+12-kingdoms-juuni-kokki|Sea God of the East, Azure Sea of the West - Chapter 1|12-kingdoms-juuni-kokki-s1-ep41
+12-kingdoms-juuni-kokki|Sea God of the East, Azure Sea of the West - Chapter 2|12-kingdoms-juuni-kokki-s1-ep42
+12-kingdoms-juuni-kokki|Sea God of the East, Azure Sea of the West - Chapter 3|12-kingdoms-juuni-kokki-s1-ep43
+12-kingdoms-juuni-kokki|Sea God of the East, Azure Sea of the West - Last Chapter|12-kingdoms-juuni-kokki-s1-ep44
+12-kingdoms-juuni-kokki|Sea God of the East, Azure Sea of the West - Transition Chapter|12-kingdoms-juuni-kokki-s1-ep45
+a-30-olds-health-and-physical-education|The First Sex|a-30-olds-health-and-physical-education-s1-ep1
+a-30-olds-health-and-physical-education|The First Deep Kiss|a-30-olds-health-and-physical-education-s1-ep2
+a-30-olds-health-and-physical-education|The First Men`s Toilets|a-30-olds-health-and-physical-education-s1-ep3
+a-30-olds-health-and-physical-education|The First Miss Bulgaria|a-30-olds-health-and-physical-education-s1-ep4
+a-30-olds-health-and-physical-education|The First Private Video|a-30-olds-health-and-physical-education-s1-ep5
+a-30-olds-health-and-physical-education|The First Top Tree|a-30-olds-health-and-physical-education-s1-ep6
+a-30-olds-health-and-physical-education|The First Pink Rotor|a-30-olds-health-and-physical-education-s1-ep7
+a-30-olds-health-and-physical-education|The First Doujinshi|a-30-olds-health-and-physical-education-s1-ep8
+a-30-olds-health-and-physical-education|The First Love Hotel|a-30-olds-health-and-physical-education-s1-ep9
+a-30-olds-health-and-physical-education|The First Affair|a-30-olds-health-and-physical-education-s1-ep10
+a-30-olds-health-and-physical-education|The First Masturbation|a-30-olds-health-and-physical-education-s1-ep11
+a-30-olds-health-and-physical-education|The First Condom|a-30-olds-health-and-physical-education-s1-ep12
+a-gatherers-adventure-in-isekai|Ein gefallener Tropfen-A Fallen Drop|a-gatherers-adventure-in-isekai-s1-ep1
+a-gatherers-adventure-in-isekai|Abendessen mit niemand anderem-Dinner With No One Else|a-gatherers-adventure-in-isekai-s1-ep2
+a-gatherers-adventure-in-isekai|Heimat und Reise-Hometown And Journey|a-gatherers-adventure-in-isekai-s1-ep3
+a-gatherers-adventure-in-isekai|Wiederkunft eines Herrschers-The Demon King Descends|a-gatherers-adventure-in-isekai-s1-ep4
+a-gatherers-adventure-in-isekai|Die Zwei von der Leibwache-Two Bodyguards|a-gatherers-adventure-in-isekai-s1-ep5
+a-gatherers-adventure-in-isekai|Das Ersuchen des Lehnsherren-The Request of the Feudal Lord|a-gatherers-adventure-in-isekai-s1-ep6
+a-gatherers-adventure-in-isekai|Die Blume der Götter-Divine Flower|a-gatherers-adventure-in-isekai-s1-ep7
+a-gatherers-adventure-in-isekai|Ein Schritt in Richtung Zukunft-A Step Towards The Future|a-gatherers-adventure-in-isekai-s1-ep8
+a-gatherers-adventure-in-isekai|Ein unerwarteter Besucher-An Unexpected Visitor|a-gatherers-adventure-in-isekai-s1-ep9
+a-gatherers-adventure-in-isekai|Brolites dunkle Seite-The Darkness of Brolite|a-gatherers-adventure-in-isekai-s1-ep10
+a-gatherers-adventure-in-isekai|Eine gefährliche Höhle-Cave of Danger|a-gatherers-adventure-in-isekai-s1-ep11
+a-gatherers-adventure-in-isekai|Eine noch ungesehene Welt [Letzte Folge]-A World We&#039;ve Never Seen [Final Episode]|a-gatherers-adventure-in-isekai-s1-ep12
+a-gentle-nobles-vacation-recommendation|A Vacation Recommendation|a-gentle-nobles-vacation-recommendation-s1-ep1
+a-gentle-nobles-vacation-recommendation|An Adventurer's Debut|a-gentle-nobles-vacation-recommendation-s1-ep2
+a-gentle-nobles-vacation-recommendation|A Letter From Ray|a-gentle-nobles-vacation-recommendation-s1-ep3
+a-gentle-nobles-vacation-recommendation|Arriving in Marcade|a-gentle-nobles-vacation-recommendation-s1-ep4
+a-gentle-nobles-vacation-recommendation|Equals|a-gentle-nobles-vacation-recommendation-s1-ep5
+a-gentle-nobles-vacation-recommendation|Judge's Grandfather|a-gentle-nobles-vacation-recommendation-s1-ep6
+a-gentle-nobles-vacation-recommendation|The Night of the Promotion|a-gentle-nobles-vacation-recommendation-s1-ep7
+a-gentle-nobles-vacation-recommendation|The Midday Attack|a-gentle-nobles-vacation-recommendation-s1-ep8
+a-journey-through-another-world-raising-kids-while-adventuring|Die andere Welt und die Zwillinge-Another World and Twins|a-journey-through-another-world-raising-kids-while-adventuring-s1-ep1
+a-journey-through-another-world-raising-kids-while-adventuring|Auf gute Zusammenarbeit, Joule-Nice to Meet You, Joule|a-journey-through-another-world-raising-kids-while-adventuring-s1-ep2
+a-journey-through-another-world-raising-kids-while-adventuring|Monsterjagd-Monster Hunting!|a-journey-through-another-world-raising-kids-while-adventuring-s1-ep3
+a-journey-through-another-world-raising-kids-while-adventuring|Brüderchen wird wütend-Taku Gets Mad|a-journey-through-another-world-raising-kids-while-adventuring-s1-ep4
+a-journey-through-another-world-raising-kids-while-adventuring|Besiegt die Goblins!-We&#039;re Gonna Beat the Goblins!|a-journey-through-another-world-raising-kids-while-adventuring-s1-ep5
+a-journey-through-another-world-raising-kids-while-adventuring|Das Meer! So salzig!-The Ocean! It&#039;s Salty!|a-journey-through-another-world-raising-kids-while-adventuring-s1-ep6
+a-journey-through-another-world-raising-kids-while-adventuring|Meerjungfrau! Drache!-Mermaids! Dragons!|a-journey-through-another-world-raising-kids-while-adventuring-s1-ep7
+a-journey-through-another-world-raising-kids-while-adventuring|Krabbe! Krabbe!-Crab! Crab!|a-journey-through-another-world-raising-kids-while-adventuring-s1-ep8
+a-journey-through-another-world-raising-kids-while-adventuring|Was ist ein Papa?-What&#039;s a Dad?|a-journey-through-another-world-raising-kids-while-adventuring-s1-ep9
+a-journey-through-another-world-raising-kids-while-adventuring|Freunde finden … Können wir das?-I Hope We Can Make Friends...|a-journey-through-another-world-raising-kids-while-adventuring-s1-ep10
+a-journey-through-another-world-raising-kids-while-adventuring|Vektor legt los-I Hope We Can Make Friends...|a-journey-through-another-world-raising-kids-while-adventuring-s1-ep11
+a-journey-through-another-world-raising-kids-while-adventuring|Bye bye! Bis bald! [Letzte Folge]-Bye-Bye! See You Next Time! [Final Episode]|a-journey-through-another-world-raising-kids-while-adventuring-s1-ep12
+a-place-further-than-the-universe|One Million Yen for Youth|a-place-further-than-the-universe-s1-ep1
+a-place-further-than-the-universe|Kabukicho Fremantle|a-place-further-than-the-universe-s1-ep2
+a-place-further-than-the-universe|The Follow Backs Don't Stop!|a-place-further-than-the-universe-s1-ep3
+a-place-further-than-the-universe|Four Caterpillars|a-place-further-than-the-universe-s1-ep4
+a-place-further-than-the-universe|Dear My Friend|a-place-further-than-the-universe-s1-ep5
+a-place-further-than-the-universe|Welcome to the Durian Show|a-place-further-than-the-universe-s1-ep6
+a-place-further-than-the-universe|The Ship That Sees the Universe|a-place-further-than-the-universe-s1-ep7
+a-place-further-than-the-universe|Howling, Maddening, Screaming|a-place-further-than-the-universe-s1-ep8
+a-place-further-than-the-universe|Antarctic Love Story (Blizzard Arc)|a-place-further-than-the-universe-s1-ep9
+a-place-further-than-the-universe|Partial Friendship|a-place-further-than-the-universe-s1-ep10
+a-place-further-than-the-universe|Bash the Drum Can|a-place-further-than-the-universe-s1-ep11
+a-place-further-than-the-universe|A Place Further Than the Universe|a-place-further-than-the-universe-s1-ep12
+a-place-further-than-the-universe|We'll Go On Another Journey Someday|a-place-further-than-the-universe-s1-ep13
+a-playthrough-of-a-certain-dudes-vrmmo-life|Earth Logs In|a-playthrough-of-a-certain-dudes-vrmmo-life-s1-ep1
+a-playthrough-of-a-certain-dudes-vrmmo-life|Earth Joins His First Party|a-playthrough-of-a-certain-dudes-vrmmo-life-s1-ep2
+a-playthrough-of-a-certain-dudes-vrmmo-life|Earth, Fairy-playah?|a-playthrough-of-a-certain-dudes-vrmmo-life-s1-ep3
+a-playthrough-of-a-certain-dudes-vrmmo-life|Earth Receives a Reward He's Not Sure He's Happy About|a-playthrough-of-a-certain-dudes-vrmmo-life-s1-ep4
+a-playthrough-of-a-certain-dudes-vrmmo-life|Earth Has a Big Battle With the Queen|a-playthrough-of-a-certain-dudes-vrmmo-life-s1-ep5
+a-playthrough-of-a-certain-dudes-vrmmo-life|Earth Gets Excited Over a New Dungeon|a-playthrough-of-a-certain-dudes-vrmmo-life-s1-ep6
+a-playthrough-of-a-certain-dudes-vrmmo-life|Earth Challenges a Boss|a-playthrough-of-a-certain-dudes-vrmmo-life-s1-ep7
+a-playthrough-of-a-certain-dudes-vrmmo-life|Earth Meets A Dragonian Girl|a-playthrough-of-a-certain-dudes-vrmmo-life-s1-ep8
+a-playthrough-of-a-certain-dudes-vrmmo-life|Earth Goes to the Fairy Kingdom|a-playthrough-of-a-certain-dudes-vrmmo-life-s1-ep9
+a-playthrough-of-a-certain-dudes-vrmmo-life|Earth Gets a Partner|a-playthrough-of-a-certain-dudes-vrmmo-life-s1-ep10
+a-playthrough-of-a-certain-dudes-vrmmo-life|Earth Finds a Baby Dragon|a-playthrough-of-a-certain-dudes-vrmmo-life-s1-ep11
+a-playthrough-of-a-certain-dudes-vrmmo-life|Earth Gets Angry [Final Episode]|a-playthrough-of-a-certain-dudes-vrmmo-life-s1-ep12
+a-returners-magic-should-be-special|Destruction|a-returners-magic-should-be-special-s1-ep1
+a-returners-magic-should-be-special|The Test|a-returners-magic-should-be-special-s1-ep2
+a-returners-magic-should-be-special|Comrades|a-returners-magic-should-be-special-s1-ep3
+a-returners-magic-should-be-special|Forming a Party|a-returners-magic-should-be-special-s1-ep4
+a-returners-magic-should-be-special|Rapier|a-returners-magic-should-be-special-s1-ep5
+a-returners-magic-should-be-special|Final Round|a-returners-magic-should-be-special-s1-ep6
+a-returners-magic-should-be-special|Magical Beasts|a-returners-magic-should-be-special-s1-ep7
+a-returners-magic-should-be-special|Crash|a-returners-magic-should-be-special-s1-ep8
+a-returners-magic-should-be-special|Showdown|a-returners-magic-should-be-special-s1-ep9
+a-returners-magic-should-be-special|Respite|a-returners-magic-should-be-special-s1-ep10
+a-returners-magic-should-be-special|A Raid|a-returners-magic-should-be-special-s1-ep11
+a-returners-magic-should-be-special|Anti-Mage [Final Episode] [Season 2 confirmed - Start: tba]|a-returners-magic-should-be-special-s1-ep12
+a-wild-last-boss-appeared|Ein wilder letzter Boss erscheint!-A Wild Last Boss Appears!|a-wild-last-boss-appeared-s1-ep1
+a-wild-last-boss-appeared|Ankunft im Land Svel!-We Came to Svel!|a-wild-last-boss-appeared-s1-ep2
+a-wild-last-boss-appeared|Aries greift an!-Aries Has Attacked!|a-wild-last-boss-appeared-s1-ep3
+a-wild-last-boss-appeared|Der Strippenzieher!-They Were Pulling Strings Behind the Scenes!|a-wild-last-boss-appeared-s1-ep4
+a-wild-last-boss-appeared|Ein wildes Onsen erscheint!-A Wild Hot Spring Appeared!|a-wild-last-boss-appeared-s1-ep5
+a-wild-last-boss-appeared|Libra die Waage erscheint!-Libra of the Scales Appeared!|a-wild-last-boss-appeared-s1-ep6
+a-wild-last-boss-appeared|Sie war … die Erlöserin!-I was... a Savior!|a-wild-last-boss-appeared-s1-ep7
+a-wild-last-boss-appeared|Was?! Fünf Prozent? Echt jetzt?!-Hey! 5%?! Seriously?|a-wild-last-boss-appeared-s1-ep8
+a-wild-last-boss-appeared|Der Volksaufstand hat begonnen!-The Masses Have Rioted!|a-wild-last-boss-appeared-s1-ep9
+a-wild-last-boss-appeared|Wer bist du?-Who Are You?|a-wild-last-boss-appeared-s1-ep10
+a-wild-last-boss-appeared|Eine wilde Rufas Mafahl und ein wilder Dämonenkönig erscheinen gleichzeitig!!!-A Wild Lufas Maphaal And a Wild Devil King Have Appeared at the Same Time!!!|a-wild-last-boss-appeared-s1-ep11
+a-wild-last-boss-appeared|In meiner Heimat gab es etwas Unglaubliches! [Letzte Folge]-There Was Something Incredible in My Homeland! [Final Episode]|a-wild-last-boss-appeared-s1-ep12

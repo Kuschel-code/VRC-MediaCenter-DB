@@ -1,4 +1,10 @@
-# Anime-Bibliothek
-# Format: Titel|ThumbURL|ContentID|Genre|Jahr|Rating
-# Beispiel:
-# Attack on Titan||attack-on-titan|Action|2013|9.0
+100 Sleeping Princes & The Kingdom of Dreams||100-sleeping-princes-the-kingdom-of-dreams|||
+12 Kingdoms: Juuni Kokki||12-kingdoms-juuni-kokki|||
+A 30 Old's Health and Physical Education||a-30-olds-health-and-physical-education|||
+A Gatherer's Adventure in Isekai||a-gatherers-adventure-in-isekai|||
+A Gentle Noble's Vacation Recommendation||a-gentle-nobles-vacation-recommendation|||
+A Journey Through Another World: Raising Kids While Adventuring||a-journey-through-another-world-raising-kids-while-adventuring|||
+A Place Further Than the Universe||a-place-further-than-the-universe|||
+A Playthrough of a Certain Dude's VRMMO Life||a-playthrough-of-a-certain-dudes-vrmmo-life|||
+A Returner's Magic Should Be Special||a-returners-magic-should-be-special|||
+A Wild Last Boss Appeared!||a-wild-last-boss-appeared|||
