@@ -21,11 +21,17 @@ import sys
 import asyncio
 import subprocess
 import os
+import urllib.parse
 from pathlib import Path
 
 # ── Pfade ───────────────────────────────────────────────────
 DB_PATH       = Path(__file__).parent
 PROGRESS_FILE = DB_PATH / "progress.json"
+
+# ── TMDB (Poster/Metadaten) ──────────────────────────────────
+TMDB_API_KEY  = os.environ.get("TMDB_API_KEY", "")
+TMDB_BASE     = "https://api.themoviedb.org/3"
+TMDB_IMG_BASE = "https://image.tmdb.org/t/p/w500"
 
 # scraper.py liegt im gleichen Ordner (kopiert aus Backend/)
 sys.path.insert(0, str(DB_PATH))
@@ -108,6 +114,64 @@ async def get_stream_for_language(client: httpx.AsyncClient,
     except Exception:
         pass
     return None
+
+
+# ── TMDB Poster + Metadaten ─────────────────────────────────
+async def get_tmdb_info(client: httpx.AsyncClient,
+                        title: str,
+                        media_type: str = "tv") -> dict:
+    """Holt Poster-URL, Genre, Jahr und Rating von TMDB.
+    media_type: 'tv' fuer Anime/Serien, 'movie' fuer Filme.
+    Gibt leeres dict zurueck wenn TMDB-Key fehlt oder nichts gefunden."""
+    if not TMDB_API_KEY:
+        return {}
+    query = urllib.parse.quote(title)
+    url = f"{TMDB_BASE}/search/{media_type}?api_key={TMDB_API_KEY}&query={query}&language=de-DE&page=1"
+    try:
+        resp = await client.get(url, timeout=10)
+        if resp.status_code != 200:
+            return {}
+        data = resp.json()
+        results = data.get("results", [])
+        if not results:
+            # Fallback: englische Suche
+            url_en = f"{TMDB_BASE}/search/{media_type}?api_key={TMDB_API_KEY}&query={query}&language=en-US&page=1"
+            resp2 = await client.get(url_en, timeout=10)
+            if resp2.status_code == 200:
+                results = resp2.json().get("results", [])
+        if not results:
+            return {}
+        r = results[0]
+        poster_path = r.get("poster_path", "")
+        thumb = (TMDB_IMG_BASE + poster_path) if poster_path else ""
+        # Jahr
+        date_str = r.get("release_date", "") or r.get("first_air_date", "")
+        year = date_str[:4] if date_str else ""
+        # Rating
+        rating = str(round(r.get("vote_average", 0), 1)) if r.get("vote_average") else ""
+        # Genre-IDs → Genre-Namen (TMDB gibt nur IDs zurueck bei Search)
+        # Wir nehmen nur die erste Genre-ID und mappen sie grob
+        genre_ids = r.get("genre_ids", [])
+        genre = _tmdb_genre_name(genre_ids[0]) if genre_ids else ""
+        return {"thumb": thumb, "year": year, "rating": rating, "genre": genre}
+    except Exception:
+        return {}
+
+
+_TMDB_GENRES = {
+    28: "Action", 12: "Abenteuer", 16: "Animation", 35: "Komoedie",
+    80: "Krimi", 99: "Dokumentation", 18: "Drama", 10751: "Familie",
+    14: "Fantasy", 36: "Geschichte", 27: "Horror", 10402: "Musik",
+    9648: "Mystery", 10749: "Romanze", 878: "Sci-Fi", 10770: "TV-Film",
+    53: "Thriller", 10752: "Krieg", 37: "Western",
+    # TV
+    10759: "Action & Abenteuer", 10762: "Kids", 10763: "News",
+    10764: "Reality", 10765: "Sci-Fi & Fantasy", 10766: "Soap",
+    10767: "Talk", 10768: "Krieg & Politik",
+}
+
+def _tmdb_genre_name(genre_id: int) -> str:
+    return _TMDB_GENRES.get(genre_id, "")
 
 
 # ── Fortschritt ─────────────────────────────────────────────
@@ -268,9 +332,21 @@ async def main():
 
             print(f"\n  [{ai+1}/{len(animes)}] {cid}")
 
-            # Anime-Eintrag
-            entry = (f"{item.get('title','')}|{item.get('thumb','')}|{cid}|"
-                     f"{item.get('genre','')}|{item.get('year','')}|{item.get('rating','')}")
+            # Anime-Eintrag (mit TMDB-Poster falls verfuegbar)
+            title = item.get("title", "")
+            thumb = item.get("thumb", "")
+            genre = item.get("genre", "")
+            year  = item.get("year", "")
+            rating = item.get("rating", "")
+            if not thumb or not year:
+                tmdb = await get_tmdb_info(client, title, "tv")
+                if tmdb:
+                    thumb  = tmdb.get("thumb", thumb)
+                    year   = tmdb.get("year", year)
+                    rating = tmdb.get("rating", rating)
+                    genre  = tmdb.get("genre", genre)
+                    await asyncio.sleep(0.15)
+            entry = f"{title}|{thumb}|{cid}|{genre}|{year}|{rating}"
             if entry not in p["anime_lines"]:
                 p["anime_lines"].append(entry)
 
@@ -331,8 +407,21 @@ async def main():
                 mc = m.get("content_id", "")
                 if not mc:
                     continue
-                entry = (f"{m.get('title','')}|{m.get('thumb','')}|{mc}|"
-                         f"{m.get('genre','')}|{m.get('year','')}|{m.get('rating','')}")
+                # Filmtitel: TMDB fuer fehlende Poster/Metadaten
+                mtitle  = m.get("title", "")
+                mthumb  = m.get("thumb", "")
+                mgenre  = m.get("genre", "")
+                myear   = m.get("year", "")
+                mrating = m.get("rating", "")
+                if not mthumb or not myear:
+                    tmdb = await get_tmdb_info(mclient, mtitle, "movie")
+                    if tmdb:
+                        mthumb  = tmdb.get("thumb", mthumb)
+                        myear   = tmdb.get("year", myear)
+                        mrating = tmdb.get("rating", mrating)
+                        mgenre  = tmdb.get("genre", mgenre)
+                        await asyncio.sleep(0.15)
+                entry = f"{mtitle}|{mthumb}|{mc}|{mgenre}|{myear}|{mrating}"
                 if entry not in p["movie_lines"]:
                     p["movie_lines"].append(entry)
                 if mc not in done_movies:
