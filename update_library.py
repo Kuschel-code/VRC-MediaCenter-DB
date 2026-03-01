@@ -58,13 +58,14 @@ install_deps()
 # ── Scraper importieren ─────────────────────────────────────
 try:
     import scraper
-    from config import ANIWORLD_BASE, PREFERRED_HOSTERS
+    from config import ANIWORLD_BASE, PREFERRED_HOSTERS, STREAMKISTE_BASE
 except ImportError as e:
     print(f"[!] Fehler: {e}")
     print(f"    Stelle sicher dass scraper.py und config.py im selben Ordner liegen.")
     sys.exit(1)
 
 import json
+import re
 from bs4 import BeautifulSoup
 import httpx
 
@@ -116,8 +117,8 @@ def load_progress() -> dict:
             return json.loads(PROGRESS_FILE.read_text(encoding="utf-8"))
         except Exception:
             pass
-    return {"done_slugs": [], "anime_lines": [], "episode_lines": [],
-            "stream_lines": [], "movie_lines": []}
+    return {"done_slugs": [], "done_movie_slugs": [], "anime_lines": [],
+            "episode_lines": [], "stream_lines": [], "movie_lines": []}
 
 
 def save_progress(p: dict):
@@ -153,6 +154,87 @@ def git_push(msg: str = "Auto-update library data"):
             print(f"[+] Git Push: {msg}")
     except subprocess.CalledProcessError as e:
         print(f"[!] Git-Fehler: {e}")
+
+
+# ── Streamkiste Filme ────────────────────────────────────────
+async def fetch_streamkiste_movie_list(client: httpx.AsyncClient) -> list:
+    """Holt Filmliste von streamkiste.tv (bis zu 20 Seiten)."""
+    movies = []
+    seen = set()
+    for page_num in range(1, 21):
+        url = (f"{STREAMKISTE_BASE}/filme/page/{page_num}/"
+               if page_num > 1 else f"{STREAMKISTE_BASE}/filme/")
+        try:
+            resp = await client.get(url, timeout=20)
+            if resp.status_code == 404:
+                break
+            if resp.status_code != 200:
+                continue
+            soup = BeautifulSoup(resp.text, "lxml")
+            articles = soup.find_all("article")
+            if not articles:
+                break
+            for article in articles:
+                link = article.find("a", href=True)
+                if not link:
+                    continue
+                href = link.get("href", "")
+                if not href:
+                    continue
+                # Slug aus URL extrahieren
+                slug = href.rstrip("/").split("/")[-1]
+                slug = re.sub(r"-stream(-deutsch)?$", "", slug)
+                if not slug or slug in seen:
+                    continue
+                seen.add(slug)
+                title_tag = article.find(["h2", "h3", "h1"])
+                title = (title_tag.get_text(strip=True)
+                         if title_tag else slug.replace("-", " ").title())
+                img_tag = article.find("img")
+                thumb = ""
+                if img_tag:
+                    thumb = img_tag.get("data-src", img_tag.get("src", ""))
+                movies.append({"title": title, "thumb": thumb,
+                               "content_id": slug, "genre": "", "year": "", "rating": ""})
+        except Exception as e:
+            print(f"  [!] Streamkiste Seite {page_num}: {e}")
+            break
+    return movies
+
+
+async def get_streamkiste_stream(client: httpx.AsyncClient, slug: str) -> str | None:
+    """Holt Stream-URL fuer einen Streamkiste-Film per Slug."""
+    movie_url = f"{STREAMKISTE_BASE}/stream/{slug}/"
+    try:
+        resp = await client.get(movie_url, timeout=20)
+        if resp.status_code != 200:
+            return None
+        soup = BeautifulSoup(resp.text, "lxml")
+        hoster_links = scraper._find_hoster_links(soup)
+        if not hoster_links:
+            return None
+        hoster_links.sort(key=lambda h: next(
+            (i for i, p in enumerate(PREFERRED_HOSTERS) if p.upper() in h["name"].upper()),
+            len(PREFERRED_HOSTERS)
+        ))
+        for hoster in hoster_links:
+            rurl = hoster.get("redirect_url", "")
+            if not rurl:
+                continue
+            if not rurl.startswith("http"):
+                rurl = STREAMKISTE_BASE + rurl
+            try:
+                rr = await client.get(rurl, timeout=20)
+                hsoup = BeautifulSoup(rr.text, "lxml")
+                stream = scraper._extract_from_hoster(
+                    hoster["name"], str(rr.url), rr.text, hsoup)
+                if stream:
+                    return stream
+            except Exception:
+                continue
+    except Exception as e:
+        print(f"  [!] Streamkiste stream {slug}: {e}")
+    return None
 
 
 # ── Main ─────────────────────────────────────────────────────
@@ -236,20 +318,36 @@ async def main():
                 git_push(f"Update: {len(done)} Animes verarbeitet")
                 pushed_count = 0
 
-    # Filme
-    print("\n[2] Lade Filme...")
+    # Filme von Stream Kiste
+    print("\n[2] Lade Filme von Stream Kiste (streamkiste.tv)...")
+    done_movies = set(p.get("done_movie_slugs", []))
     try:
-        movies = await scraper.fetch_library("movies")
-        if MAX_MOVIES > 0:
-            movies = movies[:MAX_MOVIES]
-        for m in movies:
-            mc = m.get("content_id", "")
-            if mc:
-                e = (f"{m.get('title','')}|{m.get('thumb','')}|{mc}|"
-                     f"{m.get('genre','')}|{m.get('year','')}|{m.get('rating','')}")
-                if e not in p["movie_lines"]:
-                    p["movie_lines"].append(e)
-        print(f"    -> {len(p['movie_lines'])} Filme")
+        async with scraper._client() as mclient:
+            movies = await fetch_streamkiste_movie_list(mclient)
+            if MAX_MOVIES > 0:
+                movies = movies[:MAX_MOVIES]
+            print(f"    -> {len(movies)} Filme gefunden, scrape Streams...")
+            for mi, m in enumerate(movies):
+                mc = m.get("content_id", "")
+                if not mc:
+                    continue
+                entry = (f"{m.get('title','')}|{m.get('thumb','')}|{mc}|"
+                         f"{m.get('genre','')}|{m.get('year','')}|{m.get('rating','')}")
+                if entry not in p["movie_lines"]:
+                    p["movie_lines"].append(entry)
+                if mc not in done_movies:
+                    stream = await get_streamkiste_stream(mclient, mc)
+                    if stream:
+                        s = f"{mc}|{stream}"
+                        if s not in p["stream_lines"]:
+                            p["stream_lines"].append(s)
+                        print(f"  [{mi+1}/{len(movies)}] [OK] {mc}: {stream[:55]}...")
+                    else:
+                        print(f"  [{mi+1}/{len(movies)}] [--] {mc}: kein Stream")
+                    done_movies.add(mc)
+                    p["done_movie_slugs"] = list(done_movies)
+                    await asyncio.sleep(0.3)
+        print(f"    -> {len(p['movie_lines'])} Filme eingetragen")
     except Exception as e:
         print(f"  [!] Filme: {e}")
 
