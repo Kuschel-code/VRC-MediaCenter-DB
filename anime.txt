@@ -298,3 +298,53 @@ Train to the End of the World|https://image.tmdb.org/t/p/w500/jS0XEpSCBgWWpiiX6L
 Tribe Nine|https://image.tmdb.org/t/p/w500/fH9wo23VGzWIK0rHkEEbidWpK12.jpg|tribe-nine|Animation|2022|6.1
 Tsubasa Chronicle|https://image.tmdb.org/t/p/w500/zVyrHP3xgNqvMXfxZhPepCjog7c.jpg|tsubasa-chronicle|Animation|2005|6.8
 Tsukimichi: Moonlit Fantasy|https://image.tmdb.org/t/p/w500/exhONC020D4DGvt7XB4nq9AOMDU.jpg|tsukimichi-moonlit-fantasy|Animation|2021|8.4
+Ultramarine Magmell|https://image.tmdb.org/t/p/w500/lj07uyhCAfl1f5L7zHn7Wk2DpLc.jpg|ultramarine-magmell|Animation|2019|6.9
+Utawarerumono|https://image.tmdb.org/t/p/w500/aj43ZYP12K2cQAQmMn54PGJcaqE.jpg|utawarerumono|Animation|2006|7.1
+Utawarerumono: Mask of Truth|https://image.tmdb.org/t/p/w500/aj43ZYP12K2cQAQmMn54PGJcaqE.jpg|utawarerumono-mask-of-truth|Animation|2006|7.1
+Utawarerumono: The False Faces|https://image.tmdb.org/t/p/w500/aj43ZYP12K2cQAQmMn54PGJcaqE.jpg|utawarerumono-the-false-faces|Animation|2006|7.1
+Vicky the Little Viking||vicky-the-little-viking|||
+Vinland Saga|https://image.tmdb.org/t/p/w500/ySPYLN1sHmgRdqdfLOE092JlNTp.jpg|vinland-saga|Animation|2019|8.5
+Vivy: Fluorite Eye’s Song|https://image.tmdb.org/t/p/w500/mPFwA18HsqwvONVCi6ynjfy1TOZ.jpg|vivy-fluorite-eyes-song|Animation|2021|7.9
+Wandering Witch: The Journey of Elaina|https://image.tmdb.org/t/p/w500/4DlztdILPzMn4gOWCX4WdWa1Ur8.jpg|wandering-witch-the-journey-of-elaina|Animation|2020|7.6
+War God System! I’m Counting On You!|https://image.tmdb.org/t/p/w500/yenSLUTWhTX1eXxj88Y5B4FJP9n.jpg|war-god-system-im-counting-on-you|Animation|2022|5.9
+White Snake|https://image.tmdb.org/t/p/w500/1ZYBRDnpgMcDI3h5ZovCRS2NJvX.jpg|white-snake|Drama|2019|7.2
+Wolf's Rain|https://image.tmdb.org/t/p/w500/hrD4XmUU71lLMN6MBoBaARJ63dm.jpg|wolfs-rain|Animation|2003|7.8
+World War Blue|https://image.tmdb.org/t/p/w500/tz0XyKP5tVGdrliCfNt4ssTUCoP.jpg|world-war-blue|Action & Abenteuer|2012|5.0
+Yona of the Dawn|https://image.tmdb.org/t/p/w500/gPuJTgizkFmFGNvBHrkUFrAdP8i.jpg|yona-of-the-dawn|Animation|2014|8.4
+Zakuro|https://image.tmdb.org/t/p/w500/qQWY4n8wWKnwf92p8bgGGAIb4JO.jpg|zakuro|Animation|2010|5.9
+#Compass 2.0 Animation Project|https://image.tmdb.org/t/p/w500/9LSy5cnVmodPG4S6riSpiZxJbKT.jpg|compass-20-animation-project|Animation|2025|4.0
+009 Re:Cyborg||009-recyborg|||
+A Certain Magical Index|https://image.tmdb.org/t/p/w500/3dvNJsc1qfTuOxTQyl0gzIybWGQ.jpg|a-certain-magical-index|Animation|2008|7.5
+A Certain Scientific Accelerator|https://image.tmdb.org/t/p/w500/vD6yqlAyzrFzs2bTAH6gI2G1AyH.jpg|a-certain-scientific-accelerator|Animation|2019|7.5
+A Certain Scientific Railgun|https://image.tmdb.org/t/p/w500/clPfDVNKT8hkmH7ydBSxQ3dxup9.jpg|a-certain-scientific-railgun|Animation|2009|7.3
+A Chivalry of a Failed Knight|https://image.tmdb.org/t/p/w500/d48gIgIwhOBBeOYCPZEa52V1YPl.jpg|a-chivalry-of-a-failed-knight|Animation|2015|7.0
+A Will Eternal|https://image.tmdb.org/t/p/w500/jgeAAUyACa4KIdOPafFlWas3em5.jpg|a-will-eternal|Animation|2020|8.9
+Absolute Duo|https://image.tmdb.org/t/p/w500/lbtRPdxPYwhzflTQRmQpKrskzJm.jpg|absolute-duo|Animation|2015|7.7
+Accel World|https://image.tmdb.org/t/p/w500/lUatfX1FkANXzyCLbymsWuwFGEx.jpg|accel-world|Animation|2012|7.6
+Active Raid|https://image.tmdb.org/t/p/w500/c1o3sK5FHr26IQ4JzsNElY6kqW2.jpg|active-raid|Animation|2016|6.1
+Aesthetica of a Rogue Hero|https://image.tmdb.org/t/p/w500/9liqeO3WE6g0tqyXJbsyEGbnkgv.jpg|aesthetica-of-a-rogue-hero|Animation|2012|6.9
+Akiba Maid War|https://image.tmdb.org/t/p/w500/xtoKI0gu03scuXJ9dI4gQSWh5t0.jpg|akiba-maid-war|Animation|2022|6.8
+Akiba’s Trip: The Animation|https://image.tmdb.org/t/p/w500/vHba6T5GKimojrXTLvEETDdFSr7.jpg|akibas-trip-the-animation|Action & Abenteuer|2017|6.9
+Akira||akira|Drama|2023|
+Akudama Drive|https://image.tmdb.org/t/p/w500/e0xNHFFiMJbU1eGu9d1fMKFecr7.jpg|akudama-drive|Animation|2020|7.5
+Akuma-Kun|https://image.tmdb.org/t/p/w500/3frWTreENCV0ZQfLnNRYnCBwRUC.jpg|akuma-kun|Animation|2023|7.0
+Alice Gear Aegis Expansion|https://image.tmdb.org/t/p/w500/zzEI9afGHbcN5DGEyR4ULoEj34j.jpg|alice-gear-aegis-expansion|Animation|2023|4.8
+AMAIM Warrior at the Borderline|https://image.tmdb.org/t/p/w500/k4tntuoJAKFzev51yGTtoECqYAI.jpg|amaim-warrior-at-the-borderline|Animation|2021|5.8
+Ancient Girl’s Frame|https://image.tmdb.org/t/p/w500/kKt7s9M2MDZmDTYNZP4Clz0RX1V.jpg|ancient-girls-frame|Animation|2021|4.6
+Angel Heart|https://image.tmdb.org/t/p/w500/5o0fpeaB5wnq8HDNMendjlJ3pzX.jpg|angel-heart|Animation|2005|6.1
+Angolmois: Record of Mongol Invasion|https://image.tmdb.org/t/p/w500/aiKhbZsaqRc5qhS8LfVkpj8kiEh.jpg|angolmois-record-of-mongol-invasion|Animation|2018|6.5
+Anti Magic Academy: Test-Trupp 35|https://image.tmdb.org/t/p/w500/sCu2TDgCT0qJ7cxY1tA4GewRkeD.jpg|anti-magic-academy-test-trupp-35|Action & Abenteuer|2015|7.7
+Aoharu x Machinegun|https://image.tmdb.org/t/p/w500/48SmXGhBCgwABuoP8wRNrjD4giF.jpg|aoharu-x-machinegun|Animation|2015|7.7
+Appleseed XIII|https://image.tmdb.org/t/p/w500/nlSNdTPBot1VETOgJw05ryHXDHk.jpg|appleseed-xiii|Animation|2011|5.6
+Arpeggio of Blue Steel: Ars Nova|https://image.tmdb.org/t/p/w500/mqh0c049az1sS1KlXSKl0psFlrx.jpg|arpeggio-of-blue-steel-ars-nova|Animation|2013|7.5
+Assassins Pride|https://image.tmdb.org/t/p/w500/cEG0QHGpHiKxNir77MWN4VPad3l.jpg|assassins-pride|Animation|2019|6.8
+Assault Lily: Bouquet|https://image.tmdb.org/t/p/w500/wXTOfogccbGDmeTgTbQIiOSyaoE.jpg|assault-lily-bouquet|Animation|2020|7.7
+Astra Lost in Space|https://image.tmdb.org/t/p/w500/iQtvwkseinHBxQHxIIOViZw9t9T.jpg|astra-lost-in-space|Animation|2019|7.8
+Asura Cryin’|https://image.tmdb.org/t/p/w500/9PMG7rbOMSbPSqWOuVVpCdO6usz.jpg|asura-cryin|Action & Abenteuer|2009|6.9
+AYAKA (2023)||ayaka-2023|||
+Ayakashi Triangle|https://image.tmdb.org/t/p/w500/7THh6KLjxIXCQcVxSZCr8hyJThS.jpg|ayakashi-triangle|Animation|2023|6.9
+Azur Lane|https://image.tmdb.org/t/p/w500/gXwJAE9DnuP3wiuZPaZpnNaiE5h.jpg|azur-lane|Action & Abenteuer|2019|7.5
+Baccano!|https://image.tmdb.org/t/p/w500/qOxUTQAOTrMKTHuC9HQZiVsTK0F.jpg|baccano|Komoedie|2007|7.7
+Back Arrow|https://image.tmdb.org/t/p/w500/q3kPnyoYbgKKaHjeAoEtrUIyAHI.jpg|back-arrow|Animation|2021|6.8
+Battle Angel Alita|https://image.tmdb.org/t/p/w500/nfxiFHpISveKL4NSPrmDohOEh1Y.jpg|battle-angel-alita|Animation|1993|7.6
+Battle Game in 5 Seconds|https://image.tmdb.org/t/p/w500/vSAEYOen3HnXGLl1qTFifLrBOXt.jpg|battle-game-in-5-seconds|Animation|2021|7.8
