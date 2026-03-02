@@ -1398,3 +1398,53 @@ ARP Backstage Pass|https://image.tmdb.org/t/p/w500/sNizur7SsRX3VfhrJWWY4wPE1Ba.j
 B-Project|https://image.tmdb.org/t/p/w500/2GuZ8IRVYXkepzYZGz3kBsmr5ot.jpg|b-project|Animation|2016|7.0
 Baby Steps|https://image.tmdb.org/t/p/w500/dVXgyHizeUbL1RdyKd58WjVGrNv.jpg|baby-steps|Animation|2014|7.6
 Bakugan Battle Brawlers|https://image.tmdb.org/t/p/w500/wAqs4kdvCUNlzF9NK4OEV7WheHP.jpg|bakugan-battle-brawlers|Action & Abenteuer|2007|8.3
+Bakugan Battle Planet|https://image.tmdb.org/t/p/w500/lg6QqCdvZOZM7EWf9zFJL12EsKv.jpg|bakugan-battle-planet|Animation|2018|5.8
+Bakuman.|https://image.tmdb.org/t/p/w500/fAVxZaCS4j93ebPIpGwTMLLpjOZ.jpg|bakuman|Animation|2010|8.2
+Beck: Mongolian Chop Squad|https://image.tmdb.org/t/p/w500/tZ3oKqwaeX2v9j6hSNhX4vPjP4c.jpg|beck-mongolian-chop-squad|Animation|2004|7.7
+Beyblade|https://image.tmdb.org/t/p/w500/aQWquEANzefkXxcv2RiHeZsZfLV.jpg|beyblade|Kids|2001|7.7
+Beyblade Burst|https://image.tmdb.org/t/p/w500/fG7BHxDlntPyB57UuNo9sXmAmLV.jpg|beyblade-burst|Action & Abenteuer|2016|8.3
+Beyblade Burst QuadDrive|https://image.tmdb.org/t/p/w500/fG7BHxDlntPyB57UuNo9sXmAmLV.jpg|beyblade-burst-quaddrive|Action & Abenteuer|2016|8.3
+Beyblade Burst Rise|https://image.tmdb.org/t/p/w500/fG7BHxDlntPyB57UuNo9sXmAmLV.jpg|beyblade-burst-rise|Action & Abenteuer|2016|8.3
+Beyblade Burst Surge|https://image.tmdb.org/t/p/w500/fG7BHxDlntPyB57UuNo9sXmAmLV.jpg|beyblade-burst-surge|Action & Abenteuer|2016|8.3
+Beyblade Burst Turbo|https://image.tmdb.org/t/p/w500/fG7BHxDlntPyB57UuNo9sXmAmLV.jpg|beyblade-burst-turbo|Action & Abenteuer|2016|8.3
+Beyblade: Metal Fusion|https://image.tmdb.org/t/p/w500/8WWTb5sVADcxar0RXUJRE4XBB5L.jpg|beyblade-metal-fusion|Animation|2009|7.4
+BIRDIE WING -Golf Girls' Story-|https://image.tmdb.org/t/p/w500/ey4pyW8RVAvoh2Zxs2xj5h0z66e.jpg|birdie-wing-golf-girls-story|Animation|2022|6.5
+Burning Kabaddi|https://image.tmdb.org/t/p/w500/dQ54BKvJBtVlR7yyKj7dcrUMmuS.jpg|burning-kabaddi|Animation|2021|7.7
+Captain Tsubasa|https://image.tmdb.org/t/p/w500/o5yUM59Y6yvlSP67Bn48BzlBKj.jpg|captain-tsubasa|Animation|2018|8.2
+Captain Tsubasa (1983)||captain-tsubasa-1983|||
+Captain Tsubasa: Road to Dream|https://image.tmdb.org/t/p/w500/lhZrkv153SSUZJ2J6AP4Jwi3kKm.jpg|captain-tsubasa-road-to-dream|Animation|2001|7.7
+Champion Joe|https://image.tmdb.org/t/p/w500/DCUYZRP8xbzSyaSd2mjF24ttZv.jpg|champion-joe|Animation|1970|7.8
+Cheer Boys!!|https://image.tmdb.org/t/p/w500/jtWgkOKNdyuaVlYDp6COWLTzSK6.jpg|cheer-danshi|Animation|2016|5.9
+Chihayafuru|https://image.tmdb.org/t/p/w500/w1oIhPunv4HIMPvMW8SJB04RNTS.jpg|chihayafuru|Animation|2011|7.6
+Cinderella Nine|https://image.tmdb.org/t/p/w500/4CacJXWfsOxMGJaUmVRoJXIlHzm.jpg|cinderella-nine|Animation|2019|5.5
+Cross Game|https://image.tmdb.org/t/p/w500/zxB623CNBYJb5ibsA85QmQopotY.jpg|cross-game|Animation|2009|8.7
+D4DJ First Mix|https://image.tmdb.org/t/p/w500/cdwGRZbx3bf1HPGINlztepouVAV.jpg|d4dj-first-mix|Komoedie|2020|5.0
+Dance Dance Danseur|https://image.tmdb.org/t/p/w500/yIbb1QjetZka2klNf4fbKpeaDp1.jpg|dance-dance-danseur|Animation|2022|7.3
+Days|https://image.tmdb.org/t/p/w500/p2ZcAwKodFRhUiUpIvG3NgfaUOP.jpg|days|Animation|2016|7.3
+Dive!!|https://image.tmdb.org/t/p/w500/bvYUZONQmxhjiAanNOxGN2ZMrZX.jpg|dive|Animation|2017|6.3
+Ensemble Stars!|https://image.tmdb.org/t/p/w500/vYhvuXLEYERKXbNcEV9HeZjEqv6.jpg|ensemble-stars|Komoedie|2019|7.8
+Eyeshield 21|https://image.tmdb.org/t/p/w500/rzOdJXyvzyLeRum8B7MXeKFiGY7.jpg|eyeshield-21|Animation|2005|8.4
+Fanfare of Adolescence|https://image.tmdb.org/t/p/w500/lwemAReugVfFG1N61CdVOZacQf6.jpg|fanfare-of-adolescence|Animation|2022|8.0
+Farewell, My Dear Cramer|https://image.tmdb.org/t/p/w500/jMpjStc5RgDu2AmFHyPOfL2pCq5.jpg|farewell-my-dear-cramer|Animation|2021|3.9
+Fighting Spirit|https://image.tmdb.org/t/p/w500/vcIYlKjyJWh6RLVkZnnHMMuBpAI.jpg|fighting-spirit||2010|
+Food Wars! Shokugeki no Sōma|https://image.tmdb.org/t/p/w500/7scnPUUe2LXBKVPdw04VyT3AvCN.jpg|food-wars-shokugeki-no-sma|Animation|2015|8.4
+Free!|https://image.tmdb.org/t/p/w500/owoZ7XlWMqnahtkIaQjWXPIHt3U.jpg|free|Animation|2013|8.2
+Futsal Boys|https://image.tmdb.org/t/p/w500/q5xQuacTBVqtW8FWfnbNhSqdEp5.jpg|futsal-boys|Animation|2022|7.0
+Gekidol|https://image.tmdb.org/t/p/w500/pnCu9ztgAiXyQ8W8Kb8b2OP9xBP.jpg|gekidol|Animation|2021|2.8
+Giant Killing|https://image.tmdb.org/t/p/w500/nnzTdetoQt6S9KblPcSWqeaxjXn.jpg|giant-killing|Drama|2010|8.3
+Ginga e Kickoff!!|https://image.tmdb.org/t/p/w500/xwu6mqWQcmBAXMRkKw6bn9Yu6Yv.jpg|ginga-e-kickoff|Animation|2012|9.1
+Haikyu!!|https://image.tmdb.org/t/p/w500/qNKaeunuUdL0smnowVVgShCkWZ4.jpg|haikyu|Animation|2014|8.6
+Hanebado!|https://image.tmdb.org/t/p/w500/xmSB2YWXDhVAb7O4s5BrhYxxFn7.jpg|hanebado|Animation|2018|6.9
+Harukana Receive|https://image.tmdb.org/t/p/w500/znH4hz01Jr2FqQ95PpcbaMWkZt3.jpg|harukana-receive|Animation|2018|7.5
+HIGHSPEED Étoile|https://image.tmdb.org/t/p/w500/xPvEzlhKAEycts5WzDE9CNDAtqp.jpg|highspeed-toile|Animation|2024|4.8
+Hikaru no Go|https://image.tmdb.org/t/p/w500/AcwUhnZ3WrEIetehut1zCGosHTB.jpg|hikaru-no-go|Animation|2001|7.7
+Hinomaru Sumo|https://image.tmdb.org/t/p/w500/zAhhReXCB9nmTNiYzWD8j10J8B1.jpg|hinomaru-sumo|Animation|2018|6.6
+Hypnosis Mic: Division Rap Battle - Rhyme Anima|https://image.tmdb.org/t/p/w500/nTA3B5GfxOd2uViYBZP6KRO5xQd.jpg|hypnosis-mic-division-rap-battle-rhyme-anima|Animation|2020|6.6
+IDOLiSH7|https://image.tmdb.org/t/p/w500/nVyAVrk4sDIRrjHiZ0H3cOTvyNC.jpg|idolish7|Animation|2018|7.0
+Idolls!|https://image.tmdb.org/t/p/w500/g9vXLkUeZukspxhBfeJcZZzpuXw.jpg|idolls|Animation|2021|5.9
+Idoly Pride|https://image.tmdb.org/t/p/w500/kL7qWjUimxUiZkdmzKjcXepVd4r.jpg|idoly-pride|Animation|2021|6.5
+Inazuma Eleven|https://image.tmdb.org/t/p/w500/fYwU1zSZlq9wGyc054DqBoe98a9.jpg|inazuma-eleven|Animation|2008|8.1
+Initial D|https://image.tmdb.org/t/p/w500/CMG53GMx0OFFmF4dzhlFuebarq.jpg|initial-d|Animation|1998|8.0
+Iwakakeru: Sport Climbing Girls|https://image.tmdb.org/t/p/w500/9X4ubebN3m53E672kpufos4IBz4.jpg|iwakakeru-sport-climbing-girls|Animation|2020|7.6
+Kandagawa Jet Girls|https://image.tmdb.org/t/p/w500/vcrSRSpEHVriusKTrGhuL0xpc3u.jpg|kandagawa-jet-girls|Animation|2019|5.9
+Keijo!!!!!!!!|https://image.tmdb.org/t/p/w500/t9zN06BwacKvyRe2Hi4zoTxd2FY.jpg|keijo|Action & Abenteuer|2016|6.7
