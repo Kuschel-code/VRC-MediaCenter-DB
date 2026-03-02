@@ -648,3 +648,53 @@ Tokyo Override|https://image.tmdb.org/t/p/w500/7UGLNOXxrHSO5ftqm0HRQmv2FGk.jpg|t
 Tokyo Revengers|https://image.tmdb.org/t/p/w500/kzDHRAkFjeed0lJpjE1eKJDcowS.jpg|tokyo-revengers|Animation|2021|8.4
 Tougen Anki|https://image.tmdb.org/t/p/w500/hY2hMqvfkUNi5Qcez8piN15zA5Q.jpg|tougen-anki|Animation|2025|7.7
 Touken Ranbu Kai Kyoden|https://image.tmdb.org/t/p/w500/r34i0W9jYsefZUfeusw77ytGe9O.jpg|touken-ranbu-kai-kyoden|Animation|2024|6.0
+Towanoquon||towanoquon|||
+Triage X|https://image.tmdb.org/t/p/w500/9m7KqsLYnyRakIF7sEF6dHAD3Ll.jpg|triage-x|Animation|2015|7.9
+Trinity Blood|https://image.tmdb.org/t/p/w500/8NvnyiNt284NHLHPuKqN2l7frJc.jpg|trinity-blood|Action & Abenteuer|2005|7.3
+Twin Star Exorcists|https://image.tmdb.org/t/p/w500/fSghTQOmghCM9kaX3cjlIDfleTU.jpg|twin-star-exorcists|Animation|2016|8.4
+Ultraman|https://image.tmdb.org/t/p/w500/3X5njpZ8obsEZcoxtgW3KckQrex.jpg|ultraman|Animation|2019|7.1
+Undead Murder Farce|https://image.tmdb.org/t/p/w500/eJpGrfcZydnXinxUXrXI9jlfiEo.jpg|undead-murder-farce|Animation|2023|7.6
+Undefeated Bahamut Chronicle|https://image.tmdb.org/t/p/w500/rlQeZmuZILejvHxFzfV8jI1vRJ0.jpg|undefeated-bahamut-chronicle|Animation|2016|7.7
+Under Ninja|https://image.tmdb.org/t/p/w500/sGfndf3p37aSZ7RbV3t6n21xEjM.jpg|under-ninja|Animation|2023|6.8
+Ushio and Tora|https://image.tmdb.org/t/p/w500/sVtdLtTfTswO5NkUxqlu1MGfcER.jpg|ushio-und-tora|Action & Abenteuer|2015|8.0
+Valkyrie Drive: Mermaid|https://image.tmdb.org/t/p/w500/i70Jtb6WB43vqSGigu16OiwBZV1.jpg|valkyrie-drive-mermaid|Animation|2015|6.8
+Valvrave the Liberator|https://image.tmdb.org/t/p/w500/hCY1A93ORGhIhlYt5bwK4GwEJAx.jpg|valvrave-the-liberator|Animation|2013|6.6
+Vampire Hunter D: Bloodlust||vampire-hunter-d-bloodlust|||
+Vampire Princess Miyu|https://image.tmdb.org/t/p/w500/A5Ro3RpFXAWiV5Ntk7BoMcDcSUE.jpg|vampire-princess-miyu|Animation|1997|6.0
+VanDread|https://image.tmdb.org/t/p/w500/kzweSSRADVBgi7A2NbR18OnEaRK.jpg|vandread|Action & Abenteuer|2000|5.6
+Vassalord||vassalord|||
+Venus Versus Virus|https://image.tmdb.org/t/p/w500/g8NnxLjaNTne96qtKGBL7cFtxbE.jpg|venus-versus-virus|Animation|2007|5.9
+ViVid Strike!|https://image.tmdb.org/t/p/w500/rpQEdSxYcj3zn8rci7oZcxsPBkq.jpg|vivid-strike|Action & Abenteuer|2016|8.0
+Why does Nobody Remember Me in This World?|https://image.tmdb.org/t/p/w500/iDVzUTs4CYz0aRMcTdqKg5llsjS.jpg|why-does-nobody-remember-me-in-this-world|Animation|2024|6.5
+WIND BREAKER|https://image.tmdb.org/t/p/w500/c2wfIKUPcQY0tiyiOmY7ItHtNO9.jpg|wind-breaker|Animation|2024|8.1
+Wistoria: Wand and Sword|https://image.tmdb.org/t/p/w500/v8gkKx1BvD3AH0MjwgCPbHTwxPE.jpg|wistoria-wand-and-sword|Animation|2024|7.6
+Xuan Yuan Sword Luminary|https://image.tmdb.org/t/p/w500/7lVvblfZr6hpMON58V7hKbdHGJ0.jpg|xuan-yuan-sword-luminary|Animation|2018|6.2
+Yasuke|https://image.tmdb.org/t/p/w500/EyrE3HJsMArVSORCnP0ooiAd9T.jpg|yasuke|Animation|2021|7.3
+Yoroi-Shinden Samurai Troopers|https://image.tmdb.org/t/p/w500/gTJXC84z3pq9VxVGjbStvMP0I2g.jpg|yoroi-shinden-samurai-troopers|Animation|2026|9.3
+You and Idol Precure|https://image.tmdb.org/t/p/w500/fvmTTlKu2Q6q4pQMu62SZpQEiVT.jpg|you-and-idol-precure|Animation|2025|5.2
+Yozakura Quartet|https://image.tmdb.org/t/p/w500/iFU2USdbLmelVAViU2OIIARXNrO.jpg|yozakura-quartet|Animation|2008|6.2
+Yozakura Quartet: Hana no Uta|https://image.tmdb.org/t/p/w500/nFAWQUqu7FgePSLt4MaOtBpzEkM.jpg|yozakura-quartet-hana-no-uta|Komoedie|2013|7.7
+Z/X Code reunion|https://image.tmdb.org/t/p/w500/2imEsUJyIkT41obdZ2mSIP2iErR.jpg|zx-code-reunion|Animation|2019|4.7
+Z/X Ignition|https://image.tmdb.org/t/p/w500/oeUCXn41raVtge7wT3BAw0gN3El.jpg|zx-ignition|Action & Abenteuer|2014|7.3
+Zenonzard - The Animation|https://image.tmdb.org/t/p/w500/t6Kdmfc8Zluot9oyt38AYf2bmIr.jpg|zenonzard-the-animation|Animation|2020|10.0
+ZENSHU|https://image.tmdb.org/t/p/w500/hiLf3JKUghjhCjDCv3hKKsWtA4S.jpg|zenshu|Animation|2025|7.9
+Zom 100: Bucket List of the Dead|https://image.tmdb.org/t/p/w500/wUgE1ceORQzsZnGrASVKjEaGkzO.jpg|zom-100-bucket-list-of-the-dead|Animation|2023|7.5
+07-Ghost|https://image.tmdb.org/t/p/w500/v4pW812Jpqpf3Ih5gYGCu51kdDl.jpg|07-ghost|Animation|2009|7.2
+11eyes|https://image.tmdb.org/t/p/w500/o0UnWewTlZbtkRQDQGrKMGzruVI.jpg|11eyes|Action & Abenteuer|2009|7.3
+86: Eighty Six|https://image.tmdb.org/t/p/w500/aEG1ZtdyjDFDtlGqovvAHsAfsR6.jpg|86-eighty-six|Animation|2021|8.1
+A Wind Named Amnesia||a-wind-named-amnesia|||
+A.I.C.O. Incarnation|https://image.tmdb.org/t/p/w500/1vOPpRqrYwwKf4HV4ybSfb4j3oo.jpg|aico-incarnation|Animation|2018|6.4
+Akame ga Kill!|https://image.tmdb.org/t/p/w500/hDzm2VXxdeK5kztUN3RWTkBsBZg.jpg|akame-ga-kill|Animation|2014|8.3
+Alderamin on the Sky|https://image.tmdb.org/t/p/w500/oKMtEcTwn4Rcj5fg5A7cvfdKeTT.jpg|alderamin-on-the-sky|Action & Abenteuer|2016|7.2
+Aldnoah.Zero|https://image.tmdb.org/t/p/w500/rwDgK4FqjjmAKBjJyvO2thZizxD.jpg|aldnoahzero|Animation|2014|7.6
+An Archdemon's Dilemma: How to Love Your Elf Bride|https://image.tmdb.org/t/p/w500/iW0iY5Fv0V6oHQ33Jk9iTsyV3Y6.jpg|an-archdemons-dilemma-how-to-love-your-elf-bride|Animation|2024|7.2
+Apocalypse Bringer Mynoghra|https://image.tmdb.org/t/p/w500/nrd2DMbn39Usv9Lp5LpHh67yVAN.jpg|apocalypse-bringer-mynoghra|Animation|2025|7.4
+Aquarion|https://image.tmdb.org/t/p/w500/n3gR3ajpnfFA2OKIt6FCoDduwxg.jpg|aquarion|Animation|2005|6.5
+Attack on Titan|https://image.tmdb.org/t/p/w500/qlbcGr0EYKRICD0MTrIwnIztQna.jpg|attack-on-titan|Animation|2013|8.7
+Banana Fish|https://image.tmdb.org/t/p/w500/3GiB5Ybbhzt0ePRR2zgld9R56DB.jpg|banana-fish|Animation|2018|8.6
+Basilisk|https://image.tmdb.org/t/p/w500/dHW4ZNEZDpUmkd8MOoGVnXkaNER.jpg|basilisk|Animation|2005|7.4
+BEASTARS|https://image.tmdb.org/t/p/w500/2wM5EIOkEdf0wyaCVwdAuxiAzHM.jpg|beastars|Animation|2019|8.4
+Beatless|https://image.tmdb.org/t/p/w500/2PtN9nZJYEXiklRe1T5DxwIKED9.jpg|beatless|Animation|2018|5.6
+Berserk (1997)|https://image.tmdb.org/t/p/w500/9uoJ0PmfV72h3gc1xDJ7ghvuIIz.jpg|berserk-1997|Action & Abenteuer|1997|8.5
+Berserk (2016)|https://image.tmdb.org/t/p/w500/jptkb9j1A1qVIB7XDH7xSFrkFzD.jpg|berserk|Action & Abenteuer|2016|7.4
+Berserk of Gluttony|https://image.tmdb.org/t/p/w500/p5rtHwieByHo1NdzOxB3vtVJJnA.jpg|berserk-of-gluttony|Animation|2023|7.1
