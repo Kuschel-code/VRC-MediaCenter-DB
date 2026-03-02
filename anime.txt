@@ -198,3 +198,53 @@ Rave Master|https://image.tmdb.org/t/p/w500/zBu8G5vARl1i9omZ4AEXpXh9N14.jpg|rave
 Re:Monster|https://image.tmdb.org/t/p/w500/hos9sChhPb8FWUJUGkDBlzgLdx1.jpg|remonster|Animation|2024|8.1
 Record of Grancrest War|https://image.tmdb.org/t/p/w500/vMFSrDf4H10aE4xuOFGh6O5ftg.jpg|record-of-grancrest-war|Animation|2018|8.2
 Record of Lodoss War OVA|https://image.tmdb.org/t/p/w500/z5HSnjHXQIyTy60vH1uALFNJbfT.jpg|record-of-lodoss-war-ova|Action & Abenteuer|1990|7.5
+Record of Lodoss War: Chronicles of the Heroic Knight|https://image.tmdb.org/t/p/w500/33UUAMX577JrNVb4pwM8yQF8hiy.jpg|record-of-lodoss-war-chronicles-of-the-heroic-knight|Animation|1998|7.1
+Reincarnated as a Dragon Hatchling|https://image.tmdb.org/t/p/w500/wwleFyKVSzCw2GkdJTwXplHsPZp.jpg|reincarnated-as-a-dragon-hatchling|Animation|2026|9.4
+Reincarnated as a Sword|https://image.tmdb.org/t/p/w500/6WhRmP6Ro5WoG8p7apvjagLyGqw.jpg|reincarnated-as-a-sword|Animation|2022|7.4
+Rick and Morty: The Anime|https://image.tmdb.org/t/p/w500/bGf8CzFaqdTgINZOq4zvK7H0UFH.jpg|rick-and-morty-the-anime|Animation|2024|5.1
+Rocket Girls|https://image.tmdb.org/t/p/w500/9ts2xjFeCHsNmrKpDtDb2uBNoCB.jpg|rocket-girls|Animation|2007|6.0
+Rokka: Braves of the Six Flowers|https://image.tmdb.org/t/p/w500/t9O20KwN1jPX3nt6CqJW6A7wLjT.jpg|rokka-braves-of-the-six-flowers|Animation|2015|6.8
+Rozen Maiden|https://image.tmdb.org/t/p/w500/jSflghBLgd1bxUXunTloOljbI47.jpg|rozen-maiden|Animation|2004|7.9
+RPG Real Estate|https://image.tmdb.org/t/p/w500/kpPUNeSzYgKCTVNfTIJiXOJ0Jhn.jpg|rpg-real-estate|Animation|2022|4.7
+Rune Soldier|https://image.tmdb.org/t/p/w500/q7RzsOcT77QtPgNsL1wz9v0MQcS.jpg|rune-soldier|Animation|2001|6.5
+Rurouni Kenshin|https://image.tmdb.org/t/p/w500/mCafSOuO3PqgoxaweNCo45KpctE.jpg|rurouni-kenshin|Animation|2023|8.4
+Rurouni Kenshin (2023)|https://image.tmdb.org/t/p/w500/mCafSOuO3PqgoxaweNCo45KpctE.jpg|rurouni-kenshin-2023|Animation|2023|8.4
+Rust-Eater Bisco|https://image.tmdb.org/t/p/w500/hT9DTlUZxyq96Kuo0b9yEGYZrj9.jpg|rust-eater-bisco|Animation|2022|6.3
+RWBY|https://image.tmdb.org/t/p/w500/pTLBkalS00rc9FSxgdt4bcwWdvH.jpg|rwby|Animation|2013|7.8
+RWBY: Ice Queendom|https://image.tmdb.org/t/p/w500/rO86XlUQrimpvlEXkcYl3j7tXzL.jpg|rwby-ice-queendom|Animation|2022|5.9
+Sailor Moon|https://image.tmdb.org/t/p/w500/9Uz8Me0l0hNtMOlrdpH64wrYFa8.jpg|sailor-moon|Action & Abenteuer|1992|8.4
+Saiyuki|https://image.tmdb.org/t/p/w500/b5tfbzJ8RIIoM6zzjpp9o9zjmrG.jpg|saiyuki|Animation|2000|6.2
+Sakugan|https://image.tmdb.org/t/p/w500/h4v0id7U9YL8se3kIviAqyMNiqe.jpg|sakugan|Animation|2021|6.9
+Sakuna: Of Rice and Ruin|https://image.tmdb.org/t/p/w500/a36F4UyUhYEj8rm3AKBXPmy1SFc.jpg|sakuna-of-rice-and-ruin|Animation|2024|7.5
+Samurai Champloo|https://image.tmdb.org/t/p/w500/gLFshfLjPIlY0f6LeCZyv8PDl6V.jpg|samurai-champloo|Animation|2004|8.3
+Sasaki and Peeps|https://image.tmdb.org/t/p/w500/m3D7giT0fyJJ5ssjOEhYgUXN7Sg.jpg|sasaki-and-peeps|Animation|2024|6.8
+Scooped Up by an S-Rank Adventurer!|https://image.tmdb.org/t/p/w500/nE1roPkXMjTpGNSuN1mjWsm9DNN.jpg|scooped-up-by-an-s-rank-adventurer|Animation|2025|6.9
+Scott Pilgrim Takes Off|https://image.tmdb.org/t/p/w500/H5rIJEe8YBQmkjsIWpaWjhHeXq.jpg|scott-pilgrim-takes-off|Animation|2023|8.0
+Scrapped Princess|https://image.tmdb.org/t/p/w500/iGhK7nsUsiHcGv1tvIBPjzDLabC.jpg|scrapped-princess|Action & Abenteuer|2003|6.4
+Seirei Gensouki: Spirit Chronicles|https://image.tmdb.org/t/p/w500/zq07L28laGQpTRhaEDkb2deoSbf.jpg|seirei-gensouki-spirit-chronicles|Animation|2021|8.3
+Shachibato! President, It’s Time for Battle!|https://image.tmdb.org/t/p/w500/bIAKziQytefCClDFWhLTpkdXaS3.jpg|shachibato-president-its-time-for-battle|Animation|2020|7.1
+Shangri-La Frontier|https://image.tmdb.org/t/p/w500/5CFYv4WYLZXizAyRwRhP0vZLNx.jpg|shangri-la-frontier|Animation|2023|8.1
+She Professed Herself Pupil of the Wise Man|https://image.tmdb.org/t/p/w500/dohtWG7uG3gn2APTu8nfyObX3Yo.jpg|she-professed-herself-pupil-of-the-wise-man|Animation|2022|6.5
+Shenmue the Animation|https://image.tmdb.org/t/p/w500/dW3vZlL7wjnfLstohrfwVgdTL47.jpg|shenmue-the-animation|Animation|2022|7.2
+Shironeko Project: Zero Chronicle|https://image.tmdb.org/t/p/w500/3X6b8AgI2fqtKpZhkxCd2EWd0ad.jpg|shironeko-project-zero-chronicle|Animation|2020|6.7
+Shonen Onmyouji|https://image.tmdb.org/t/p/w500/pgF0BZYdVcLBk8cx7yhYxohhhrx.jpg|shonen-onmyouji|Animation|2006|7.0
+Slayers|https://image.tmdb.org/t/p/w500/uLvZvVVZ06z8OIEVEmtrpKQ3Ukx.jpg|slayers|Action & Abenteuer|1995|7.4
+So You're Raising a Warrior|https://image.tmdb.org/t/p/w500/bOEexTA3D7HTb5oOLBRJAaLDXEo.jpg|so-youre-raising-a-warrior|Komoedie|2025|6.0
+Solo Leveling|https://image.tmdb.org/t/p/w500/eCD7WS9h4lCT8N4Xavc9u8R1IGk.jpg|solo-leveling|Animation|2024|8.6
+Somali and the Forest Spirit|https://image.tmdb.org/t/p/w500/Wkby0Wjbu3pzTxDnDhjQ3WWJxP.jpg|somali-and-the-forest-spirit|Animation|2020|7.5
+Sorcerous Stabber Orphen|https://image.tmdb.org/t/p/w500/eBJWsby7xOLIKRpVaw28zPsb2LG.jpg|sorcerous-stabber-orphen|Animation|2020|6.9
+Spice and Wolf|https://image.tmdb.org/t/p/w500/4bz8gNfZu3MaJ8ClavmMlvtXB67.jpg|spice-and-wolf|Animation|2008|7.5
+Spice and Wolf: merchant meets the wise wolf|https://image.tmdb.org/t/p/w500/vgfhyqA6n8WWiDhHXdVRBMHAqQw.jpg|spice-and-wolf-merchant-meets-the-wise-wolf|Animation|2024|8.0
+Spriggan|https://image.tmdb.org/t/p/w500/18by4OjqBPl5TKUHNdjlqThmsUr.jpg|spriggan|Animation|2022|6.7
+Star Blazers 2199 - Space Battleship Yamato|https://image.tmdb.org/t/p/w500/ySLYbxZUwMjKwGtPs9iQ3EztuLi.jpg|star-blazers-2199-space-battleship-yamato|Action & Abenteuer|2013|7.3
+Star Wars: Visions|https://image.tmdb.org/t/p/w500/tyEgE0plST1EuwLaLi9pwAQrLyw.jpg|star-wars-visions|Animation|2021|7.1
+Sugar Apple Fairy Tale|https://image.tmdb.org/t/p/w500/rcUFHv5S7eY0nArCYfZlmGXih4J.jpg|sugar-apple-fairy-tale|Animation|2023|7.2
+Summer Days with Coo||summer-days-with-coo|||
+Summer Wars||summer-wars|||
+Suppose a Kid from the Last Dungeon Boonies moved to a starter town?|https://image.tmdb.org/t/p/w500/fHePXGj1I2nomrGN6UuEZyuyy0R.jpg|suppose-a-kid-from-the-last-dungeon-boonies-moved-to-a-starter-town|Animation|2021|7.1
+Suzume|https://image.tmdb.org/t/p/w500/2fRht0UsBj8mZZTYtC3zhVO8B0M.jpg|suzume|Komoedie|2006|7.8
+Sword Oratoria: Is it Wrong to Try to Pick Up Girls in a Dungeon? On the Side|https://image.tmdb.org/t/p/w500/iKNeAEH3cmXCeQRnE09yBk8NDAM.jpg|danmachi-sword-oratoria|Animation|2017|6.9
+Tales from Earthsea||tales-from-earthsea|||
+Tales of the Abyss|https://image.tmdb.org/t/p/w500/yXJUcoxr3A37aaEOS9rUyJ8sZq5.jpg|tales-of-the-abyss|Animation|2008|8.0
+Tales of Zestiria the X|https://image.tmdb.org/t/p/w500/eX9C4mDnUCkANB3bOteQem6w1OT.jpg|tales-of-zestiria-the-x|Animation|2016|7.1
+Tekken: Bloodline|https://image.tmdb.org/t/p/w500/bi3XOKS38K7FdH9nPtsZCcmeL1F.jpg|tekken-bloodline|Action & Abenteuer|2022|7.4
