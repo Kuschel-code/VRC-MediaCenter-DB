@@ -13,6 +13,7 @@ import codecs
 import base64
 import logging
 import asyncio
+import random
 import httpx
 from bs4 import BeautifulSoup
 from cachetools import TTLCache
@@ -69,22 +70,41 @@ def _cloudscraper_get(url: str) -> str | None:
     return None
 
 
-async def _fetch_page(client: httpx.AsyncClient, url: str) -> str | None:
-    """Holt eine Seite – erst mit httpx, bei 403/503 Fallback auf cloudscraper."""
-    try:
-        resp = await client.get(url)
-        if resp.status_code == 200:
-            return resp.text
-        if resp.status_code in (403, 503) and _has_cloudscraper:
-            log.info(f"[Scraper] {resp.status_code} von {url} – versuche cloudscraper...")
-            return await asyncio.to_thread(_cloudscraper_get, url)
-        log.info(f"[Scraper] HTTP {resp.status_code} fuer {url}")
-        return None
-    except httpx.HTTPError as e:
-        log.info(f"[Scraper] HTTP-Fehler fuer {url}: {e}")
-        if _has_cloudscraper:
-            return await asyncio.to_thread(_cloudscraper_get, url)
-        return None
+async def _fetch_page(client: httpx.AsyncClient, url: str, max_retries: int = 3) -> str | None:
+    """Holt eine Seite – erst mit httpx, bei 403/503 Fallback auf cloudscraper.
+    Handhabt 429 Rate-Limiting mit Retry-After-Wartezeit und exponential Backoff."""
+    for attempt in range(max_retries):
+        try:
+            resp = await client.get(url)
+            if resp.status_code == 200:
+                return resp.text
+            if resp.status_code == 429:
+                wait = float(resp.headers.get("Retry-After", 30 * (attempt + 1)))
+                wait += random.uniform(1, 5)
+                log.info(f"[Scraper] Rate-Limit fuer {url} – warte {wait:.0f}s (Versuch {attempt+1}/{max_retries})")
+                await asyncio.sleep(wait)
+                continue
+            if resp.status_code in (403, 503) and _has_cloudscraper:
+                log.info(f"[Scraper] {resp.status_code} von {url} – versuche cloudscraper...")
+                result = await asyncio.to_thread(_cloudscraper_get, url)
+                if result:
+                    return result
+            log.info(f"[Scraper] HTTP {resp.status_code} fuer {url}")
+            if resp.status_code >= 500 and attempt < max_retries - 1:
+                await asyncio.sleep(10 * (attempt + 1) + random.uniform(0, 5))
+                continue
+            return None
+        except httpx.TimeoutException:
+            wait = 10 * (attempt + 1) + random.uniform(0, 5)
+            log.info(f"[Scraper] Timeout fuer {url} – retry {attempt+1}/{max_retries} in {wait:.0f}s")
+            await asyncio.sleep(wait)
+        except httpx.HTTPError as e:
+            log.info(f"[Scraper] HTTP-Fehler fuer {url}: {e}")
+            if _has_cloudscraper:
+                return await asyncio.to_thread(_cloudscraper_get, url)
+            return None
+    log.info(f"[Scraper] Alle {max_retries} Versuche fehlgeschlagen fuer {url}")
+    return None
 
 
 # ═══════════════════════════════════════════════════════
