@@ -948,3 +948,53 @@ The Iceblade Sorcerer Shall Rule the World|https://image.tmdb.org/t/p/w500/aiJd0
 The Outcast|https://image.tmdb.org/t/p/w500/kUTsnVSo9JWcFK3Y2XILQfH0imK.jpg|the-outcast|Animation|2016|7.0
 The Strongest Tank's Labyrinth Raids|https://image.tmdb.org/t/p/w500/tCIYBhTQe1PdPWzkteqfhIHIa80.jpg|the-strongest-tanks-labyrinth-raids|Animation|2024|6.5
 The Unaware Atelier Meister|https://image.tmdb.org/t/p/w500/6DXiVYwgJeV3P1tvXEoOA5RSaOo.jpg|the-unaware-atelier-meister|Animation|2025|7.1
+Tiger & Bunny|https://image.tmdb.org/t/p/w500/zHMtytj08QR8NkP8Nj9JBid21uD.jpg|tiger-bunny|Action & Abenteuer|2011|6.9
+Tojima Wants to Be a Kamen Rider|https://image.tmdb.org/t/p/w500/wqczcoNCokVreXw4QA4nyDlxkal.jpg|tojima-wants-to-be-a-kamen-rider|Animation|2025|7.9
+Tokyo ESP|https://image.tmdb.org/t/p/w500/p8eqfHkrRF1pviqFEyKw3LeLeEA.jpg|tokyo-esp|Animation|2014|7.4
+Trinity Seven|https://image.tmdb.org/t/p/w500/e8JsZYVkAEX3f0q29k6mcFm2Qn.jpg|trinity-seven|Animation|2014|7.0
+Tsugumomo|https://image.tmdb.org/t/p/w500/rhjTCJa8K3IWTpggBNrlLHmNdTj.jpg|tsugumomo|Animation|2017|6.5
+Uglymug, Epicfighter|https://image.tmdb.org/t/p/w500/tuOXsK63UNldWDNiWXZrajWRcyL.jpg|uglymug-epicfighter|Animation|2025|7.7
+Unbreakable Machine-Doll|https://image.tmdb.org/t/p/w500/kr7OHd6Yp6O553UDy6b9c1HuO6a.jpg|unbreakable-machine-doll|Animation|2013|6.1
+Undead Unluck|https://image.tmdb.org/t/p/w500/62LKH8aho4EeZmcpYks9DvxyHxB.jpg|undead-unluck|Animation|2023|7.9
+UQ Holder!|https://image.tmdb.org/t/p/w500/7oUjy6CIwjiPCHtjKWH7vw1k9xN.jpg|uq-holder|Animation|2017|7.5
+Val x Love|https://image.tmdb.org/t/p/w500/zKmojoCREjuXqUy3rejHdcIaZdS.jpg|val-x-love|Animation|2019|4.5
+Vermeil in Gold ~A Magician Pushes Through the Magical World With the Strongest Disaster~|https://image.tmdb.org/t/p/w500/qP7RkMd5WZPOOueY0Vv8g6oMv8j.jpg|vermeil-in-gold-a-magician-pushes-through-the-magical-world-with-the-strongest-disaster|Animation|2022|7.1
+Villainess Level 99: I May Be the Hidden Boss but I'm Not the Demon Lord|https://image.tmdb.org/t/p/w500/vsTjL8hO4iSUcEx7eNxAgMxDspa.jpg|villainess-level-99-i-may-be-the-hidden-boss-but-im-not-the-demon-lord|Animation|2024|7.1
+Viral Hit|https://image.tmdb.org/t/p/w500/biUCx1p4dAImAuqti1caxqKVzE7.jpg|viral-hit|Animation|2024|8.0
+Witch Craft Works|https://image.tmdb.org/t/p/w500/fYB6Tvhd1GnFKCtvyc626VmeWkc.jpg|witch-craft-works|Animation|2014|8.1
+World Break: Aria of Curse for a Holy Swordsman|https://image.tmdb.org/t/p/w500/lsqojJTBNzyMUHJbzrsISRd4yGB.jpg|world-break-aria-of-curse-for-a-holy-swordsman|Animation|2015|5.6
+World Witches: Take Off!|https://image.tmdb.org/t/p/w500/kXrYqjiZaHTQocODYYkDDSpf6pq.jpg|world-witches-take-off|Animation|2021|4.0
+2.43 Seiin High Shool Boys Volleyball Team|https://image.tmdb.org/t/p/w500/yhNIlXhlx8XFSPgZHP9hRtN2EKY.jpg|243-seiin-high-shool-boys-volleyball-team|Animation|2021|7.5
+A Mangaka's Weirdly Wonderful Workplace|https://image.tmdb.org/t/p/w500/tth6VcUo38bRI8aI5AY6fQOJVsG.jpg|a-mangakas-weirdly-wonderful-workplace|Animation|2025|8.0
+Azumanga Daioh|https://image.tmdb.org/t/p/w500/7QTvOTafhP9IraqxzHi4trgPgjd.jpg|azumanga-daioh|Animation|2002|7.9
+BanG Dream! It's MyGO!!!!!|https://image.tmdb.org/t/p/w500/rV5YhLd0J1nf0DYUCTKQegAjYLw.jpg|bang-dream-its-mygo|Animation|2023|8.0
+Campfire Cooking in Another World with My Absurd Skill|https://image.tmdb.org/t/p/w500/6IZkTbgZEkzeVPKqfe644mSxbfF.jpg|campfire-cooking-in-another-world-with-my-absurd-skill|Animation|2023|8.3
+Captivated, By You|https://image.tmdb.org/t/p/w500/a5UF6hcFmNUN4p6FSDGwiXJxuKa.jpg|captivated-by-you|Animation|2025|9.0
+Catch Me at the Ballpark!|https://image.tmdb.org/t/p/w500/eFcMiWEpry6ZslhXq5e5Q5UTGQ9.jpg|catch-me-at-the-ballpark|Animation|2025|7.9
+Classic★Stars|https://image.tmdb.org/t/p/w500/lnUVgXsD0oiKvCuqq3k62nexeeC.jpg|classicstars|Animation|2025|4.3
+Deaimon: Recipe for Happiness|https://image.tmdb.org/t/p/w500/rekj4krsgGvmSLL0xMtrLQbAQUM.jpg|deaimon-recipe-for-happiness|Animation|2022|7.5
+Do It Yourself!!|https://image.tmdb.org/t/p/w500/oaFicf24La7xfwhzFnAGGV8GJjW.jpg|do-it-yourself|Animation|2022|7.4
+Extreme Hearts|https://image.tmdb.org/t/p/w500/3SIytMEeYpjBa6a80XzPwdF1HCJ.jpg|extreme-hearts|Animation|2022|4.1
+Fermat Kitchen|https://image.tmdb.org/t/p/w500/A8k5mUDfLX0eEEzcYflontbCAUt.jpg|fermat-kitchen|Animation|2025|7.7
+Food for the Soul|https://image.tmdb.org/t/p/w500/2qMKqWsHGIHRTswQH3hXJlmRTJa.jpg|food-for-the-soul|Animation|2025|7.7
+Gensou Mangekyou - The Memories of Phantasm|https://image.tmdb.org/t/p/w500/xAEMapxNlHa31yvOymr5Yc6iQ5R.jpg|gensou-mangekyou-the-memories-of-phantasm|Animation|2011|
+GIRLS BAND CRY|https://image.tmdb.org/t/p/w500/fXjfsOYMkA96TOytxrvLVc706p3.jpg|girls-band-cry|Animation|2024|8.2
+Gloomy the Naughty Grizzly|https://image.tmdb.org/t/p/w500/pS1rfiDNW5yti5Kg9w2fLGuk8Dz.jpg|gloomy-the-naughty-grizzly|Animation|2021|3.8
+Gunma-chan|https://image.tmdb.org/t/p/w500/bTkGeX9p1Qsk7T6d3fUhFh5gwQh.jpg|gunma-chan|Animation|2021|2.0
+Heroines Run the Show|https://image.tmdb.org/t/p/w500/fvBCizhqatl0d3l3iQknNMuZ9Bs.jpg|heroines-run-the-show|Animation|2022|6.6
+I-Chu|https://image.tmdb.org/t/p/w500/qiHi7A3ffLA4wzzlV0cpUJd7qba.jpg|i-chu|Animation|2021|7.7
+IDOLM@STER Cinderella Girls: U149|https://image.tmdb.org/t/p/w500/lAMjJGd1Ojwkw7MGj7fWLClzo7q.jpg|idolmster-cinderella-girls-u149|Animation|2023|7.2
+Ippon Again!|https://image.tmdb.org/t/p/w500/5EfLTgMXunmkMWEF9kJFGKeusQ9.jpg|ippon-again|Animation|2023|6.3
+Isekai Office Worker: The Other World's Books Depend on the Bean Counter|https://image.tmdb.org/t/p/w500/9ZtYwGcz9g6vcOBcFTMOFrYQVKs.jpg|isekai-office-worker-the-other-worlds-books-depend-on-the-bean-counter|Animation|2026|8.5
+Jellyfish Can't Swim in the Night|https://image.tmdb.org/t/p/w500/r2FXjiG9Mgn0AtSqVfpat2PpNU0.jpg|jellyfish-cant-swim-in-the-night|Animation|2024|7.1
+Kawagoe Boys Sing|https://image.tmdb.org/t/p/w500/o2l1z54hgEq5MuuwziH9sOeG6rx.jpg|kawagoe-boys-sing|Animation|2023|4.0
+Kinokoinu Mushroom Pup|https://image.tmdb.org/t/p/w500/xZkiSANGlpIGHjdpRhVPtqVAjiF.jpg|kinokoinu-mushroom-pup|Animation|2024|7.0
+Kizuna no Allele|https://image.tmdb.org/t/p/w500/vCWOILZQmUyVw7ZKk7PTGjKgS6H.jpg|kizuna-no-allele|Animation|2023|5.3
+Manaria Friends|https://image.tmdb.org/t/p/w500/vsUiKjhonHkUA7vYpwry0JiIFVZ.jpg|manaria-friends|Animation|2019|7.7
+Mieruko-chan|https://image.tmdb.org/t/p/w500/oI3XhfpVoXRBdA7orxPsFkKcWKU.jpg|mieruko-chan|Animation|2021|8.1
+Migi & Dali|https://image.tmdb.org/t/p/w500/AoeTG7HA4pqIZOxIy3CQjudMe7a.jpg|migi-dali|Animation|2023|6.8
+Miss Kobayashi's Dragon Maid S Short Animation Series||miss-kobayashis-dragon-maid-s-short-animation-series|||
+Momentary Lily|https://image.tmdb.org/t/p/w500/bvyz4Iynskd4TfpNNypqjhI6GQs.jpg|momentary-lily|Animation|2025|6.1
+Narenare -Cheer for You!-|https://image.tmdb.org/t/p/w500/x1smjSCyWnfLNEurBzdoHHN5wZ2.jpg|narenare-cheer-for-you|Animation|2024|5.8
+Negative Positive Angler|https://image.tmdb.org/t/p/w500/nDXiYUpUfdozbdUwzMLoO5nHtdh.jpg|negative-positive-angler|Animation|2024|7.8
+Nukitashi the Animation|https://image.tmdb.org/t/p/w500/zlybZJXfu4IpPnWXhnRtobl9BgZ.jpg|nukitashi-the-animation|Animation|2025|7.7
