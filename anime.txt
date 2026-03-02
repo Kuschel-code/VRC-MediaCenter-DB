@@ -998,3 +998,53 @@ Momentary Lily|https://image.tmdb.org/t/p/w500/bvyz4Iynskd4TfpNNypqjhI6GQs.jpg|m
 Narenare -Cheer for You!-|https://image.tmdb.org/t/p/w500/x1smjSCyWnfLNEurBzdoHHN5wZ2.jpg|narenare-cheer-for-you|Animation|2024|5.8
 Negative Positive Angler|https://image.tmdb.org/t/p/w500/nDXiYUpUfdozbdUwzMLoO5nHtdh.jpg|negative-positive-angler|Animation|2024|7.8
 Nukitashi the Animation|https://image.tmdb.org/t/p/w500/zlybZJXfu4IpPnWXhnRtobl9BgZ.jpg|nukitashi-the-animation|Animation|2025|7.7
+OVERTAKE!|https://image.tmdb.org/t/p/w500/1zFJhJjiZFKOPgKmAxB4vCAaeTN.jpg|overtake|Animation|2023|6.6
+Prima Doll|https://image.tmdb.org/t/p/w500/z8DjN9RlcMy4WIQpgtbFqp9dLtM.jpg|prima-doll|Animation|2022|5.1
+Ramen Akaneko|https://image.tmdb.org/t/p/w500/g1cIGDAdqN0Pm5KGqWzjgxbYORH.jpg|ramen-akaneko|Animation|2024|5.8
+Ruri Rocks|https://image.tmdb.org/t/p/w500/mRXXyxNu8ZVwadZ84Kq3PTfqwwT.jpg|ruri-rocks|Animation|2025|7.4
+Season of Change|https://image.tmdb.org/t/p/w500/ff03Yl5gBDuZ9zI5Nhoa0cjYKQH.jpg|season-of-change||2022|
+See You Tomorrow at the Food Court|https://image.tmdb.org/t/p/w500/rNyKMLB71VigA26JUoUmLZf5ium.jpg|see-you-tomorrow-at-the-food-court|Animation|2025|8.6
+SHOSHIMIN: How to Become Ordinary|https://image.tmdb.org/t/p/w500/9ri01JvmNHUlqZo77K3CZn5rUhw.jpg|shoshimin-how-to-become-ordinary|Animation|2024|7.4
+Solo Camping for Two|https://image.tmdb.org/t/p/w500/gP7rdhoejxIwZUzB6vpnlsQsdOB.jpg|solo-camping-for-two|Animation|2025|7.7
+Summer Pockets|https://image.tmdb.org/t/p/w500/8WALipI4LbRa3POKJOfGPLrVemK.jpg|summer-pockets|Animation|2025|7.1
+Tari Tari|https://image.tmdb.org/t/p/w500/mr3wYtG6bO68Q1w32eHSQ5VBhPa.jpg|tari-tari|Animation|2012|7.6
+The Demon King's Daughter is Too Kind!!|https://image.tmdb.org/t/p/w500/gUpjTomq5J4aOpwAOJ3WB76kh5g.jpg|the-demon-kings-daughter-is-too-kind|Animation|2026|9.6
+The Fated Magical Princess: Who Made Me a Princess|https://image.tmdb.org/t/p/w500/mmrvO0JdjUdKzu9fVhzcen0KtrB.jpg|the-fated-magical-princess-who-made-me-a-princess|Animation|2025|8.0
+The iDOLM@STER: Million Live!|https://image.tmdb.org/t/p/w500/2QXWC8GdhyOOT6ILI7LUzrcuiPM.jpg|the-idolmaster-million-live|Animation|2023|5.8
+The Little Lies We All Tell|https://image.tmdb.org/t/p/w500/rEIMwIJlwxY9SP4IIdxTDEdOHQ4.jpg|the-little-lies-we-all-tell|Animation|2022|6.2
+The Stories of Girls Who Couldn’t Be Magicians|https://image.tmdb.org/t/p/w500/hEp1K8pIVHXWcddvvbSPYuFhJZY.jpg|the-stories-of-girls-who-couldnt-be-magicians|Animation|2024|6.2
+The Yakuza's Guide to Babysitting|https://image.tmdb.org/t/p/w500/twTnwi30PYZ9x4A6CK3rSfF0ZZ4.jpg|the-yakuzas-guide-to-babysitting|Animation|2022|7.1
+Turkey! Time to Strike|https://image.tmdb.org/t/p/w500/a7UXd4jRd2VCEKQLAnvXrB8wSj0.jpg|turkey-time-to-strike|Animation|2025|7.0
+UniteUp!|https://image.tmdb.org/t/p/w500/7jWi4SppOmtQMfxmviNlEUAY3Tz.jpg|uniteup|Animation|2023|6.0
+Wash It All Away|https://image.tmdb.org/t/p/w500/u3FoBE3Vw0tTHFV6djpSv5HHBU5.jpg|wash-it-all-away|Animation|2026|7.7
+With You and the Rain|https://image.tmdb.org/t/p/w500/5k2X8QAmqHULiZPGoqCIFOI9gwz.jpg|with-you-and-the-rain|Animation|2025|7.2
+With You, Our Love Will Make It Through|https://image.tmdb.org/t/p/w500/l8YQfVfTKtWnBS54cvHlCLeUidc.jpg|with-you-our-love-will-make-it-through|Animation|2025|9.0
+Wonder Egg Priority|https://image.tmdb.org/t/p/w500/qB9k5DeUea5IdKh8xyeWMcejS8R.jpg|wonder-egg-priority|Animation|2021|6.8
+World Dai Star|https://image.tmdb.org/t/p/w500/z3UH88P0heWiJwQ4pHqOsMKUDBH.jpg|world-dai-star|Animation|2023|2.0
+Yuyushiki|https://image.tmdb.org/t/p/w500/oEcYsmRtaru4YiPvQ0EaRmRHt6E.jpg|yuyushiki|Animation|2013|7.4
+Amanchu!|https://image.tmdb.org/t/p/w500/2C85K99bMbG7dZdNBGHShZbtMq8.jpg|amanchu|Animation|2016|6.2
+Angel's 3Piece!|https://image.tmdb.org/t/p/w500/aVmLA24NypvwPkh9BGASQlOLuLu.jpg|angels-3piece|Animation|2017|6.8
+Anne of Green Gables|https://image.tmdb.org/t/p/w500/ueSbEVZf0vHzvEmPpeXzcDUOeFB.jpg|anne-of-green-gables|Drama|1985|8.7
+Arte|https://image.tmdb.org/t/p/w500/gHBc5rtFRRTYP9EJXqjyNnFidpp.jpg|arte|Animation|2020|7.1
+Ascendance of a Bookworm|https://image.tmdb.org/t/p/w500/cBgA4PdYNr0EqXB1naRe1ndrC33.jpg|ascendance-of-a-bookworm|Animation|2019|8.1
+Aura: Koga Maryuin’s Last War||aura-koga-maryuins-last-war|||
+Baby, My Love|https://image.tmdb.org/t/p/w500/4Ph4ANSk0TDHp8JCGnocf8xdBiH.jpg|baby-my-love|Animation|2004|6.5
+Bartender|https://image.tmdb.org/t/p/w500/9GKw0yE8TNW8Gme4FOvvNdx0bnn.jpg|bartender|Animation|2024|6.9
+BARTENDER Glass of God|https://image.tmdb.org/t/p/w500/9GKw0yE8TNW8Gme4FOvvNdx0bnn.jpg|bartender-glass-of-god|Animation|2024|6.9
+Black Jack|https://image.tmdb.org/t/p/w500/lZKbi7Q2AimoJ7Ncpq3oituxjOB.jpg|black-jack|Animation|2004|8.6
+Blue Period|https://image.tmdb.org/t/p/w500/uUkcPV1tPxloYShhNiKxqyHuXmK.jpg|blue-period|Animation|2021|7.1
+Candy Boy|https://image.tmdb.org/t/p/w500/rUiEvIuGCgz9qnaiLczXPi8KrQA.jpg|candy-boy|Animation|2008|4.1
+Classroom Crisis|https://image.tmdb.org/t/p/w500/12vvTklZaXHSvfyuQMoi8HuHbh4.jpg|classroom-crisis|Animation|2015|7.5
+CUE!|https://image.tmdb.org/t/p/w500/yyCYwzb4keFcNPCQtqj2nh6URHj.jpg|cue|Animation|2022|7.1
+DEAD DEAD DEMONS DEDEDEDE DESTRUCTION|https://image.tmdb.org/t/p/w500/jdnZ6ePiPu8kuZp7qZnqdJglrZ4.jpg|dead-dead-demons-dededede-destruction|Animation|2024|7.8
+DoReMi|https://image.tmdb.org/t/p/w500/yODQ7MDKMbvc9H7T06CCDTdzgeX.jpg|doremi|Animation|1999|8.4
+Eden|https://image.tmdb.org/t/p/w500/2sJPpcEd83mILobIlDG1Jexu9bj.jpg|eden|Animation|2021|7.7
+Endro!|https://image.tmdb.org/t/p/w500/jY0tEG5m9U2IAhvmlxVm1QnAT87.jpg|endro|Animation|2019|6.3
+Frankenstein Family|https://image.tmdb.org/t/p/w500/ue72revk27X4RWIEHgrRVsPiffy.jpg|frankenstein-family|Animation|2018|8.3
+From up on Poppy Hill||from-up-on-poppy-hill|||
+Girl Friend BETA|https://image.tmdb.org/t/p/w500/45AsWSHZEnJYaSS3nIIYuOwn1sZ.jpg|girl-friend-beta|Animation|2014|4.8
+Hakumei & Mikochi|https://image.tmdb.org/t/p/w500/z07OXMsug7GxKMAQxZcwYsPx43x.jpg|hakumei-mikochi|Animation|2018|8.0
+Hanasaku Iroha|https://image.tmdb.org/t/p/w500/baTpnGzug23YCMYKzT3y09dO2zF.jpg|hanasaku-iroha|Animation|2011|7.2
+Harmony of Mille-Feuille|https://image.tmdb.org/t/p/w500/9UrRboLUVHz3m0W3U6e6X7hjBcD.jpg|harmony-of-mille-feuille|Animation|2025|7.7
+Haruchika – Haruta & Chika|https://image.tmdb.org/t/p/w500/aJckfwRocVA01JCFneUDvU9YPzI.jpg|haruchika-haruta-chika|Animation|2016|6.7
+Heidi: Girl of the Alps|https://image.tmdb.org/t/p/w500/lVyCXYC6itDcfr5u4rfsavXtvOS.jpg|heidi-girl-of-the-alps|Animation|1974|7.3
