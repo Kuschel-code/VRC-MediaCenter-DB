@@ -2248,3 +2248,53 @@ Gakuen Heaven|https://image.tmdb.org/t/p/w500/5oDWhaHisgM2llhnoiHpaZtx5id.jpg|ga
 Haikara-San: Here Comes Miss Modern|https://image.tmdb.org/t/p/w500/6ti088qR0Bkc1pNybBdoEtImmKk.jpg|haikara-san-here-comes-miss-modern|Animation|1978|7.3
 Hakubo|https://image.tmdb.org/t/p/w500/kV73FXNL3Vyzr2ugbff8Zecnmxw.jpg|hakubo|Mystery|2024|8.0
 Hal|https://image.tmdb.org/t/p/w500/AtKo2gANo2QBgZN9ebTAa8hXnvv.jpg|hal|Drama|2014|7.9
+Hana-Kimi|https://image.tmdb.org/t/p/w500/4BoA0q0oh1FJiRe9PlZCxlqX26T.jpg|hana-kimi|Animation|2026|7.4
+Honey and Clover|https://image.tmdb.org/t/p/w500/r9BlrgxYUjouB1ybDBYoJbPezs7.jpg|honey-and-clover|Animation|2005|8.1
+Honey Lemon Soda|https://image.tmdb.org/t/p/w500/yKIp0YdqAuqDAh2OkU8aqVLciRf.jpg|honey-lemon-soda|Animation|2025|8.3
+I've Always Liked You||ive-always-liked-you|||
+I’ll Become a Villainess Who Goes Down in History|https://image.tmdb.org/t/p/w500/wWWuXgeHprSqB3Ffm6L9CV4McTk.jpg|ill-become-a-villainess-who-goes-down-in-history|Animation|2024|7.7
+In the Clear Moonlit Dusk|https://image.tmdb.org/t/p/w500/3061lEeTTSb5NtX0ASXnRSO7Mo5.jpg|in-the-clear-moonlit-dusk|Animation|2026|8.9
+Inu × Boku Secret Service|https://image.tmdb.org/t/p/w500/qKAvOUHGOKQ0sVoNMWEaDTrzukJ.jpg|inu-boku-secret-service|Animation|2012|7.9
+Journal with witch|https://image.tmdb.org/t/p/w500/oMgxAEq7OVvkLDevVMfYwlAzBrP.jpg|journal-with-witch|Animation|2026|8.9
+Junjo Romantica|https://image.tmdb.org/t/p/w500/uk64dnQxQaqlWHJiP9M2oQdoedN.jpg|junjo-romantica|Animation|2008|6.9
+Kamigami no Asobi|https://image.tmdb.org/t/p/w500/eGyHddc7V6DRrnMg55RYAirIZDC.jpg|kamigami-no-asobi|Animation|2014|5.6
+KimiKiss Pure Rouge|https://image.tmdb.org/t/p/w500/naUpOu9yGGczI7p5uxgAdITA4LC.jpg|kimikiss-pure-rouge|Animation|2007|5.3
+Let's Play|https://image.tmdb.org/t/p/w500/ohEVj2YPIyIJxuT9uw6r4eDMD5Q.jpg|lets-play|Animation|2025|7.5
+Love Me, Love Me Not||love-me-love-me-not|||
+Magic-Kyun! Renaissance|https://image.tmdb.org/t/p/w500/v30kqHcOrFiShnOdNdNSWaEDW93.jpg|magic-kyun-renaissance|Animation|2016|7.3
+Manga Love Story - Step Up Love Story|https://image.tmdb.org/t/p/w500/zSJ9bMnIG5eEfgL626mA6Ky7VqW.jpg|manga-love-story-step-up-love-story|Drama|2002|4.6
+Mask Danshi: This Shouldn’t Lead to Love||mask-danshi-this-shouldnt-lead-to-love|||
+My Happy Marriage|https://image.tmdb.org/t/p/w500/c3qYlY1mEPxHf5PurGhyf54dUNT.jpg|my-happy-marriage|Animation|2023|8.3
+My Love Story with Yamada-kun at Lv999|https://image.tmdb.org/t/p/w500/qsanOnxFaZAwhR3zbXx3woWSXyN.jpg|my-love-story-with-yamada-kun-at-lv999|Animation|2023|8.0
+My Wife Has No Emotion|https://image.tmdb.org/t/p/w500/muNFUKudbjB8iTZhLfhifU4EogY.jpg|my-wife-has-no-emotion|Animation|2024|6.6
+Nagi-Asu: A Lull in the Sea|https://image.tmdb.org/t/p/w500/iKFay6wgUdVuFGr3xVJNRdCmNg6.jpg|nagi-asu-a-lull-in-the-sea|Animation|2013|7.7
+Norn9|https://image.tmdb.org/t/p/w500/r0ts9p6VN51pFeNIiW1vWRA9yd9.jpg|norn9|Sci-Fi & Fantasy|2016|5.5
+Ocean Waves|https://image.tmdb.org/t/p/w500/p5jejKmzrjMGg6Xz5b70Qy2fPBi.jpg|ocean-waves|Dokumentation|2021|8.0
+OneRoom|https://image.tmdb.org/t/p/w500/mANzjpm9YGabJMxIddGZvUlmtfr.jpg|oneroom|Animation|2017|5.7
+Our love has always been 10 centimeters apart.|https://image.tmdb.org/t/p/w500/wa0a8FIiqAgq3zX78fmlYGObuPW.jpg|our-love-has-always-been-10-centimeters-apart|Komoedie|2017|8.1
+Pass the Monster Meat, Milady!|https://image.tmdb.org/t/p/w500/6E1hsfFlwWr14yxfgmt9Lt7Gjw9.jpg|pass-the-monster-meat-milady|Animation|2025|8.8
+Peach Girl|https://image.tmdb.org/t/p/w500/wCruukiTYJXh3zz4Df7Zb1PaiHV.jpg|peach-girl|Animation|2005|8.2
+Photo Kano|https://image.tmdb.org/t/p/w500/tZ97EKLAUfI1lJTDVRshIwtJxtR.jpg|photo-kano|Animation|2013|6.1
+Ride Your Wave||ride-your-wave|||
+Room Mate|https://image.tmdb.org/t/p/w500/8AaD1HV2yDpd2HTfgKbSTD6p66B.jpg|room-mate|Animation|2017|4.6
+Sacrificial Princess and the King of Beasts|https://image.tmdb.org/t/p/w500/qmu5Ry16ZcqLyCZS8sWGEBxeGWT.jpg|sacrificial-princess-and-the-king-of-beasts|Animation|2023|6.9
+Sankarea: Undying Love|https://image.tmdb.org/t/p/w500/tksIwtOg3Rb6k5A0QjGP9ZdjMts.jpg|sankarea-undying-love|Animation|2012|7.8
+Sekai Ichi Hatsukoi: World's Greatest First Love|https://image.tmdb.org/t/p/w500/kv8Ds7MWYi3R057TNFsqeBWV2oF.jpg|sekai-ichi-hatsukoi-worlds-greatest-first-love|Animation|2011|6.0
+Shugo Chara!|https://image.tmdb.org/t/p/w500/cP1oeOZCDv1KlQcaV7IpDAUpoFc.jpg|shugo-chara|Animation|2007|7.8
+Snow White with the Red Hair|https://image.tmdb.org/t/p/w500/6ZPxehL2MdsKEtK163yCB9UNN5Z.jpg|die-rothaarige-schneeprinzessin|Animation|2015|7.7
+Strawberry Panic!|https://image.tmdb.org/t/p/w500/tpgJ26KgCMKY3ya8mOk5ulXzV2o.jpg|strawberry-panic|Animation|2006|7.0
+Suzuka|https://image.tmdb.org/t/p/w500/e2gyulTDHTbA9QYFM1ixfcmMAXv.jpg|suzuka|Animation|2005|7.3
+Sweet Blue Flowers|https://image.tmdb.org/t/p/w500/obgU4jGPfI0m2ACL60PLOpm32Ic.jpg|sweet-blue-flowers|Animation|2009|6.4
+Taisho Otome Fairy Tale|https://image.tmdb.org/t/p/w500/iqGc19gKzCAB4kkaYd4DQ2gCYUX.jpg|taisho-otome-fairy-tale|Animation|2021|7.4
+Tales of Wedding Rings|https://image.tmdb.org/t/p/w500/Ao0magelF5LRx1OIbgDdwXCoozf.jpg|tales-of-wedding-rings|Animation|2024|7.4
+Tawawa on Monday|https://image.tmdb.org/t/p/w500/8rRrwrZlcI57djvTHl3cvdhBhIG.jpg|tawawa-on-monday|Animation|2016|6.3
+The Ancient Magus’ Bride|https://image.tmdb.org/t/p/w500/7qFQf6FmS2J3kp1gBOxCdKFOpLG.jpg|the-ancient-magus-bride|Animation|2017|8.4
+The Angel Next Door Spoils Me Rotten|https://image.tmdb.org/t/p/w500/hXhtuSNOpOrLV734jPsTRhiuu2C.jpg|the-angel-next-door-spoils-me-rotten|Animation|2023|7.7
+The Disappearance of Nagato Yuki-Chan|https://image.tmdb.org/t/p/w500/iwPMIt3eR623SvYidbmcijH1UIt.jpg|the-disappearance-of-nagato-yuki-chan|Animation|2015|8.0
+The Do-Over Damsel Conquers the Dragon Emperor|https://image.tmdb.org/t/p/w500/w4NHQXOhfPuXsH8DqUAZCfr1kfS.jpg|the-do-over-damsel-conquers-the-dragon-emperor|Animation|2024|8.1
+The Fragrant Flower Blooms with Dignity|https://image.tmdb.org/t/p/w500/fjiNB5WDLhV92BcOZHMdlyJZEh0.jpg|the-fragrant-flower-blooms-with-dignity|Animation|2025|8.6
+The Garden of Words||the-garden-of-words|||
+The Moment You Fall in Love||the-moment-you-fall-in-love|||
+The Saint’s Magic Power is Omnipotent|https://image.tmdb.org/t/p/w500/2TYcmIWX0z3SFPECBKJ8uWt3Nr7.jpg|the-saints-magic-power-is-omnipotent|Animation|2021|7.8
+The Stranger by the Shore||the-stranger-by-the-shore|||
+The Too-Perfect Saint: Tossed Aside by My Fiancé and Sold to Another Kingdom|https://image.tmdb.org/t/p/w500/9PwQYncRgFiPidLWeZYJqOrEKg8.jpg|the-too-perfect-saint-tossed-aside-by-my-fianc-and-sold-to-another-kingdom|Animation|2025|7.0
