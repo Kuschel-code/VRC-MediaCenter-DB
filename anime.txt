@@ -1348,3 +1348,53 @@ Hunter x Hunter|https://image.tmdb.org/t/p/w500/9WxfAQquTun9ATkV6iAeFHMkqxv.jpg|
 Hunter X Hunter (1999)|https://image.tmdb.org/t/p/w500/eobAuhCJA8oRp814V67WhezVXtQ.jpg|hunter-x-hunter-1999|Sci-Fi & Fantasy|1999|8.5
 InuYasha|https://image.tmdb.org/t/p/w500/5pMVrmb6tGmNAH0sX7guM9WbrU3.jpg|inuyasha|Animation|2000|8.6
 JoJo’s Bizarre Adventure (1993)|https://image.tmdb.org/t/p/w500/thyLlWU5CyenrPxKunztZFwfZE1.jpg|jojos-bizarre-adventure-1993|Animation|1993|6.9
+JoJo's Bizarre Adventure|https://image.tmdb.org/t/p/w500/ieP7Q9z24sNUfVNFC38rYBw6yxq.jpg|jojos-bizarre-adventure|Animation|2012|8.6
+Kekkaishi|https://image.tmdb.org/t/p/w500/sbYERVfpRqGMJJQjmsP1cu1qdEU.jpg|kekkaishi|Animation|2006|6.9
+Kenichi: The Mightiest Disciple|https://image.tmdb.org/t/p/w500/1AUBZdBBe4q3XiZrH13vFQPv6S5.jpg|kenichi-the-mightiest-disciple|Action & Abenteuer|2006|8.4
+Knights of the Zodiac|https://image.tmdb.org/t/p/w500/yzfjuIkWzO0ImMEgg9fMHDzR3JP.jpg|knights-of-the-zodiac|Animation|2019|7.4
+MÄR|https://image.tmdb.org/t/p/w500/dwbBOqCqfc6Fj136zdXUHZiaWOQ.jpg|mr|Animation|2005|8.2
+Naruto|https://image.tmdb.org/t/p/w500/mErFfyQuQ9kkbsR30d8CkZf0Z6s.jpg|naruto|Animation|2002|8.4
+Naruto Shippuden|https://image.tmdb.org/t/p/w500/qOxedwaJzdms2alAmIEHEnDeDzg.jpg|naruto-shippuden|Animation|2007|8.5
+Nura: Rise of the Yokai Clan|https://image.tmdb.org/t/p/w500/krFVaIPQlN49Avx5VZ2rhb4aNFi.jpg|nura-rise-of-the-yokai-clan|Animation|2010|7.6
+Oedo Fire Slayer -The Legend of Phoenix-|https://image.tmdb.org/t/p/w500/a6h3VxKHQy6YHgwlb2O90wPGq81.jpg|oedo-fire-slayer-the-legend-of-phoenix|Animation|2026|6.0
+One Piece|https://image.tmdb.org/t/p/w500/oag7edI9flSMawmNySEiSEJAbrf.jpg|one-piece|Action & Abenteuer|1999|8.7
+One Piece (2025)||one-piece-2025|||
+One Piece Log: Fish-Man Island Saga|https://image.tmdb.org/t/p/w500/oag7edI9flSMawmNySEiSEJAbrf.jpg|one-piece-log-fish-man-island-saga|Action & Abenteuer|1999|8.7
+Queen’s Blade|https://image.tmdb.org/t/p/w500/2DmbkSwMX0mxL0OFSDyZw4UL3t7.jpg|queens-blade|Animation|2009|6.2
+Reborn!|https://image.tmdb.org/t/p/w500/6x7mx9f3ufHCC3pNgMoMnzVo3jw.jpg|reborn|Animation|2006|8.1
+Rental Magica|https://image.tmdb.org/t/p/w500/8SSlkdfRsWy0ltIL2zTDWmwdnEU.jpg|rental-magica|Animation|2007|5.0
+Saint Seiya - The Hades Chapter|https://image.tmdb.org/t/p/w500/aDFZTZSBm0K91yyJOtoBYcWkjwt.jpg|saint-seiya-the-hades-chapter|Action & Abenteuer|2002|8.0
+Saint Seiya: Knights of the Zodiac|https://image.tmdb.org/t/p/w500/yzfjuIkWzO0ImMEgg9fMHDzR3JP.jpg|saint-seiya-knights-of-the-zodiac|Animation|2019|7.4
+Sengoku Basara - Samurai Kings|https://image.tmdb.org/t/p/w500/qpZLwzQEKE0Z2K1qFlOoPIQsZhD.jpg|sengoku-basara-samurai-kings|Animation|2009|6.2
+Shaman King|https://image.tmdb.org/t/p/w500/tAOwHV9gwx3leW26Xch5gi16aII.jpg|shaman-king|Animation|2021|8.2
+Shaman King (2021)|https://image.tmdb.org/t/p/w500/tAOwHV9gwx3leW26Xch5gi16aII.jpg|shaman-king-2021|Animation|2021|8.2
+Soul Eater|https://image.tmdb.org/t/p/w500/hI5AhxFTSFabTG7Fvhczyb5ZIh8.jpg|soul-eater|Action & Abenteuer|2008|7.8
+Street Fighter II - Victory|https://image.tmdb.org/t/p/w500/p7VSebvaZ6eWTrJDFh1sV7h6GV2.jpg|street-fighter-ii-victory|Animation|1995|7.9
+Super Dragonball Heroes|https://image.tmdb.org/t/p/w500/79C1S70I2nR4o0WpVETIezT3jyG.jpg|super-dragonball-heroes|Animation|2018|7.6
+Tekken: The Motion Picture||tekken-the-motion-picture|||
+Tenjho Tenge|https://image.tmdb.org/t/p/w500/m9u9tDGT1r2MkNd07XkoJ2w4Zwd.jpg|tenjho-tenge|Action & Abenteuer|2004|7.6
+The God of High School|https://image.tmdb.org/t/p/w500/gfMBnUVzWTlal8Hr0RfgnVe6kHW.jpg|the-god-of-high-school|Animation|2020|8.2
+The Law of Ueki|https://image.tmdb.org/t/p/w500/jvtYweoXcEBAjBzfhQ3de4znYRV.jpg|the-law-of-ueki|Animation|2005|7.8
+Tokyo Underground|https://image.tmdb.org/t/p/w500/kLU6cgNT8V0cwtKj5g0NgsQNRCn.jpg|tokyo-underground|Animation|2002|6.3
+Toriko|https://image.tmdb.org/t/p/w500/B4LfAocYy0EEpPNYpJpkj3o23p.jpg|toriko|Animation|2011|7.5
+World Trigger|https://image.tmdb.org/t/p/w500/nLqkR8Pe0IVRCgSK0dYUkqvXr0r.jpg|world-trigger|Animation|2014|7.2
+Yashahime: Princess Half-Demon|https://image.tmdb.org/t/p/w500/xnHfAL0zejjJo7OBmWkY96uDhde.jpg|yashahime-princess-half-demon|Animation|2020|8.3
+Yu Yu Hakusho: Ghost Files|https://image.tmdb.org/t/p/w500/Aq5af62w7eQlqjK6vgpEbFA8Z2b.jpg|yu-yu-hakusho-ghost-files|Animation|1992|8.5
+Zombie-Loan|https://image.tmdb.org/t/p/w500/lcfubN14JxIFpUjtG03xdhp4GTQ.jpg|zombie-loan|Animation|2007|5.8
+22/7|https://image.tmdb.org/t/p/w500/cjWycw8txvMmEwrvKe3ECIPYFNK.jpg|227|Animation|2020|6.8
+A3!|https://image.tmdb.org/t/p/w500/2QROy0rSIv3bbtPid79vagE6zBl.jpg|a3|Animation|2020|6.4
+Ace of the Diamond|https://image.tmdb.org/t/p/w500/2kqZX7OKVHkLm2XmI2AXxAd0MrA.jpg|ace-of-the-diamond|Animation|2013|8.0
+Ahiru no Sora|https://image.tmdb.org/t/p/w500/emHuXZPwTxqkzNtwOTsmf0CERrX.jpg|ahiru-no-sora|Animation|2019|8.4
+Aikatsu Stars!|https://image.tmdb.org/t/p/w500/fiWqW5wYF702dpQWwSeRwKOyXqZ.jpg|aikatsu-stars|Animation|2016|7.3
+Aikatsu!|https://image.tmdb.org/t/p/w500/tRALkRAPfXlDsJ8XPx9Shz4mvsC.jpg|aikatsu|Animation|2012|6.7
+Air Gear|https://image.tmdb.org/t/p/w500/fbNkD6MxjSuAN9TFP6rsWwo5gkc.jpg|air-gear|Komoedie|2006|7.2
+Air Master|https://image.tmdb.org/t/p/w500/zGzDKBByPb3AmIvqCbHBGCKtHBg.jpg|air-master|Animation|2003|8.2
+AKB0048|https://image.tmdb.org/t/p/w500/lRTmEAerrjdBEqGzRA8y1lp8BoF.jpg|akb0048|Animation|2012|5.7
+All Out!!|https://image.tmdb.org/t/p/w500/vj7gUFUHkgTK9SBCxeW9puI7fmc.jpg|all-out|Animation|2016|6.9
+Angelic Layer|https://image.tmdb.org/t/p/w500/nrVA34pYtKrU3dWe1qNwX3KW4W.jpg|angelic-layer|Animation|2001|7.1
+Aoashi|https://image.tmdb.org/t/p/w500/bR33xoasXnezj9UM0Murnjpyz9T.jpg|aoashi|Animation|2022|7.5
+Aokana Four Rhythm Across the Blue|https://image.tmdb.org/t/p/w500/lkcHwnrYmxLMOZmhgcsJd4Afidd.jpg|aokana-four-rhythm-across-the-blue|Animation|2016|7.0
+ARP Backstage Pass|https://image.tmdb.org/t/p/w500/sNizur7SsRX3VfhrJWWY4wPE1Ba.jpg|arp-backstage-pass|Animation|2020|8.5
+B-Project|https://image.tmdb.org/t/p/w500/2GuZ8IRVYXkepzYZGz3kBsmr5ot.jpg|b-project|Animation|2016|7.0
+Baby Steps|https://image.tmdb.org/t/p/w500/dVXgyHizeUbL1RdyKd58WjVGrNv.jpg|baby-steps|Animation|2014|7.6
+Bakugan Battle Brawlers|https://image.tmdb.org/t/p/w500/wAqs4kdvCUNlzF9NK4OEV7WheHP.jpg|bakugan-battle-brawlers|Action & Abenteuer|2007|8.3
