@@ -2,15 +2,16 @@ name: Update AniWorld Database
 
 on:
   schedule:
-    # Jeden Tag um 03:00 Uhr UTC (05:00 Uhr MEZ)
     - cron: "0 3 * * *"
-  # Manuell ausfuehrbar ueber GitHub-UI
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   update-db:
     runs-on: ubuntu-latest
-    timeout-minutes: 90   # Reduziert – Job beendet sich selbst nach 2h40min
+    timeout-minutes: 90
 
     steps:
       - name: Checkout repository
@@ -31,6 +32,7 @@ jobs:
         run: python update_library.py
         env:
           TMDB_API_KEY: ${{ secrets.TMDB_API_KEY }}
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           GIT_AUTHOR_NAME: "GitHub Actions Bot"
           GIT_AUTHOR_EMAIL: "actions@github.com"
           GIT_COMMITTER_NAME: "GitHub Actions Bot"
