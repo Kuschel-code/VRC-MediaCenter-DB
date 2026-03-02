@@ -248,3 +248,53 @@ Tales from Earthsea||tales-from-earthsea|||
 Tales of the Abyss|https://image.tmdb.org/t/p/w500/yXJUcoxr3A37aaEOS9rUyJ8sZq5.jpg|tales-of-the-abyss|Animation|2008|8.0
 Tales of Zestiria the X|https://image.tmdb.org/t/p/w500/eX9C4mDnUCkANB3bOteQem6w1OT.jpg|tales-of-zestiria-the-x|Animation|2016|7.1
 Tekken: Bloodline|https://image.tmdb.org/t/p/w500/bi3XOKS38K7FdH9nPtsZCcmeL1F.jpg|tekken-bloodline|Action & Abenteuer|2022|7.4
+Tenchi Muyo! GXP|https://image.tmdb.org/t/p/w500/ilxwGd1ZkGvppNcrgdS2bAKyulN.jpg|tenchi-muyo-gxp|Animation|2023|7.0
+That Time I Got Reincarnated as a Slime|https://image.tmdb.org/t/p/w500/xIii429x1JfP4q1GYBUU7FbtgUN.jpg|that-time-i-got-reincarnated-as-a-slime|Action & Abenteuer|2018|8.4
+The 8th Son? Are You Kidding Me?|https://image.tmdb.org/t/p/w500/idf6ifG86UxmDy80JM3uzv0Hah2.jpg|the-8th-son-are-you-kidding-me|Animation|2020|7.6
+The Aristocrat’s Otherworldly Adventure: Serving Gods Who Go Too Far|https://image.tmdb.org/t/p/w500/wjuHCEs7pjraHYZAYUXimVTE2rj.jpg|the-aristocrats-otherworldly-adventure-serving-gods-who-go-too-far|Animation|2023|7.1
+The Banished Court Magician Aims to Become the Strongest|https://image.tmdb.org/t/p/w500/5p776h6Sh0AJ4CapzXsKu74Uw65.jpg|the-banished-court-magician-aims-to-become-the-strongest|Animation|2025|7.2
+The Banished Former Hero Lives as He Pleases|https://image.tmdb.org/t/p/w500/tnvLM8R1xY7IRnhSZFIulCgJc2H.jpg|the-banished-former-hero-lives-as-he-pleases|Animation|2024|6.1
+The Beginning After the End|https://image.tmdb.org/t/p/w500/2NogAa2FQmZJkwHJTwiuCHfxIFD.jpg|the-beginning-after-the-end|Animation|2025|7.0
+The Boy and The Beast||the-boy-and-the-beast|||
+The Boy and the Heron||the-boy-and-the-heron|||
+The Candidate for Goddess|https://image.tmdb.org/t/p/w500/hFxrIukGvVGlsOEg1wRS5K6ogep.jpg|the-candidate-for-goddess|Animation|2000|7.0
+The Case Book of Arne|https://image.tmdb.org/t/p/w500/AbpAfT1RJ4IMB2uxUucXfaPMrFa.jpg|the-case-book-of-arne|Animation|2026|6.3
+The Case Study of Vanitas|https://image.tmdb.org/t/p/w500/sja5f0YyKe7G6bVtSrpaXCvd9ia.jpg|the-case-study-of-vanitas|Animation|2021|8.2
+The Cat Returns||the-cat-returns|||
+The Deer King||the-deer-king|||
+The Demon Queen has a Death Wish|https://image.tmdb.org/t/p/w500/aSsbMsJcKFmyR1m5NTmBss3ZBLm.jpg|the-demon-queen-has-a-death-wish|Animation|2023|
+The Dungeon of Black Company|https://image.tmdb.org/t/p/w500/oI8GUl7CPzlEXwjtPJfjnudbsp4.jpg|the-dungeon-of-black-company|Animation|2021|7.4
+The Forgotten Princess Just Wants Peace|https://image.tmdb.org/t/p/w500/pChyPWPoQvfeAbV3zbeVIY9bRiL.jpg|the-forgotten-princess-just-wants-peace|Animation|2023|7.5
+The Great Adventures of Robin Hood||the-great-adventures-of-robin-hood|||
+The Great Cleric|https://image.tmdb.org/t/p/w500/hYXSXKCYFNvpD8VIEqyJF2oYHQF.jpg|the-great-cleric|Animation|2023|6.9
+The Heroic Legend of Arslan|https://image.tmdb.org/t/p/w500/3CRKmwqethibNdMYVa3kXe9FHUl.jpg|the-heroic-legend-of-arslan|Animation|2015|7.0
+The Hidden Dungeon Only I Can Enter|https://image.tmdb.org/t/p/w500/ynJyKaPJ3I39yEe9IwyxL5uKnIP.jpg|the-hidden-dungeon-only-i-can-enter|Animation|2021|8.0
+The Honor at Magic High School|https://image.tmdb.org/t/p/w500/zEZXEFlctCs7lMaNj35BzuXPppB.jpg|the-honor-at-magic-high-school|Animation|2021|6.6
+The Idaten Deities Know Only Peace|https://image.tmdb.org/t/p/w500/xwuVAM68rxkdUU8cncg8p2zo3PO.jpg|the-idaten-deities-know-only-peace|Animation|2021|8.0
+The Jungle Book|https://image.tmdb.org/t/p/w500/8bxGKgG2KGoNfHhctcTHVao5lJA.jpg|the-jungle-book|Animation|2010|5.8
+The Legend of Hei|https://image.tmdb.org/t/p/w500/bDhBjhFknuPx3mcCInuTa3XaQmw.jpg|the-legend-of-hei|Animation|2011|9.2
+The Legend of Heroes: Trails in the Sky|https://image.tmdb.org/t/p/w500/xfxalhQglYa4EosMIcMoiq4FlJ8.jpg|the-legend-of-heroes-trails-in-the-sky|Animation|2011|6.2
+The Legend of Heroes: Trails of Cold Steel - Northern War|https://image.tmdb.org/t/p/w500/9QRDYxdqvnrekjZL7o0G0cmtf4c.jpg|the-legend-of-heroes-trails-of-cold-steel-northern-war|Animation|2023|6.0
+The Legend of Snow White|https://image.tmdb.org/t/p/w500/9cXgVjrfqwDqWO3Kz2SxoYt3Aoy.jpg|the-legend-of-snow-white|Animation|2001|6.1
+The Legend of the Legendary Heroes|https://image.tmdb.org/t/p/w500/lPprgRBG1hwrgC8YzhhrTSU00FO.jpg|the-legend-of-the-legendary-heroes|Animation|2010|8.0
+The Legend of Zorro|https://image.tmdb.org/t/p/w500/gNxDr0pGaYqc1JllTAPXJTvTZUg.jpg|the-legend-of-zorro|Animation|1996|6.9
+THE NEW GATE|https://image.tmdb.org/t/p/w500/c1JCYZ6anQCKHxSgBPCtUdNnWoB.jpg|the-new-gate|Animation|2024|7.0
+The Ossan Newbie Adventurer, Trained to Death by the Most Powerful Party, Became Invincible|https://image.tmdb.org/t/p/w500/rYyRIZJ1DypSgeA8ShtPsLTo9I4.jpg|the-ossan-newbie-adventurer-trained-to-death-by-the-most-powerful-party-became-invincible|Action & Abenteuer|2024|7.9
+The Red Ranger Becomes an Adventurer in Another World|https://image.tmdb.org/t/p/w500/6Mh3iaUrL4ZPvpmbCJKBICBEbNi.jpg|the-red-ranger-becomes-an-adventurer-in-another-world|Animation|2025|7.9
+The Reincarnation of the Strongest Exorcist in Another World|https://image.tmdb.org/t/p/w500/czPKN4hxAK1l3derOKEA0bKh8ac.jpg|the-reincarnation-of-the-strongest-exorcist-in-another-world|Animation|2023|7.2
+The Rising of the Shield Hero|https://image.tmdb.org/t/p/w500/yX0d6aTjHrE5Sjp6gZ1dkPWCmIF.jpg|the-rising-of-the-shield-hero|Animation|2019|8.5
+The Sacred Blacksmith|https://image.tmdb.org/t/p/w500/cP3KmUi1m0Dnc8OqhPaL2NACyvF.jpg|the-sacred-blacksmith|Action & Abenteuer|2009|6.9
+The Silver Guardian|https://image.tmdb.org/t/p/w500/2gd8uO8dsW9OaO4TiBPImsZi3ji.jpg|the-silver-guardian|Action & Abenteuer|2017|6.2
+The Strongest Sage with the Weakest Crest|https://image.tmdb.org/t/p/w500/u6Uabzw8y7hHOygvR2JWnzHUzLX.jpg|the-strongest-sage-with-the-weakest-crest|Animation|2022|7.1
+The Unwanted Undead Adventurer|https://image.tmdb.org/t/p/w500/krnR0ANlwtlNEX7jgO8NJtj7QiB.jpg|the-unwanted-undead-adventurer|Animation|2024|7.7
+The Water Magician|https://image.tmdb.org/t/p/w500/qYK9kCN23Lrg9jcPh1QDBL0PeWw.jpg|the-water-magician|Animation|2025|7.3
+The Weakest Tamer Began a Journey to Pick Up Trash|https://image.tmdb.org/t/p/w500/pWrBCMA1Z2OaUNRy8UNMjg3SjDv.jpg|the-weakest-tamer-began-a-journey-to-pick-up-trash|Animation|2024|7.7
+The Witch and the Beast|https://image.tmdb.org/t/p/w500/cnvGV9vmIJVXh5YRjMbMtxpdsVg.jpg|the-witch-and-the-beast|Animation|2024|7.9
+The World Ends with You: The Animation|https://image.tmdb.org/t/p/w500/apHvxqMVuxIGDOL9lLOyA9q2a3z.jpg|the-world-ends-with-you-the-animation|Animation|2021|7.3
+The World is Still Beautiful|https://image.tmdb.org/t/p/w500/kACJklThcl28yrVfWUCzHy05yla.jpg|the-world-is-still-beautiful|Animation|2014|7.3
+Tokyo Godfathers||tokyo-godfathers|||
+Touring After the Apocalypse|https://image.tmdb.org/t/p/w500/4oqz7YOvvsn6rqgdkpRF0Z8CYMq.jpg|touring-after-the-apocalypse|Animation|2025|8.3
+Train to the End of the World|https://image.tmdb.org/t/p/w500/jS0XEpSCBgWWpiiX6LjmrNt805K.jpg|train-to-the-end-of-the-world|Animation|2024|6.9
+Tribe Nine|https://image.tmdb.org/t/p/w500/fH9wo23VGzWIK0rHkEEbidWpK12.jpg|tribe-nine|Animation|2022|6.1
+Tsubasa Chronicle|https://image.tmdb.org/t/p/w500/zVyrHP3xgNqvMXfxZhPepCjog7c.jpg|tsubasa-chronicle|Animation|2005|6.8
+Tsukimichi: Moonlit Fantasy|https://image.tmdb.org/t/p/w500/exhONC020D4DGvt7XB4nq9AOMDU.jpg|tsukimichi-moonlit-fantasy|Animation|2021|8.4
