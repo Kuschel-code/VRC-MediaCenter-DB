@@ -748,3 +748,53 @@ Guilty Crown|https://image.tmdb.org/t/p/w500/x7O5mncnegqfEAp74mQfIhFbkMF.jpg|gui
 Gungrave|https://image.tmdb.org/t/p/w500/42PVFTRjY6UCJKz3u6czzIrktrM.jpg|gungrave|Animation|2003|7.4
 Hakkenden: Eight Dogs of the East|https://image.tmdb.org/t/p/w500/2ilWmJ8k542E7HgLmofZXmCTQyj.jpg|hakkenden-eight-dogs-of-the-east|Animation|2013|7.4
 Hand Shakers|https://image.tmdb.org/t/p/w500/yOKIeM1JUOe6KD7eYk6woviI6D0.jpg|hand-shakers|Action & Abenteuer|2017|5.5
+Harem in the Labyrinth of Another World|https://image.tmdb.org/t/p/w500/wPvm5sHwDEoPsu0IIPwt6MlKhqq.jpg|harem-in-the-labyrinth-of-another-world|Animation|2022|7.2
+Heavy Object|https://image.tmdb.org/t/p/w500/eA5si7XKXwYhkAFbcPorseuhDB6.jpg|heavy-object|Animation|2015|6.9
+Hell's Paradise|https://image.tmdb.org/t/p/w500/jfPqPQy2EiS8TwDlbvU9hgyxCdF.jpg|hells-paradise|Animation|2023|8.2
+Hiiro no Kakera: The Tamayori Princess Saga|https://image.tmdb.org/t/p/w500/p3G9usOaE4MZ2RS612cbCgFsI5a.jpg|hiiro-no-kakera-the-tamayori-princess-saga|Drama|2012|6.0
+I’m Standing on a Million Lives|https://image.tmdb.org/t/p/w500/fbBY1UEW7Vx2alMrjg6xNNM3Pv9.jpg|im-standing-on-a-million-lives|Animation|2020|6.5
+Ikebukuro West Gate Park|https://image.tmdb.org/t/p/w500/kix66RNyfrE0bdQUjQal6vgaOV0.jpg|ikebukuro-west-gate-park|Animation|2020|6.2
+Inuyashiki Last Hero|https://image.tmdb.org/t/p/w500/5zqngLZU6PBblfzOqu4TmejcFp2.jpg|inuyashiki-last-hero|Animation|2017|8.0
+Izetta, The Last Witch|https://image.tmdb.org/t/p/w500/4dvUaTf9PgODIku0B3RtjXZsUvD.jpg|izetta-the-last-witch|Action & Abenteuer|2016|7.3
+Jujutsu Kaisen|https://image.tmdb.org/t/p/w500/zKFkzRn1UyE11Jv9CJjVmvmQFvR.jpg|jujutsu-kaisen|Animation|2020|8.6
+Kabaneri of the Iron Fortress|https://image.tmdb.org/t/p/w500/5Iw4PGoSxJCAoFqmOa3ZnPWS5jY.jpg|kabaneri-of-the-iron-fortress|Animation|2016|6.9
+Karakuri Circus|https://image.tmdb.org/t/p/w500/pUhEiAZXI6OqlUnIbUjlANzY8V9.jpg|karakuri-circus|Action & Abenteuer|2018|8.2
+King’s Raid: Successors of the Will|https://image.tmdb.org/t/p/w500/5z2YQG9X4esFFKcKgcbzpImKphn.jpg|kings-raid-successors-of-the-will|Animation|2020|7.8
+Kochoki|https://image.tmdb.org/t/p/w500/aR7cYeWsxpA333unkCeM6xIOJOR.jpg|kochoki|Animation|2019|6.2
+Kokkoku|https://image.tmdb.org/t/p/w500/jeJApvJOlhgDTqUwuxKhpEXJqMO.jpg|kokkoku|Animation|2018|7.0
+Laughing Under the Clouds|https://image.tmdb.org/t/p/w500/hw5WmqIccMPKtNjw6fGI8qkLcVk.jpg|laughing-under-the-clouds|Animation|2014|7.1
+Legend of the Galactic Heroes|https://image.tmdb.org/t/p/w500/aulptGcYofH3KaFAmoBgicTbea1.jpg|legend-of-the-galactic-heroes|Sci-Fi & Fantasy|1988|8.7
+Legend of the Galactic Heroes: Die Neue These|https://image.tmdb.org/t/p/w500/dqrE88EZUs9qjqMjNEyeHD7dnO2.jpg|legend-of-the-galactic-heroes-die-neue-these|Action & Abenteuer|2018|7.7
+Listeners|https://image.tmdb.org/t/p/w500/n0POfeEvy3NQH0sRZ0fW1TNzM14.jpg|listeners|Animation|2020|7.1
+Lord of Mysteries|https://image.tmdb.org/t/p/w500/kBRyCCZWipMO5Gu9Y02nE3iMgr0.jpg|lord-of-mysteries|Animation|2025|8.7
+Magatsu Wahrheit|https://image.tmdb.org/t/p/w500/b1QTrOrbkmj6lp70GyDpwU0zqw8.jpg|magatsu-wahrheit|Animation|2020|6.7
+Magia Record: Puella Magi Madoka Magica Side Story|https://image.tmdb.org/t/p/w500/syBNkb4sSD1cqMJEnlwwcQGt4Qu.jpg|magia-record-mahou-shoujo-madoka-magica-gaiden|Animation|2020|6.9
+Magical Girl Lyrical Nanoha|https://image.tmdb.org/t/p/w500/oCyNR085MvIwTap6A4txgFWEGEm.jpg|magical-girl-lyrical-nanoha|Action & Abenteuer|2004|7.2
+Magical Girl Spec-Ops Asuka|https://image.tmdb.org/t/p/w500/mdhPQXEj3X34DdBChCuYd9xdyVu.jpg|magical-girl-spec-ops-asuka|Animation|2019|6.3
+Mai-HiME|https://image.tmdb.org/t/p/w500/cWZhtbCNHGtivsebbbxxnw8mczE.jpg|mai-hime|Animation|2004|6.6
+Make My Day|https://image.tmdb.org/t/p/w500/74qmlWDOVB2YXN5Cr1PclL808kG.jpg|make-my-day|Animation|2023|6.5
+Mekakucity Actors|https://image.tmdb.org/t/p/w500/4fYd1cBnv2CEYW3bdQvcWCOwXhK.jpg|mekakucity-actors|Animation|2014|5.7
+Mobile Suit Gundam|https://image.tmdb.org/t/p/w500/et7TAbuD2bF6QCdOyzv7Fxu15Aq.jpg|mobile-suit-gundam|Action & Abenteuer|2002|7.6
+Mobile Suit Gundam 00|https://image.tmdb.org/t/p/w500/5zej1XYlz6Rq4LS0jnsp9Saee2b.jpg|mobile-suit-gundam-00|Action & Abenteuer|2007|7.6
+Mobile Suit Gundam Seed|https://image.tmdb.org/t/p/w500/et7TAbuD2bF6QCdOyzv7Fxu15Aq.jpg|mobile-suit-gundam-seed|Action & Abenteuer|2002|7.6
+Mobile Suit Gundam Wing|https://image.tmdb.org/t/p/w500/6SmgoFD32LA2utwJhXYLHNviPS.jpg|mobile-suit-gundam-wing|Action & Abenteuer|1995|7.9
+Mobile Suit Gundam: Iron Blooded Orphans|https://image.tmdb.org/t/p/w500/8Lw1Y8nMmcvjlB6AdUPL4A0XkcO.jpg|mobile-suit-gundam-iron-blooded-orphans|Animation|2015|7.5
+Mobile Suit Gundam: The Witch from Mercury|https://image.tmdb.org/t/p/w500/h1qliYBRsnQdxCbFWQxcnBRW3pm.jpg|mobile-suit-gundam-the-witch-from-mercury|Animation|2022|7.5
+Muv-Luv Alternative: Total Eclipse|https://image.tmdb.org/t/p/w500/cNeaqzxwkHoo5fVlC709rv6dgDo.jpg|muv-luv-alternative-total-eclipse|Animation|2012|5.6
+My Status as an Assassin Obviously Exceeds the Hero's|https://image.tmdb.org/t/p/w500/s6WDifHpVESSQUbjGuHZAwShVld.jpg|my-status-as-an-assassin-obviously-exceeds-the-heros|Animation|2025|7.1
+Neon Genesis Evangelion|https://image.tmdb.org/t/p/w500/AhtWPHqIT1cWdrKTZVDMZD4Ca4F.jpg|neon-genesis-evangelion|Sci-Fi & Fantasy|1995|8.6
+Noblesse|https://image.tmdb.org/t/p/w500/czcrMXV7oCwg0gRfTAHcphmSnVl.jpg|noblesse|Animation|2020|8.4
+Noir|https://image.tmdb.org/t/p/w500/2gIfJXgcz6N2wgOZ4qXoNKh0qFZ.jpg|noir|Action & Abenteuer|2015|8.0
+Parasyte: The Maxim|https://image.tmdb.org/t/p/w500/dC1rIfKScgrHjmZYdTpUgWpZF4h.jpg|parasyte-the-maxim|Animation|2014|8.3
+Peacemaker Kurogane|https://image.tmdb.org/t/p/w500/tIN3oZaEwJ7O4jjGmdpI8v6go8C.jpg|peacemaker-kurogane|Animation|2003|6.3
+Phantom - Requiem for the Phantom|https://image.tmdb.org/t/p/w500/n4PghczajiIhQCUMcO5s7UiHEK2.jpg|phantom-requiem-for-the-phantom|Animation|2009|7.1
+Phantom in the Twilight|https://image.tmdb.org/t/p/w500/svQgyQM9mnEeQC8KtbNvU6Bhs76.jpg|phantom-in-the-twilight|Action & Abenteuer|2018|5.1
+Planet With|https://image.tmdb.org/t/p/w500/cj7vHd6nNGPGeAcoiEe80TYa3mT.jpg|planet-with|Animation|2018|5.6
+Plastic Memories|https://image.tmdb.org/t/p/w500/x0uScsfjjIiZCPPojvZcWkn5hSi.jpg|plastic-memories|Animation|2015|8.2
+Pumpkin Scissors|https://image.tmdb.org/t/p/w500/qjmMoVuBrF3tnnY1UY0c6aRn0Bn.jpg|pumpkin-scissors|Animation|2006|6.8
+Rainbow|https://image.tmdb.org/t/p/w500/cAORJWMV0ufuYrYSFrznDTh22AU.jpg|rainbow-die-sieben-von-zelle-sechs|Komoedie|1972|6.6
+Re:Creators|https://image.tmdb.org/t/p/w500/kVxFvpttZ8V3zog5eoFmzMVFppy.jpg|recreators|Animation|2017|6.5
+Record of Ragnarok|https://image.tmdb.org/t/p/w500/m28Ey0LYoeqzx7mdJ25NVUqRueB.jpg|record-of-ragnarok|Action & Abenteuer|2021|8.4
+Riddle Story of Devil|https://image.tmdb.org/t/p/w500/rX5ok0NJ1eoWX39ydBmVxmLMHjB.jpg|riddle-story-of-devil|Animation|2014|7.7
+SAMURAI 7|https://image.tmdb.org/t/p/w500/LlW1lmRT2RKVLgm3s9huGgd5U3.jpg|samurai-7|Action & Abenteuer|2004|7.0
+Schwarzes Marken|https://image.tmdb.org/t/p/w500/4HLc8gAU1SmAClUvkm5kMtsk1Zn.jpg|schwarzes-marken|Animation|2016|6.8
