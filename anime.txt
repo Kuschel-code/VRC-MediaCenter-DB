@@ -1048,3 +1048,53 @@ Hanasaku Iroha|https://image.tmdb.org/t/p/w500/baTpnGzug23YCMYKzT3y09dO2zF.jpg|h
 Harmony of Mille-Feuille|https://image.tmdb.org/t/p/w500/9UrRboLUVHz3m0W3U6e6X7hjBcD.jpg|harmony-of-mille-feuille|Animation|2025|7.7
 Haruchika – Haruta & Chika|https://image.tmdb.org/t/p/w500/aJckfwRocVA01JCFneUDvU9YPzI.jpg|haruchika-haruta-chika|Animation|2016|6.7
 Heidi: Girl of the Alps|https://image.tmdb.org/t/p/w500/lVyCXYC6itDcfr5u4rfsavXtvOS.jpg|heidi-girl-of-the-alps|Animation|1974|7.3
+Insomniacs After School|https://image.tmdb.org/t/p/w500/ylD0D1AZlLt3rc0xEbWDIaNupUY.jpg|insomniacs-after-school|Animation|2023|7.7
+Into the Forest of Fireflies' Light||into-the-forest-of-fireflies-light|||
+Iroduku: The World in Colors|https://image.tmdb.org/t/p/w500/grt2ThsL7DEpbPLlAPHOYXQAi19.jpg|iroduku-the-world-in-colors|Animation|2018|7.2
+Kiki’s Delivery Service||kikis-delivery-service|||
+Kiyo in Kyoto: From the Maiko House|https://image.tmdb.org/t/p/w500/eGlYyJcIAnZ4uJ29c7USnT734KD.jpg|kiyo-in-kyoto-from-the-maiko-house|Animation|2021|6.9
+Kobato|https://image.tmdb.org/t/p/w500/bzE0eksp2MpZh6UWjBBoSxW1Cth.jpg|kobato|Animation|2009|9.4
+Konohana Kitan|https://image.tmdb.org/t/p/w500/d6w9C9iReOHXSmXfNCPweURvCVa.jpg|konohana-kitan|Animation|2017|6.8
+Kowloon Generic Romance|https://image.tmdb.org/t/p/w500/gWKv5pWZRAitLdpZmiA9AEvplpQ.jpg|kowloon-generic-romance|Animation|2025|7.3
+Let's Go Karaoke!|https://image.tmdb.org/t/p/w500/isc39cls8o7Xv4kP2tkzdEu3K7o.jpg|lets-go-karaoke|Drama|2025|8.2
+Little Women|https://image.tmdb.org/t/p/w500/ow718Omn1oKqYR7izEzkS4cdC3O.jpg|little-women|Drama|2022|8.0
+Liz and the Blue Bird||liz-and-the-blue-bird|||
+Love, Election and Chocolate|https://image.tmdb.org/t/p/w500/zTA8r6GcibORfwOfArSBmkSdp5m.jpg|love-election-and-chocolate|Animation|2012|6.8
+Maria Watches Over Us|https://image.tmdb.org/t/p/w500/9e1EqEnWm6HYvp3Lrx83GfSWj2W.jpg|maria-watches-over-us|Animation|2004|6.0
+Miru Tights|https://image.tmdb.org/t/p/w500/hvFKwK0g4FGXXMllfjZ28LWBcHA.jpg|miru-tights|Animation|2019|6.3
+Modest Heroes||modest-heroes|||
+Natsume's Book of Friends|https://image.tmdb.org/t/p/w500/5AxA0foArb9OeETtibhEQ84doBd.jpg|natsumes-book-of-friends|Animation|2008|8.1
+Okko’s Inn|https://image.tmdb.org/t/p/w500/jpa4RM0y3CKZNpn4Aj6MyZM3RqG.jpg|okkos-inn|Animation|2018|6.3
+One Week Friends|https://image.tmdb.org/t/p/w500/m4mIH6Y9kbS1E6aqX8ncmidpP0u.jpg|one-week-friends|Animation|2014|6.6
+Only Yesterday||only-yesterday|||
+Penguin Highway||penguin-highway|||
+Poco’s Udon World|https://image.tmdb.org/t/p/w500/AiinC3Nz2hOFdvXezWauYEqlgWp.jpg|pocos-udon-world|Animation|2016|8.5
+ReLIFE|https://image.tmdb.org/t/p/w500/oavCFoklxWAqPHSbuPaDZCZQ0gB.jpg|relife|Animation|2016|7.6
+ROLL OVER AND DIE|https://image.tmdb.org/t/p/w500/nH6Ch1q5rwdRs56bYTA9wuOhfbL.jpg|roll-over-and-die|Animation|2026|7.5
+Sagrada Reset|https://image.tmdb.org/t/p/w500/2QtCBgorCCGBnQeD5vh28b7igOD.jpg|sagrada-reset|Animation|2017|7.7
+Sanrio Boys|https://image.tmdb.org/t/p/w500/wml6rxWR7OJvJsNUS0WbDmwqrxF.jpg|sanrio-boys|Animation|2018|7.0
+Seven Days War|https://image.tmdb.org/t/p/w500/yhnSqxQc8QaeBC2ZuWqZDtECtHv.jpg|seven-days-war|Sci-Fi & Fantasy|1998|6.9
+Seven Senses of the Re'Union|https://image.tmdb.org/t/p/w500/33NQ8CFTlO9WCLNY18pA2aX74NB.jpg|seven-senses-of-the-reunion|Animation|2018|6.3
+Skip and Loafer|https://image.tmdb.org/t/p/w500/uTifA4f87D7JQeTFob2xB2QroD1.jpg|skip-and-loafer|Animation|2023|7.8
+Smile Down the Runway|https://image.tmdb.org/t/p/w500/gzMOkjpNRx9oTnn0QnmhuVcrTHQ.jpg|smile-down-the-runway|Animation|2020|7.2
+Sound! Euphonium|https://image.tmdb.org/t/p/w500/5PwD9F9ot5z3CUvb95qXtk3PGsf.jpg|sound-euphonium|Animation|2015|8.0
+Sweetness & Lightning|https://image.tmdb.org/t/p/w500/Aa2s1gYdhZCO3eqQBa5vEdADvMn.jpg|sweetness-lightning|Animation|2016|7.3
+The Aquatope on White Sand|https://image.tmdb.org/t/p/w500/zVyLvchDYj1gYkAH7y1SRS0Ko30.jpg|the-aquatope-on-white-sand|Animation|2021|6.5
+The Case Files of Jeweler Richard|https://image.tmdb.org/t/p/w500/gJTCRJdGszMEoBukZf8wwvr7hrJ.jpg|the-case-files-of-jeweler-richard|Animation|2020|6.2
+The Yuzuki Family’s Four Sons|https://image.tmdb.org/t/p/w500/ygeErh5oFheEY23tbsLLKqYbv5O.jpg|the-yuzuki-familys-four-sons|Animation|2023|7.1
+Tonari no Yokai-san|https://image.tmdb.org/t/p/w500/zTSj9kK3ESba2m0fHZreGZWCnM8.jpg|tonari-no-yokai-san|Animation|2024|6.3
+Touken Ranbu: Hanamaru|https://image.tmdb.org/t/p/w500/oBN5NYTKlGNlcFBk05mjr2HSvKe.jpg|touken-ranbu-hanamaru|Action & Abenteuer|2016|6.8
+TsukiPro the Animation|https://image.tmdb.org/t/p/w500/v3l4ulbOLhZ238QmmY7E39LL08.jpg|tsukipro-the-animation|Animation|2017|4.9
+Tsukiuta: The Animation|https://image.tmdb.org/t/p/w500/omNaIK4VUQFfdKNTCjY2WCK7mqm.jpg|tsukiuta-the-animation|Animation|2016|6.0
+Usagi Drop|https://image.tmdb.org/t/p/w500/acg0lag2hvGUcvUFdgDwVn4k8BB.jpg|usagi-drop|Animation|2011|8.2
+Wandering Son|https://image.tmdb.org/t/p/w500/tqy3kruEfnMsQCPRADmODsnNezf.jpg|wandering-son|Animation|2011|6.7
+Whisper of the Heart||whisper-of-the-heart|||
+WorldEnd: What do you do at the end of the world? Are you busy? Will you save us?|https://image.tmdb.org/t/p/w500/wisjpaTxnTkamwLa6PNuYYA0jON.jpg|worldend-what-do-you-do-at-the-end-of-the-world-are-you-busy-will-you-save-us|Animation|2017|8.0
+Babanba Banban Vampire|https://image.tmdb.org/t/p/w500/eHO3t7hLXmvD39m553Pgp8YTgEB.jpg|babanba-banban-vampire|Animation|2025|7.6
+Tadaima, Okaeri|https://image.tmdb.org/t/p/w500/mFLNrSczrzZjAMebEcuk1RttCs9.jpg|tadaima-okaeri|Animation|2024|7.8
+.hack//SIGN|https://image.tmdb.org/t/p/w500/6fSxgsHNxGoO8EKa3E981Lxk9BA.jpg|hacksign|Action & Abenteuer|2002|6.8
+100 Metres|https://image.tmdb.org/t/p/w500/ubwVtWy86MmIEGpOOlzSdyUB4dn.jpg|100-metres|Dokumentation|2021|7.5
+18if|https://image.tmdb.org/t/p/w500/gvKKFv5aIYSAyRY0lCmcYvHqIsN.jpg|18if|Action & Abenteuer|2017|5.4
+7SEEDS|https://image.tmdb.org/t/p/w500/d84XDdYib5nEKvHm2HAh2itIgBY.jpg|7seeds|Animation|2019|7.7
+A Silent Voice||a-silent-voice||2025|
+ACCA: 13-Territory Inspection Dept.|https://image.tmdb.org/t/p/w500/4djZf2wiFkkkTSX3vHHEiq6pMRs.jpg|acca-13-territory-inspection-dept|Animation|2017|7.2
