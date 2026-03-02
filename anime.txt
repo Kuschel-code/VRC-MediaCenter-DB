@@ -1698,3 +1698,53 @@ Li'l Miss Vampire Can't Suck Right|https://image.tmdb.org/t/p/w500/4ldkUuEe5YqrJ
 Life Lessons with Uramichi Oniisan|https://image.tmdb.org/t/p/w500/eiBMrPIG8jokkcAwhKpwcAZG7gh.jpg|life-lessons-with-uramichi-oniisan|Animation|2021|7.3
 Little Witch Academia|https://image.tmdb.org/t/p/w500/wRQgNzqjajITlHTLkrDEuS5rhVX.jpg|little-witch-academia|Animation|2017|7.9
 Long Riders!|https://image.tmdb.org/t/p/w500/87rjTNDb3i9Czd8DyIMLmoLcgRS.jpg|long-riders|Animation|2016|6.4
+Lookism|https://image.tmdb.org/t/p/w500/b4DjQI8jkQKrlyYly3iiUDYQo6n.jpg|lookism|Komoedie|2022|8.3
+Love Lab|https://image.tmdb.org/t/p/w500/iDGK0HJl9dmCb80mQwidKhUiy4r.jpg|love-lab|Animation|2013|5.8
+Love Live! Superstar!!|https://image.tmdb.org/t/p/w500/4KoXFWudJb389qH0EoAdRq8xtvs.jpg|love-live-superstar|Animation|2021|8.2
+Love Tyrant|https://image.tmdb.org/t/p/w500/pxlPNY7MQh4HRJCFZvsA2KW2yZ9.jpg|love-tyrant|Animation|2017|5.8
+Lucky Star|https://image.tmdb.org/t/p/w500/8p2HhNFKFi14Yl5DjSQ2Ex1SnKo.jpg|lucky-star|Animation|2007|7.4
+Maebashi Witches|https://image.tmdb.org/t/p/w500/vbWCrKNdmA4QYfijmeKPlyUD3K7.jpg|maebashi-witches|Animation|2025|6.0
+Maerchen Maedchen|https://image.tmdb.org/t/p/w500/mtTJ1zlPQdEYVkdsag9NCkSZM1O.jpg|maerchen-maedchen|Animation|2018|4.6
+Magic Maker: How to Make Magic in Another World|https://image.tmdb.org/t/p/w500/cCIfi6M0Y4OjQLAaikrUdcBiE3.jpg|magic-maker-how-to-make-magic-in-another-world|Animation|2025|7.5
+Magical Girl Ore|https://image.tmdb.org/t/p/w500/6w2HuImJX09KrHjKvc0gjS4BUyi.jpg|magical-girl-ore|Komoedie|2018|7.5
+Magical Sempai|https://image.tmdb.org/t/p/w500/eT1qeQc4A47dj2SxogtIXGvVhG.jpg|magical-sempai|Animation|2019|8.3
+Magical Witch Punie-chan|https://image.tmdb.org/t/p/w500/5bOCztdBse6ar8cSjrWEl3Q511o.jpg|magical-witch-punie-chan|Animation|2006|6.7
+Magister Negi Magi Negima!?|https://image.tmdb.org/t/p/w500/lBB1LInddfesRf8A7YC3uYxb5Dl.jpg|magister-negi-magi-negima|Animation|2006|5.9
+Mahjong Soul Pon☆|https://image.tmdb.org/t/p/w500/eWGzc41zt20J1PsUszW7rkyLimZ.jpg|mahjong-soul-pon|Animation|2022|4.3
+Management of Novice Alchemist|https://image.tmdb.org/t/p/w500/2Q7oi2wytpAVhphuFsU4o9nniFz.jpg|management-of-novice-alchemist|Animation|2022|6.2
+Marginal #4 the Animation|https://image.tmdb.org/t/p/w500/urhY0sALSGBFtKzqac1Nu0SG8Wg.jpg|marginal-4-the-animation|Animation|2017|7.0
+Me and the Alien MuuMuu|https://image.tmdb.org/t/p/w500/dyCXinv7yqetYHlss2hHikxBkNF.jpg|me-and-the-alien-muumuu|Animation|2025|7.2
+Military!|https://image.tmdb.org/t/p/w500/f4eHHUsVgafFoAgTaLoNyfnOxAj.jpg|military|Drama|2022|7.4
+Miss Kobayashi's Dragon Maid|https://image.tmdb.org/t/p/w500/pJQNdoWG8WPUkPCwkIifc9zy5q9.jpg|miss-kobayashis-dragon-maid|Animation|2017|8.3
+Miss Kuroitsu from The Monster Development Department|https://image.tmdb.org/t/p/w500/7cHkbyzejWa66hOyZjW0MfrsSeM.jpg|miss-kuroitsu-from-the-monster-development-department|Animation|2022|6.2
+Miss Shachiku and the Little Baby Ghost|https://image.tmdb.org/t/p/w500/A99G8PDEToveNpCSRLuUVplyuYS.jpg|miss-shachiku-and-the-little-baby-ghost|Animation|2022|6.3
+Mono: Weekend Animation|https://image.tmdb.org/t/p/w500/lXsY3KHZptNv7MhMrUYXWjamh7m.jpg|mono|Animation|2025|8.6
+Monster Musume: Everyday Life with Monster Girls|https://image.tmdb.org/t/p/w500/nZth7FJw4QWbRqwEzODe51N9ILC.jpg|monster-musume-everyday-life-with-monster-girls|Animation|2015|6.7
+Monthly Girls' Nozaki-kun|https://image.tmdb.org/t/p/w500/maPv22inKIcyfOCil3wrWiyJ7gC.jpg|monthly-girls-nozaki-kun|Animation|2014|7.2
+Moon Phase|https://image.tmdb.org/t/p/w500/9HnK5bx0p05tzMIM1dEv9GSRjg8.jpg|moon-phase|Animation|2004|7.8
+Mr. Osomatsu|https://image.tmdb.org/t/p/w500/cclQpHoFTuR3rCw2KfJEmIJAb0k.jpg|mr-osomatsu|Animation|2015|6.7
+Mr. Tonegawa Middle Management Blues!|https://image.tmdb.org/t/p/w500/a5sXAiOdxd10EXDGCUWnSkajS5P.jpg|mr-tonegawa-middle-management-blues|Animation|2018|6.9
+Mr. Villain's Day Off|https://image.tmdb.org/t/p/w500/thKhPuHjsd6DEC4eiDnlIU0Tt22.jpg|mr-villains-day-off|Animation|2024|6.7
+Ms. Koizumi Loves Ramen Noodles|https://image.tmdb.org/t/p/w500/3mbTcv1uzE8dHJBpUcES0deLyLa.jpg|ms-koizumi-loves-ramen-noodles|Animation|2018|7.2
+Ms. Vampire who Lives in my Neighborhood.|https://image.tmdb.org/t/p/w500/8qvFWZtqijzVJNVdKJGryAGyCzT.jpg|ms-vampire-who-lives-in-my-neighborhood|Animation|2018|5.7
+Musasi-no|https://image.tmdb.org/t/p/w500/5e1HJSHsnfb1rYNHQSK2DtaseoL.jpg|musasi-no|Animation|2015|7.0
+My Mental Choices are Completely Interfering with my School Romantic Comedy|https://image.tmdb.org/t/p/w500/gb8ANrBnbIl4x6Hl4Olz7SMZSvZ.jpg|my-mental-choices-are-completely-interfering-with-my-school-romantic-comedy|Animation|2013|7.5
+My Neighbors the Yamadas||my-neighbors-the-yamadas|||
+My New Boss is Goofy|https://image.tmdb.org/t/p/w500/r3NkqEBdjrgnMHFl8cIwv43gRln.jpg|my-new-boss-is-goofy|Animation|2023|6.3
+My Next Life as a Villainess: All Routes Lead to Doom!|https://image.tmdb.org/t/p/w500/zdMq2C89KXjJNdRnviIrMiolt0M.jpg|my-next-life-as-a-villainess-all-routes-lead-to-doom|Animation|2020|7.4
+My Roommate is a Cat|https://image.tmdb.org/t/p/w500/g0Pw1tnKH9C8NykLraDKu8KU1Lx.jpg|my-roommate-is-a-cat|Animation|2019|7.6
+Nagasarete Airantou|https://image.tmdb.org/t/p/w500/whtXuINWzweUxMw0NZLTd7LSUHn.jpg|nagasarete-airantou|Animation|2007|7.6
+Natsu no Arashi!|https://image.tmdb.org/t/p/w500/liTIEsWXwYU7ixxSGCZCFeRJ9uK.jpg|natsu-no-arashi|Animation|2009|6.9
+NekoparA|https://image.tmdb.org/t/p/w500/fZ7zL2fDkayXa8Lgesg8aPOEDAy.jpg|nekopara|Animation|2020|6.3
+New Game!|https://image.tmdb.org/t/p/w500/7ozDBFyuaDiL0x6Ybn4kHsPwvlC.jpg|new-game|Animation|2016|7.0
+NIJIYON ANIMATION|https://image.tmdb.org/t/p/w500/eXd1W47yx3u7ZcFQ8rhwjp9omJo.jpg|nijiyon-animation|Animation|2023|4.7
+Non Non Biyori|https://image.tmdb.org/t/p/w500/7cb1BlkfnpZjhXX00eC6Exkl3Iq.jpg|non-non-biyori|Animation|2013|7.9
+Nyanko Days|https://image.tmdb.org/t/p/w500/by86nWs4qMba3wefDWFL45IKAMe.jpg|nyanko-days|Animation|2017|6.5
+Nyaruko - Crawling with Love!|https://image.tmdb.org/t/p/w500/VUs3KVUyCj0kaKKv0Ul63VHzFT.jpg|nyaruko-crawling-with-love|Animation|2012|7.2
+Obey Me!|https://image.tmdb.org/t/p/w500/5ep1f35JBQqM9XbcM0rsFhhuddL.jpg|obey-me|Animation|2021|7.3
+Oda Cinnamon Nobunaga|https://image.tmdb.org/t/p/w500/jvjOTAnqubo3c02UIjBgswUfYZz.jpg|oda-shinamon-nobunaga|Animation|2020|6.5
+Oh, Suddenly Egyptian God|https://image.tmdb.org/t/p/w500/bqj2EOG6SJNMLO0UUsqgB3NwjGP.jpg|oh-suddenly-egyptian-god|Animation|2020|6.0
+Once Upon a Witch's Death|https://image.tmdb.org/t/p/w500/kBID23YsUdVdDSS577lG4HJ7DLU.jpg|once-upon-a-witchs-death|Animation|2025|7.4
+Onee-chan ga Kita|https://image.tmdb.org/t/p/w500/jEDeJhl39ryjIKqVthmFN1ZJWFZ.jpg|onee-chan-ga-kita|Animation|2014|4.9
+ONIMAI: I'm Now Your Sister!|https://image.tmdb.org/t/p/w500/s10vVsaJJpADsY4G2nFnL8H8AY8.jpg|onimai-im-now-your-sister|Animation|2023|7.4
+Onipan!|https://image.tmdb.org/t/p/w500/qJ6N45zbC7caCuCit11ML6q2a7b.jpg|onipan|Animation|2022|5.7
