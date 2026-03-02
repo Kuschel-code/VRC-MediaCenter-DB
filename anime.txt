@@ -448,3 +448,53 @@ Girls' Frontline|https://image.tmdb.org/t/p/w500/c5GOXlm4kfRdK4w6XXwDGabW6A0.jpg
 Girly Air Force|https://image.tmdb.org/t/p/w500/hyvkoYUgfMu4PMvd4HaswbeHp6k.jpg|girly-air-force|Animation|2019|5.5
 Gleipnir|https://image.tmdb.org/t/p/w500/1hPI4AAM4hOMNV2ucOvsVg7LJsV.jpg|gleipnir|Animation|2020|8.1
 Go! Go! Loser Ranger!|https://image.tmdb.org/t/p/w500/4Rob4WUlT9RqybEPRTAeR0fijc0.jpg|go-go-loser-ranger|Animation|2024|7.1
+Goblin Slayer|https://image.tmdb.org/t/p/w500/nUiT0whRDuUJKkk74L1pn8xUE2z.jpg|goblin-slayer|Animation|2018|8.0
+God Eater|https://image.tmdb.org/t/p/w500/sBtOc2W3FDDQlWEMD2QvGc6hUDU.jpg|god-eater|Animation|2015|7.2
+Godzilla|https://image.tmdb.org/t/p/w500/mnd1AQqxFwhnVYbw0toQ2D8PCH1.jpg|godzilla|Familie|1978|7.9
+Godzilla Singular Point|https://image.tmdb.org/t/p/w500/bxFdf0F9ZAVB2opMW7166UKZGiT.jpg|godzilla-singular-point|Animation|2021|7.3
+Golgo 13|https://image.tmdb.org/t/p/w500/oeuFtfarmDVip95i3YVIMeFc00s.jpg|golgo-13|Animation|2008|7.0
+Granbelm|https://image.tmdb.org/t/p/w500/9aZFcTEQQ4FTC4lTwY6ZoSqRXoc.jpg|granbelm|Animation|2019|6.8
+Grendizer U|https://image.tmdb.org/t/p/w500/hHzuczzz2RIsOZLPkkkXkRivKkk.jpg|grendizer-u|Action & Abenteuer|1975|7.6
+Grisaia Phantom Trigger|https://image.tmdb.org/t/p/w500/tToSkSaiLBDT5DfAvxBcFUWV6Dj.jpg|grisaia-phantom-trigger|Animation|2025|6.1
+GUILTY GEAR STRIVE: DUAL RULERS|https://image.tmdb.org/t/p/w500/tpRogsdGkXhog9q80I0XrOuEA4K.jpg|guilty-gear-strive-dual-rulers|Animation|2025|7.8
+Gunbuster|https://image.tmdb.org/t/p/w500/frLWfoMUeEhJ2oBxdlKzBWSic7q.jpg|gunbuster|Animation|1988|7.7
+Gundam Build Divers|https://image.tmdb.org/t/p/w500/dVcqBeIzOTIGf3CAdHh9lifkNHe.jpg|gundam-build-divers|Animation|2018|7.4
+Haigakura|https://image.tmdb.org/t/p/w500/qDIh8ZtUBFSydZNggh7UdgsrSyN.jpg|haigakura|Animation|2024|6.8
+Hakata Tonkotsu Ramens|https://image.tmdb.org/t/p/w500/5kBqiOxNwgZ4VkMyh3RrZGDYfDd.jpg|hakata-tonkotsu-ramens|Animation|2018|7.2
+Hakuoki - Demon of the Fleeting Blossom|https://image.tmdb.org/t/p/w500/bPWdqiqYVQyh2asDtauB8zwVGyc.jpg|hakuoki-demon-of-the-fleeting-blossom|Action & Abenteuer|2010|6.5
+Helck|https://image.tmdb.org/t/p/w500/cfNKSyXZHEFcMmib93sNmIZ3w6z.jpg|helck|Animation|2023|6.9
+HIGH CARD|https://image.tmdb.org/t/p/w500/uhXTMvLPKnhNLpLDSktrs3S6mVb.jpg|high-card|Animation|2023|6.8
+High Rise Invasion|https://image.tmdb.org/t/p/w500/7ogA7uUy5lrOKLFavk3ddIWRKtg.jpg|high-rise-invasion|Animation|2021|8.2
+High School Fleet|https://image.tmdb.org/t/p/w500/4VYD1fb8mRK1NzRh3cWHI09qfe5.jpg|high-school-fleet|Animation|2016|6.0
+Hotel Inhumans|https://image.tmdb.org/t/p/w500/6ZHkFKJekNYADTByu3QI7vJaUbC.jpg|hotel-inhumans|Animation|2025|7.8
+I Got a Cheat Skill in Another World and Became Unrivaled in The Real World, Too|https://image.tmdb.org/t/p/w500/50OsbGp6AWw4za2aAM82vKburcg.jpg|i-got-a-cheat-skill-in-another-world-and-became-unrivaled-in-the-real-world-too|Animation|2023|8.2
+Ikki Tousen|https://image.tmdb.org/t/p/w500/6qGU5z7ImtIdC8jqohVCbicBFjN.jpg|ikki-tousen|Animation|2003|6.6
+Ingress: The Animation|https://image.tmdb.org/t/p/w500/nk8m8uwYzP6QICELQS34UtHsWH7.jpg|ingress-the-animation|Animation|2018|6.4
+Ishura|https://image.tmdb.org/t/p/w500/Q0nbxeYiFQJxzJ8nTTOwWNij2z.jpg|ishura|Animation|2024|6.9
+Jeanne die Kamikaze Diebin|https://image.tmdb.org/t/p/w500/4avkNULvpEf5KNos0gA2PnYxLdK.jpg|jeanne-die-kamikaze-diebin|Animation|1999|7.2
+Joran: The Princess of Snow and Blood|https://image.tmdb.org/t/p/w500/tvM2DRD7QXMb15VM5HTcPj81o2C.jpg|joran-the-princess-of-snow-and-blood|Animation|2021|6.4
+Jormungand|https://image.tmdb.org/t/p/w500/sGexaMiM1Zz4yPPKgXYg1ykXi95.jpg|jormungand|Animation|2012|7.6
+Juni Taisen: Zodiac War|https://image.tmdb.org/t/p/w500/lWFatAjB2vjn2lKlELWFUi0MU33.jpg|juni-taisen-zodiac-war|Action & Abenteuer|2017|7.6
+K: Return of Kings|https://image.tmdb.org/t/p/w500/xq2lTc0HLMvGRtz38XjnuuAaTQy.jpg|k-return-of-kings|Action & Abenteuer|2012|7.1
+Kaiju No. 8|https://image.tmdb.org/t/p/w500/A6JOsCdFFTxtbDnKAfE0iY6jOiE.jpg|kaiju-no-8|Animation|2024|8.5
+KamiErabi GOD.app|https://image.tmdb.org/t/p/w500/nj14OOLCAy2npiXwUhNJzmPEIbh.jpg|kamierabi-godapp|Animation|2023|5.1
+Kantai Collection: KanColle|https://image.tmdb.org/t/p/w500/1I8eJyXIA1y2Vew6O7RIAGsPnzU.jpg|kantai-collection-kancolle|Animation|2015|6.1
+Katana Maidens: Toji no Miko|https://image.tmdb.org/t/p/w500/bTp1Ge0zaF6cvrsBbIapMuSGVvz.jpg|katana-maidens-toji-no-miko|Sci-Fi & Fantasy|2018|6.5
+Katsugeki: Touken Ranbu|https://image.tmdb.org/t/p/w500/vGzM9LxSxXWnSdT4UWRIQ0czrws.jpg|katsugeki-touken-ranbu|Action & Abenteuer|2017|7.5
+Kemono Jihen|https://image.tmdb.org/t/p/w500/1ON3UrcmyECZAMug7htkszoNoMC.jpg|kemono-jihen|Animation|2021|7.6
+Kemurikusa|https://image.tmdb.org/t/p/w500/o8RdaIzATv3pzHVtyIyvLS4rq1W.jpg|kemurikusa|Animation|2019|5.9
+KENGAN ASHURA|https://image.tmdb.org/t/p/w500/yB8e1BnzrXoPbxfi3GnUgjCiN41.jpg|kengan-ashura|Animation|2019|8.3
+Kiddy Grade|https://image.tmdb.org/t/p/w500/bPx4Z7STMWR4eucOB6KQs9lsHVL.jpg|kiddy-grade|Mystery|2002|6.1
+Killing Bites|https://image.tmdb.org/t/p/w500/s3F5f0OxHBWR0hvnPn2JKWOZfFU.jpg|killing-bites|Animation|2018|7.7
+Kingdom (2012)||kingdom-2012|||
+Knight Hunters|https://image.tmdb.org/t/p/w500/lqfslCawWxdagvEjcndZRcmJWD7.jpg|knight-hunters|Animation|1998|
+Knight's & Magic|https://image.tmdb.org/t/p/w500/8VmNrtmcFUTpQthFkcrVEU55TCF.jpg|knights-magic|Animation|2017|7.0
+Knights of Sidonia|https://image.tmdb.org/t/p/w500/kzdYpEzyvDbxSLSaCxJhZQgksfJ.jpg|knights-of-sidonia|Action & Abenteuer|2014|7.7
+Kuromukuro|https://image.tmdb.org/t/p/w500/q3Mvd8IgjfvyuEUtalEkY91wzUb.jpg|kuromukuro|Animation|2016|6.4
+Lagrange - The Flower of Rin-ne|https://image.tmdb.org/t/p/w500/wGMfnvoNWbGS6WuziMefTXFMe3S.jpg|lagrange-the-flower-of-rin-ne|Animation|2012|5.8
+Lance N' Masques|https://image.tmdb.org/t/p/w500/bk35ArMdP1giITGafGGTdTYk0kM.jpg|lance-n-masques|Action & Abenteuer|2015|6.4
+Last Hope|https://image.tmdb.org/t/p/w500/zb9TXIZ1zX8pmEq207BfEhBMYg6.jpg|last-hope|Drama|2018|5.1
+LAZARUS|https://image.tmdb.org/t/p/w500/8ViqUWPWh6aPZGQA57FMRVmaXZ1.jpg|lazarus|Sci-Fi & Fantasy|2025|7.8
+LBX Girls|https://image.tmdb.org/t/p/w500/rMyUgCTuKoKiuU96l9Z2b3LdXSG.jpg|lbx-girls|Animation|2021|5.7
+League of Nations Air Force Aviation Magic Band Luminous Witches|https://image.tmdb.org/t/p/w500/eVRioDYq4CplRvEuCqLmFX1spQ2.jpg|league-of-nations-air-force-aviation-magic-band-luminous-witches|Animation|2022|5.8
+Legends of the Dark King: A Fist of the North Star Story|https://image.tmdb.org/t/p/w500/p4Jimz8z4d1RJwaHFfA8TtFWOMB.jpg|legends-of-the-dark-king-a-fist-of-the-north-star-story|Animation|2008|6.2
