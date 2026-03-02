@@ -348,3 +348,53 @@ Baccano!|https://image.tmdb.org/t/p/w500/qOxUTQAOTrMKTHuC9HQZiVsTK0F.jpg|baccano
 Back Arrow|https://image.tmdb.org/t/p/w500/q3kPnyoYbgKKaHjeAoEtrUIyAHI.jpg|back-arrow|Animation|2021|6.8
 Battle Angel Alita|https://image.tmdb.org/t/p/w500/nfxiFHpISveKL4NSPrmDohOEh1Y.jpg|battle-angel-alita|Animation|1993|7.6
 Battle Game in 5 Seconds|https://image.tmdb.org/t/p/w500/vSAEYOen3HnXGLl1qTFifLrBOXt.jpg|battle-game-in-5-seconds|Animation|2021|7.8
+Battle Girl High School|https://image.tmdb.org/t/p/w500/vdngCetchUoxvBmWerIWu9UX8Kk.jpg|battle-girl-high-school|Animation|2017|4.9
+Bayonetta: Bloody Fate||bayonetta-bloody-fate|||
+BEYBLADE X|https://image.tmdb.org/t/p/w500/66wkm14IWdrY5LaKZDAbkD2T9Jt.jpg|beyblade-x|Animation|2023|6.8
+Beyond the Boundary|https://image.tmdb.org/t/p/w500/h99ADMiMZ6h7f8g4Y07WEgle7hT.jpg|beyond-the-boundary|Animation|2013|8.1
+Big Order|https://image.tmdb.org/t/p/w500/q5EkN2qWh5WBY44gmDYu2PV0aVt.jpg|big-order|Animation|2016|6.3
+Black and White Warriors|https://image.tmdb.org/t/p/w500/yEpEduKZBv4CrXtZ3jPwMRfPiPK.jpg|black-and-white-warriors|Animation|2015|7.0
+Black Bullet|https://image.tmdb.org/t/p/w500/40VOiJkEVsF6cYeOtGE088VFwUw.jpg|black-bullet|Action & Abenteuer|2014|7.5
+Black Lagoon|https://image.tmdb.org/t/p/w500/PTmMkCIMZ8m0Dc1FtEkVRZ12r3.jpg|black-lagoon|Action & Abenteuer|2006|8.0
+Black Rock Shooter: Dawn Fall|https://image.tmdb.org/t/p/w500/x607kupq3V7rsIz2gakITqwElum.jpg|black-rock-shooter-dawn-fall|Animation|2022|8.1
+Blade|https://image.tmdb.org/t/p/w500/jyqi5BkDoKKIA2WAoz3HBtRHld3.jpg|blade|Action & Abenteuer|2014|8.0
+Blade of the Immortal|https://image.tmdb.org/t/p/w500/dx8PMM2cQSe4dmzLtj1sBkAIYHw.jpg|blade-of-the-immortal|Animation|2019|7.2
+Blade Runner: Black Lotus|https://image.tmdb.org/t/p/w500/aR06SJRDGqRmGQYXAXqeOkRZq7T.jpg|blade-runner-black-lotus|Animation|2021|7.1
+BlazBlue: Alter Memory|https://image.tmdb.org/t/p/w500/eWBtjYry9ZoCDFF8WBaPt0DokTI.jpg|blazblue-alter-memory|Action & Abenteuer|2013|7.5
+Blood Blockade Battlefront|https://image.tmdb.org/t/p/w500/uOUn6sBwkUjD72e9uf4F6nVfBRv.jpg|blood-blockade-battlefront|Animation|2015|7.0
+Blood of Zeus|https://image.tmdb.org/t/p/w500/zXRR5tgGLtKrRmuN4ko9SLAdCiZ.jpg|blood-of-zeus|Animation|2020|7.8
+Blood-C|https://image.tmdb.org/t/p/w500/5Mn9uQf5mqZ4ZqsZoi7oCcQslUj.jpg|blood-c|Action & Abenteuer|2011|7.9
+Bloodivores|https://image.tmdb.org/t/p/w500/1siA3Telvg03wk3JL4v5exnzQxa.jpg|bloodivores|Animation|2016|5.9
+Blue Archive: The Animation|https://image.tmdb.org/t/p/w500/mQUHs5srrBG3VtQkMFjMHnje2TI.jpg|blue-archive-the-animation|Animation|2024|6.9
+Blue Exorcist|https://image.tmdb.org/t/p/w500/8TTa91UMjuH3TUqB7dblTZzxSrj.jpg|blue-exorcist|Animation|2011|7.9
+Blue Submarine No. 6|https://image.tmdb.org/t/p/w500/qwUSYOlyBZKiJncfSzKKT6valXy.jpg|blue-submarine-no-6|Animation|1998|5.9
+BNA|https://image.tmdb.org/t/p/w500/57tccw2UNqgTPxK8fScYTQ1SLrS.jpg|bna|Animation|2020|8.2
+Brave Bang Bravern!|https://image.tmdb.org/t/p/w500/4Tl5OoDqV9A0cQ8NWta55853xIP.jpg|brave-bang-bravern|Animation|2024|7.8
+Bright: Samurai Soul||bright-samurai-soul|||
+Brotherhood - Final Fantasy XV|https://image.tmdb.org/t/p/w500/oBnVTXHvlVXpfHE5Lp0tzNxMDwf.jpg|brotherhood-final-fantasy-xv|Action & Abenteuer|2016|6.9
+Btooom!|https://image.tmdb.org/t/p/w500/bABnkUVzG9iUMIWJwt7RUt09XJ7.jpg|btooom|Animation|2012|7.4
+Buddy Complex|https://image.tmdb.org/t/p/w500/kUuxI7OucnPRNxT5YI7IGqAgKcQ.jpg|buddy-complex|Animation|2013|6.5
+Buddy Daddies|https://image.tmdb.org/t/p/w500/qjRWZ1Ak9Ag6EvcA5LNhphqX8oV.jpg|buddy-daddies|Animation|2023|8.0
+BUILD-DIVIDE -#000000- CODE BLACK|https://image.tmdb.org/t/p/w500/pbBCMwz4fsah7zON2qEkUvmgaZ3.jpg|build-divide-000000-code-black|Animation|2021|6.8
+BULLET/BULLET|https://image.tmdb.org/t/p/w500/iHhC0D1B9IhD8beyMedHPUiakVK.jpg|bulletbullet|Animation|2025|6.6
+Burn The Witch|https://image.tmdb.org/t/p/w500/ipeab4BmCkSOoubAWi2mt4e5i97.jpg|burn-the-witch|Animation|2020|7.5
+Burst Angel|https://image.tmdb.org/t/p/w500/7mvPoVJ81ZM6tNoszc4lFMN5cMe.jpg|burst-angel|Animation|2004|6.1
+Campione!|https://image.tmdb.org/t/p/w500/jCuU95wiqJLsdLEb2elZZmluAZE.jpg|campione|Animation|2012|8.0
+Castlevania|https://image.tmdb.org/t/p/w500/ubDtIBwdS9b29sBofAkqWz3PqkT.jpg|castlevania|Animation|2017|8.3
+Castlevania: Nocturne|https://image.tmdb.org/t/p/w500/4XJwo95ktJ7xupw1bCMuP91kyYr.jpg|castlevania-nocturne|Animation|2023|7.8
+Cat’s Eye (2025)||cats-eye-2025|||
+Chaika: The Coffin Princess|https://image.tmdb.org/t/p/w500/zFI5AVJbihCBL9h8dDUFKCeWR5r.jpg|chaika-the-coffin-princess|Action & Abenteuer|2014|6.6
+Chain Chronicle: The Light of Haecceitas|https://image.tmdb.org/t/p/w500/rO2Gsd6jfV0qWKX7CkBirnmGNvY.jpg|chain-chronicle-the-light-of-haecceitas|Action & Abenteuer|2017|6.4
+Chained Soldier|https://image.tmdb.org/t/p/w500/ieI3bn3oBKkqbJtYEPiaCV22Gps.jpg|chained-soldier|Animation|2024|7.9
+Chaos Dragon|https://image.tmdb.org/t/p/w500/43N8CQpjwTStpWyael57Xhs7nH1.jpg|chaos-dragon|Action & Abenteuer|2015|6.8
+Chronos Ruler|https://image.tmdb.org/t/p/w500/eU0CaUJk4q1Ms81SrF90EP9bbEK.jpg|chronos-ruler|Action & Abenteuer|2017|7.4
+Clevatess|https://image.tmdb.org/t/p/w500/avajalKjBP5QjwIEb5Xs8QXg1K.jpg|clevatess|Animation|2025|7.9
+Code:Breaker|https://image.tmdb.org/t/p/w500/iwUWYgItga8EdVkqgS5R1q0V5md.jpg|codebreaker|Animation|2012|7.0
+Conception|https://image.tmdb.org/t/p/w500/nrOaefw3x3iXjnMb0FpJABIzAc0.jpg|conception|Animation|2018|5.5
+Concrete Revolutio|https://image.tmdb.org/t/p/w500/AdJYIIsMX2ijapZImmGOY9lyiNN.jpg|concrete-revolutio|Action & Abenteuer|2015|6.1
+Cop Craft|https://image.tmdb.org/t/p/w500/7g3vyoMBPhLih3h6KP0Ps4KBQUo.jpg|cop-craft|Animation|2019|6.9
+Cowboy Bebop|https://image.tmdb.org/t/p/w500/hbLDwYri1pyiEIMpICgftu7s8NE.jpg|cowboy-bebop|Animation|1998|8.5
+Cyberpunk: Edgerunners|https://image.tmdb.org/t/p/w500/wTUVYRF8LcJj10fORuLI0ucCFQW.jpg|cyberpunk-edgerunners|Animation|2022|8.5
+D_Cide Traumerei the Animation|https://image.tmdb.org/t/p/w500/zog1H1WvjkjCNnanyoe2VDCqI1n.jpg|d_cide-traumerei-the-animation|Animation|2021|7.4
+D.N.Angel|https://image.tmdb.org/t/p/w500/bYHn9QTtCYbwtB4ZWUe2vfXRTLw.jpg|dnangel|Animation|2003|6.7
+DAN DA DAN|https://image.tmdb.org/t/p/w500/dse3OM0apuA6HZt4gznRMmUirM3.jpg|dan-da-dan|Animation|2024|8.6
