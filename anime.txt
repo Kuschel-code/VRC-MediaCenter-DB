@@ -1198,3 +1198,53 @@ Monogatari|https://image.tmdb.org/t/p/w500/f7rhm0NuroxwC8OTVgmNJlsoc4W.jpg|monog
 Moriarty the Patriot|https://image.tmdb.org/t/p/w500/xncRpoO8W20GAe56SAqTdsrzBtp.jpg|moriarty-the-patriot|Animation|2020|8.3
 Mushi-Shi|https://image.tmdb.org/t/p/w500/kA6A2xTk5QctNAQXWX0TZHH6pzy.jpg|mushi-shi|Animation|2005|8.0
 My Home Hero|https://image.tmdb.org/t/p/w500/e9waTrWlTq1XzoAXO4DuEPMdvM6.jpg|my-home-hero|Animation|2023|7.1
+My Oni Girl||my-oni-girl|||
+Myself ; Yourself|https://image.tmdb.org/t/p/w500/hENUDFG70IJE2aOLzBRFr8Jbtel.jpg|myself-yourself|Animation|2007|5.7
+Mysterious Disappearances|https://image.tmdb.org/t/p/w500/tAM0zx8k3QnIKNnBDydRcnCYDLt.jpg|mysterious-disappearances|Animation|2024|6.8
+Nighthead Genesis|https://image.tmdb.org/t/p/w500/fXBN7biKPImAFtJ0VcBI4qFDQPB.jpg|nighthead-genesis|Animation|2006|4.0
+Nina the Starry Bride|https://image.tmdb.org/t/p/w500/dCO0ihJjo7y7ptzbdHuJ3UEA8MI.jpg|nina-the-starry-bride|Animation|2024|8.5
+No.6|https://image.tmdb.org/t/p/w500/fQl45oYuu0N4gkdW4fbstqqOozh.jpg|no6|Animation|2011|7.1
+Now and Then, Here and There|https://image.tmdb.org/t/p/w500/cG7pkxXKbsmnR5opeWgmzAW2fg8.jpg|now-and-then-here-and-there|Animation|1999|7.4
+Oddtaxi|https://image.tmdb.org/t/p/w500/zz3LT75U3EEOl3ZrZlWEhmJnICH.jpg|oddtaxi|Mystery|2024|7.9
+Ooku: The Inner Chambers|https://image.tmdb.org/t/p/w500/4G1xzjLfI9ZMNb3gSPm89fnEl3o.jpg|ooku-the-inner-chambers|Animation|2023|7.3
+Orange|https://image.tmdb.org/t/p/w500/oxnWNFG4cSLBXJTDLOJU8ucMpmD.jpg|orange|Animation|2016|8.0
+Oshi No Ko|https://image.tmdb.org/t/p/w500/wXNebTabVlyeRh77uozHWBqbMao.jpg|oshi-no-ko|Animation|2023|8.3
+Over the Sky|https://image.tmdb.org/t/p/w500/hIkT1EEotP5hQ9aAQYovAZfUomk.jpg|over-the-sky||2011|
+Pale Cocoon||pale-cocoon|||
+Paprika|https://image.tmdb.org/t/p/w500/w7PSvKlkgAh6IsTIxNmRKTWtO1i.jpg|paprika|Kids|2018|5.0
+Parallel World Pharmacy|https://image.tmdb.org/t/p/w500/q6vu6ds5XYTzXHGiTpyyvIIcJJq.jpg|parallel-world-pharmacy|Animation|2022|6.9
+Penguindrum|https://image.tmdb.org/t/p/w500/qXhVdZpGeXi98Nwmu0F3WzrxKid.jpg|penguindrum|Animation|2011|8.1
+Persona - Trinity Soul|https://image.tmdb.org/t/p/w500/hREYXGPAijGwAAhw5pd5kOOGybW.jpg|persona-trinity-soul|Animation|2008|7.8
+Persona 3: The Movie||persona-3-the-movie|||
+Pet|https://image.tmdb.org/t/p/w500/3V7XVYjB13iufST1R6Kdfd03Xfv.jpg|pet|Animation|2020|6.2
+Planetes|https://image.tmdb.org/t/p/w500/1PozWTvVhCGIbFiYa9Tvl8Ab9Pq.jpg|planetes|Animation|2003|7.9
+Platinum End|https://image.tmdb.org/t/p/w500/e2BG4cPMkgAI6maPutpZfQcl3X7.jpg|platinum-end|Animation|2021|7.7
+Puella Magi Madoka Magica|https://image.tmdb.org/t/p/w500/qYPUVIhKYirbmVrdEJBZ3ZYpTeE.jpg|puella-magi-madoka-magica|Animation|2011|8.1
+Re:ZERO - Starting Life in Another World|https://image.tmdb.org/t/p/w500/ccG0ZfXOQ0834bIus4SwZrXtkyM.jpg|rezero-starting-life-in-another-world|Animation|2016|7.8
+Re:Zero - Starting Life in Another World: Director’s Cut||rezero-starting-life-in-another-world-directors-cut|||
+RED GARDEN|https://image.tmdb.org/t/p/w500/eSV7AkccRkGJSZAfrT7YQ1LZE8k.jpg|red-garden|Mystery|2006|4.0
+Redo of Healer|https://image.tmdb.org/t/p/w500/txDpyhqgpHhT67HtwjxXts05kTC.jpg|redo-of-healer|Animation|2021|8.3
+Requiem of the Rose King|https://image.tmdb.org/t/p/w500/faSyG7UFdwfmQQw8n2NnH6eFmhl.jpg|requiem-of-the-rose-king|Drama|2022|5.3
+Revolutionary Girl Utena|https://image.tmdb.org/t/p/w500/pOjDuclpsWGV13Nj7XtZukuZj6f.jpg|revolutionary-girl-utena|Animation|1997|8.1
+Romeo x Juliet|https://image.tmdb.org/t/p/w500/ePfk141oZ4Wra3vAsudDjfEE0qs.jpg|romeo-x-juliet|Action & Abenteuer|2007|6.6
+Roujin Z||roujin-z|||
+Run with the Wind|https://image.tmdb.org/t/p/w500/21gPLUB0yxNz3cDJLsSOa21KZdP.jpg|run-with-the-wind|Animation|2018|7.6
+Salaryman's Club|https://image.tmdb.org/t/p/w500/ux31AMkYpFm4KiN21VKxdSjcYOX.jpg|salarymans-club|Animation|2022|7.6
+SANDA|https://image.tmdb.org/t/p/w500/mIA684Vy3CpNXpQihHYYWP1lzAM.jpg|sanda|Animation|2025|7.9
+School Days|https://image.tmdb.org/t/p/w500/cBQEXNsxQrecTazuzwBIglWzKd6.jpg|school-days|Animation|2007|6.4
+Serial Experiments Lain|https://image.tmdb.org/t/p/w500/ej3tcxv2YYVWy6WoOeWZTcrkiI8.jpg|serial-experiments-lain|Animation|1998|8.2
+Shadows House|https://image.tmdb.org/t/p/w500/2XUERaN99so7f6COy5aeJfrNVWc.jpg|shadows-house|Animation|2021|8.0
+She and Her Cat: Everything Flows|https://image.tmdb.org/t/p/w500/pn4NyadZRiEWEvWNBYXgszQ6xVO.jpg|she-and-her-cat-everything-flows|Animation|2016|6.8
+Shuffle!|https://image.tmdb.org/t/p/w500/5Bp4RzCoBzZ3C7cKau1CdgrRMv.jpg|shuffle|Animation|2005|5.7
+Sing "Yesterday" for Me|https://image.tmdb.org/t/p/w500/oI0dhpARSvmy6w0VwqZzt1tX5lE.jpg|sing-yesterday-for-me|Animation|2020|8.0
+Sing a Bit of Harmony||sing-a-bit-of-harmony|||
+Sola|https://image.tmdb.org/t/p/w500/jdM4NVmNRQB5NQ5Ic51hdQktgnK.jpg|sola|Animation|2007|7.2
+Sonny Boy|https://image.tmdb.org/t/p/w500/6sJ7FCtxzrNfgM70s2d7VS0Xjdm.jpg|sonny-boy|Animation|2021|7.2
+Stars Align|https://image.tmdb.org/t/p/w500/vBZ4sxri3P6R0TjCX5ii4ZOldfJ.jpg|stars-align|Animation|2019|8.4
+Summer Ghost||summer-ghost|||
+Super Lovers|https://image.tmdb.org/t/p/w500/cQ8LfYIN0pTUZ3JkjdGkQ9crSGq.jpg|super-lovers|Animation|2016|6.5
+Sweet Reincarnation|https://image.tmdb.org/t/p/w500/dPmbLLoCgvdxsG0kpm8mF9aY4fK.jpg|sweet-reincarnation|Animation|2023|7.1
+Takopi's Original Sin|https://image.tmdb.org/t/p/w500/aIZldplw1isQQSjaLS0o3SEob9H.jpg|takopis-original-sin|Animation|2025|8.8
+Talentless Nana|https://image.tmdb.org/t/p/w500/wMXNJRa7OV6DwYQ53WuE0hXX6KB.jpg|talentless-nana|Animation|2020|7.7
+Tatsuki Fujimoto 17-26|https://image.tmdb.org/t/p/w500/zZW4CJQE7nfu8btJLoWIcOaa7fe.jpg|tatsuki-fujimoto-17-26|Animation|2025|8.0
+Tegami Bachi: Letter Bee|https://image.tmdb.org/t/p/w500/8kgG2MmEgzqeI3buqrpxebOnc6e.jpg|tegami-bachi-letter-bee|Animation|2009|7.3
