@@ -598,3 +598,53 @@ Spare Me, Great Lord!|https://image.tmdb.org/t/p/w500/jO4DI02wo9hqimvELQGPa44T47
 SSSS.Dynazenon|https://image.tmdb.org/t/p/w500/3YnOTIkMoQnzPcgIlLmCtRPyzlW.jpg|ssssdynazenon|Animation|2021|7.5
 SSSS.Gridman|https://image.tmdb.org/t/p/w500/mV3AOQptdjJDPhmnZN0rUBtutlt.jpg|ssssgridman|Animation|2018|7.2
 Star Driver|https://image.tmdb.org/t/p/w500/xqdgSLJwEdvO7T16zVfmqezYGDY.jpg|star-driver|Animation|2010|7.3
+Steamboy||steamboy|||
+Stella Women's Academy, High School Division Class C3|https://image.tmdb.org/t/p/w500/eK2gFk1GOYiLofRjSoH1cFoaSQi.jpg|stella-womens-academy-high-school-division-class-c3|Animation|2013|5.5
+Strait Jacket|https://image.tmdb.org/t/p/w500/satFLfnrhTWHyABLNGohB3UBdcK.jpg|strait-jacket|Animation|2007|6.2
+Strike the Blood|https://image.tmdb.org/t/p/w500/xEYHiTendd99os39wTL3NLJAS2q.jpg|strike-the-blood|Animation|2013|6.9
+Suicide Squad Isekai|https://image.tmdb.org/t/p/w500/AbVwsBJnLoqJzPJn8dlGFSGfygy.jpg|suicide-squad-isekai|Animation|2024|7.4
+Super Crooks|https://image.tmdb.org/t/p/w500/9j4Tl5XbRaaiHEXpkFUF4WCfIlt.jpg|super-crooks|Animation|2021|7.0
+Sword Art Online Alternative: Gun Gale Online|https://image.tmdb.org/t/p/w500/e3lTqAxwYgzURmjI2mKZd02dFqX.jpg|sword-art-online-alternative-gun-gale-online|Animation|2018|7.7
+Sword of the Demon Hunter: Kijin Gentōshō|https://image.tmdb.org/t/p/w500/6phREn6JBjCiodaAy21pXkstv4P.jpg|sword-of-the-demon-hunter-kijin-gentsh|Animation|2025|7.8
+Swordgai The Animation|https://image.tmdb.org/t/p/w500/gSWy4281JWgXcnI4HqBjDf7Umho.jpg|swordgai-the-animation|Animation|2018|6.8
+Symphogear|https://image.tmdb.org/t/p/w500/ky9Bjtk1rYyjSSVeDFF2pweoIiC.jpg|symphogear|Animation|2012|6.9
+Takt op.Destiny|https://image.tmdb.org/t/p/w500/yeHbtoDtR8PB8uPZThaa5PzrF1i.jpg|takt-opdestiny|Animation|2021|6.9
+Tales of Luminaria: The Fateful Crossroad|https://image.tmdb.org/t/p/w500/g3zy93d2QMNDU6D7HJI1vONTbwl.jpg|tales-of-luminaria-the-fateful-crossroad|Animation|2022|4.7
+Tasuketsu: Fate of the Majority|https://image.tmdb.org/t/p/w500/9y8kJR8PexjfLrdoF1mhn7Tf00s.jpg|tasuketsu-fate-of-the-majority|Animation|2024|4.2
+Tears to Tiara|https://image.tmdb.org/t/p/w500/iiHMmLOzIyQmaRroGqfNsw11GXc.jpg|tears-to-tiara|Animation|2009|8.2
+Teogonia|https://image.tmdb.org/t/p/w500/wvQokVLDcFk8X1YN3UO4VGAmrgX.jpg|teogonia|Action & Abenteuer|2025|6.5
+Terminator Zero|https://image.tmdb.org/t/p/w500/nM4EDNGSmJsgybMZ64tA7r2nOKt.jpg|terminator-zero|Animation|2024|7.0
+Tesla Note|https://image.tmdb.org/t/p/w500/6WUuryD5wPpLp4mgWaN6x5MQI9X.jpg|tesla-note|Animation|2021|4.8
+The All-devouring Whale: Homecoming|https://image.tmdb.org/t/p/w500/e14Zu75OTIYLyvYAz5UQqwrOJli.jpg|the-all-devouring-whale-homecoming|Animation|2025|8.4
+The Asterisk War|https://image.tmdb.org/t/p/w500/yNVuWH4DqzHqQUy8Qy07A5VyOXH.jpg|the-asterisk-war|Animation|2015|7.7
+The Defective|https://image.tmdb.org/t/p/w500/2pSdGI21DhBbq0ndGFde2kPs5WB.jpg|the-defective|Animation|2021|7.3
+The Demonic King Who Chases His Wife|https://image.tmdb.org/t/p/w500/lvXZiiREIeS9t6Q5U3SZCBoeeRt.jpg|the-demonic-king-who-chases-his-wife|Animation|2019|7.5
+The Fable|https://image.tmdb.org/t/p/w500/svJlYlNgkHNi8bvYxZPFXHYI4EM.jpg|the-fable|Animation|2024|7.8
+The Faraway Paladin|https://image.tmdb.org/t/p/w500/7Dh4SnIwj016uyK9mkABtX9tgN1.jpg|the-faraway-paladin|Animation|2021|6.9
+The Founder of Diabolism|https://image.tmdb.org/t/p/w500/nH9HZrygttwBBSSfWOggUmcYfzj.jpg|the-founder-of-diabolism|Animation|2018|8.1
+The Grand Lord|https://image.tmdb.org/t/p/w500/foia596URWMxwyKlycEKz7PnjGk.jpg|the-grand-lord|Animation|2019|8.0
+The Idhun Chronicles|https://image.tmdb.org/t/p/w500/a3krj7LThH1Ktumbs2qnzkuozeq.jpg|the-idhun-chronicles|Sci-Fi & Fantasy|2020|6.9
+The Irregular at Magic High School|https://image.tmdb.org/t/p/w500/q1U1Mibstvz4CTq1VqbXpoWCA7k.jpg|the-irregular-at-magic-high-school|Animation|2014|7.8
+The Journey|https://image.tmdb.org/t/p/w500/oQBFd18Ig79MDfPpAdQ9RTLdZxu.jpg|the-journey|Action & Abenteuer|2018|6.7
+The King's Avatar|https://image.tmdb.org/t/p/w500/fTE3R82Jq7YBCt9A9rj39I24eYj.jpg|the-kings-avatar|Animation|2017|7.7
+The Magnificent Kotobuki|https://image.tmdb.org/t/p/w500/fKNeYE81hf6yuWkf5dFXVjkiTY2.jpg|the-magnificent-kotobuki|Animation|2019|5.5
+THE MARGINAL SERVICE|https://image.tmdb.org/t/p/w500/mwcABr6rco7o7Iu0tujk8qZwWcV.jpg|the-marginal-service|Animation|2023|2.8
+The Master of Ragnarok & Blesser of Einherjar|https://image.tmdb.org/t/p/w500/53uJ1Fx5LwoSQFzZnTf2HNocLxt.jpg|the-master-of-ragnarok-blesser-of-einherjar|Animation|2018|4.7
+The Misfit of Demon King Academy|https://image.tmdb.org/t/p/w500/eVJyT5RJ4xNsxs4y0SbrJa3LKif.jpg|the-misfit-of-demon-king-academy|Animation|2020|8.4
+The Most Notorious “Talker” Runs the World’s Greatest Clan|https://image.tmdb.org/t/p/w500/179Ea4uk878hK022jfxZVZ0jLX6.jpg|the-most-notorious-talker-runs-the-worlds-greatest-clan|Animation|2024|7.6
+The Night Beyond the Tricornered Window|https://image.tmdb.org/t/p/w500/slVchJ2txAUiQR9lIjUS9oNSFvB.jpg|the-night-beyond-the-tricornered-window|Animation|2021|7.2
+The Orbital Children|https://image.tmdb.org/t/p/w500/i1ROfeOW34wJ2vaOSgf0GHGlR8h.jpg|the-orbital-children|Animation|2022|7.3
+The Qwaser of Stigmata|https://image.tmdb.org/t/p/w500/hjQJ2TKLilPqNE9r3cyZiJTl8cd.jpg|the-qwaser-of-stigmata|Animation|2010|7.5
+The Strongest Magician in the Demon Lord's Army was a Human|https://image.tmdb.org/t/p/w500/kCOho8tk5Gz0LB9hACQ8uDs1dTg.jpg|the-strongest-magician-in-the-demon-lords-army-was-a-human|Animation|2024|7.2
+The Super Cube|https://image.tmdb.org/t/p/w500/s1h6Iqzuce2yTbOL5gxAWQe9T6p.jpg|the-super-cube|Animation|2025|8.1
+The Testament of Sister New Devil|https://image.tmdb.org/t/p/w500/32rDJfZ4iT88UaBigKF7DwVZSuA.jpg|the-testament-of-sister-new-devil|Animation|2015|7.9
+The World's Finest Assassin Gets Reincarnated in Another World as an Aristocrat|https://image.tmdb.org/t/p/w500/v2VA99oXvEEuZNeqXSYRhq4uY2j.jpg|the-worlds-finest-assassin-gets-reincarnated-in-another-world-as-an-aristocrat|Animation|2021|8.1
+The Wrong Way to Use Healing Magic|https://image.tmdb.org/t/p/w500/cmnScbX505dKwpRGKoGhCsVBUw.jpg|the-wrong-way-to-use-healing-magic|Animation|2024|7.8
+Thunderbolt Fantas|https://image.tmdb.org/t/p/w500/14mjNSdAgSKAD4RvwjQRL8gCNLv.jpg|thunderbolt-fantas|Drama|2016|7.8
+To Be Hero X|https://image.tmdb.org/t/p/w500/3SHNexaAClQL3CjhCESIJnGQGwf.jpg|to-be-hero-x|Animation|2025|8.8
+Tokyo 24th Ward|https://image.tmdb.org/t/p/w500/4ZDMeWlcptOkQGJTVKkU8QRBhzp.jpg|tokyo-24th-ward|Animation|2022|4.2
+Tokyo Majin|https://image.tmdb.org/t/p/w500/1ioIWC6MSGU0J7FhZgfyjvzkFnh.jpg|tokyo-majin|Animation|2007|7.1
+Tokyo Override|https://image.tmdb.org/t/p/w500/7UGLNOXxrHSO5ftqm0HRQmv2FGk.jpg|tokyo-override|Animation|2024|7.2
+Tokyo Revengers|https://image.tmdb.org/t/p/w500/kzDHRAkFjeed0lJpjE1eKJDcowS.jpg|tokyo-revengers|Animation|2021|8.4
+Tougen Anki|https://image.tmdb.org/t/p/w500/hY2hMqvfkUNi5Qcez8piN15zA5Q.jpg|tougen-anki|Animation|2025|7.7
+Touken Ranbu Kai Kyoden|https://image.tmdb.org/t/p/w500/r34i0W9jYsefZUfeusw77ytGe9O.jpg|touken-ranbu-kai-kyoden|Animation|2024|6.0
