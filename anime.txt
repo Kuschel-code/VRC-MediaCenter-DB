@@ -498,3 +498,53 @@ LAZARUS|https://image.tmdb.org/t/p/w500/8ViqUWPWh6aPZGQA57FMRVmaXZ1.jpg|lazarus|
 LBX Girls|https://image.tmdb.org/t/p/w500/rMyUgCTuKoKiuU96l9Z2b3LdXSG.jpg|lbx-girls|Animation|2021|5.7
 League of Nations Air Force Aviation Magic Band Luminous Witches|https://image.tmdb.org/t/p/w500/eVRioDYq4CplRvEuCqLmFX1spQ2.jpg|league-of-nations-air-force-aviation-magic-band-luminous-witches|Animation|2022|5.8
 Legends of the Dark King: A Fist of the North Star Story|https://image.tmdb.org/t/p/w500/p4Jimz8z4d1RJwaHFfA8TtFWOMB.jpg|legends-of-the-dark-king-a-fist-of-the-north-star-story|Animation|2008|6.2
+Lord El-Melloi II’s Case Files: Rail Zeppelin - Grace Note|https://image.tmdb.org/t/p/w500/ucG23No69U0lCrWlo5QpYGzFMp0.jpg|lord-el-melloi-iis-case-files-rail-zeppelin-grace-note|Animation|2019|6.8
+Lord Marksman and Vanadis|https://image.tmdb.org/t/p/w500/e376zozRB5P3i14VmD9bSc9Ar2X.jpg|lord-marksman-and-vanadis|Animation|2014|6.8
+Lord of Vermilion: The Crimson King|https://image.tmdb.org/t/p/w500/2w0JD2SPjxLnRobVxLvOd4ix1EQ.jpg|lord-of-vermilion-the-crimson-king|Action & Abenteuer|2018|4.8
+Love of Kill|https://image.tmdb.org/t/p/w500/xSn1VQ8nvf7vH4qMh0k2FiJMrrv.jpg|love-of-kill|Animation|2022|7.3
+Lucifer and the Biscuit Hammer|https://image.tmdb.org/t/p/w500/tgfw4kCVBsFKD27L6b3QuIZVeP4.jpg|lucifer-and-the-biscuit-hammer|Animation|2022|5.4
+Luck & Logic|https://image.tmdb.org/t/p/w500/eQnw06qPm6a6NuKT95Nn0vFzHSd.jpg|luck-logic|Animation|2016|4.8
+Lupin the 3rd|https://image.tmdb.org/t/p/w500/hqvK45KPyNZMUc2IliXTXYpwLtW.jpg|lupin-the-3rd|Animation|1971|8.0
+Lycoris Recoil|https://image.tmdb.org/t/p/w500/1GJMVzfL7lRy4XqvS8UjsX2tzHt.jpg|lycoris-recoil|Animation|2022|8.1
+Macross Delta|https://image.tmdb.org/t/p/w500/rkhrKOtd6FqG37xGgOhZPTiohBS.jpg|macross-delta|Action & Abenteuer|2016|6.3
+Macross Frontier|https://image.tmdb.org/t/p/w500/tPLwpEYlivtU6XCbfdBPt8MN5lo.jpg|macross-frontier|Animation|2008|7.8
+Magical Destroyers|https://image.tmdb.org/t/p/w500/qQz5m9ktZRJU1VLUNOM4GHV5YUI.jpg|magical-destroyers|Animation|2023|5.5
+Magical Girl Raising Project|https://image.tmdb.org/t/p/w500/vUGQhcXIkPHS6dyM6w3ruzRw7DQ.jpg|magical-girl-raising-project|Animation|2016|6.0
+Magical Warfare|https://image.tmdb.org/t/p/w500/Sm3Xh2E7rpXVeWwtimpTZciB2d.jpg|magical-warfare|Animation|2014|7.3
+Magilumiere Co. Ltd.|https://image.tmdb.org/t/p/w500/aKo52QDpZ98BZA2nhOgMuYxLxc6.jpg|magilumiere-co-ltd|Animation|2024|6.4
+Maken-Ki!|https://image.tmdb.org/t/p/w500/nE2yBB4S6TWibY2dr53ylDjziQD.jpg|maken-ki|Animation|2011|6.6
+Malevolent Spirits: Mononogatari|https://image.tmdb.org/t/p/w500/fNn3Ahbq2faXVvRZS2uEXUceKrS.jpg|malevolent-spirits-mononogatari|Animation|2023|7.0
+MARS RED|https://image.tmdb.org/t/p/w500/bcW9uMdddRl8CJGylBNv9jUlSZY.jpg|mars-red|Animation|2021|6.7
+May I Ask for One Final Thing?|https://image.tmdb.org/t/p/w500/pN79CoV8ecaejbtk6sWlHbMQrCW.jpg|may-i-ask-for-one-final-thing|Animation|2025|7.7
+Mecha-Ude: Mechanical Arms|https://image.tmdb.org/t/p/w500/6Obl3dssEeq5TvlzGsyHPDNpHz.jpg|mecha-ude-mechanical-arms|Animation|2024|7.3
+Megalo Box|https://image.tmdb.org/t/p/w500/jJNt35kX7Ovxm3zZqt0eaSzwFxO.jpg|megalo-box|Animation|2018|7.9
+MEGATON MUSASHI|https://image.tmdb.org/t/p/w500/8cz1PoLOi72iarRQhTdLRCyyGxm.jpg|megaton-musashi|Animation|2021|8.0
+Metallic Rouge|https://image.tmdb.org/t/p/w500/oLMLxZBmIFE6tWg5s8UwuYOWTVI.jpg|metallic-rouge|Animation|2024|7.0
+Mobile Suit Gundam AGE|https://image.tmdb.org/t/p/w500/ApcwLXh9JOf3B5gl4i2Gna9ssc1.jpg|mobile-suit-gundam-age|Animation|2011|8.5
+Mobile Suit Gundam Hathaway||mobile-suit-gundam-hathaway|||
+Monster Strike|https://image.tmdb.org/t/p/w500/heb6tJGPgOnjzwdC7cUZVbYRGd4.jpg|monster-strike|Action & Abenteuer|2015|4.8
+Monsters: 103 Mercies Dragon Damnation||monsters-103-mercies-dragon-damnation|||
+Murder Princess|https://image.tmdb.org/t/p/w500/naWuPWHyYBej13W9eljZ5QxdDMA.jpg|murder-princess|Animation|2007|5.6
+Muv-Luv Alternative|https://image.tmdb.org/t/p/w500/wAdn6rxFeAYGV5FdtNTO2urzReL.jpg|muv-luv-alternative|Animation|2021|5.1
+My Cultivator Girlfriend|https://image.tmdb.org/t/p/w500/jRtCXAtRe7TQ70OoIc73XcGjY4y.jpg|my-cultivator-girlfriend|Animation|2017|7.5
+My Gift Lvl 9999 Unlimited Gacha: Backstabbed in a Backwater Dungeon, I’m Out for Revenge!|https://image.tmdb.org/t/p/w500/lFOtbsKfbrEixJXhHZLeoUtqUIn.jpg|my-gift-lvl-9999-unlimited-gacha-backstabbed-in-a-backwater-dungeon-im-out-for-revenge|Animation|2025|8.2
+My Hero Academia: Vigilantes|https://image.tmdb.org/t/p/w500/xSYojwle5RdwhglSTqR1HSm3lA4.jpg|my-hero-academia-vigilantes|Animation|2025|7.8
+My One-Hit Kill Sister|https://image.tmdb.org/t/p/w500/sysz1yNPpgwA7weihJ7lIgHnt1O.jpg|my-one-hit-kill-sister|Animation|2023|7.0
+NieR:Automata Ver1.1a|https://image.tmdb.org/t/p/w500/tTldK0S5b6ICerha6oK0TF7p1gY.jpg|nierautomata-ver11a|Animation|2023|8.1
+Ninja Kamui|https://image.tmdb.org/t/p/w500/A7mYSloFonDcQtHTqyLqEg9rIkh.jpg|ninja-kamui|Animation|2024|8.3
+Ninja Vs. Gokudo|https://image.tmdb.org/t/p/w500/pKi602WFejL8Qv6tDgtzjfhTuYH.jpg|ninja-vs-gokudo|Animation|2025|6.5
+No Guns Life|https://image.tmdb.org/t/p/w500/saNKhdA4xEFeFleQQlQldDNSOgz.jpg|no-guns-life|Animation|2019|6.7
+Noble Reincarnation ~Born Blessed, So I'll Obtain Ultimate Power~|https://image.tmdb.org/t/p/w500/ggxUYlw7a3eVegnXDv8aCDiLccJ.jpg|noble-reincarnation-born-blessed-so-ill-obtain-ultimate-power|Animation|2026|8.0
+Nobunagun|https://image.tmdb.org/t/p/w500/vwmrxTZ7pZcRk40ca5Ixyy77H4g.jpg|nobunagun|Animation|2014|7.0
+Noragami|https://image.tmdb.org/t/p/w500/8yGBg40I36c98OeKMMjkJkCThkf.jpg|noragami|Animation|2014|8.2
+Onmyo Kaiten Re:Birth Verse|https://image.tmdb.org/t/p/w500/gjXTpi4ENSkf69jtNlShoM3TdUe.jpg|onmyo-kaiten-rebirth-verse|Animation|2025|5.0
+Onyx Equinox|https://image.tmdb.org/t/p/w500/lCPi4hXHjLQWv7j2TVsWoLE99Uw.jpg|onyx-equinox|Sci-Fi & Fantasy|2020|8.3
+Otherside Picnic|https://image.tmdb.org/t/p/w500/h7mTcQeBajpRDOOKKvuSQKllhqI.jpg|otherside-picnic|Animation|2021|6.8
+Our Last Crusade or the Rise of a New World|https://image.tmdb.org/t/p/w500/wCL3MkW9QNnBKpeFC9O3i0mpiIb.jpg|our-last-crusade-or-the-rise-of-a-new-world|Animation|2020|8.2
+Overlord|https://image.tmdb.org/t/p/w500/7kOBPcfhmmfJxIXwJXSeuKM9BID.jpg|overlord|Animation|2015|8.5
+Pacific Rim: The Black|https://image.tmdb.org/t/p/w500/wz2tUYzlUnfQWpBpoerFDbEZdzz.jpg|pacific-rim-the-black|Sci-Fi & Fantasy|2021|8.2
+Pastel Memories|https://image.tmdb.org/t/p/w500/380LiEEEbyqrVUFpUiperiYNP9S.jpg|pastel-memories|Action & Abenteuer|2019|4.7
+Peach Boy Riverside|https://image.tmdb.org/t/p/w500/g1yWyMBeYI15wxIxgX6OmwKLFPR.jpg|peach-boy-riverside|Animation|2021|7.2
+Persona5 the Animation|https://image.tmdb.org/t/p/w500/xgA8GwYzsIwAVAFRl5NapWNca4D.jpg|persona5-the-animation|Animation|2018|7.7
+Phantasy Star Online 2: Episode Oracle|https://image.tmdb.org/t/p/w500/4Hgg2whlaulJr3Mp98AXduYjnF7.jpg|phantasy-star-online-2-episode-oracle|Action & Abenteuer|2019|7.3
+Plunderer|https://image.tmdb.org/t/p/w500/cp1iGqNNy5JRhWbpP3qoANgz1gV.jpg|plunderer|Action & Abenteuer|2020|8.3
