@@ -1,10 +1,50 @@
-100 Sleeping Princes & The Kingdom of Dreams||100-sleeping-princes-the-kingdom-of-dreams|||
-12 Kingdoms: Juuni Kokki||12-kingdoms-juuni-kokki|||
-A 30 Old's Health and Physical Education||a-30-olds-health-and-physical-education|||
-A Gatherer's Adventure in Isekai||a-gatherers-adventure-in-isekai|||
-A Gentle Noble's Vacation Recommendation||a-gentle-nobles-vacation-recommendation|||
-A Journey Through Another World: Raising Kids While Adventuring||a-journey-through-another-world-raising-kids-while-adventuring|||
-A Place Further Than the Universe||a-place-further-than-the-universe|||
-A Playthrough of a Certain Dude's VRMMO Life||a-playthrough-of-a-certain-dudes-vrmmo-life|||
-A Returner's Magic Should Be Special||a-returners-magic-should-be-special|||
-A Wild Last Boss Appeared!||a-wild-last-boss-appeared|||
+100 Sleeping Princes & The Kingdom of Dreams|https://image.tmdb.org/t/p/w500/cBPMbuZXZfCsG2PZGPRqMUojsMf.jpg|100-sleeping-princes-the-kingdom-of-dreams|Animation|2018|5.7
+12 Kingdoms: Juuni Kokki|https://image.tmdb.org/t/p/w500/5aZdd5SHDnSnjSHR6hDXMHqFW8b.jpg|12-kingdoms-juuni-kokki|Animation|2002|7.7
+A 30 Old's Health and Physical Education|https://image.tmdb.org/t/p/w500/izvmVfsgwUjxbEBLhM4UL5agJSZ.jpg|a-30-olds-health-and-physical-education|Animation|2011|6.0
+A Gatherer's Adventure in Isekai|https://image.tmdb.org/t/p/w500/oD4HawWJxmIGNzqwNw7SCFNjaoV.jpg|a-gatherers-adventure-in-isekai|Animation|2025|7.6
+A Gentle Noble's Vacation Recommendation|https://image.tmdb.org/t/p/w500/v0jFsByv3sX4aDpqgpoC7hjtqB8.jpg|a-gentle-nobles-vacation-recommendation|Animation|2026|8.9
+A Journey Through Another World: Raising Kids While Adventuring|https://image.tmdb.org/t/p/w500/1uAbyIVfe1LQQnLCX0dlAiUx1yP.jpg|a-journey-through-another-world-raising-kids-while-adventuring|Animation|2024|7.3
+A Place Further Than the Universe|https://image.tmdb.org/t/p/w500/hg14w0R6YRDARwXPsMNxVeWfptb.jpg|a-place-further-than-the-universe|Animation|2018|7.8
+A Playthrough of a Certain Dude's VRMMO Life|https://image.tmdb.org/t/p/w500/sCLrdFdsweruRFLdN1DytcwHBZw.jpg|a-playthrough-of-a-certain-dudes-vrmmo-life|Animation|2023|6.3
+A Returner's Magic Should Be Special|https://image.tmdb.org/t/p/w500/nBWVWRvSomkuWN5SbJPVQBmwBdq.jpg|a-returners-magic-should-be-special|Animation|2023|7.5
+A Wild Last Boss Appeared!|https://image.tmdb.org/t/p/w500/uLkimDmIWb4VdgFUuiMlS8wGi5S.jpg|a-wild-last-boss-appeared|Animation|2025|7.5
+Adventures of Maya the Honeybee||adventures-of-maya-the-honeybee|||
+Afterlost|https://image.tmdb.org/t/p/w500/snEeC8F69PelHxk5vzCh1wjj9o9.jpg|afterlost|Animation|2019|4.8
+Alle meine Freunde|https://image.tmdb.org/t/p/w500/1S8ATfw5iJh1ZVjWiA1BBxfZDJj.jpg|alle-meine-freunde|Animation|1983|
+Altair: A Record of Battles|https://image.tmdb.org/t/p/w500/3qQJ6u6XLNhaLD1nvAicBwTFb3y.jpg|altair-a-record-of-battles|Animation|2017|7.4
+An Adventurer’s Daily Grind at Age 29|https://image.tmdb.org/t/p/w500/rnwq4Z17xEV29QiT5Kwy9Sh6R8y.jpg|an-adventurers-daily-grind-at-age-29|Animation|2026|9.0
+Ange Vierge|https://image.tmdb.org/t/p/w500/sYMWLlLs3WBFm6sttEApY0JupX8.jpg|ange-vierge|Action & Abenteuer|2016|4.7
+Angel's Egg||angels-egg|||
+Animal Crossing||animal-crossing|||
+Another Journey to the West|https://image.tmdb.org/t/p/w500/6HI0ouLggqgeCACv6Y2BnxY8XwQ.jpg|another-journey-to-the-west|Animation|2024|5.0
+Appare-Ranman!|https://image.tmdb.org/t/p/w500/mEJ4sm3QeU3k8ERApIQSOzQaDId.jpg|appare-ranman|Animation|2020|7.1
+Arata the Legend|https://image.tmdb.org/t/p/w500/3Jb35wxSy9zBe5VvoIG8NKJPfnF.jpg|arata-the-legend|Animation|2013|6.1
+Are You Lost?|https://image.tmdb.org/t/p/w500/tsEyKSoiDMdbaEavoXRC5DERgAV.jpg|are-you-lost|Animation|2019|7.9
+Arifureta: From Commonplace to World’s Strongest|https://image.tmdb.org/t/p/w500/kB9tdE00Z5zWIJQux1jiYvRyPIC.jpg|arifureta-from-commonplace-to-worlds-strongest|Animation|2019|8.4
+Arknights: Prelude to Dawn|https://image.tmdb.org/t/p/w500/yvNkvdYNS8Pzyu4Rsiflvdg8ogh.jpg|arknights-prelude-to-dawn|Animation|2022|6.4
+Atelier Escha & Logy: Alchemists of the Dusk Sky|https://image.tmdb.org/t/p/w500/hywo9iVfcydKT9aYX6P34Qta7CY.jpg|atelier-escha-logy-alchemists-of-the-dusk-sky|Animation|2014|7.2
+Atelier Ryza: Ever Darkness & the Secret Hideout The Animation|https://image.tmdb.org/t/p/w500/9jKPfjNCJycFys8iasWXZJbpRFp.jpg|atelier-ryza-ever-darkness-the-secret-hideout-the-animation|Animation|2023|6.6
+Baggy|https://image.tmdb.org/t/p/w500/hfjX8FnLora053fLJ2tEqN4kzsH.jpg|baggy|Animation|1977|6.5
+Beast Tamer|https://image.tmdb.org/t/p/w500/zR4to7glpmL6nTBW0ZkrrKGtk5K.jpg|beast-tamer|Animation|2022|7.7
+Blast of Tempest|https://image.tmdb.org/t/p/w500/d8QIJ5BnRoR45mGZjfT48u0wTZP.jpg|blast-of-tempest|Animation|2012|8.0
+Boarding School Juliet|https://image.tmdb.org/t/p/w500/bgGMPgTtAPGq3OLRWYgsPYFFE7X.jpg|boarding-school-juliet|Animation|2018|8.1
+Bodacious Space Pirates|https://image.tmdb.org/t/p/w500/zDvfKiNdUC3scwRK44pNLNO6BIN.jpg|bodacious-space-pirates|Animation|2012|6.2
+Bogus Skill „Fruitmaster“: About That Time I Became Able to Eat Unlimited Numbers of Skill Fruits (That Kill You)|https://image.tmdb.org/t/p/w500/ctnnqBBZoJ3O3Mvo6leqYWxjGos.jpg|bogus-skill-fruitmaster-about-that-time-i-became-able-to-eat-unlimited-numbers-of-skill-fruits-that-kill-you|Animation|2025|7.6
+Brave Story||brave-story|||
+Bubble|https://image.tmdb.org/t/p/w500/7wP2q18XCECnug8Imru0BA8Pk0K.jpg|bubble|Action & Abenteuer|1987|7.0
+Bungo and Alchemist: Gears of Judgement|https://image.tmdb.org/t/p/w500/9Ve8Cqrr1ub5aiXGh6TjXdjz2db.jpg|bungo-and-alchemist-gears-of-judgement|Animation|2020|6.8
+Bureau of Paranormal Investigation|https://image.tmdb.org/t/p/w500/qjCv7OiGYPAa6dGntKddGEUYqSC.jpg|bureau-of-paranormal-investigation|Animation|2020|5.8
+By the Grace of the Gods|https://image.tmdb.org/t/p/w500/qorFmA7XengVd3UMYG2SJrxygCe.jpg|by-the-grace-of-the-gods|Animation|2020|8.0
+Bye Bye, Earth|https://image.tmdb.org/t/p/w500/mPFow4Aw7Rq6n5qfpFUhZF3UKdl.jpg|bye-bye-earth|Animation|2024|7.2
+Cagaster of an Insect Cage|https://image.tmdb.org/t/p/w500/yOIixxFPbfcGytrcYdRrC9Y1bT5.jpg|cagaster-of-an-insect-cage|Animation|2020|7.9
+Cannon Busters|https://image.tmdb.org/t/p/w500/21pFKgmMJOucGGIzKWBpkjT7FN1.jpg|cannon-busters|Animation|2019|5.9
+Captain Future|https://image.tmdb.org/t/p/w500/3L02rauaU47BhFs2mbfBt3RgGeU.jpg|captain-future|Animation|1978|8.1
+Cardfight!! Vanguard: OverDress|https://image.tmdb.org/t/p/w500/mjKtwfnz1X7ehbFgHqRoVoDT8DR.jpg|cardfight-vanguard-overdress|Animation|2021|6.5
+Cautious Hero: The Hero Is Overpowered but Overly Cautious|https://image.tmdb.org/t/p/w500/leobb4kmAFpO1XUH739fkg6PEqH.jpg|cautious-hero-the-hero-is-overpowered-but-overly-cautious|Animation|2019|8.2
+Cerberus|https://image.tmdb.org/t/p/w500/dFKUmHIeT2Ezjbdgi3oZK1oEJJP.jpg|cerberus|Animation|2016|7.6
+CESTVS: The Roman Fighter|https://image.tmdb.org/t/p/w500/zOd8z1HCYP5EApiXyrC6nx2Kk68.jpg|cestvs-the-roman-fighter|Animation|2021|7.2
+Champignon Witch|https://image.tmdb.org/t/p/w500/fnMlh7jvoPvqoIqz5bYnw8MkQwO.jpg|champignon-witch|Animation|2026|6.2
+Cinderella Chef|https://image.tmdb.org/t/p/w500/z7UbVoK84pQLTGI74QzyXoOo5OW.jpg|cinderella-chef|Action & Abenteuer|2018|6.4
+Code: Realize - Guardian of Rebirth|https://image.tmdb.org/t/p/w500/6F1o1RrRe0s8slVpySrIydAaTb5.jpg|code-realize-guardian-of-rebirth|Drama|2017|6.1
+Comet Lucifer|https://image.tmdb.org/t/p/w500/621IzHQCeQf39KOWJ45KVuPE6iV.jpg|comet-lucifer|Animation|2015|7.3
+Coppelion|https://image.tmdb.org/t/p/w500/6dRQVgfqmajmnUn1zTpl4L8zvNm.jpg|coppelion|Animation|2013|7.2
