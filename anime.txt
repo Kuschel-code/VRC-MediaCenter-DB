@@ -898,3 +898,53 @@ Jack-of-All-Trades, Party of None|https://image.tmdb.org/t/p/w500/7eVq3cC9V5ZUl7
 Kaze no Stigma|https://image.tmdb.org/t/p/w500/846dVxRSvw4EJFG2SplqXXudH5C.jpg|kaze-no-stigma|Action & Abenteuer|2007|7.0
 Kill la Kill|https://image.tmdb.org/t/p/w500/y2OuQF4oiynNvsTlnyb40jqGMdJ.jpg|kill-la-kill|Action & Abenteuer|2013|8.2
 Liar Liar|https://image.tmdb.org/t/p/w500/vmT5VZb6AACzIt3s6FcIfARbqfP.jpg|liar-liar|Drama|2007|7.7
+Library War|https://image.tmdb.org/t/p/w500/ePeKRpKgWApiN0pbaCJMZn07Jq3.jpg|library-war|Animation|2008|7.2
+Loveless: SD Theatre||loveless-sd-theatre|||
+Majikoi: Oh! Samurai Girls!|https://image.tmdb.org/t/p/w500/k7jFwqxaze80ioRynuLahPbuohC.jpg|majikoi-oh-samurai-girls|Animation|2011|6.1
+Mashle: Magic and Muscles|https://image.tmdb.org/t/p/w500/9rvbqwoEis7SZjbfiIYjzE2uWz3.jpg|mashle-magic-and-muscles|Animation|2023|8.3
+Medaka Box|https://image.tmdb.org/t/p/w500/iepClkozfrWJgRTOWiYnkOcwIhI.jpg|medaka-box|Animation|2012|7.2
+Mission: Yozakura Family|https://image.tmdb.org/t/p/w500/ld8DpQKpM4T1wRAiBjgReV0mQcK.jpg|mission-yozakura-family|Animation|2024|7.4
+Mob Psycho 100|https://image.tmdb.org/t/p/w500/aFcv9zeJtSbJHSYUlQCOQYV3Gio.jpg|mob-psycho-100|Animation|2016|8.5
+My Hero Academia|https://image.tmdb.org/t/p/w500/dmUuNVWAJumRkDNuauFaLSvga00.jpg|my-hero-academia|Action & Abenteuer|2016|8.6
+Myriad Colors Phantom World|https://image.tmdb.org/t/p/w500/rBYiCmtJFfR1lBjqwDUk37a3AK0.jpg|myriad-colors-phantom-world|Animation|2016|7.7
+Nanbaka|https://image.tmdb.org/t/p/w500/deAAWfBOx5ObJji03bEv19pY9u5.jpg|nanbaka|Animation|2016|5.8
+Needless|https://image.tmdb.org/t/p/w500/ZzH3D46034BJ7n2lfhN4jDn4FV.jpg|needless|Animation|2009|7.6
+No Home|https://image.tmdb.org/t/p/w500/6qSdodmX5mPimewTlp5gQcMyqi3.jpg|no-home|Animation|2024|6.0
+Omamori Himari|https://image.tmdb.org/t/p/w500/ncJgORlIC4zwaVMmiPvoxTbx8HE.jpg|omamori-himari|Sci-Fi & Fantasy|2010|7.0
+One Punch Man|https://image.tmdb.org/t/p/w500/a8BknzvFVK5EZ83rKg1a83iwaj0.jpg|one-punch-man|Animation|2015|8.4
+Pandora in the Crimson Shell: Ghost Urn|https://image.tmdb.org/t/p/w500/ytpIB5O3yYFJe1R6K3JCjq2Q074.jpg|pandora-in-the-crimson-shell-ghost-urn|Animation|2016|5.1
+Powerpuff Girls Z|https://image.tmdb.org/t/p/w500/1hiCucw8E5bgAkIjx5GSxW3MyZf.jpg|powerpuff-girls-z|Animation|2006|8.1
+Princess Connect! Re:Dive|https://image.tmdb.org/t/p/w500/plTwjdbtx42e6CjMtC81tHTZRWl.jpg|princess-connect-redive|Animation|2020|6.8
+Princess Resurrection|https://image.tmdb.org/t/p/w500/ArCdlSghK94kf5qgkwX9Le843Q0.jpg|princess-resurrection|Animation|2007|7.3
+Psychic Squad|https://image.tmdb.org/t/p/w500/zd6zRbgsReMvB5Xp5KELib1juPd.jpg|psychic-squad|Animation|2013|6.6
+Punch Line|https://image.tmdb.org/t/p/w500/f3YZlksJX1ggTJDdlcnybSDMdEg.jpg|punch-line|Animation|2015|5.9
+Rail Wars!|https://image.tmdb.org/t/p/w500/atlRfopvtMPdu4eLuh4kIXXODXF.jpg|rail-wars|Action & Abenteuer|2014|5.7
+Reborn to Master the Blade: From Hero-King to Extraordinary Squire|https://image.tmdb.org/t/p/w500/4g5qdzlq0NCi1USbEI6Cq5S73V6.jpg|reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire|Animation|2023|6.8
+Rock is a Lady's Modesty|https://image.tmdb.org/t/p/w500/c2Li4DhsSJiiKRpMHmTV462oSQH.jpg|rock-is-a-ladys-modesty|Animation|2025|7.6
+Sabagebu!: Survival Game Club!|https://image.tmdb.org/t/p/w500/bqibFFJFY9KAyA3VUHvjE7A0Ehm.jpg|sabagebu-survival-game-club|Animation|2014|7.3
+Sakamoto Days|https://image.tmdb.org/t/p/w500/qTNIxDIzKjLLuS17fxdXjcKAlW7.jpg|sakamoto-days|Animation|2025|8.1
+Samurai Girls|https://image.tmdb.org/t/p/w500/3FeLHQChvAMElHPGsYKDWslTaK6.jpg|samurai-girls|Animation|2010|6.4
+Sekai Seifuku: World Conquest Zvezda Plot|https://image.tmdb.org/t/p/w500/q0VlnKNxqNOgIhzxXDgzpnpftyS.jpg|sekai-seifuku-world-conquest-zvezda-plot|Action & Abenteuer|2014|6.3
+Sekirei|https://image.tmdb.org/t/p/w500/72gRgK8t7FSqY3El41nguj272vR.jpg|sekirei|Animation|2008|7.2
+Senran Kagura|https://image.tmdb.org/t/p/w500/s7YVn2EMkQNt23nD7WEZO0fjegN.jpg|senran-kagura|Action & Abenteuer|2013|5.7
+Sky Girls|https://image.tmdb.org/t/p/w500/3Doo8lW1Vi1ZfJw3KRACEDLl0aN.jpg|sky-girls|Animation|2007|6.9
+So I’m a Spider, So What?|https://image.tmdb.org/t/p/w500/wt7LoTKJUYmyWuxcVowGWaPeKqV.jpg|so-im-a-spider-so-what|Animation|2021|7.8
+Soul Eater Not!|https://image.tmdb.org/t/p/w500/ztbotMzXCEqt344bq4Q9dGwD6t0.jpg|soul-eater-not|Action & Abenteuer|2014|5.7
+Space Dandy|https://image.tmdb.org/t/p/w500/fiF6xVytcy0RHvIzMWUXNIGOIKu.jpg|space-dandy|Animation|2014|7.5
+SPY x FAMILY|https://image.tmdb.org/t/p/w500/vaIREdPGZOnW9Jrs86mheVVlIQQ.jpg|spy-x-family|Animation|2022|8.5
+Strike Witches|https://image.tmdb.org/t/p/w500/zYSQM0y4equEz2C4so4ToJAopOn.jpg|strike-witches|Animation|2008|5.8
+Taboo Tattoo|https://image.tmdb.org/t/p/w500/vMq45IvRe0J1exLMtTSV27KxdsQ.jpg|taboo-tattoo|Animation|2016|7.4
+Tenchi Muyo! War on Geminar|https://image.tmdb.org/t/p/w500/tWq0Nbtq0ZbGSEyOwbOwNzycpNa.jpg|tenchi-muyo-war-on-geminar|Animation|2009|7.6
+Tenchi Universe|https://image.tmdb.org/t/p/w500/hNvusu5DLyA67YxHTAZGn9txacK.jpg|tenchi-universe|Animation|1995|6.9
+The Daily Life of the Immortal King|https://image.tmdb.org/t/p/w500/AqWoHl346Xw6KXi6qqbJqnfeU4B.jpg|the-daily-life-of-the-immortal-king|Animation|2020|8.3
+The Dawn of the Witch|https://image.tmdb.org/t/p/w500/pQw7WrP2iDFwxNz7t5gQd6hDk4q.jpg|the-dawn-of-the-witch|Animation|2022|6.2
+The Demon Sword Master of Excalibur Academy|https://image.tmdb.org/t/p/w500/h4OUGWuxjBlvsbgi62g26deXclc.jpg|the-demon-sword-master-of-excalibur-academy|Animation|2023|6.9
+The Eminence in Shadow|https://image.tmdb.org/t/p/w500/r3IHw82QFkLmggTG9QpBFpYArVM.jpg|the-eminence-in-shadow|Animation|2022|8.0
+The Fruit of Evolution: Before I Knew It, My Life Had It Made|https://image.tmdb.org/t/p/w500/eSfh7eFwdgcdbHDKDv2jDAYS71A.jpg|the-fruit-of-evolution-before-i-knew-it-my-life-had-it-made|Animation|2021|7.3
+The Genius Prince's Guide to Raising a Nation Out of Debt|https://image.tmdb.org/t/p/w500/vWpWbSdU4B82slSZPUJTLu8RygR.jpg|the-genius-princes-guide-to-raising-a-nation-out-of-debt|Animation|2022|7.8
+The Greatest Demon Lord Is Reborn as a Typical Nobody|https://image.tmdb.org/t/p/w500/oDmhdUnR7tatB4s2NmmmwUrpv2e.jpg|the-greatest-demon-lord-is-reborn-as-a-typical-nobody|Animation|2022|7.0
+The Healer Who Was Banished From His Party, Is, in Fact, the Strongest|https://image.tmdb.org/t/p/w500/ukbkGIhH8cvirLIsyJdzdzJSCOl.jpg|the-healer-who-was-banished-from-his-party-is-in-fact-the-strongest|Animation|2024|6.2
+The Iceblade Sorcerer Shall Rule the World|https://image.tmdb.org/t/p/w500/aiJd0oGkBhf98uEH3F3yC7O48vr.jpg|the-iceblade-sorcerer-shall-rule-the-world|Animation|2023|7.2
+The Outcast|https://image.tmdb.org/t/p/w500/kUTsnVSo9JWcFK3Y2XILQfH0imK.jpg|the-outcast|Animation|2016|7.0
+The Strongest Tank's Labyrinth Raids|https://image.tmdb.org/t/p/w500/tCIYBhTQe1PdPWzkteqfhIHIa80.jpg|the-strongest-tanks-labyrinth-raids|Animation|2024|6.5
+The Unaware Atelier Meister|https://image.tmdb.org/t/p/w500/6DXiVYwgJeV3P1tvXEoOA5RSaOo.jpg|the-unaware-atelier-meister|Animation|2025|7.1
