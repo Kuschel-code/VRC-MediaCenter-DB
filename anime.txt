@@ -2148,3 +2148,53 @@ Remake our Life!|https://image.tmdb.org/t/p/w500/dUq8ZrPotvqy8kUWTuk1EKW765o.jpg
 Rent-A-Girlfriend|https://image.tmdb.org/t/p/w500/awUOcWMgjHcKwhVzz5xbZBaXEfo.jpg|rent-a-girlfriend|Animation|2020|8.3
 Rokudo's Bad Girls|https://image.tmdb.org/t/p/w500/7Ah5r0QwCORMLO3O5DHJbaClPh6.jpg|rokudos-bad-girls|Animation|2023|5.2
 Rosario + Vampire|https://image.tmdb.org/t/p/w500/yVoA47fQASCW18vToWeNPFAVAch.jpg|rosario-vampire|Animation|2008|7.9
+Saekano: How to Raise a Boring Girlfriend|https://image.tmdb.org/t/p/w500/1jOoIaYLmyzaiuoiV8TG5cd5gih.jpg|saekano-how-to-raise-a-boring-girlfriend|Animation|2015|6.8
+Saint Cecilia and Pastor Lawrence|https://image.tmdb.org/t/p/w500/zgXLOW0dQ2LKHPkB68Db75PgWup.jpg|saint-cecilia-and-pastor-lawrence|Animation|2023|7.5
+Sakura Trick|https://image.tmdb.org/t/p/w500/2Sm1bZSJ8UX1m8mWy8iaSOmexY0.jpg|sakura-trick|Komoedie|2014|6.1
+Samurai Harem|https://image.tmdb.org/t/p/w500/jlIRWrNCdH5u8NlRHfprDtzkKff.jpg|samurai-harem|Animation|2009|7.0
+Sasameki Koto|https://image.tmdb.org/t/p/w500/ilxH4QQFrxtTiU1XMF6moQftVW0.jpg|sasameki-koto|Animation|2009|6.6
+School Rumble|https://image.tmdb.org/t/p/w500/uuldZxy7SRvSvOfRBZObKTMfmtP.jpg|school-rumble|Animation|2004|7.4
+Science fell in Love, so I tried to prove it|https://image.tmdb.org/t/p/w500/pokU2f5EgD5E6EJoK9jhfbkQNXe.jpg|science-fell-in-love-so-i-tried-to-prove-it|Animation|2020|7.6
+Seiren|https://image.tmdb.org/t/p/w500/8OIypScBcXYXjFYnhOyCEmVg0nW.jpg|seiren|Animation|2017|7.9
+Senpai is an Otokonoko|https://image.tmdb.org/t/p/w500/au90540MP5FlnZGZZM6Gszjwcnl.jpg|senpai-is-an-otokonoko|Animation|2024|7.6
+Shikimori's Not Just a Cutie|https://image.tmdb.org/t/p/w500/haxobwMfwQLaz1tgh0Ngp58kmRW.jpg|shikimoris-not-just-a-cutie|Animation|2022|7.8
+Shomin Sample|https://image.tmdb.org/t/p/w500/4lMaDnVgglRshh0vX1x4dhGOCnd.jpg|shomin-sample|Animation|2015|8.3
+So, I Can’t Play H!|https://image.tmdb.org/t/p/w500/wNiyGFic5bmtrrUKUWHOFNrZRS2.jpg|so-i-cant-play-h|Action & Abenteuer|2012|7.7
+Special A|https://image.tmdb.org/t/p/w500/uOx0dDmt72hjIC5gmCzxEdn8qt0.jpg|special-a|Drama|1972|6.4
+Spiritpact|https://image.tmdb.org/t/p/w500/657mCsZKc58PbX4VCv4BL9giFo2.jpg|spiritpact|Animation|2016|6.0
+Strawberry 100%|https://image.tmdb.org/t/p/w500/AaGbEKm5a0lS2vZwVveLgQrmxHN.jpg|strawberry-100|Animation|2005|6.2
+Studio Apartment, Good Lighting, Angel Included|https://image.tmdb.org/t/p/w500/zFxZLWVketbVHJPaINY2v3wTsCN.jpg|studio-apartment-good-lighting-angel-included|Animation|2024|7.4
+Summoned to Another World for a Second Time|https://image.tmdb.org/t/p/w500/sAI7DYEuM9mdtZWJiK7YFQcCn0b.jpg|summoned-to-another-world-for-a-second-time|Animation|2023|6.2
+Sumomomo Momomo - The Strongest Bride on Earth|https://image.tmdb.org/t/p/w500/w2881vAANTSuOUBOT0V3hzQTQIL.jpg|sumomomo-momomo-the-strongest-bride-on-earth|Animation|2006|6.4
+Super HxEros|https://image.tmdb.org/t/p/w500/jwh8eRPJPhE6XXgwlkRf6RFoKUq.jpg|super-hxeros|Animation|2020|6.0
+Tada Never Falls in Love|https://image.tmdb.org/t/p/w500/cSSu9CMZlROYF8d13uFO7XAALMR.jpg|tada-kun-wa-koi-o-shinai|Animation|2018|7.4
+Tamon's B-Side|https://image.tmdb.org/t/p/w500/5X2Z4zEgMzKNLL3OrJccUjXKUUk.jpg|tamons-b-side|Animation|2026|7.6
+Tayutama - Kiss on my Deity|https://image.tmdb.org/t/p/w500/kmhk3gV5Su0dluoK3aS1lm8DLLc.jpg|tayutama-kiss-on-my-deity|Animation|2009|6.5
+Teasing Master Takagi-san|https://image.tmdb.org/t/p/w500/6MH3uw848hAwvOGUMrbXegMpIgu.jpg|teasing-master-takagi-san|Komoedie|2024|7.5
+Tenchi Muyo!|https://image.tmdb.org/t/p/w500/kBGbkZyBRsOXOHcgpQspg0xv200.jpg|tenchi-muyo|Animation|1992|7.3
+TenPuru -No One Can Live on Loneliness-|https://image.tmdb.org/t/p/w500/5edyBIMjpBdOK50964UCezIO2Ie.jpg|tenpuru|Animation|2023|5.8
+The "Hentai" Prince and the Stony Cat|https://image.tmdb.org/t/p/w500/qaVDPVLn2H0ze7q4zCTQ3OkjIas.jpg|the-hentai-prince-and-the-stony-cat|Animation|2013|7.0
+The 100 Girlfriends Who Really, Really, Really, Really, REALLY Love You|https://image.tmdb.org/t/p/w500/uGLPOAWnrbHxf1m5SZsrmNVHvYg.jpg|the-100-girlfriends-who-really-really-really-really-really-love-you|Animation|2023|8.1
+The Ambition of Oda Nobuna|https://image.tmdb.org/t/p/w500/w7vKaZGXXvJOxS3FiKGcnBBeUpM.jpg|the-ambition-of-oda-nobuna|Sci-Fi & Fantasy|2012|6.4
+The Dreaming Boy Is a Realist|https://image.tmdb.org/t/p/w500/yKcMmI4dMb6Z6z2p8OkjWhnLGv0.jpg|the-dreaming-boy-is-a-realist|Animation|2023|7.0
+The Duke of Death and His Maid|https://image.tmdb.org/t/p/w500/l61yXOVHyGhhB8LIxwjawy5Zbxg.jpg|the-duke-of-death-and-his-maid|Animation|2021|7.8
+The Familiar of Zero|https://image.tmdb.org/t/p/w500/lalmkYtSEjPPTWNYrY6a2MWXkvz.jpg|the-familiar-of-zero|Animation|2006|8.4
+The Foolish Angel Dances with the Devil|https://image.tmdb.org/t/p/w500/4X2yAU6CtHwjiVlO07WxssRwKPu.jpg|the-foolish-angel-dances-with-the-devil|Animation|2024|6.7
+The Girl I Like Forgot Her Glasses|https://image.tmdb.org/t/p/w500/qiqABKCg3heJExRJBZCKNv7IPBE.jpg|the-girl-i-like-forgot-her-glasses|Animation|2023|7.6
+The Gorilla God’s Go-To Girl|https://image.tmdb.org/t/p/w500/qJ7OuLn37BbXOC47mXWvKTgOudW.jpg|the-gorilla-gods-go-to-girl|Animation|2025|7.6
+The Helpful Fox Senko-san|https://image.tmdb.org/t/p/w500/4pdyOLqy1fBktuxKstmRSiiCPgD.jpg|the-helpful-fox-senko-san|Animation|2019|8.4
+The Ice Guy and His Cool Female Colleague|https://image.tmdb.org/t/p/w500/1dizeF8TeQnrKUyopzap0ROKHgF.jpg|the-ice-guy-and-his-cool-female-colleague|Animation|2023|6.7
+The Invisible Man and His Soon-to-Be Wife|https://image.tmdb.org/t/p/w500/ovkgVd6wwJ4FAwilVtxsmIhbXmp.jpg|the-invisible-man-and-his-soon-to-be-wife|Animation|2026|8.7
+The Kawai Complex Guide to Manors and Hostel Behavior|https://image.tmdb.org/t/p/w500/jvQObqTIRGWJRDuI4gFpyomnvht.jpg|the-kawai-complex-guide-to-manors-and-hostel-behavior|Animation|2014|6.7
+The Magical Girl and the Evil Lieutenant Used to Be Archenemies|https://image.tmdb.org/t/p/w500/9NivXf13bsUsL5ipeZwByuwJLcB.jpg|the-magical-girl-and-the-evil-lieutenant-used-to-be-archenemies|Animation|2024|7.1
+The Maid I Recently Hired Is Mysterious|https://image.tmdb.org/t/p/w500/wO0R83ZezAnHNgoUxtn2N93wjyb.jpg|the-maid-i-recently-hired-is-mysterious|Animation|2022|8.2
+The Pet Girl of Sakurasou|https://image.tmdb.org/t/p/w500/6pV5QSSZNtHd3ONrJeMy4SCoVFE.jpg|the-pet-girl-of-sakurasou|Animation|2012|7.6
+The Quintessential Quintuplets|https://image.tmdb.org/t/p/w500/2N3eopYKpWkUD2pChD4jWV6UyGD.jpg|the-quintessential-quintuplets|Animation|2019|8.4
+The Shiunji Family Children|https://image.tmdb.org/t/p/w500/iSSYooLNjjNvbGSqAxnL8LgtSMP.jpg|the-shiunji-family-children|Animation|2025|7.7
+The Shy Hero and the Assassin Princesses|https://image.tmdb.org/t/p/w500/AdDlS4EAenNTg9QgBhmYwadm4kU.jpg|the-shy-hero-and-the-assassin-princesses|Animation|2025|6.9
+The Troubled Life of Miss Kotoura|https://image.tmdb.org/t/p/w500/6XLzSwOQHawOXcpxLbgefzdYFQw.jpg|the-troubled-life-of-miss-kotoura|Komoedie|2013|6.9
+The World God Only Knows|https://image.tmdb.org/t/p/w500/ynekjHipGuIDE6W8E4rxE3UCMe6.jpg|the-world-god-only-knows|Animation|2010|7.0
+There was a Cute Girl in the Hero’s Party, so I Tried Confessing to Her|https://image.tmdb.org/t/p/w500/hlprcIJFyWVkCNOxU7UySb1ECLe.jpg|there-was-a-cute-girl-in-the-heros-party-so-i-tried-confessing-to-her|Animation|2026|8.6
+There’s No Freaking Way I’ll be Your Lover! Unless…|https://image.tmdb.org/t/p/w500/oTZzpIktlKx6fmmsIaUu4usUah1.jpg|theres-no-freaking-way-ill-be-your-lover-unless|Animation|2025|8.1
+They Are My Noble Masters|https://image.tmdb.org/t/p/w500/grGacfAwNtsqPfrhNwcx34q7ftx.jpg|they-are-my-noble-masters|Animation|2008|6.7
+To Love-Ru|https://image.tmdb.org/t/p/w500/bOJRApP65FO787UWqRQqXCe1XNs.jpg|to-love-ru|Animation|2008|8.2
