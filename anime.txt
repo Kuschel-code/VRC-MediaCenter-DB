@@ -1448,3 +1448,53 @@ Initial D|https://image.tmdb.org/t/p/w500/CMG53GMx0OFFmF4dzhlFuebarq.jpg|initial
 Iwakakeru: Sport Climbing Girls|https://image.tmdb.org/t/p/w500/9X4ubebN3m53E672kpufos4IBz4.jpg|iwakakeru-sport-climbing-girls|Animation|2020|7.6
 Kandagawa Jet Girls|https://image.tmdb.org/t/p/w500/vcrSRSpEHVriusKTrGhuL0xpc3u.jpg|kandagawa-jet-girls|Animation|2019|5.9
 Keijo!!!!!!!!|https://image.tmdb.org/t/p/w500/t9zN06BwacKvyRe2Hi4zoTxd2FY.jpg|keijo|Action & Abenteuer|2016|6.7
+Kickers|https://image.tmdb.org/t/p/w500/lhZrkv153SSUZJ2J6AP4Jwi3kKm.jpg|kickers|Animation|2001|7.7
+Kuroko’s Basketball|https://image.tmdb.org/t/p/w500/ftT1qtT6yWO5rfs237a466N8QRr.jpg|kurokos-basketball|Animation|2012|8.4
+Left-Hand Layup!|https://image.tmdb.org/t/p/w500/eONDt3A8fBeAaDMiqN5roullnJL.jpg|left-hand-layup|Animation|2023|6.5
+Love All Play|https://image.tmdb.org/t/p/w500/AvkDDOD1dy4ZygO0Z433o42hxsd.jpg|love-all-play|Animation|2022|6.8
+Love Live! Nijigasaki High School Idol Club|https://image.tmdb.org/t/p/w500/10TCK99AXCTiS8KtbGgtEPeyw8f.jpg|love-live-nijigasaki-high-school-idol-club|Animation|2020|6.5
+Love Live! School Idol Project|https://image.tmdb.org/t/p/w500/ynbpiXGC01pCzHZGo16WigbJsQQ.jpg|love-live-school-idol-project|Animation|2013|7.4
+Love Live! Sunshine!!|https://image.tmdb.org/t/p/w500/3ZRYUZpHepxk50O5dLiYCBXbn3N.jpg|love-live-sunshine|Animation|2016|6.5
+Major|https://image.tmdb.org/t/p/w500/nvVfxP9GiWMXct2ZJOXFF4l7dn.jpg|major|Animation|2004|8.4
+Major 2nd|https://image.tmdb.org/t/p/w500/tCoSxUAjMSG8mH4AdBpGqMdYWLg.jpg|major-2nd|Animation|2018|7.9
+Medalist|https://image.tmdb.org/t/p/w500/7DXsDnyOTTlqcj1fKrNQz8Ftxco.jpg|medalist|Animation|2025|8.4
+MegaMan NT Warrior|https://image.tmdb.org/t/p/w500/jHJlz3T6LjpiTMsYASWdYPfzMT9.jpg|megaman-nt-warrior|Action & Abenteuer|2002|7.8
+MF GHOST|https://image.tmdb.org/t/p/w500/vMnd8iqPwOOoIZ9a2RcqAHppDoq.jpg|mf-ghost|Animation|2023|8.2
+Mila Superstar|https://image.tmdb.org/t/p/w500/3baDnYHopdB1YhSJJRWIZZEZdNz.jpg|mila-superstar|Animation|1969|5.6
+Minami Kamakura High School Girls Cycling Club|https://image.tmdb.org/t/p/w500/e5Db5PFHLSkyzVGr6h5cGRl8Rgf.jpg|minami-kamakura-high-school-girls-cycling-club|Animation|2017|7.6
+Number 24|https://image.tmdb.org/t/p/w500/s0Ph6walJ6E6DhYuUdLN8O6li8R.jpg|number-24|Animation|2020|6.2
+Oblivion Battery|https://image.tmdb.org/t/p/w500/k3HudWK59tnvyQmPKaV4rhma9cH.jpg|oblivion-battery|Animation|2024|8.2
+OverDrive|https://image.tmdb.org/t/p/w500/iOOpHR7IOZsxUG4nRuOaqw5bRbd.jpg|overdrive|Animation|2007|9.2
+Paradox Live THE ANIMATION|https://image.tmdb.org/t/p/w500/tlPG08mmtFPb6K0PpymddXvuzzt.jpg|paradox-live-the-animation|Animation|2023|5.5
+Ping Pong the Animation|https://image.tmdb.org/t/p/w500/b2S7VqwBzSS9cz0S0FQxTPTKmct.jpg|ping-pong-the-animation|Animation|2014|8.1
+Pretty Rhythm - Aurora Dream|https://image.tmdb.org/t/p/w500/taWXKwAF5Lqy80dPCKHW3eruxqJ.jpg|pretty-rhythm-aurora-dream|Animation|2011|7.4
+Prince of Stride Alternative|https://image.tmdb.org/t/p/w500/3Wg8rzlX187rFsdkhuI5CqtGvzE.jpg|prince-of-stride-alternative|Animation|2016|5.6
+PuraOre! Pride of Orange|https://image.tmdb.org/t/p/w500/jPgVFyhrZRPRbEZl6TpyTEptj0Z.jpg|puraore-pride-of-orange|Animation|2021|5.7
+RE-MAIN|https://image.tmdb.org/t/p/w500/qA86K7u72cPtUvI0yZ91TcfFx9Q.jpg|re-main|Animation|2021|6.8
+Revue Starlight|https://image.tmdb.org/t/p/w500/flvcdASKspT68ufrtmm3QNlkxCV.jpg|revue-starlight|Animation|2018|7.9
+Rising Impact|https://image.tmdb.org/t/p/w500/2IelH7AY97IgzBiUgn6w7UBNNzF.jpg|rising-impact|Animation|2024|8.5
+Saki|https://image.tmdb.org/t/p/w500/80to1jK0MAsX1Bjn6heAXtg0r7t.jpg|saki|Animation|2009|5.6
+Scorching Ping Pong Girls|https://image.tmdb.org/t/p/w500/uUJKEN2OmhsYzMjb1YBosOG7R3s.jpg|scorching-ping-pong-girls|Animation|2016|5.3
+Shadowverse|https://image.tmdb.org/t/p/w500/jxHLdfpZfkc7wPEhY6nZz5tr0eu.jpg|shadowverse|Animation|2020|5.3
+Shadowverse Flame|https://image.tmdb.org/t/p/w500/jxHLdfpZfkc7wPEhY6nZz5tr0eu.jpg|shadowverse-flame|Animation|2020|5.3
+SHOOT! Goal to the Future|https://image.tmdb.org/t/p/w500/utiQcRYDRqUApxWDzl6T9gs6x5X.jpg|shoot-goal-to-the-future|Animation|2022|6.9
+Skate-Leading Stars|https://image.tmdb.org/t/p/w500/tBxK6r1DlDTJDsde4GDQDjpGcIC.jpg|skate-leading-stars|Animation|2021|5.6
+Skip Beat!|https://image.tmdb.org/t/p/w500/d9crmGhDGGJuXj1GKyqhPiFrUQr.jpg|skip-beat|Animation|2008|7.2
+Slam Dunk|https://image.tmdb.org/t/p/w500/tl44cjAK0UiQSH6aRLs1ActnGEp.jpg|slam-dunk|Animation|1993|8.7
+Starmyu|https://image.tmdb.org/t/p/w500/cPeb8sTfqltEHZlOCPc6orwuIsq.jpg|starmyu|Animation|2015|8.4
+Tamayomi: The Baseball Girls|https://image.tmdb.org/t/p/w500/aoTY6IXfNYxWBJyNPI792y6CpYW.jpg|tamayomi-the-baseball-girls|Animation|2020|5.2
+The Gymnastics Samurai|https://image.tmdb.org/t/p/w500/65oxRIfpkxFoQ67SvqYfo2B3igN.jpg|the-gymnastics-samurai|Animation|2020|6.3
+THE iDOLM@STER SHINY COLORS|https://image.tmdb.org/t/p/w500/plv79G8KMsN4U8keajQKva3aSCy.jpg|the-idolmster-shiny-colors|Animation|2024|5.6
+The Knight in the Area|https://image.tmdb.org/t/p/w500/bQoek73t41wO9JBU7AJW4WUl0JV.jpg|the-knight-in-the-area|Animation|2012|8.0
+The Prince of Tennis|https://image.tmdb.org/t/p/w500/lRPTi3UtXV2OSIQuXHjUcRm9393.jpg|the-prince-of-tennis|Animation|2001|8.4
+Try Knights|https://image.tmdb.org/t/p/w500/3BXInuQgpaKbWI7KSfNNXpzPtNC.jpg|try-knights|Komoedie|2019|7.0
+Tsurune|https://image.tmdb.org/t/p/w500/3otXVixG8A4w6WE4rgJBESc4S8w.jpg|tsurune|Animation|2018|7.1
+TwoCar||twocar|||
+Uma Musume: Pretty Derby|https://image.tmdb.org/t/p/w500/vMbcwRU8xeI63udEz6yk90X4rjb.jpg|uma-musume-pretty-derby|Animation|2018|8.2
+Wandance|https://image.tmdb.org/t/p/w500/bSG3iaORYYSOcNGYzArHbAyUzDh.jpg|wandance|Animation|2025|7.5
+Wanna Be the Strongest in the World!|https://image.tmdb.org/t/p/w500/uuHkeNgB5ZswoXNVmG9YTvUE6h2.jpg|wanna-be-the-strongest-in-the-world|Action & Abenteuer|2013|6.9
+Wave!!: Let’s Go Surfing!!|https://image.tmdb.org/t/p/w500/rEuyQiJzR98JgD3FntNRRfxQvWS.jpg|wave-lets-go-surfing|Animation|2021|4.6
+Welcome to the Ballroom|https://image.tmdb.org/t/p/w500/y7gglCO7G2YlsgHyLDNv7dRaVkr.jpg|welcome-to-the-ballroom|Animation|2017|7.7
+Wixoss Diva (A) Live|https://image.tmdb.org/t/p/w500/zGIDqyyLbTMNW5xqLyBo1EVADcM.jpg|wixoss-diva-a-live|Animation|2021|4.7
+YAIBA: Samurai Legend|https://image.tmdb.org/t/p/w500/1jltcsz17CkfyhpcsSlmVC6pQGh.jpg|yaiba-samurai-legend|Action & Abenteuer|2025|7.2
+Yakitate!! Japan|https://image.tmdb.org/t/p/w500/kSxoEjNOZt2YFGuTqBhZ7suuRiT.jpg|yakitate-japan|Animation|2004|7.2
