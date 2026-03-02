@@ -1298,3 +1298,53 @@ Yosuga No Sora: In Solitude Where We Are Least Alone|https://image.tmdb.org/t/p/
 Young Black Jack|https://image.tmdb.org/t/p/w500/6BOJC4GiHxaaV4KeC2r0pwLiAyp.jpg|young-black-jack|Animation|2015|8.0
 Your Lie in April|https://image.tmdb.org/t/p/w500/1Rn4Cvts2w7tkZ9w7NthgPrmALz.jpg|your-lie-in-april|Animation|2014|8.6
 Your Name.|https://image.tmdb.org/t/p/w500/hR8LgyfVDwsDu16ICr6U8oiyCr6.jpg|your-name|Drama|2017|6.9
+Your Voice: Kimikoe||your-voice-kimikoe|||
+Yu-No: A Girl Who Chants Love at the Bound of This World|https://image.tmdb.org/t/p/w500/gIpIimuvz9FXtvb5rTORz9BWQXY.jpg|yu-no-a-girl-who-chants-love-at-the-bound-of-this-world|Animation|2019|7.4
+Yuki Yuna is a Hero|https://image.tmdb.org/t/p/w500/nOyvBJ6DdmHN0bmK30F1WvP6hbp.jpg|yuki-yuna-is-a-hero|Animation|2014|8.0
+Zipang|https://image.tmdb.org/t/p/w500/3zLSSSbjl8H4QSY2DKmfMQNy1IT.jpg|zipang|Animation|2004|7.5
+Meiji Gekken: 1874|https://image.tmdb.org/t/p/w500/79cgwtU1Q4apjEyBQnB9YaBEn7t.jpg|meiji-gekken-1874|Animation|2024|6.3
+Acro Trip|https://image.tmdb.org/t/p/w500/u6D1M4m4IkCmy6Aj5SIVeNfi5d5.jpg|acro-trip|Animation|2024|6.1
+Dekin no Mogura: The Earthbound Mole|https://image.tmdb.org/t/p/w500/bcmZblOannHR42RQAfbqhMOW4Q3.jpg|dekin-no-mogura-the-earthbound-mole|Animation|2025|8.4
+Delico's Nursery|https://image.tmdb.org/t/p/w500/gtJ7jnoRE0a7SUvqB8vakdqKZuN.jpg|delicos-nursery|Animation|2024|6.9
+From Bureaucrat to Villainess: Dad's Been Reincarnated!|https://image.tmdb.org/t/p/w500/byRY71SZ76krFFkm273IeSTBmA.jpg|from-bureaucrat-to-villainess-dads-been-reincarnated|Animation|2025|7.5
+Gad Guard|https://image.tmdb.org/t/p/w500/lBIevnUbnmrNh6XbxN5PkBo9Hgf.jpg|gad-guard|Animation|2003|6.9
+Healer Girl|https://image.tmdb.org/t/p/w500/g72GaMR0HTLpLtUVoQYvxvcGApX.jpg|healer-girl|Animation|2022|6.2
+Kaina of the Great Snow Sea|https://image.tmdb.org/t/p/w500/1CH7p70slpERvSKl06CIqU767Rq.jpg|kaina-of-the-great-snow-sea|Animation|2023|6.8
+Kunon the Sorcerer Can See|https://image.tmdb.org/t/p/w500/v05adzjtBOhTqu1Ri4FxOmu6Uix.jpg|kunon-the-sorcerer-can-see|Animation|2026|8.7
+Let Me Check the Walkthrough First|https://image.tmdb.org/t/p/w500/wjqu0Sgs0a9zJhrrO70sDGucOLD.jpg|let-me-check-the-walkthrough-first|Animation|2022|4.5
+MAYONAKA PUNCH|https://image.tmdb.org/t/p/w500/uEJP8bv6meVPfJeoOlMdCnIy84S.jpg|mayonaka-punch|Animation|2024|7.3
+Observing Elena Evoy|https://image.tmdb.org/t/p/w500/9pe11VegGNTj8HMf1RSwTByMZZC.jpg|observing-elena-evoy|Animation|2023|
+Phantom of the Idol|https://image.tmdb.org/t/p/w500/IdfV3itweGwvm8se5ct65qKhie.jpg|phantom-of-the-idol|Animation|2022|8.3
+Promise of Wizard|https://image.tmdb.org/t/p/w500/qmRgfyEwafV0qpPDh1PfUDigG5T.jpg|promise-of-wizard|Animation|2025|6.8
+Protocol: Rain|https://image.tmdb.org/t/p/w500/5DFnJmZWCTjuMO65g92iqIKuIxF.jpg|protocol-rain|Animation|2023|7.1
+Raven of the Inner Palace|https://image.tmdb.org/t/p/w500/eJI1hJsSJNkKeIBs34qaDCSFbb5.jpg|raven-of-the-inner-palace|Animation|2022|6.4
+Shabake|https://image.tmdb.org/t/p/w500/95frFI1k6Acjes3LNKAv4mexU0C.jpg|shabake|Animation|2025|6.8
+Smile of the Arsnotoria the Animation|https://image.tmdb.org/t/p/w500/ztRF3KZG9s2P64FMNM94Mh6dvZa.jpg|smile-of-the-arsnotoria-the-animation|Animation|2022|4.7
+The Dark History of the Reincarnated Villainess|https://image.tmdb.org/t/p/w500/z795zfHhhuNsm4ckd5SHwjjQ5Vm.jpg|the-dark-history-of-the-reincarnated-villainess|Animation|2025|8.0
+The Fire Hunter|https://image.tmdb.org/t/p/w500/v8AbZ7MOwoABASQFP3GJp6xLR1f.jpg|the-fire-hunter|Animation|2023|6.2
+Tokyo Mew Mew New|https://image.tmdb.org/t/p/w500/uHLLmEwn9PPpHyGypv0TV7A9oiL.jpg|tokyo-mew-mew-new|Animation|2022|7.5
+Welcome to the Outcast's Restaurant!|https://image.tmdb.org/t/p/w500/fwgUc2vGt42YV7W9W6ki3Fq2Dh1.jpg|welcome-to-the-outcasts-restaurant|Animation|2025|7.5
+YATAGARASU: The Raven Does Not Choose Its Master|https://image.tmdb.org/t/p/w500/zBu8G5vARl1i9omZ4AEXpXh9N14.jpg|yatagarasu-the-raven-does-not-choose-its-master|Animation|2024|8.0
+Yohane the Parhelion -SUNSHINE in the MIRROR-|https://image.tmdb.org/t/p/w500/veG1PzAYKR5aGbXfmF5ioT3wIk3.jpg|yohane-the-parhelion-sunshine-in-the-mirror|Animation|2023|8.2
+Afro Samurai|https://image.tmdb.org/t/p/w500/dOTae78KJ0beGtP5lNP8lrvWLPc.jpg|afro-samurai|Animation|2007|7.3
+Baki|https://image.tmdb.org/t/p/w500/qC4JawqYlUS9fwvAzGfY5lSz5uB.jpg|baki|Animation|2026|8.4
+Baki (2001)||baki-2001|||
+Black Clover|https://image.tmdb.org/t/p/w500/p3rUhlE81nWxPqpPR8F2u7a01Tl.jpg|black-clover|Animation|2017|8.5
+Bleach|https://image.tmdb.org/t/p/w500/e0kKmeM8R7Kersh5N2PPzIRNRhr.jpg|bleach|Action & Abenteuer|2004|8.4
+Blue Dragon|https://image.tmdb.org/t/p/w500/fI5npStCAoL34YO67h3oATYj2EF.jpg|blue-dragon|Animation|2007|7.9
+Boruto: Naruto Next Generations|https://image.tmdb.org/t/p/w500/n4OLeeHqP4tpdvDxiloV65N6M5h.jpg|boruto-naruto-next-generations|Animation|2017|7.8
+Bubuki Buranki|https://image.tmdb.org/t/p/w500/zVjFhC43B3hklP83JgC4vxhhI0X.jpg|bubuki-buranki|Animation|2016|6.9
+Buso Renkin|https://image.tmdb.org/t/p/w500/dx4wVPrb5mHfbD9W98KmXJQFBV4.jpg|buso-renkin|Animation|2006|7.5
+Claymore|https://image.tmdb.org/t/p/w500/aIdsCf6XAzR2AmylK8PF22RUw1D.jpg|claymore|Action & Abenteuer|2007|8.1
+D.Gray-man|https://image.tmdb.org/t/p/w500/sCud9dr6nxsY1Oza5SCCb83qNwY.jpg|dgray-man|Animation|2006|8.0
+D.Gray-man HALLOW|https://image.tmdb.org/t/p/w500/4TQvVtH1MTs7ZMvuEJ95lulaQGc.jpg|dgray-man-hallow|Action & Abenteuer|2016|6.8
+Dragonball Super|https://image.tmdb.org/t/p/w500/9gzkpjs6N7Xxo1CnnJqhFtmYCez.jpg|dragonball-super|Animation|2015|8.2
+Dragonball Z|https://image.tmdb.org/t/p/w500/f2zhRLqwRLrKhEMeIM7Z5buJFo3.jpg|dragonball-z|Animation|1989|8.4
+Dragonball Z Kai|https://image.tmdb.org/t/p/w500/yh11eNQyZOgZLMEW7llKYQ0oGcJ.jpg|dragonball-z-kai|Sci-Fi & Fantasy|2009|7.5
+Edens Zero|https://image.tmdb.org/t/p/w500/2sJPpcEd83mILobIlDG1Jexu9bj.jpg|edens-zero|Animation|2021|7.7
+Fairy Tail|https://image.tmdb.org/t/p/w500/iuRJ2QRRNMIu2VdEIuLIaJvt1PZ.jpg|fairy-tail|Animation|2009|7.9
+Guyver: The Bioboosted Armor|https://image.tmdb.org/t/p/w500/zpw5gwpNct0cLd34JBh8SrpIobE.jpg|guyver-the-bioboosted-armor|Animation|2005|7.1
+Hunter x Hunter|https://image.tmdb.org/t/p/w500/9WxfAQquTun9ATkV6iAeFHMkqxv.jpg|hunter-x-hunter|Animation|2011|8.7
+Hunter X Hunter (1999)|https://image.tmdb.org/t/p/w500/eobAuhCJA8oRp814V67WhezVXtQ.jpg|hunter-x-hunter-1999|Sci-Fi & Fantasy|1999|8.5
+InuYasha|https://image.tmdb.org/t/p/w500/5pMVrmb6tGmNAH0sX7guM9WbrU3.jpg|inuyasha|Animation|2000|8.6
+JoJo’s Bizarre Adventure (1993)|https://image.tmdb.org/t/p/w500/thyLlWU5CyenrPxKunztZFwfZE1.jpg|jojos-bizarre-adventure-1993|Animation|1993|6.9
