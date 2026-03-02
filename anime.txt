@@ -1098,3 +1098,53 @@ Tadaima, Okaeri|https://image.tmdb.org/t/p/w500/mFLNrSczrzZjAMebEcuk1RttCs9.jpg|
 7SEEDS|https://image.tmdb.org/t/p/w500/d84XDdYib5nEKvHm2HAh2itIgBY.jpg|7seeds|Animation|2019|7.7
 A Silent Voice||a-silent-voice||2025|
 ACCA: 13-Territory Inspection Dept.|https://image.tmdb.org/t/p/w500/4djZf2wiFkkkTSX3vHHEiq6pMRs.jpg|acca-13-territory-inspection-dept|Animation|2017|7.2
+Air|https://image.tmdb.org/t/p/w500/wPsxCdeuvTH8EaJKk06iOkvy8Rk.jpg|air|Animation|2005|6.1
+Ameku M.D.: Doctor Detective|https://image.tmdb.org/t/p/w500/jfUwdU2MSi4oZoc8hErn5cOI1Gs.jpg|ameku-md-doctor-detective|Animation|2025|7.2
+Amnesia|https://image.tmdb.org/t/p/w500/fKGuI3OJyjf8gMmgZValT8zB6Ei.jpg|amnesia|Animation|2013|5.5
+Angel Beats!|https://image.tmdb.org/t/p/w500/6FGbsF8k9dJrHfFVYV9mkoMRWvn.jpg|angel-beats|Animation|2010|7.9
+Anne Shirley|https://image.tmdb.org/t/p/w500/rwgWe6wAgP7JDbXdPNdrQO2UQT5.jpg|anne-shirley|Animation|2025|8.0
+AnoHana: The Flower We Saw That Day|https://image.tmdb.org/t/p/w500/dZf3KcRtHBzJ4EjgjwTuqYqoGJe.jpg|anohana-the-flower-we-saw-that-day|Animation|2011|8.2
+Aoi Bungaku Series|https://image.tmdb.org/t/p/w500/ht1PGrCdSY95E1Zh22ZNU7033MF.jpg|aoi-bungaku-series|Animation|2009|6.8
+Apocalypse Hotel|https://image.tmdb.org/t/p/w500/wkjNTpZCH1cb2vQdWUne80OXkUm.jpg|apocalypse-hotel|Animation|2025|8.8
+Babylon|https://image.tmdb.org/t/p/w500/y5BDBMC1EZ0JwEiglbyz6jT0p6l.jpg|babylon|Drama|2014|6.6
+Backflip!!|https://image.tmdb.org/t/p/w500/x8OolzKIDb5coJgGjVCQabtpMY7.jpg|backflip|Animation|2021|7.2
+Barefoot Gen|https://image.tmdb.org/t/p/w500/gkEtHT3vdVbl5uIoLu5QcOC6nBi.jpg|barefoot-gen|Drama|2007|
+Belle|https://image.tmdb.org/t/p/w500/jmU8HlTDn87xmRqXagcL2swDr8I.jpg|belle|Drama|2004|4.3
+Bibliophile Princess|https://image.tmdb.org/t/p/w500/XZLV3LnpcMIO41dkAPF8AbutWe.jpg|bibliophile-princess|Animation|2022|6.7
+Big Fish & Begonia||big-fish-begonia|||
+Black Rock Shooter|https://image.tmdb.org/t/p/w500/x607kupq3V7rsIz2gakITqwElum.jpg|black-rock-shooter|Animation|2022|8.1
+Blue Lock|https://image.tmdb.org/t/p/w500/9aICTTHECyRwB2pBHm3rAj1SgGg.jpg|blue-lock|Animation|2022|8.2
+Blue Orchestra|https://image.tmdb.org/t/p/w500/wB3tZ1vRuPa1vvOsd70xhthYKD8.jpg|blue-orchestra|Animation|2023|6.9
+Blue Reflection Ray|https://image.tmdb.org/t/p/w500/t0w10nKiLAqlwp0Vb7mMxGqyJm9.jpg|blue-reflection-ray|Animation|2021|3.9
+Blue Thermal||blue-thermal|||
+Bokurano|https://image.tmdb.org/t/p/w500/t3IShrqdzq51vxfeDCEa3jUXVRv.jpg|bokurano|Animation|2007|6.6
+Butareba -The Story of a Man Turned into a Pig-|https://image.tmdb.org/t/p/w500/pMYfvz5SLkiwqdTKiXBwqNgzCvE.jpg|butareba-the-story-of-a-man-turned-into-a-pig|Animation|2023|4.9
+Carole & Tuesday|https://image.tmdb.org/t/p/w500/mTXHS0EhTMY0gdsmzYDb9HLg2Wp.jpg|carole-tuesday|Animation|2019|7.1
+Celestial Method|https://image.tmdb.org/t/p/w500/xNTk7d7oRvBQvy6v5NCcryPLS8r.jpg|celestial-method|Sci-Fi & Fantasy|2014|7.1
+Charlotte|https://image.tmdb.org/t/p/w500/kFSaVIlBRycGNfrLzJZX7dgSQ1o.jpg|charlotte|Drama|2023|8.0
+Child of Kamiari Month||child-of-kamiari-month|||
+Children of the Whales|https://image.tmdb.org/t/p/w500/hYL7qAGVddrb7IEpbTpBSFnMdox.jpg|children-of-the-whales|Animation|2017|7.3
+Children who Chase Lost Voices||children-who-chase-lost-voices|||
+Clannad|https://image.tmdb.org/t/p/w500/cfhHgzzcpYjBzDGfiJJ3y6QBaUA.jpg|clannad|Animation|2007|8.3
+Classroom of the Elite|https://image.tmdb.org/t/p/w500/mmhx3dImdsfYpcFm3J1tlQt5IRN.jpg|classroom-of-the-elite|Animation|2017|8.4
+Colorful: The Motion Picture||colorful-the-motion-picture|||
+D.C.: Da Capo|https://image.tmdb.org/t/p/w500/yaDB7CTZA8PatqVmPnfwBynA9SI.jpg|dc-da-capo|Animation|2003|6.1
+Danganronpa 3: The End of Hope’s Peak Academy - Despair Arc|https://image.tmdb.org/t/p/w500/2kcVvynBFIWIVaULfFxaP67GEBj.jpg|danganronpa-3-the-end-of-hopes-peak-academy-despair-arc|Animation|2016|6.4
+Death Parade|https://image.tmdb.org/t/p/w500/pgnHXXTn2Uy0unuNCKFKHhL7BHR.jpg|death-parade|Animation|2015|8.0
+Destiny of the Shrine Maiden|https://image.tmdb.org/t/p/w500/xUveLutu5d9nbJr94XyyF0QjOzh.jpg|destiny-of-the-shrine-maiden|Animation|2004|6.1
+Diabolik Lovers|https://image.tmdb.org/t/p/w500/s47IdJi9JSvrOSr1fbswI9EUSEE.jpg|diabolik-lovers|Animation|2013|6.8
+Doctor Elise: The Royal Lady with the Lamp|https://image.tmdb.org/t/p/w500/7WfU7lHVTS5kEPTZrglfChlkOBs.jpg|doctor-elise-the-royal-lady-with-the-lamp|Animation|2024|7.5
+Domestic Girlfriend|https://image.tmdb.org/t/p/w500/AezyTUrSLsOvGcBlX9Qwp756Z1B.jpg|domestic-girlfriend|Animation|2019|8.2
+Doreiku The Animation|https://image.tmdb.org/t/p/w500/naafl0s5DByUzShYOsq9C7sHon7.jpg|doreiku-the-animation|Animation|2018|5.9
+Drifting Home||drifting-home|||
+Ef: A Tale of Melodies.|https://image.tmdb.org/t/p/w500/cx5A0on1ZXhdnJmOO08KcbXzKQj.jpg|ef-a-tale-of-melodies|Animation|2007|7.1
+Elegant Yokai Apartment Life|https://image.tmdb.org/t/p/w500/burzxb0f8wwDAL9nzPa4BMlX7Id.jpg|elegant-yokai-apartment-life|Animation|2017|7.4
+Fireworks|https://image.tmdb.org/t/p/w500/luXbvywZ5FgMtOBGgXwKzU2aDRj.jpg|fireworks|Drama||
+Flower and Asura|https://image.tmdb.org/t/p/w500/2Y03i4RjGxrOhy2a65UVrPZa8Zz.jpg|flower-and-asura|Animation|2025|6.5
+Flowers of Evil|https://image.tmdb.org/t/p/w500/vezXsjxymR07IzatIV1C2F20FQH.jpg|flowers-of-evil|Animation|2013|6.7
+Forest of Piano|https://image.tmdb.org/t/p/w500/aP95sip6J0JkwC5DS2uWDzl2VyM.jpg|forest-of-piano|Animation|2018|6.5
+From the New World|https://image.tmdb.org/t/p/w500/24oILAH1MeU2MjUqTaUyYZeG3GT.jpg|from-the-new-world|Animation|2012|7.8
+Full Moon|https://image.tmdb.org/t/p/w500/AecYTAKiDXj8z2Sa1ccD5LDtzGm.jpg|full-moon|Animation|2002|7.8
+Gankutsuou: The Count of Monte Cristo|https://image.tmdb.org/t/p/w500/iry6L8H9vWfyvZRdCZRw1C6qrxG.jpg|gankutsuou-the-count-of-monte-cristo|Animation|2004|7.2
+Gilgamesh|https://image.tmdb.org/t/p/w500/ub3XhOLioxmxcCRwCf35SGdOlg9.jpg|gilgamesh|Action & Abenteuer|2003|6.7
+GNOSIA|https://image.tmdb.org/t/p/w500/2D4j3VlE2ZzNroic5imNLBQXGi.jpg|gnosia|Animation|2025|8.1
