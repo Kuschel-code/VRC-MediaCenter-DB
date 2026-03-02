@@ -1248,3 +1248,53 @@ Takopi's Original Sin|https://image.tmdb.org/t/p/w500/aIZldplw1isQQSjaLS0o3SEob9
 Talentless Nana|https://image.tmdb.org/t/p/w500/wMXNJRa7OV6DwYQ53WuE0hXX6KB.jpg|talentless-nana|Animation|2020|7.7
 Tatsuki Fujimoto 17-26|https://image.tmdb.org/t/p/w500/zZW4CJQE7nfu8btJLoWIcOaa7fe.jpg|tatsuki-fujimoto-17-26|Animation|2025|8.0
 Tegami Bachi: Letter Bee|https://image.tmdb.org/t/p/w500/8kgG2MmEgzqeI3buqrpxebOnc6e.jpg|tegami-bachi-letter-bee|Animation|2009|7.3
+The Anthem of the Heart: Beautiful Word Beautiful World||the-anthem-of-the-heart-beautiful-word-beautiful-world|||
+The Apothecary Diaries|https://image.tmdb.org/t/p/w500/6Ph6TDAUYPTYMXp7PhpIrcWxstn.jpg|the-apothecary-diaries|Animation|2023|8.6
+The Beauty Blogger|https://image.tmdb.org/t/p/w500/e8cSCazLl8xB4onhA1hLJRMWnSq.jpg|the-beauty-blogger|Animation|2018|7.0
+The Betrayal Knows My Name|https://image.tmdb.org/t/p/w500/lNeuChd9HPA1yiOgdeIwQyVyOV9.jpg|the-betrayal-knows-my-name|Animation|2010|6.8
+The Case of Hana & Alice||the-case-of-hana-alice|||
+The Cockpit|https://image.tmdb.org/t/p/w500/1KzboHoiSJqtYL2EGBwAEMdDx2M.jpg|the-cockpit|Animation|1993|5.4
+The Day I Became a God|https://image.tmdb.org/t/p/w500/zPzcNucPshDFZ30TADuEGuhjSPI.jpg|the-day-i-became-a-god|Animation|2020|7.7
+The Detective Is Already Dead|https://image.tmdb.org/t/p/w500/5NXO5acrIa2hkDxIqFyKcVW6vca.jpg|the-detective-is-already-dead|Animation|2021|5.6
+The Eden of Grisaia|https://image.tmdb.org/t/p/w500/9KapKRxXGm1KUzlnOBTnP3eTvwP.jpg|the-eden-of-grisaia|Animation|2014|6.7
+The Gene of AI|https://image.tmdb.org/t/p/w500/wSAD5RS0LRvx7rqvCKEJlXbDOv1.jpg|the-gene-of-ai|Animation|2023|5.9
+The Girl from the Other Side||the-girl-from-the-other-side|||
+The Girl Who Leapt Through Time|https://image.tmdb.org/t/p/w500/qzcVt6GQyRFhKV9uNsTamRRaerO.jpg|the-girl-who-leapt-through-time|Sci-Fi & Fantasy|1994|
+The Heike Story|https://image.tmdb.org/t/p/w500/xQcOPx3WOaJV49uSwSrZ6omigod.jpg|the-heike-story|Animation|2022|7.3
+The Holy Grail of Eris|https://image.tmdb.org/t/p/w500/vJ8nhBdsxImahootP1wM5iG3Bzs.jpg|the-holy-grail-of-eris|Animation|2026|7.4
+The Lost Village|https://image.tmdb.org/t/p/w500/w71zgfXoQp4LVQClvB8DAjjyDOw.jpg|the-lost-village|Animation|2016|5.1
+The Most Heretical Last Boss Queen: From Villainess to Savior|https://image.tmdb.org/t/p/w500/vRSltTgWGt8OYoxAlncLmXKLJKE.jpg|the-most-heretical-last-boss-queen-from-villainess-to-savior|Animation|2023|8.1
+The Ones Within|https://image.tmdb.org/t/p/w500/60lZed2gMoQe37v6Nywd1kGyyyj.jpg|the-ones-within|Animation|2019|6.9
+The Red Turtle||the-red-turtle|||
+The Secret World of Arrietty||the-secret-world-of-arrietty|||
+The Space Between (1992)||the-space-between-1992|||
+The Space Between (2012)|https://image.tmdb.org/t/p/w500/zC0qNuhhUvYrhAFAb7SigFDrwPd.jpg|the-space-between-2012|Drama|2012|5.1
+The Sunday without God|https://image.tmdb.org/t/p/w500/mvJOxuu7BT6fSq5zsGlW3JNNalX.jpg|the-sunday-without-god|Animation|2013|5.3
+The Tale of the Princess Kaguya||the-tale-of-the-princess-kaguya|||
+The Wind Rises|https://image.tmdb.org/t/p/w500/5JcjYkdbvIwR5L4UskKrjIO382n.jpg|the-wind-rises|Animation|2024|7.5
+This Monster Wants to Eat Me|https://image.tmdb.org/t/p/w500/ffAWNFURAmupnR3kh7C52uE4EX.jpg|this-monster-wants-to-eat-me|Animation|2025|8.3
+To Every You I’ve Loved Before||to-every-you-ive-loved-before|||
+To Me, The One Who Loved You|https://image.tmdb.org/t/p/w500/aL1LMvajOlOSXCYK4YxG18ZU4it.jpg|to-me-the-one-who-loved-you|Animation|2019|8.5
+To Your Eternity|https://image.tmdb.org/t/p/w500/bohMYRVSIG68md0zQobyWbV4S8e.jpg|to-your-eternity|Animation|2021|8.2
+Tohai – Ura Rate Mahjong Tohai Roku|https://image.tmdb.org/t/p/w500/zmEd8mWnnK1pMNaJrURcDmNndSa.jpg|tohai-ura-rate-mahjong-tohai-roku|Animation|2024|6.4
+Tokyo Magnitude 8.0|https://image.tmdb.org/t/p/w500/sGmtNIVyZHqB0MLmbleNG4GmRVV.jpg|tokyo-magnitude-80|Animation|2009|7.8
+Trapezium||trapezium|||
+Trillion Game|https://image.tmdb.org/t/p/w500/1AZR7verJU9q38CjGXWKTc6YScR.jpg|trillion-game|Animation|2024|5.9
+Twittering Birds Never Fly||twittering-birds-never-fly|||
+Uma Musume: Cinderella Gray|https://image.tmdb.org/t/p/w500/dMTyte6v3DkM8gPxZfdNGoyla3r.jpg|uma-musume-cinderella-gray|Animation|2025|7.4
+Vampire in the Garden|https://image.tmdb.org/t/p/w500/xFrEiJxI0PUZHC6NmfjSrOXfQ4v.jpg|vampire-in-the-garden|Animation|2022|7.2
+Violet Evergarden|https://image.tmdb.org/t/p/w500/2pV3XjjwRjevbaHoWH0Z3orOSrL.jpg|violet-evergarden|Animation|2018|8.5
+Visual Prison|https://image.tmdb.org/t/p/w500/yqNlAgMyctxJ8zaCRSppidzazhT.jpg|visual-prison|Animation|2021|7.4
+Voice of Fox|https://image.tmdb.org/t/p/w500/lAh1Go46Z3Mu86rpipm62KXkRnJ.jpg|voice-of-fox|Animation|2018|6.7
+Weathering With You||weathering-with-you|||
+Welcome to the N.H.K.|https://image.tmdb.org/t/p/w500/5iXnyp9zQb3tNTSOXn0rAJOlxu0.jpg|welcome-to-the-nhk|Animation|2006|8.4
+When Marnie Was There||when-marnie-was-there|||
+White Album 2|https://image.tmdb.org/t/p/w500/bYl6hBOV3Bzb0uAV1mzZ9JnDl1z.jpg|white-album-2|Animation|2013|6.8
+With a Dog and a Cat, Every Day is Fun|https://image.tmdb.org/t/p/w500/zAwkoCCdozwF6v9dVSPanUl3d4f.jpg|with-a-dog-and-a-cat-every-day-is-fun|Animation|2020|7.0
+Wolf Children||wolf-children|||
+Words Bubble Up Like Soda Pop||words-bubble-up-like-soda-pop|||
+Yakuza Fiancé|https://image.tmdb.org/t/p/w500/6jiDJntkOI9HouEIY2vT7K2reUW.jpg|yakuza-fianc|Animation|2024|7.6
+Yosuga No Sora: In Solitude Where We Are Least Alone|https://image.tmdb.org/t/p/w500/fjfKpBOqRVPzfG9h7F7yPj6BVT1.jpg|yosuga-no-sora-in-solitude-where-we-are-least-alone|Animation|2010|6.9
+Young Black Jack|https://image.tmdb.org/t/p/w500/6BOJC4GiHxaaV4KeC2r0pwLiAyp.jpg|young-black-jack|Animation|2015|8.0
+Your Lie in April|https://image.tmdb.org/t/p/w500/1Rn4Cvts2w7tkZ9w7NthgPrmALz.jpg|your-lie-in-april|Animation|2014|8.6
+Your Name.|https://image.tmdb.org/t/p/w500/hR8LgyfVDwsDu16ICr6U8oiyCr6.jpg|your-name|Drama|2017|6.9
