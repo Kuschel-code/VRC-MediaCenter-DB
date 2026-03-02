@@ -1948,3 +1948,53 @@ Dagashi Kashi|https://image.tmdb.org/t/p/w500/bFuDrR4cAU6JkAnqeBZu06A4Yp6.jpg|da
 Daily Lives of High School Boys|https://image.tmdb.org/t/p/w500/gLF5bdnf0oINep5FUcobqviv8U5.jpg|daily-lives-of-high-school-boys|Animation|2012|8.0
 Dropkick on My Devil!|https://image.tmdb.org/t/p/w500/oWm8N8tiMzrGGKFiQ5TZ9cVd3w9.jpg|dropkick-on-my-devil|Komoedie|2018|7.0
 Dropout Idol Fruit Tart|https://image.tmdb.org/t/p/w500/tvopB9tAHuvWitoxAS37NaqLCRb.jpg|dropout-idol-fruit-tart|Animation|2020|5.8
+First Love Monster|https://image.tmdb.org/t/p/w500/wtUVq21XSiYhgc7ahhi8uos4ojI.jpg|first-love-monster|Animation|2016|7.0
+FLCL|https://image.tmdb.org/t/p/w500/om2H6f3Wevjxs11yvVOi4RSoJW4.jpg|flcl|Animation|2000|7.9
+Gintama|https://image.tmdb.org/t/p/w500/cWD3BD0aQFypLGVOvd23hWdg5bP.jpg|gintama|Animation|2006|8.1
+GINTAMA - Mr.Ginpachi's Zany Class|https://image.tmdb.org/t/p/w500/slneGllMqljglPzNVNoiiGPZp2J.jpg|gintama-mrginpachis-zany-class|Animation|2025|8.0
+Grand Blue Dreaming|https://image.tmdb.org/t/p/w500/u9dghzuBEtMxlIyoXbPBZ6HfX6z.jpg|grand-blue-dreaming|Animation|2018|7.7
+Haven't You Heard? I'm Sakamoto|https://image.tmdb.org/t/p/w500/kN8zbPCwUK8PYDMXI7AUfsB97ac.jpg|havent-you-heard-im-sakamoto|Animation|2016|7.6
+Hayate the Combat Butler!!|https://image.tmdb.org/t/p/w500/4ljW1dS3EoTvf00Niq5GyeIPCyh.jpg|hayate-the-combat-butler|Animation|2007|6.5
+Heaven's Lost Property|https://image.tmdb.org/t/p/w500/mbYJmN2QoPrAVx9x9hXDrEuPQnB.jpg|heavens-lost-property|Animation|2009|7.6
+High School! Kimengumi (2026)|https://image.tmdb.org/t/p/w500/8ota15pVJEQYzEM0lVb9iVtUvPQ.jpg|high-school-kimengumi-2026|Animation|2026|5.0
+Interspecies Reviewers|https://image.tmdb.org/t/p/w500/9enqv9UjBLF0Yz1XVgxaofh73FF.jpg|interspecies-reviewers|Animation|2020|7.9
+Kamen no Maid Guy|https://image.tmdb.org/t/p/w500/cu4ZeUXnDMxwafMTB28tQvir0Nc.jpg|kamen-no-maid-guy|Animation|2008|6.0
+Kämpfer|https://image.tmdb.org/t/p/w500/elpfztHKiyjKbSD94RLJeSv3Uzk.jpg|kmpfer|Animation|2009|6.4
+Koro Sensei Quest!|https://image.tmdb.org/t/p/w500/pu1Z8jXcf49lr84JqWS3XpvRdGf.jpg|koro-sensei-quest|Action & Abenteuer|2016|6.5
+My Deer Friend Nokotan|https://image.tmdb.org/t/p/w500/kClBHXEZjJfING72fzoO9Eyb8yR.jpg|my-deer-friend-nokotan|Animation|2024|7.7
+Naruto Spin-Off: Rock Lee & His Ninja Pals|https://image.tmdb.org/t/p/w500/nw59zFzX1uJfz3jaoKOWkqOdq4S.jpg|naruto-spin-off-rock-lee-his-ninja-pals|Animation|2012|6.3
+Nichijou: My Ordinary Life|https://image.tmdb.org/t/p/w500/42zu4mUYfwxHMRypTRM0pwZyaM5.jpg|nichijou-my-ordinary-life|Animation|2011|8.4
+Panty & Stocking with Garterbelt|https://image.tmdb.org/t/p/w500/iCKyoA65JrbYytIC4esGQI27EyM.jpg|panty-stocking-with-garterbelt|Animation|2025|9.1
+Plastic Neesan|https://image.tmdb.org/t/p/w500/vH9JBLZzvhFXjYFSoiPWowiIZc9.jpg|plastic-neesan|Animation|2011|6.9
+Pop Team Epic|https://image.tmdb.org/t/p/w500/dnMTln0TeUqJOESSuFy8IPogbi2.jpg|pop-team-epic|Animation|2018|7.0
+Scissor Seven|https://image.tmdb.org/t/p/w500/jz9ii5sft8l6zP3lzu51xNWmgiO.jpg|scissor-seven|Animation|2018|8.6
+Seitokai Yakuindomo|https://image.tmdb.org/t/p/w500/fWZ05GUcRSlWX2Vu3tcl2CBilIp.jpg|seitokai-yakuindomo|Animation|2010|7.0
+Shimoneta: A Boring World Where the Concept of 'Dirty Jokes' Doesn't Exist|https://image.tmdb.org/t/p/w500/y5ruAwzGx5oyFSpzmCbmIt5Zz8l.jpg|shimoneta-a-boring-world-where-the-concept-of-dirty-jokes-doesnt-exist|Animation|2015|7.0
+Umayon|https://image.tmdb.org/t/p/w500/3dtBarye9iI7RTaHojJLQHDeE0K.jpg|umayon|Animation|2020|6.5
+Zombieland Saga|https://image.tmdb.org/t/p/w500/kJYMZYxB9zkjbKIgQnqYezdJmLf.jpg|zombieland-saga|Animation|2018|8.0
+2.5 Dimensional Seduction|https://image.tmdb.org/t/p/w500/mScRmknR5OTOxaRdbzNxnJkG4Zo.jpg|25-dimensional-seduction|Animation|2024|8.3
+365 Days to the Wedding|https://image.tmdb.org/t/p/w500/xNuXxVR4P3oWGUcJFVJzOBesxeB.jpg|365-days-to-the-wedding|Animation|2024|7.4
+3D Kanojo: Real Girl|https://image.tmdb.org/t/p/w500/wqkMd5aR6ZQsPvqAQBjSFIeyjCn.jpg|3d-kanojo-real-girl|Animation|2018|8.5
+A Couple of Cuckoos|https://image.tmdb.org/t/p/w500/rK5ZZ9BdA3xcaNmnJIvf4FBA8xT.jpg|a-couple-of-cuckoos|Animation|2022|7.1
+A Galaxy Next Door|https://image.tmdb.org/t/p/w500/d4IrETiK33WQ77XwIt7Iz4KCxKw.jpg|a-galaxy-next-door|Animation|2023|7.2
+A Misanthrope Teaches a Class for Demi-Humans|https://image.tmdb.org/t/p/w500/s1EWar6vrZeWEKwNUIOtTDJD4O.jpg|a-misanthrope-teaches-a-class-for-demi-humans|Animation|2026|8.0
+A Mysterious Scream|https://image.tmdb.org/t/p/w500/uVL1btMrJXHZUy3vQKDzlc2RU7h.jpg|a-mysterious-scream|Drama|2008|6.8
+A Sister's All You Need|https://image.tmdb.org/t/p/w500/k8IBQVcjiFk2w8T0tTzHuJLt7RW.jpg|a-sisters-all-you-need|Komoedie|2017|7.6
+Actually, I am...|https://image.tmdb.org/t/p/w500/kG5Y53kksNy3f8BjOvhVBILUmNl.jpg|actually-i-am|Animation|2023|7.4
+After the Rain|https://image.tmdb.org/t/p/w500/y6BnEwogJzlKtnbESa453dZKNi0.jpg|after-the-rain|Animation|2018|7.1
+Aharen-san wa Hakarenai|https://image.tmdb.org/t/p/w500/3Pqe5r4THECyIsJ58C4YLFZD6nj.jpg|aharen-san-wa-hakarenai|Animation|2022|7.3
+Ai Tenchi Muyo!|https://image.tmdb.org/t/p/w500/rfRVtVJtGzhg6v3mfR5qzspQdI7.jpg|ai-tenchi-muyo|Animation|2014|7.4
+Alya Sometimes Hides Her Feelings in Russian|https://image.tmdb.org/t/p/w500/mvphQkTzkMyeJ1E7YmLDc8nc7SS.jpg|alya-sometimes-hides-her-feelings-in-russian|Animation|2024|7.9
+Amagami SS|https://image.tmdb.org/t/p/w500/jCfRJWiLPvOrZO0f7emXDxiRkBK.jpg|amagami-ss|Animation|2010|7.3
+Ao-chan Can’t Study!|https://image.tmdb.org/t/p/w500/LL4poghLxbJq2uwKwqZWAB52zD.jpg|ao-chan-cant-study|Animation|2019|7.8
+April Showers Bring May Flowers|https://image.tmdb.org/t/p/w500/ldjeoXzlOMaeo1ozlBY6KqlQAkx.jpg|april-showers-bring-may-flowers|Animation|2025|6.0
+Astarotte’s Toy|https://image.tmdb.org/t/p/w500/4ZmANWHQHRchkLdNJcgcZhbhqCC.jpg|astarottes-toy|Animation|2011|6.1
+Astro Note|https://image.tmdb.org/t/p/w500/atVpVPb49td0qPdgvE77lYbMlvf.jpg|astro-note|Animation|2024|6.4
+Baka and Test: Summon the Beasts|https://image.tmdb.org/t/p/w500/jrNrHEq1iezBQAYBnLMAkJmlBpx.jpg|baka-and-test-summon-the-beasts|Animation|2010|7.4
+Bladedance of Elementalers|https://image.tmdb.org/t/p/w500/4zbUJBbk1I2Sk6JRN4J9hXNhwiY.jpg|bladedance-of-elementalers|Animation|2014|6.3
+Bottom-Tier Character Tomozaki|https://image.tmdb.org/t/p/w500/99lvxrZP8c7r57ShlM51TQTJ3cc.jpg|bottom-tier-character-tomozaki|Animation|2021|6.4
+C3|https://image.tmdb.org/t/p/w500/eK2gFk1GOYiLofRjSoH1cFoaSQi.jpg|c3|Animation|2013|5.5
+Call of the Night|https://image.tmdb.org/t/p/w500/dlSzlYFUqQ3baTYxM6DAZ4hLgPH.jpg|call-of-the-night|Animation|2022|7.6
+Can a Boy-Girl Friendship Survive?|https://image.tmdb.org/t/p/w500/74Oi8x6kwqgeDgfIgNVQwl9b0FT.jpg|can-a-boy-girl-friendship-survive|Animation|2025|6.6
+Cat Planet Cuties|https://image.tmdb.org/t/p/w500/23gXKFeXV96sPwkkzpYWc8qIAXd.jpg|cat-planet-cuties|Animation|2010|8.0
+Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?!|https://image.tmdb.org/t/p/w500/1rv6Lw43ARlUaHXyCQASkcM43Uk.jpg|cherry-magic-thirty-years-of-virginity-can-make-you-a-wizard|Animation|2024|7.7
