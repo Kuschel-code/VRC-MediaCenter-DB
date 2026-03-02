@@ -798,3 +798,53 @@ Record of Ragnarok|https://image.tmdb.org/t/p/w500/m28Ey0LYoeqzx7mdJ25NVUqRueB.j
 Riddle Story of Devil|https://image.tmdb.org/t/p/w500/rX5ok0NJ1eoWX39ydBmVxmLMHjB.jpg|riddle-story-of-devil|Animation|2014|7.7
 SAMURAI 7|https://image.tmdb.org/t/p/w500/LlW1lmRT2RKVLgm3s9huGgd5U3.jpg|samurai-7|Action & Abenteuer|2004|7.0
 Schwarzes Marken|https://image.tmdb.org/t/p/w500/4HLc8gAU1SmAClUvkm5kMtsk1Zn.jpg|schwarzes-marken|Animation|2016|6.8
+Sentenced to Be a Hero|https://image.tmdb.org/t/p/w500/juGNOhRx7MXg3i2NuZ9lR6arVQw.jpg|sentenced-to-be-a-hero|Animation|2026|8.9
+Seraph of the End|https://image.tmdb.org/t/p/w500/jP569pDgvwX3MeZPXUnmteYA2oZ.jpg|seraph-of-the-end|Animation|2015|7.9
+Servamp|https://image.tmdb.org/t/p/w500/ws1dZfIaptH3A6zeWC7ANIXDcLl.jpg|servamp|Animation|2016|8.2
+SHIBOYUGI: Playing Death Games to Put Food on the Table|https://image.tmdb.org/t/p/w500/4EswDHj9GVcSNmKwWcxvQDynTVJ.jpg|shiboyugi-playing-death-games-to-put-food-on-the-table|Animation|2026|6.9
+Sirius the Jaeger|https://image.tmdb.org/t/p/w500/z4Eriu63E6U4JPWLCUpn3QbavaQ.jpg|sirius-the-jaeger|Animation|2018|7.2
+Sky Wizard Academy|https://image.tmdb.org/t/p/w500/wtJVGOCVEqB2kXNr3JMmxgT14uB.jpg|sky-wizard-academy|Animation|2015|7.1
+Sword Art Online|https://image.tmdb.org/t/p/w500/htNohqrYEwuz4fCa9ATVF90s58S.jpg|sword-art-online|Animation|2012|8.2
+Terra Formars|https://image.tmdb.org/t/p/w500/4EUYrzfIibhyqZG0FxXmd6xSqK2.jpg|terra-formars|Action & Abenteuer|2014|7.2
+Texhnolyze|https://image.tmdb.org/t/p/w500/kNHeuQIczfl3CIJOiF8yFu1Hz9I.jpg|texhnolyze|Animation|2003|7.0
+The Dragon Dentist|https://image.tmdb.org/t/p/w500/ehZZ6SzexxxB23AbIyuyg4ykl6y.jpg|the-dragon-dentist|Animation|2017|5.8
+The Elusive Samurai|https://image.tmdb.org/t/p/w500/8T3QsGzRvvAPUUw9Z1UjLNCQZlH.jpg|the-elusive-samurai|Animation|2024|7.8
+The Executioner and Her Way of Life|https://image.tmdb.org/t/p/w500/pXtIXRrMIH5Ns30S2KOv7KCaPh8.jpg|the-executioner-and-her-way-of-life|Animation|2022|7.2
+The Kingdoms of Ruin|https://image.tmdb.org/t/p/w500/qdF4MnYEzXP0E9IrMP5IfopyOMO.jpg|the-kingdoms-of-ruin|Animation|2023|7.6
+The Last Summoner|https://image.tmdb.org/t/p/w500/4TitqTctGc4UH9AwbFHRfkuFMzt.jpg|the-last-summoner|Animation|2022|5.6
+The Price of Smiles|https://image.tmdb.org/t/p/w500/k3ZG7xY0ia5C1UdkkCOnyjaPCCY.jpg|the-price-of-smiles|Animation|2019|5.2
+The Seven Deadly Sins|https://image.tmdb.org/t/p/w500/knOEGRfSV8RTrBFbdd2eXF0w10q.jpg|the-seven-deadly-sins|Animation|2023|8.2
+The tale of outcasts|https://image.tmdb.org/t/p/w500/4EzlJHCuNfUUGQsuMsxg2bdWeRY.jpg|the-tale-of-outcasts|Animation|2023|6.1
+Tiger Mask W|https://image.tmdb.org/t/p/w500/yisqc1PDIHL3fHoJdS0yPqGuOEO.jpg|tiger-mask-w|Action & Abenteuer|2016|5.9
+To the Abandoned Sacred Beasts|https://image.tmdb.org/t/p/w500/7XZ30N6VN8E2zgY3yYJSjleVNpm.jpg|to-the-abandoned-sacred-beasts|Action & Abenteuer|2019|7.6
+Togainu no Chi: Bloody Curs|https://image.tmdb.org/t/p/w500/fdDXbLO1dXgdOWnp73HCgnqFecT.jpg|togainu-no-chi-bloody-curs|Animation|2010|5.9
+Tokyo Ravens|https://image.tmdb.org/t/p/w500/38MygzNIrj9Ypdf5RIdm6Eyodm2.jpg|tokyo-ravens|Animation|2013|6.5
+Tower of God|https://image.tmdb.org/t/p/w500/h8Nx28MtC8LHtTXbaZ2HqpA3SUb.jpg|tower-of-god|Animation|2020|8.2
+Trigun|https://image.tmdb.org/t/p/w500/iF4y2FuDvPz0GADgQk60wxjFU0y.jpg|trigun|Sci-Fi & Fantasy|1998|8.1
+Übel Blatt|https://image.tmdb.org/t/p/w500/jZePlRUlM4qIuuJHnjqjs4JufpO.jpg|bel-blatt|Animation|2025|7.0
+Unlimited Fafnir|https://image.tmdb.org/t/p/w500/zY7vcsQsoQqY8zcmjkCeeUBeTAV.jpg|unlimited-fafnir|Action & Abenteuer|2015|5.6
+Unlimited Psychic Squad|https://image.tmdb.org/t/p/w500/zd6zRbgsReMvB5Xp5KELib1juPd.jpg|unlimited-psychic-squad|Animation|2013|6.6
+Unnamed Memory|https://image.tmdb.org/t/p/w500/2h67cW61TtPdl6R41TkbTJv4Xiz.jpg|unnamed-memory|Animation|2024|7.2
+Valkyria Chronicles|https://image.tmdb.org/t/p/w500/cVrpts7wFMdAOELgEg6SGXNj27g.jpg|valkyria-chronicles|Animation|2009|6.5
+Wangan Midnight|https://image.tmdb.org/t/p/w500/lyHdQikMiE9E4njO2SUO4pPYPbb.jpg|wangan-midnight|Animation|2007|5.6
+Warlords of Sigrdrifa|https://image.tmdb.org/t/p/w500/kXyZPdKwAxkcbamxs4WZ8ng49Om.jpg|warlords-of-sigrdrifa|Animation|2020|5.1
+Witchblade|https://image.tmdb.org/t/p/w500/s7beqiNqkx9Bi9qHSi8Zo2rSEpg.jpg|witchblade|Sci-Fi & Fantasy|2001|7.0
+X|https://image.tmdb.org/t/p/w500/qouWZKZ1ygWkvqSgMQOMDei1kFX.jpg|x|Mystery|1993|8.4
+Xam’d: Lost Memories|https://image.tmdb.org/t/p/w500/48dAreQbSLIn89Vkzx0HPiWn9Ys.jpg|xamd-lost-memories|Animation|2008|5.6
+Zetman|https://image.tmdb.org/t/p/w500/4okKvxSog0DPYb61AbXBdojLJfv.jpg|zetman|Action & Abenteuer|2012|6.1
+A Dark Rabbit has Seven Lives|https://image.tmdb.org/t/p/w500/g9UcSYDXnO9upPIkG5T0EGH7pVu.jpg|a-dark-rabbit-has-seven-lives|Sci-Fi & Fantasy|2011|5.5
+A Nobody's Way Up to an Exploration Hero|https://image.tmdb.org/t/p/w500/hY8rN6dkGHp8LC1fE24cqeFoSfJ.jpg|a-nobodys-way-up-to-an-exploration-hero|Animation|2024|7.5
+Agent Aika|https://image.tmdb.org/t/p/w500/9i5tejp6j1Qf01UjBZURs6Yku8r.jpg|agent-aika|Action & Abenteuer|1997|8.0
+Akashic Records of Bastard Magical Instructor|https://image.tmdb.org/t/p/w500/drBuXuI6D7d7n0YntzTmLafQPJf.jpg|akashic-records-of-bastard-magical-instructor|Animation|2017|8.4
+Alice & Zoroku|https://image.tmdb.org/t/p/w500/kCBp674A408yrYJmeovb1PvUNFs.jpg|alice-zoroku|Animation|2017|6.8
+Am I Actually the Strongest?|https://image.tmdb.org/t/p/w500/kG5Y53kksNy3f8BjOvhVBILUmNl.jpg|am-i-actually-the-strongest|Animation|2023|7.4
+Arcana Famiglia|https://image.tmdb.org/t/p/w500/iJQv5pcYzZYfguY8YyV5rlvMBoE.jpg|arcana-famiglia|Animation|2012|6.8
+Aria the Scarlet Ammo|https://image.tmdb.org/t/p/w500/luGh4M3QdvGG4skCF7PeScTNW7k.jpg|aria-the-scarlet-ammo|Action & Abenteuer|2011|7.3
+Aria the Scarlet Ammo AA|https://image.tmdb.org/t/p/w500/6B8H1mx1YHNJL6CiSTaQ1RrP5E4.jpg|aria-the-scarlet-ammo-aa|Animation|2015|5.6
+Armed Girl's Machiavellism|https://image.tmdb.org/t/p/w500/yLjeR0yEMMjDNMb505N8QX5MsR7.jpg|armed-girls-machiavellism|Animation|2017|6.7
+As a Reincarnated Aristocrat, I’ll Use My Appraisal Skill to Rise in the New World|https://image.tmdb.org/t/p/w500/6Wmyefo83QKX0Bn4HE8H3EuMXIA.jpg|as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-new-world|Animation|2024|7.4
+Assassination Classroom|https://image.tmdb.org/t/p/w500/fIOYLPOorKvP4wut9y0edpnWROz.jpg|assassination-classroom|Animation|2015|8.4
+Atom - The Beginning|https://image.tmdb.org/t/p/w500/AiAFZiPnqvDpMq38eU69Gi3AOUe.jpg|atom-the-beginning|Sci-Fi & Fantasy|2017|5.4
+Bastard!! Heavy Metal, Dark Fantasy|https://image.tmdb.org/t/p/w500/g9Txn5XXCf2DgpKuEIFOb4z12Ms.jpg|bastard-heavy-metal-dark-fantasy|Animation|2022|7.6
+Beelzebub|https://image.tmdb.org/t/p/w500/4NJPI4q4EeuGZJRKj3zZX8249ds.jpg|beelzebub|Animation|2011|8.3
+Beheneko: The Elf-Girl's Cat is Secretly an S-Ranked Monster!|https://image.tmdb.org/t/p/w500/scznNXCiOckibSG5wIxfAEfP6CH.jpg|beheneko-the-elf-girls-cat-is-secretly-an-s-ranked-monster|Animation|2025|6.4
