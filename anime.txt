@@ -1798,3 +1798,53 @@ Super Sonico The Animation|https://image.tmdb.org/t/p/w500/mgRYwjELDnoonXBVWJQoP
 Takunomi|https://image.tmdb.org/t/p/w500/8e0dy4ynwfUEhdYu8XFD5X1SyS5.jpg|takunomi|Animation|2018|5.3
 Tamako Market|https://image.tmdb.org/t/p/w500/5SgC9RK2lizDtlbrggeEmxi2aKM.jpg|tamako-market|Animation|2013|7.3
 Tanaka-kun is Always Listless|https://image.tmdb.org/t/p/w500/2sc5XtkVRhYO1FOFWKIUo2W1OMq.jpg|tanaka-kun-is-always-listless|Animation|2016|7.5
+Tatami Galaxy|https://image.tmdb.org/t/p/w500/3Ngmk2kNh6JTdqPwMdiZvDSdlGH.jpg|tatami-galaxy|Animation|2010|8.3
+Tearmoon Empire|https://image.tmdb.org/t/p/w500/vYGmZQwGMfUOaA6DeX8ejTgyj5w.jpg|tearmoon-empire|Animation|2023|7.1
+Teppen!!!!!!!!!!!!!!! Laughing ’til You Cry|https://image.tmdb.org/t/p/w500/p2hiAKgudnMmHXTqOVxtTZbiv1j.jpg|teppen-laughing-til-you-cry|Animation|2022|6.6
+That is the Bottleneck|https://image.tmdb.org/t/p/w500/ylA3JsaXErXRRWGii3BxdsPchov.jpg|sore-dake-ga-neck|Animation|2020|7.2
+The Brilliant Healer's New Life in the Shadows|https://image.tmdb.org/t/p/w500/r87Uv7ESFlB4do3Ze43u3il7cGG.jpg|the-brilliant-healers-new-life-in-the-shadows|Action & Abenteuer|2025|7.5
+The Comic Artist and His Assistants|https://image.tmdb.org/t/p/w500/lUqEA0BkzDlyCfkMbLy2obvfaCa.jpg|the-comic-artist-and-his-assistants|Animation|2014|7.6
+The Daily Life of a Middle-Aged Online Shopper in Another World|https://image.tmdb.org/t/p/w500/mpQjKNcka5SG6TN2N4hBf9aAS2o.jpg|the-daily-life-of-a-middle-aged-online-shopper-in-another-world|Animation|2025|6.8
+The Daily Life of a Part-time Torturer|https://image.tmdb.org/t/p/w500/bDQVbF2zrLOrbbx3FQgI5MZb8IU.jpg|the-daily-life-of-a-part-time-torturer|Animation|2026|8.0
+The Dangers in My Heart|https://image.tmdb.org/t/p/w500/hkzRP40C6yhBxZ63Z7pBHNhqdAs.jpg|the-dangers-in-my-heart|Animation|2023|8.5
+The Demon Girl Next Door|https://image.tmdb.org/t/p/w500/6nC5AXYZi9qXqBMfHsBKLpIGxVN.jpg|machikado-mazoku|Animation|2019|8.0
+The Devil is a Part-Timer!|https://image.tmdb.org/t/p/w500/kmpTEICJQweI4RN0OHIxgaetKop.jpg|the-devil-is-a-part-timer|Animation|2013|7.5
+The Dinner Table Detective|https://image.tmdb.org/t/p/w500/mTEoShQywFckdJPQseNDP5tttSm.jpg|the-dinner-table-detective|Animation|2025|7.2
+The Disastrous Life of Saiki K.|https://image.tmdb.org/t/p/w500/hqOIldYJTq8eI1APi4tx4rZuiHe.jpg|the-disastrous-life-of-saiki-k|Animation|2016|8.3
+The Disastrous Life of Saiki K.: Reawakened|https://image.tmdb.org/t/p/w500/r4hhIRzLSTU3GFImxPn3q6gSEhz.jpg|the-disastrous-life-of-saiki-k-reawakened|Animation|2019|7.4
+The Family Circumstances of the Irregular Witch|https://image.tmdb.org/t/p/w500/i9LcXiYcXhQjYIBIJVzlwsRHzXq.jpg|the-family-circumstances-of-the-irregular-witch|Animation|2023|5.4
+The Great Jahy Will Not Be Defeated!|https://image.tmdb.org/t/p/w500/4C8Eek9rDJB5Sfz6qlcYQFbcoYX.jpg|the-great-jahy-will-not-be-defeated|Animation|2021|6.9
+The Laughing Salesman|https://image.tmdb.org/t/p/w500/pPQxYOOQYdmeQccyWDCQFCKVzpT.jpg|the-laughing-salesman|Animation|1989|8.0
+The Legendary Hero is Dead!|https://image.tmdb.org/t/p/w500/ojDBBMcUJNtvOgVVP2NEbo1UStL.jpg|the-legendary-hero-is-dead|Animation|2023|6.3
+The Magical Revolution of the Reincarnated Princess and the Genius Young Lady|https://image.tmdb.org/t/p/w500/jK42u0yTOw9qPWXUux63Btjnm0Z.jpg|the-magical-revolution-of-the-reincarnated-princess-and-the-genius-young-lady|Animation|2023|7.5
+The Many Sides of Voice Actor Radio|https://image.tmdb.org/t/p/w500/1I93qatbsJRILJhLTZkllWAQe2e.jpg|the-many-sides-of-voice-actor-radio|Animation|2024|6.1
+The Masterful Cat Is Depressed Again Today|https://image.tmdb.org/t/p/w500/hbJ8Tv6iWO6rvNkhJqZX1rSQD5P.jpg|the-masterful-cat-is-depressed-again-today|Animation|2023|7.8
+The Melancholy of Haruhi Suzumiya|https://image.tmdb.org/t/p/w500/2fRht0UsBj8mZZTYtC3zhVO8B0M.jpg|the-melancholy-of-haruhi-suzumiya|Komoedie|2006|7.8
+The Royal Tutor|https://image.tmdb.org/t/p/w500/9kcVETClEE295oZu5bDsQrB6Ou7.jpg|the-royal-tutor|Animation|2017|7.0
+The Ryuo's Work is Never Done!|https://image.tmdb.org/t/p/w500/93PSSEEd2L5jXyxZvhYhieBSHZw.jpg|the-ryuos-work-is-never-done|Animation|2018|6.5
+The Seven Heavenly Virtues|https://image.tmdb.org/t/p/w500/dlbQKuZXyEdydVRvvlxuQJNmvSm.jpg|the-seven-heavenly-virtues|Animation|2018|7.2
+The Slime Diaries|https://image.tmdb.org/t/p/w500/1uCpJrqkRo7v7AbWvk9bxzOTVP9.jpg|the-slime-diaries|Animation|2021|8.0
+The Vampire Dies in No Time|https://image.tmdb.org/t/p/w500/4RHvDoMU3DSkxt13I3wLGql3DE8.jpg|the-vampire-dies-in-no-time|Animation|2021|7.5
+The Vexations of a Shut-In Vampire Princess|https://image.tmdb.org/t/p/w500/m9PiqXmpTinv9H4IqHbEVQVJFr7.jpg|the-vexations-of-a-shut-in-vampire-princess|Animation|2023|7.6
+Thermae Romae Novae|https://image.tmdb.org/t/p/w500/Vmd3Mnz1uMseHAbOSQNqFDbqj1.jpg|thermae-romae-novae|Animation|2022|6.2
+This Art Club Has a Problem!|https://image.tmdb.org/t/p/w500/rjdPTVSbYeKJ4F8ieeYAYM0kmEl.jpg|this-art-club-has-a-problem|Animation|2016|6.1
+Today's Menu for the Emiya Family|https://image.tmdb.org/t/p/w500/slVE7wIRlfZBGr0SpCZXmKexmTE.jpg|todays-menu-for-the-emiya-family|Animation|2017|7.5
+Toilet-Bound Hanako-kun|https://image.tmdb.org/t/p/w500/sPXvmpUW4tFf7DuNeovSomcTWLF.jpg|toilet-bound-hanako-kun|Animation|2020|8.6
+Tonari no Seki-kun: The Master of Killing Time|https://image.tmdb.org/t/p/w500/4c127DodVWctHKyGsiA3d5RGvb.jpg|tonari-no-seki-kun-the-master-of-killing-time|Animation|2014|7.5
+Too Cute Crisis|https://image.tmdb.org/t/p/w500/wICOuhRc8RFJZMCpNXjW3wfqZre.jpg|too-cute-crisis|Animation|2023|5.2
+Trapped in a Dating Sim: The World of Otome Games is Tough for Mobs|https://image.tmdb.org/t/p/w500/9fJYueAX0XTqFIPokQxFAoapGvr.jpg|trapped-in-a-dating-sim-the-world-of-otome-games-is-tough-for-mobs|Animation|2022|7.5
+True Cooking Master Boy|https://image.tmdb.org/t/p/w500/mg2fUxfH3ktaWqbSq4oL3g3yyCm.jpg|true-cooking-master-boy|Animation|2019|5.9
+Tune In to the Midnight Heart|https://image.tmdb.org/t/p/w500/otKyL6FiAoNAAB90N0cO3RhRhCj.jpg|tune-in-to-the-midnight-heart|Animation|2026|9.0
+Uchitama?! Have you seen my Tama?|https://image.tmdb.org/t/p/w500/zKBL6I5PbIbw02lpCwpv6RY97m9.jpg|uchi-tama-uchi-no-tama-shirimasen-ka|Animation|2020|7.2
+Ultimate Otaku Teacher|https://image.tmdb.org/t/p/w500/1Q9GelfaRKmH4ndsLMNV2vQV1Qp.jpg|ultimate-otaku-teacher|Animation|2015|8.0
+Uncle from Another World|https://image.tmdb.org/t/p/w500/fGXvKNhok7kAvi74HH1zmxSn5V7.jpg|uncle-from-another-world|Animation|2022|7.5
+Urara Meirochou|https://image.tmdb.org/t/p/w500/9DHVHbnPF7hrjKdCVK6QJ58UVrB.jpg|urara-meirochou|Animation|2017|5.3
+UzaMaid!|https://image.tmdb.org/t/p/w500/5kVZBHCcJyoO1jw8EpKqCfH38kt.jpg|uzamaid|Animation|2018|7.6
+VazzRock the Animation|https://image.tmdb.org/t/p/w500/7yZIgApiNvpEtJUrtrXeIAZS9w1.jpg|vazzrock-the-animation|Animation|2022|7.0
+Vlad Love|https://image.tmdb.org/t/p/w500/iMyjPpLKGQMlBDVYPJO4CQB8NN4.jpg|vlad-love|Animation|2021|5.6
+VTuber Legend: How I Went Viral after Forgetting to Turn Off My Stream|https://image.tmdb.org/t/p/w500/4s97rYWqJAsAOeDn8Is09fkLcsc.jpg|vtuber-legend-how-i-went-viral-after-forgetting-to-turn-off-my-stream|Animation|2024|5.3
+Wagnaria!!|https://image.tmdb.org/t/p/w500/t8kIc0vLaoheCu9xIAnD71nO637.jpg|wagnaria|Animation|2010|8.1
+Wasteful Days of High School Girls|https://image.tmdb.org/t/p/w500/2pF3iTCxJIIpHGObQJfq4szfOpM.jpg|wasteful-days-of-high-school-girls|Komoedie|2019|7.5
+WataMote: No Matter How I Look at It, It’s You Guys Fault I’m Not Popular!|https://image.tmdb.org/t/p/w500/4yRrVMyBsDeejiv58qwxe2A6eqO.jpg|watamote-no-matter-how-i-look-at-it-its-you-guys-fault-im-not-popular|Animation|2013|8.2
+Wataten!: An Angel Flew Down to Me|https://image.tmdb.org/t/p/w500/2D2nD0fajDEBqj5n3KA0tpEwNIQ.jpg|wataten-an-angel-flew-down-to-me|Animation|2019|8.2
+Wave, Listen to me!|https://image.tmdb.org/t/p/w500/eJEo4IJWJo3avTfdFNAjBEzTxNz.jpg|wave-listen-to-me|Animation|2020|6.1
