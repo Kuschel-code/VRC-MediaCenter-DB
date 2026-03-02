@@ -23,6 +23,8 @@ import subprocess
 import os
 import urllib.parse
 from pathlib import Path
+import time
+import random
 
 # ── Pfade ───────────────────────────────────────────────────
 DB_PATH       = Path(__file__).parent
@@ -79,8 +81,6 @@ import json
 import re
 from bs4 import BeautifulSoup
 import httpx
-import time
-import random
 
 
 # ── Sprachspezifische Stream-URL ─────────────────────────────
