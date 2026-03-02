@@ -1898,3 +1898,53 @@ YOUR FORMA|https://image.tmdb.org/t/p/w500/uq3FFKHW6lUQxdiTetjgSIL0vMs.jpg|your-
 A Girl & Her Guard Dog|https://image.tmdb.org/t/p/w500/3t2EeNMCwUAtm8mRs1DSz8rnzO4.jpg|a-girl-her-guard-dog|Animation|2023|5.1
 A Whisker Away||a-whisker-away|||
 Anonymous Noise|https://image.tmdb.org/t/p/w500/7fYak9DTQLVU49NTZG3k3sGGC8X.jpg|anonymous-noise|Animation|2017|6.6
+Astraea Testament: The Good Witch of the West|https://image.tmdb.org/t/p/w500/n0Vv7aOejLNyerUSyqEqaIELqXg.jpg|astraea-testament-the-good-witch-of-the-west|Animation|2006|9.5
+Bloom Into You|https://image.tmdb.org/t/p/w500/piw1RTr9hy7WoimiXJHbLHVoRrm.jpg|bloom-into-you|Animation|2018|7.7
+Blue Spring Ride|https://image.tmdb.org/t/p/w500/c4TTkNCkrClHGjKztNLRgEzrL2T.jpg|blue-spring-ride|Animation|2014|8.4
+Bokura ga Ita|https://image.tmdb.org/t/p/w500/duvWwPEO8vdGO1Y6iarPw4DScCM.jpg|bokura-ga-ita|Animation|2006|6.9
+Citrus|https://image.tmdb.org/t/p/w500/u404BsPqJv5lxgNGLnbJbPe6PEe.jpg|citrus|Animation|2018|6.6
+Dance with Devils|https://image.tmdb.org/t/p/w500/zO5qNYWmA4lFwxuBJCc6P1mIHfo.jpg|dance-with-devils|Animation|2015|5.8
+Doukyusei -Classmates-||doukyusei-classmates|||
+Dusk Maiden of Amnesia|https://image.tmdb.org/t/p/w500/m66wItRFS3aMp06d4L3VtXlgwC1.jpg|dusk-maiden-of-amnesia|Animation|2012|8.1
+Even If the World Ends Tomorrow||even-if-the-world-ends-tomorrow|||
+Flavors of Youth: Love in Shanghai||flavors-of-youth-love-in-shanghai|||
+Georgie|https://image.tmdb.org/t/p/w500/6Yr6uh6MVNWQAMDEaKjj3nAyjhP.jpg|georgie|Komoedie|2024|7.7
+Given|https://image.tmdb.org/t/p/w500/iWQchD5iAc3Ou9zTQnPuNbLPsLB.jpg|given|Animation|2025|6.9
+Golden Time|https://image.tmdb.org/t/p/w500/c0nvzvf2QuAfP7rMcwVfHdf68lA.jpg|golden-time|Animation|2013|8.5
+Gravitation|https://image.tmdb.org/t/p/w500/1WGRX9mvcycn3PgNap0clEy0KgJ.jpg|gravitation|Animation|2000|6.4
+Just Because!|https://image.tmdb.org/t/p/w500/b4Ap7g0egqBt9JJA5qNfpxq4jN2.jpg|just-because|Animation|2017|6.5
+Kids on the Slope|https://image.tmdb.org/t/p/w500/a8ukRiYnKZHadK4CwZiZM8C5MsO.jpg|kids-on-the-slope|Animation|2012|7.7
+Love and Lies|https://image.tmdb.org/t/p/w500/9ZqCOzYxoJngFKAx2Wu4UjUQ2YX.jpg|love-and-lies|Animation|2017|6.4
+Nana|https://image.tmdb.org/t/p/w500/5XyTQaZcWgn1iqSuxsh5FRzuJjB.jpg|nana|Animation|2006|8.5
+NTR - Netsuzou Trap|https://image.tmdb.org/t/p/w500/lpz9856n8bkJ5kP24pyOhXeGqXN.jpg|ntr-netsuzou-trap|Animation|2017|4.9
+Paradise Kiss|https://image.tmdb.org/t/p/w500/cnPYecp5Hw2IBCW0SZCe0bG1Wux.jpg|paradise-kiss|Animation|2005|7.2
+Rumbling Hearts|https://image.tmdb.org/t/p/w500/8iicxVqa1NpKBAXuOBstR343Uvb.jpg|rumbling-hearts|Animation|2003|6.4
+Sailor Moon Crystal|https://image.tmdb.org/t/p/w500/1jeC3TXZ1YoIeGyS5QeMO4Dn4fl.jpg|sailor-moon-crystal|Animation|2014|8.1
+Say, I Love You|https://image.tmdb.org/t/p/w500/ctTbPg3J42fwnwKbHgqnqhxvcAf.jpg|suki-tte-ii-na-yo|Animation|2012|7.6
+Scum's Wish|https://image.tmdb.org/t/p/w500/gy00KZvi4N8HlYsGTx4MT01qcoV.jpg|scums-wish|Animation|2017|6.4
+The Girl Downstairs|https://image.tmdb.org/t/p/w500/ic3zlppoAHj3MxAsS8BVY2c9R0i.jpg|the-girl-downstairs|Animation|2023|6.6
+The Place Promised In Our Early Days||the-place-promised-in-our-early-days|||
+The Tunnel to Summer, The Exit of Goodbyes||the-tunnel-to-summer-the-exit-of-goodbyes|||
+True Tears|https://image.tmdb.org/t/p/w500/p7RtANx3INRmjEgnUIg5UjKUCwP.jpg|true-tears|Animation|2008|6.1
+Vampire Knight|https://image.tmdb.org/t/p/w500/cD7fAY2SKCQYbFPQ2tU02MctDO5.jpg|vampire-knight|Animation|2008|8.2
+White Album|https://image.tmdb.org/t/p/w500/2viKPQPB8uF6oD6z9mLfqLkgmHu.jpg|white-album|Drama|2009|6.8
+World’s End Harem|https://image.tmdb.org/t/p/w500/dirWjX7JP0MYCyD7WLyrjzPYCMW.jpg|worlds-end-harem||2022|
+BULLBUSTER|https://image.tmdb.org/t/p/w500/wT4v5C1Bm3xgk0Uko0BEe5frD8U.jpg|bullbuster|Animation|2023|5.0
+I'm the Evil Lord of an Intergalactic Empire!|https://image.tmdb.org/t/p/w500/iLxdkh4wgQ6bkF9cwiz20eLIcWY.jpg|im-the-evil-lord-of-an-intergalactic-empire|Animation|2025|7.4
+Mobile Suit Gundam GQuuuuuuX|https://image.tmdb.org/t/p/w500/fyPkuoqllQX6k8KbjJvkkEAIgpq.jpg|mobile-suit-gundam-gquuuuuux|Animation|2025|7.5
+9-nine- Ruler's Crown|https://image.tmdb.org/t/p/w500/mM2XpYKaFIAcTkGng6byHv2I5OI.jpg|9-nine-rulers-crown|Animation|2025|4.0
+KAMITSUBAKI CITY UNDER CONSTRUCTION|https://image.tmdb.org/t/p/w500/17TgENGeO5YMahY5bdayov7PbW.jpg|kamitsubaki-city-under-construction|Animation|2025|5.6
+Mr Love - Queen’s Choice|https://image.tmdb.org/t/p/w500/iRg6kX9WPonKDZ3dmgBYmqWao8Y.jpg|mr-love-queens-choice|Animation|2020|7.0
+The Demon Prince of Momochi House|https://image.tmdb.org/t/p/w500/6CHvOjWVxWQkcRKc4iijHIReACY.jpg|the-demon-prince-of-momochi-house|Animation|2024|7.5
+The Human Crazy University|https://image.tmdb.org/t/p/w500/w8EJfiYDzQ3nuE6bqxKGph7IZ0i.jpg|the-human-crazy-university|Animation|2022|3.8
+The Summer Hikaru Died|https://image.tmdb.org/t/p/w500/4sxpBwpZVjQZ4sSonqmoGaae1ay.jpg|the-summer-hikaru-died|Animation|2025|8.3
+X&Y: Ai You De Mishi|https://image.tmdb.org/t/p/w500/m6eK4zfYhJwxU4b43KPQciTTkFD.jpg|xy|Animation|2023|7.1
+Ai-Mai-Mi|https://image.tmdb.org/t/p/w500/1hVJnWV0ghfhN3TLKFUxkYn9S2i.jpg|ai-mai-mi|Animation|2013|5.8
+Asobi Asobase: Workshop of Fun|https://image.tmdb.org/t/p/w500/de9UhF8J7HoTMGx1KahTZrcnZ88.jpg|asobi-asobase-workshop-of-fun|Komoedie|2018|8.5
+Bludgeoning Angel Dokuro-Chan|https://image.tmdb.org/t/p/w500/3VDsNW4I1W0oATwbtt5vDkVcbNd.jpg|bludgeoning-angel-dokuro-chan|Animation|2005|6.1
+Bobobo-bo Bo-bobo|https://image.tmdb.org/t/p/w500/92jw3GcbwtgBMiL4n7HHNQVXu2s.jpg|bobobo-bo-bo-bobo|Animation|2005|5.7
+Carnival Phantasm|https://image.tmdb.org/t/p/w500/tDqPa3IOm8kavnoqJu3R1csV3QQ.jpg|carnival-phantasm|Animation|2011|8.5
+Dagashi Kashi|https://image.tmdb.org/t/p/w500/bFuDrR4cAU6JkAnqeBZu06A4Yp6.jpg|dagashi-kashi|Animation|2016|7.1
+Daily Lives of High School Boys|https://image.tmdb.org/t/p/w500/gLF5bdnf0oINep5FUcobqviv8U5.jpg|daily-lives-of-high-school-boys|Animation|2012|8.0
+Dropkick on My Devil!|https://image.tmdb.org/t/p/w500/oWm8N8tiMzrGGKFiQ5TZ9cVd3w9.jpg|dropkick-on-my-devil|Komoedie|2018|7.0
+Dropout Idol Fruit Tart|https://image.tmdb.org/t/p/w500/tvopB9tAHuvWitoxAS37NaqLCRb.jpg|dropout-idol-fruit-tart|Animation|2020|5.8
