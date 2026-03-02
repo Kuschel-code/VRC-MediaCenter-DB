@@ -1148,3 +1148,53 @@ Full Moon|https://image.tmdb.org/t/p/w500/AecYTAKiDXj8z2Sa1ccD5LDtzGm.jpg|full-m
 Gankutsuou: The Count of Monte Cristo|https://image.tmdb.org/t/p/w500/iry6L8H9vWfyvZRdCZRw1C6qrxG.jpg|gankutsuou-the-count-of-monte-cristo|Animation|2004|7.2
 Gilgamesh|https://image.tmdb.org/t/p/w500/ub3XhOLioxmxcCRwCf35SGdOlg9.jpg|gilgamesh|Action & Abenteuer|2003|6.7
 GNOSIA|https://image.tmdb.org/t/p/w500/2D4j3VlE2ZzNroic5imNLBQXGi.jpg|gnosia|Animation|2025|8.1
+Good Night World|https://image.tmdb.org/t/p/w500/s8FvuD1IMIpvoTLHUrKP3jBwxwe.jpg|good-night-world|Animation|2023|6.9
+Grave of the Fireflies||grave-of-the-fireflies|||
+GTO: Great Teacher Onizuka|https://image.tmdb.org/t/p/w500/hanEVfXhpxscGQb0Sg1xI3quGfz.jpg|gto-great-teacher-onizuka|Animation|1999|8.4
+Gunslinger Girl|https://image.tmdb.org/t/p/w500/hZrhtwcSydWh3rxQSB6we1KSql7.jpg|gunslinger-girl|Action & Abenteuer|2003|7.2
+Haibane Renmei|https://image.tmdb.org/t/p/w500/OnIJxXw7vXIgn8SbuyGE5GivJd.jpg|haibane-renmei|Animation|2002|7.7
+Happy Sugar Life|https://image.tmdb.org/t/p/w500/wsfIwWu5xipQFZM2WtKRf6mK8J1.jpg|happy-sugar-life|Animation|2018|7.4
+Harmonie|https://image.tmdb.org/t/p/w500/b0RxaidEWWBTxhaNpF4rEPaNqJ0.jpg|harmonie|Dokumentation|2022|7.0
+Haruka -Beyond the Stream of Time-: A Tale of the Eight Guardians|https://image.tmdb.org/t/p/w500/dRQlsz9vfsfcTNM4v78Byv4oJLs.jpg|haruka-beyond-the-stream-of-time-a-tale-of-the-eight-guardians|Animation|2004|5.4
+Hell Girl||hell-girl||2006|1.0
+Hello World|https://image.tmdb.org/t/p/w500/t8Xq1edhrEeH0pB9jFolLBCj1nr.jpg|hello-world|Animation|2019|5.9
+Her Blue Sky||her-blue-sky|||
+Holy Knight|https://image.tmdb.org/t/p/w500/nbwIp2gdfWofIyu3qk1vH5Sy5qK.jpg|holy-knight|Action & Abenteuer|2012|5.0
+House of Five Leaves|https://image.tmdb.org/t/p/w500/grzQcawXgXBKwdqUwf52N8ijodd.jpg|house-of-five-leaves|Animation|2010|7.6
+Hula Fulla Dance||hula-fulla-dance|||
+Hybrid Child|https://image.tmdb.org/t/p/w500/fCB10TeD6yfUhVCIk24sUY3K9ww.jpg|hybrid-child|Animation|2014|5.5
+I Want to Eat Your Pancreas||i-want-to-eat-your-pancreas|||
+In This Corner of the World|https://image.tmdb.org/t/p/w500/aWtGrOOUr8owGNpWA6S7EzXpHpa.jpg|in-this-corner-of-the-world|Familie|2018|6.8
+Irina: The Vampire Cosmonaut|https://image.tmdb.org/t/p/w500/3WdFVWpuBELo5yLXb7npQdTE580.jpg|irina-the-vampire-cosmonaut|Animation|2021|6.7
+Island|https://image.tmdb.org/t/p/w500/3T1XXnMJnmhUrwIrWMWii9CwOuG.jpg|island|Komoedie|2018|6.2
+Japan Sinks: 2020|https://image.tmdb.org/t/p/w500/4cAN9ssi58CLuS3HCv3TfyVXPQp.jpg|japan-sinks-2020|Sci-Fi & Fantasy|2020|7.2
+Josee, the Tiger and the Fish||josee-the-tiger-and-the-fish|||
+Kageki Shojo!!|https://image.tmdb.org/t/p/w500/jee2p5CXSIS9V5Vxx0Uwe9Qr1Hb.jpg|kageki-shojo|Animation|2021|7.1
+Kaiba|https://image.tmdb.org/t/p/w500/9hg1d3umUTyRakzCWRAO6LVyoc6.jpg|kaiba|Animation|2008|7.9
+Kakegurui Twin|https://image.tmdb.org/t/p/w500/2e8bJIBglxY9djQJ0z81A6MroPr.jpg|kakegurui-twin|Animation|2022|7.3
+Kakuriyo: Bed & Breakfast for Spirits|https://image.tmdb.org/t/p/w500/82VaDgYOSA1Sk36vn5SQha9IgRJ.jpg|kakuriyo-bed-breakfast-for-spirits|Animation|2018|8.3
+Kanon (2002)|https://image.tmdb.org/t/p/w500/TRbcf5Ga3r06f158Q3VwLwnIOJ.jpg|kanon-2002|Animation|2002|6.0
+Kanon (2006)|https://image.tmdb.org/t/p/w500/AedHrlFciZxJSGSyOGiRSve3O5e.jpg|kanon-2006|Animation|2006|6.8
+Kiznaiver|https://image.tmdb.org/t/p/w500/fSRxwPHBwHCgrEr6sjdEb5a3Umn.jpg|kiznaiver|Sci-Fi & Fantasy|2016|7.7
+Kokoro Connect|https://image.tmdb.org/t/p/w500/lF0EYy8HbWPptN39VNhZV0NuveA.jpg|kokoro-connect|Animation|2012|6.6
+Kono Oto Tomare!: Sounds of Life|https://image.tmdb.org/t/p/w500/bc707zdBtjQ2K8vZWYvPmM0OKEb.jpg|kono-oto-tomare-sounds-of-life|Animation|2019|7.3
+Lady Oscar|https://image.tmdb.org/t/p/w500/d8YF6O2QS7o8r7wLM80L71umc0a.jpg|lady-oscar|Animation|1979|8.3
+Land of the Lustrous|https://image.tmdb.org/t/p/w500/viEgkNkUhGeBhsV15mON4YRIftk.jpg|land-of-the-lustrous|Animation|2017|7.9
+Les Miserables: Shoujo Cossette||les-miserables-shoujo-cossette|||
+Levius|https://image.tmdb.org/t/p/w500/xLYt9rDYs4LmAiqe8hPvPVno0xa.jpg|levius|Animation|2019|7.6
+Link Click|https://image.tmdb.org/t/p/w500/A9z3veK4kJhaPog9laE4eHNeI8D.jpg|link-click|Animation|2021|8.2
+Little Busters|https://image.tmdb.org/t/p/w500/cjMfB3K4ODfz160KmWMuiNZbqKf.jpg|little-busters|Komoedie|2012|6.8
+Look Back|https://image.tmdb.org/t/p/w500/lIzForYCpB7Q4JrONDZJ8HyTPXh.jpg|look-back|Drama|2013|7.8
+Lost Song|https://image.tmdb.org/t/p/w500/7s3umqNxBgeU872K4ZsVDRztSHs.jpg|lost-song|Animation|2018|7.6
+Love Through a Prism|https://image.tmdb.org/t/p/w500/ogbZc8ELD0XnzCtWE0jGNbesiNc.jpg|love-through-a-prism|Animation|2026|8.8
+Maboroshi|https://image.tmdb.org/t/p/w500/kB9tdE00Z5zWIJQux1jiYvRyPIC.jpg|maboroshi|Animation|2019|8.4
+Maquia: When the Promised Flower Blooms||maquia-when-the-promised-flower-blooms|||
+March Comes in Like a Lion|https://image.tmdb.org/t/p/w500/4LTg5dLXnHwbNcFyOTnXvMpSs4q.jpg|march-comes-in-like-a-lion|Animation|2016|8.0
+Mashiro-iro Symphony - The Color of Lovers|https://image.tmdb.org/t/p/w500/hWCJ6cfEglN7elvABd52WnCu7o6.jpg|mashiro-iro-symphony-the-color-of-lovers|Animation|2011|5.9
+Midnight Occult Civil Servants|https://image.tmdb.org/t/p/w500/qr1wqcfoYmWhbgiqQTHZa3PHTUc.jpg|midnight-occult-civil-servants|Animation|2019|6.3
+Mirai|https://image.tmdb.org/t/p/w500/ziRrSbJ9419napyGU1zQWlsLQa6.jpg|mirai|Action & Abenteuer|2011|7.6
+Mix: Meisei Story|https://image.tmdb.org/t/p/w500/kowCQlJZ7rwamUUtRcpmdbjgE9w.jpg|mix-meisei-story|Animation|2019|6.7
+Monogatari|https://image.tmdb.org/t/p/w500/f7rhm0NuroxwC8OTVgmNJlsoc4W.jpg|monogatari|Animation|2009|8.1
+Moriarty the Patriot|https://image.tmdb.org/t/p/w500/xncRpoO8W20GAe56SAqTdsrzBtp.jpg|moriarty-the-patriot|Animation|2020|8.3
+Mushi-Shi|https://image.tmdb.org/t/p/w500/kA6A2xTk5QctNAQXWX0TZHH6pzy.jpg|mushi-shi|Animation|2005|8.0
+My Home Hero|https://image.tmdb.org/t/p/w500/e9waTrWlTq1XzoAXO4DuEPMdvM6.jpg|my-home-hero|Animation|2023|7.1
