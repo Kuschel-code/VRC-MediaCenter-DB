@@ -148,3 +148,53 @@ Meiji Tokyo Renka|https://image.tmdb.org/t/p/w500/3ed1aZ0CQHuPFkkazOl6Op7W9qK.jp
 Michiko & Hatchin|https://image.tmdb.org/t/p/w500/xvLPv3Wu75OOfK1bLj678jOc6z1.jpg|michiko-hatchin|Animation|2008|6.8
 Million Arthur|https://image.tmdb.org/t/p/w500/lMSVJuKclEHtR7nKTK9t5eHoFAG.jpg|million-arthur|Action & Abenteuer|2018|6.1
 Monster But Wild|https://image.tmdb.org/t/p/w500/e4SLnzWxyyiMgYkKux3A61RMVu0.jpg|monster-but-wild|Animation|2023|4.8
+Monster Hunter Stories: Ride On|https://image.tmdb.org/t/p/w500/8WVq0KdNn6IT5Z6mgttKL5ja9JG.jpg|monster-hunter-stories-ride-on|Animation|2016|7.9
+Monster Rancher|https://image.tmdb.org/t/p/w500/lzh49cRWKSjNm98Cov0bBDvBww7.jpg|monster-rancher|Animation|1999|8.1
+Mushoku Tensei: Jobless Reincarnation|https://image.tmdb.org/t/p/w500/sviEqFIPJW5gFtuYy8XyE0Uscid.jpg|mushoku-tensei-jobless-reincarnation|Action & Abenteuer|2021|8.5
+MUTEKING THE Dancing HERO|https://image.tmdb.org/t/p/w500/6iKJnXWmCu1VjaYNRAPBRTqyIxN.jpg|muteking-the-dancing-hero|Animation|2021|4.0
+My Daemon|https://image.tmdb.org/t/p/w500/xN3i6kH84Z0100AWWmitvmnFqCH.jpg|my-daemon|Animation|2023|8.0
+My Daughter Left the Nest and Returned an S-Rank Adventurer|https://image.tmdb.org/t/p/w500/vvKEnBhfGgbuADstFHD5Mn0hZnw.jpg|my-daughter-left-the-nest-and-returned-an-s-rank-adventurer|Animation|2023|6.5
+My Instant Death Ability Is So Overpowered, No One in This Other World Stands a Chance Against Me!|https://image.tmdb.org/t/p/w500/vOIdsYCy3Kd6KeyKRM3IyXOzH3c.jpg|my-instant-death-ability-is-so-overpowered-no-one-in-this-other-world-stands-a-chance-against-me|Action & Abenteuer|2024|6.4
+My Isekai Life|https://image.tmdb.org/t/p/w500/dRIojNhIP6X3IKvJmMTUIEvdUby.jpg|my-isekai-life|Animation|2022|7.4
+My Master Has No Tail|https://image.tmdb.org/t/p/w500/kzlKTb6CQigHisF7Uk3lVy8Ea1k.jpg|my-master-has-no-tail|Animation|2022|5.7
+My Unique Skill Makes Me OP even at Level 1|https://image.tmdb.org/t/p/w500/rUzd55GHiOogGiFAgTlW4aWsC2O.jpg|my-unique-skill-makes-me-op-even-at-level-1|Animation|2023|7.4
+Nabari|https://image.tmdb.org/t/p/w500/dIla0QHbG6SZy0l7lCQzQHkxnmX.jpg|nabari|Animation|2008|8.1
+Nadia, the Secret of Blue Water|https://image.tmdb.org/t/p/w500/3zGyxWVEEmnJV0U90WlWFubryoD.jpg|nadia-the-secret-of-blue-water|Animation|1990|7.5
+Nanana’s Buried Treasure|https://image.tmdb.org/t/p/w500/swX6yFMlMh2Pv0RGL6qZPWyZuiV.jpg|nananas-buried-treasure|Animation|2014|5.1
+Nausicaä of the Valley of the Wind||nausica-of-the-valley-of-the-wind|||
+Neo Angelique Abyss|https://image.tmdb.org/t/p/w500/5IkPBvZkdG7lw3HI6QheR0quAiI.jpg|neo-angelique-abyss|Sci-Fi & Fantasy|2008|3.6
+New Saga|https://image.tmdb.org/t/p/w500/7WAVcPVqdLK9whw75A7z6qeiuCg.jpg|new-saga|Animation|2025|7.5
+Ni no Kuni|https://image.tmdb.org/t/p/w500/3jrNJlE9DGwcGjpQV8pWM19jTaM.jpg|ni-no-kuni|Drama|1976|
+NIGHT HEAD 2041|https://image.tmdb.org/t/p/w500/mJ7t9wyD43H32E9Sv22mMrVmkLo.jpg|night-head-2041|Animation|2021|8.2
+Night Wizard|https://image.tmdb.org/t/p/w500/5FaLaKGGUm9hA7T4ul5xPrTY046.jpg|night-wizard|Animation|2007|7.7
+Ningen Fushin: Adventurers Who Don’t Believe in Humanity Will Save the World|https://image.tmdb.org/t/p/w500/3d8C2DEEBe70SIVZZWw1Q08oPvN.jpg|ningen-fushin-adventurers-who-dont-believe-in-humanity-will-save-the-world|Animation|2023|7.0
+Ninja Scroll: The Series|https://image.tmdb.org/t/p/w500/kcshOO7jADoXUAb4WqJVUrUq35n.jpg|ninja-scroll-the-series|Sci-Fi & Fantasy|2003|7.6
+No Game No Life|https://image.tmdb.org/t/p/w500/qpKGtHATF326zuC1jh7WCrY7u5g.jpg|no-game-no-life|Animation|2014|8.1
+No Longer Allowed in Another World|https://image.tmdb.org/t/p/w500/pSmAmhQuvi1H4sPCY2krxpwP9Qs.jpg|no-longer-allowed-in-another-world|Animation|2024|7.2
+Orb: On the Movements of the Earth|https://image.tmdb.org/t/p/w500/xL6TtKdXd9HjuNRsamvmiMVeFNv.jpg|orb-on-the-movements-of-the-earth|Animation|2024|7.9
+Orient|https://image.tmdb.org/t/p/w500/yjc5voRDZKY5GnF7lpEwmaxs66n.jpg|orient|Animation|2022|7.5
+Origin - Spirits of the Past||origin-spirits-of-the-past|||
+Pandora Hearts|https://image.tmdb.org/t/p/w500/sTcIkpSNRBVEqVIpcujCnB1r6xO.jpg|pandora-hearts|Animation|2009|6.3
+Patema Inverted - Beginning of the Day|https://image.tmdb.org/t/p/w500/unGOydeAXSKPdFkFgIM8KUtmkvW.jpg|patema-inverted-beginning-of-the-day|Animation|2012|7.4
+Persona 4 The Animation|https://image.tmdb.org/t/p/w500/14enSe2AEZFijNLeCQZumAMa1MA.jpg|persona-4-the-animation|Animation|2011|7.6
+Persona 4 The Golden Animation|https://image.tmdb.org/t/p/w500/bLXHhl520rvw4uIJXAfZW7KQZ5U.jpg|persona-4-the-golden-animation|Animation|2014|7.2
+Phantasy Star Online 2: The Animation|https://image.tmdb.org/t/p/w500/7iuugdna4tgVmMs0ljbmVY89HFx.jpg|phantasy-star-online-2-the-animation|Animation|2016|6.8
+Planet of the Beast King|https://image.tmdb.org/t/p/w500/KYbZeKkpWHPWl2oHC7NWHEOjNe.jpg|planet-of-the-beast-king|Animation|2006|5.6
+Pokémon|https://image.tmdb.org/t/p/w500/uoBwsiZNyOFDBh9WdDhpxc2JERM.jpg|pokmon|Animation|1997|8.0
+Pokémon Horizons|https://image.tmdb.org/t/p/w500/fXbyZdZ5zsDQJ3foYS2zZpXOwjj.jpg|pokmon-horizons|Sci-Fi & Fantasy|2023|8.7
+Pom Poko||pom-poko|||
+Ponyo||ponyo|||
+Possibly the Greatest Alchemist of All Time|https://image.tmdb.org/t/p/w500/qfdzcGkQ0j1YEYBO7XZctlFz6FY.jpg|possibly-the-greatest-alchemist-of-all-time|Animation|2025|7.6
+Princess Mononoke||princess-mononoke|||
+Princess Sarah|https://image.tmdb.org/t/p/w500/48rGNrWqImPIAg2QAIdE3BvNKFM.jpg|princess-sarah|Sci-Fi & Fantasy|2007|8.0
+Professor Layton and the Eternal Diva||professor-layton-and-the-eternal-diva|||
+Qi Refining for 3000 Years|https://image.tmdb.org/t/p/w500/7cpHEzXivjhdKhHcgLqReYyOtZv.jpg|qi-refining-for-3000-years|Animation|2022|9.0
+Quality Assurance in Another World|https://image.tmdb.org/t/p/w500/am7dab5D46Pee5KH951qQrpXJy7.jpg|quality-assurance-in-another-world|Animation|2024|6.0
+Radiant|https://image.tmdb.org/t/p/w500/yPgjtFvf62BT6EbjGYPt9AwGP2.jpg|radiant|Action & Abenteuer|2018|7.2
+Rage of Bahamut: Genesis|https://image.tmdb.org/t/p/w500/oWjLPatirGO8AxizsTujUGGHjcu.jpg|rage-of-bahamut-genesis|Animation|2014|7.7
+Ragnarök The Animation|https://image.tmdb.org/t/p/w500/abB39KcMPQEIg7FA5IjYJsOqKVi.jpg|ragnark-the-animation|Animation|2004|7.4
+Ranking of Kings|https://image.tmdb.org/t/p/w500/zeFDxoc6PveMnLDfDPqVCK7WZEU.jpg|ranking-of-kings|Animation|2021|8.1
+Rave Master|https://image.tmdb.org/t/p/w500/zBu8G5vARl1i9omZ4AEXpXh9N14.jpg|rave-master|Animation|2024|8.0
+Re:Monster|https://image.tmdb.org/t/p/w500/hos9sChhPb8FWUJUGkDBlzgLdx1.jpg|remonster|Animation|2024|8.1
+Record of Grancrest War|https://image.tmdb.org/t/p/w500/vMFSrDf4H10aE4xuOFGh6O5ftg.jpg|record-of-grancrest-war|Animation|2018|8.2
+Record of Lodoss War OVA|https://image.tmdb.org/t/p/w500/z5HSnjHXQIyTy60vH1uALFNJbfT.jpg|record-of-lodoss-war-ova|Action & Abenteuer|1990|7.5
