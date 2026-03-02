@@ -47,6 +47,11 @@ LANG_NUMBER  = {"ger-dub": "1", "ger-sub": "2", "eng-sub": "3", "eng-dub": "4"}
 # Alle N Animes auf GitHub pushen (0 = nur am Ende)
 PUSH_INTERVAL = 50
 
+# Zeitlimit & Stream-Scraping
+START_TIME = time.time()
+MAX_RUNTIME_SECONDS = 160 * 60  # 2h40min
+SCRAPE_STREAMS = False  # Streams laufen nach ~10min ab - on-demand holen ist sinnvoller
+
 # ── Dependencies sicherstellen ──────────────────────────────
 def install_deps():
     import importlib
@@ -74,6 +79,8 @@ import json
 import re
 from bs4 import BeautifulSoup
 import httpx
+import time
+import random
 
 
 # ── Sprachspezifische Stream-URL ─────────────────────────────
@@ -262,7 +269,8 @@ async def fetch_streamkiste_movie_list(client: httpx.AsyncClient) -> list:
                                "content_id": slug, "genre": "", "year": "", "rating": ""})
         except Exception as e:
             print(f"  [!] Streamkiste Seite {page_num}: {e}")
-            break
+            await asyncio.sleep(5)
+            continue
     return movies
 
 
@@ -369,19 +377,16 @@ async def main():
                     if ep_line not in p["episode_lines"]:
                         p["episode_lines"].append(ep_line)
 
-                    stream = None
-                    if ep_urlpath:
+                    if SCRAPE_STREAMS and ep_urlpath:
                         stream = await get_stream_for_language(client, ep_urlpath, lang)
-
-                    if stream:
-                        s = f"{lid}|{stream}"
-                        if s not in p["stream_lines"]:
-                            p["stream_lines"].append(s)
-                        print(f"    [OK] {lang}: {stream[:55]}...")
-                    else:
-                        print(f"    [--] {lang}: nicht verfuegbar")
-
-                    await asyncio.sleep(0.3)
+                        if stream:
+                            s = f"{lid}|{stream}"
+                            if s not in p["stream_lines"]:
+                                p["stream_lines"].append(s)
+                            print(f"    [OK] {lang}: {stream[:55]}...")
+                        else:
+                            print(f"    [--] {lang}: nicht verfuegbar")
+                        await asyncio.sleep(0.3)
 
             p["done_slugs"].append(cid)
             done.add(cid)
@@ -389,6 +394,12 @@ async def main():
 
             save_progress(p)
             write_db_files(p)
+
+            if time.time() - START_TIME > MAX_RUNTIME_SECONDS:
+                print(f"[!] Zeitlimit - beende sicher nach {len(done)} Animes...")
+                write_db_files(p)
+                git_push(f"Zeitlimit-Update: {len(done)} Animes verarbeitet")
+                return
 
             if PUSH_INTERVAL > 0 and pushed_count >= PUSH_INTERVAL:
                 git_push(f"Update: {len(done)} Animes verarbeitet")
@@ -425,17 +436,20 @@ async def main():
                 if entry not in p["movie_lines"]:
                     p["movie_lines"].append(entry)
                 if mc not in done_movies:
-                    stream = await get_streamkiste_stream(mclient, mc)
-                    if stream:
-                        s = f"{mc}|{stream}"
-                        if s not in p["stream_lines"]:
-                            p["stream_lines"].append(s)
-                        print(f"  [{mi+1}/{len(movies)}] [OK] {mc}: {stream[:55]}...")
+                    if SCRAPE_STREAMS:
+                        stream = await get_streamkiste_stream(mclient, mc)
+                        if stream:
+                            s = f"{mc}|{stream}"
+                            if s not in p["stream_lines"]:
+                                p["stream_lines"].append(s)
+                            print(f"  [{mi+1}/{len(movies)}] [OK] {mc}: {stream[:55]}...")
+                        else:
+                            print(f"  [{mi+1}/{len(movies)}] [--] {mc}: kein Stream")
+                        await asyncio.sleep(0.3)
                     else:
-                        print(f"  [{mi+1}/{len(movies)}] [--] {mc}: kein Stream")
+                        print(f"  [{mi+1}/{len(movies)}] {mc}")
                     done_movies.add(mc)
                     p["done_movie_slugs"] = list(done_movies)
-                    await asyncio.sleep(0.3)
         print(f"    -> {len(p['movie_lines'])} Filme eingetragen")
     except Exception as e:
         print(f"  [!] Filme: {e}")
