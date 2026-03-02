@@ -1548,3 +1548,53 @@ Shiki|https://image.tmdb.org/t/p/w500/haxobwMfwQLaz1tgh0Ngp58kmRW.jpg|shiki|Anim
 The Empire of Corpses||the-empire-of-corpses|||
 The Island of Giant Insects||the-island-of-giant-insects|||
 The Promised Neverland|https://image.tmdb.org/t/p/w500/uK7SjvMpjYMb5PVTSHQNcqAhcap.jpg|the-promised-neverland|Animation|2019|8.3
+Tokko|https://image.tmdb.org/t/p/w500/8Ws4iReO1k1NDXMhKhQtdaDFvKR.jpg|tokko|Animation|2006|5.8
+Tokyo Ghoul|https://image.tmdb.org/t/p/w500/5XBk7T4NsGeN9RG39y2nU6gRWQl.jpg|tokyo-ghoul|Animation|2014|8.3
+Umineko - When They Cry|https://image.tmdb.org/t/p/w500/7O18EeX6mRYCW2xFHbxHgGzVQDb.jpg|umineko-when-they-cry|Animation|2009|7.0
+Uzumaki|https://image.tmdb.org/t/p/w500/vgSDW8ZNkQ072yBtHydVAUWSHm9.jpg|uzumaki|Animation|2024|7.0
+When They Cry|https://image.tmdb.org/t/p/w500/7O18EeX6mRYCW2xFHbxHgGzVQDb.jpg|when-they-cry|Animation|2009|7.0
+'Tis Time for "Torture," Princess|https://image.tmdb.org/t/p/w500/k85CRo3kUuRavFPZX1VuUUvQaaD.jpg|tis-time-for-torture-princess|Animation|2024|6.9
+16bit Sensation: ANOTHER LAYER|https://image.tmdb.org/t/p/w500/qqQHa3GCe4tSq3m9AqMaLXDVmEI.jpg|16bit-sensation-another-layer|Animation|2023|6.1
+4 Cut Hero|https://image.tmdb.org/t/p/w500/hkNZwSpscq9AdKMYGpWp0sF359l.jpg|4-cut-hero|Animation|2023|6.8
+A Centaur's Life|https://image.tmdb.org/t/p/w500/wmyH7pdCo1RAqlD1rXwmFH9x8OO.jpg|a-centaurs-life|Animation|2017|6.8
+A Destructive God Sits Next to Me|https://image.tmdb.org/t/p/w500/aXKWOTs2nBst2crCz3cX31JCeAo.jpg|a-destructive-god-sits-next-to-me|Animation|2020|7.2
+A Herbivorous Dragon of 5,000 Years Gets Unfairly Villainized|https://image.tmdb.org/t/p/w500/mlLyGEXCHBEqTfsMlAennR7pqVq.jpg|a-herbivorous-dragon-of-5000-years-gets-unfairly-villainized|Animation|2022|6.4
+A Ninja and an Assassin Under One Roof|https://image.tmdb.org/t/p/w500/dk23TT4JXGwPVZAZ1AT7iNYmcOE.jpg|a-ninja-and-an-assassin-under-one-roof|Animation|2025|6.9
+A Salad Bowl of Eccentrics|https://image.tmdb.org/t/p/w500/syqUYWnOIDMzrplUQpcg4dpCxF3.jpg|a-salad-bowl-of-eccentrics|Animation|2024|6.5
+A Terrified Teacher at Ghoul School!|https://image.tmdb.org/t/p/w500/cVKdSKAXsZezOlonygXETvP0rMl.jpg|a-terrified-teacher-at-ghoul-school|Animation|2024|7.5
+Abciee Working Diary|https://image.tmdb.org/t/p/w500/2UiirQKyNqpwh14dJ8PpJABhaH8.jpg|abciee-working-diary|Animation|2021|5.0
+Africa Salaryman|https://image.tmdb.org/t/p/w500/jQNVUTwmhU5IJnPMEN8HjREAW0J.jpg|africa-salaryman|Animation|2019|6.0
+After School Dice Club|https://image.tmdb.org/t/p/w500/tjDK0EVWoPhxZGOhk66eOlV6Hzl.jpg|after-school-dice-club|Animation|2019|6.3
+After-school Hanako-kun|https://image.tmdb.org/t/p/w500/z2HTuCdpRObzpR1oLRqodKrsEXh.jpg|after-school-hanako-kun|Animation|2023|8.0
+Aggretsuko|https://image.tmdb.org/t/p/w500/aVcbyBT1hvgFRi6HS2VkjydkjCO.jpg|aggretsuko|Animation|2018|7.4
+Aho-Girl|https://image.tmdb.org/t/p/w500/qqRrnCiwgN1zKHZKmaU6mvCYtww.jpg|aho-girl|Komoedie|2017|7.8
+Aiura|https://image.tmdb.org/t/p/w500/7jghz8BJVYNbrMeQPRGicgiPZvn.jpg|aiura|Animation|2013|6.6
+All Saints Street|https://image.tmdb.org/t/p/w500/1BaTP3cWQdnla6IhFWCuFEw7svo.jpg|all-saints-street|Animation|2020|7.2
+Alma-chan Wants to Be a Family!|https://image.tmdb.org/t/p/w500/gAYCa3b1nHkxb0FTtPRHkYmg6Ol.jpg|alma-chan-wants-to-have-a-family|Animation|2025|7.1
+Amagi Brilliant Park|https://image.tmdb.org/t/p/w500/menCOx2SGRg3cHAfEHOeJIXG9RL.jpg|amagi-brilliant-park|Animation|2014|7.2
+Amazing Stranger|https://image.tmdb.org/t/p/w500/pPxakEs1TP6JhclPceGxHBoE8Ey.jpg|amazing-stranger|Animation|2019|6.7
+And You Thought There Is Never a Girl Online?|https://image.tmdb.org/t/p/w500/l12unnbaLLnm4bHpNRZ3K0EkTVt.jpg|and-you-thought-there-is-never-a-girl-online|Animation|2016|6.7
+Ane Log: Big Sister Moyako’s Never-ending Monologue||ane-log-big-sister-moyakos-never-ending-monologue|||
+Angel Legend|https://image.tmdb.org/t/p/w500/jQXIbP4VEGQbvJ3mLcv94GIcfeD.jpg|angel-legend|Animation|1996|6.5
+Anima Yell!|https://image.tmdb.org/t/p/w500/qBo1kthm1A4YMkzNmIo7Pq3LVcE.jpg|anima-yell|Animation|2018|6.9
+Arakawa Under the Bridge|https://image.tmdb.org/t/p/w500/xNxYeosP9jlO9RpHmEgvM3w8kml.jpg|arakawa-under-the-bridge|Animation|2010|6.4
+Armor Shop for Ladies & Gentlemen|https://image.tmdb.org/t/p/w500/ryMkIrCbXgIxOl4tBfCMQsHI131.jpg|armor-shop-for-ladies-gentlemen|Animation|2018|6.5
+As Miss Beelzebub Likes It|https://image.tmdb.org/t/p/w500/3KJAPXJOYKdtyq040PuSBe9008B.jpg|as-miss-beelzebub-likes-it|Animation|2018|6.5
+Asteroid in Love|https://image.tmdb.org/t/p/w500/35LuxsAMMPqXUWmS418CtiqFPXl.jpg|asteroid-in-love|Animation|2020|6.5
+Attack on Titan: Junior High|https://image.tmdb.org/t/p/w500/vV9KYoYrnKfFHiYDVCmPyOUSNlM.jpg|attack-on-titan-junior-high|Animation|2015|7.8
+Azur Lane - Slow Ahead!|https://image.tmdb.org/t/p/w500/3PkcQPUztJIldbU19o86P5fTCgh.jpg|azur-lane-slow-ahead|Animation|2021|5.7
+Baby Princess 3D Paradise 0||baby-princess-3d-paradise-0|||
+Back Street Girls: Gokudols|https://image.tmdb.org/t/p/w500/kEdDC69YO2Jdau9prfYmJIFFJJ9.jpg|back-street-girls-gokudols|Komoedie|2018|6.1
+Bad Girl|https://image.tmdb.org/t/p/w500/ovE3txsuLdvpIPWpG4WodlkWXGi.jpg|bad-girl|Animation|2025|6.0
+Bagel Girl|https://image.tmdb.org/t/p/w500/drPIJqMh8SNkkJJi9gIpU3AS1p5.jpg|bagel-girl|Drama|2019|6.0
+Bakuon!!|https://image.tmdb.org/t/p/w500/4rcmdpZNN7lVKC1YBJR6F4HvuQp.jpg|bakuon|Animation|2016|5.9
+Bananya|https://image.tmdb.org/t/p/w500/f49Ps67aCayBAYnt8YJy2gkqjlq.jpg|bananya|Animation|2016|6.5
+Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside|https://image.tmdb.org/t/p/w500/mgYMsOsFrQ9Q5NjlQwKRWu0K3uM.jpg|banished-from-the-heros-party-i-decided-to-live-a-quiet-life-in-the-countryside|Animation|2021|7.1
+Barakamon|https://image.tmdb.org/t/p/w500/6V0Ko7e1KWoW9v82t6acQ04iMrZ.jpg|barakamon|Animation|2014|8.1
+Battle Athletes Victory Restart|https://image.tmdb.org/t/p/w500/tBiNZ4WXiN0AiaovmKLaYhtL40f.jpg|battle-athletes-victory-restart|Animation|2021|1.5
+Ben-To|https://image.tmdb.org/t/p/w500/e9xpu2aYuAbqLuVykBQ4yagV4dj.jpg|ben-to|Komoedie|2011|8.1
+Blend-S|https://image.tmdb.org/t/p/w500/slrd0u0lHoQlTTpy7U0A62iWGxB.jpg|blend-s|Animation|2017|8.3
+Bocchi the Rock!|https://image.tmdb.org/t/p/w500/se9xLGHlSqQwVgEzLw326CJjaRm.jpg|bocchi-the-rock|Animation|2022|8.3
+BUCCHIGIRI?!|https://image.tmdb.org/t/p/w500/6WNDshG1wTRyqzDxw6HijqqBiWk.jpg|bucchigiri|Animation|2024|7.5
+Bungo Stray Dogs Wan!|https://image.tmdb.org/t/p/w500/viry4F1iQ7Jrnggy09Tb3jVrKOM.jpg|bungo-stray-dogs-wan|Animation|2021|7.1
+Cells at Work!|https://image.tmdb.org/t/p/w500/6fQ8KyHVPJ94fuZMmwJCDVdBwss.jpg|cells-at-work|Animation|2018|8.1
