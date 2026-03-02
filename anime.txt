@@ -98,3 +98,53 @@ Golden Kamuy|https://image.tmdb.org/t/p/w500/rVRpYvsyPgUUsuK0kQbya67ROPZ.jpg|gol
 Good Bye, Dragon Life|https://image.tmdb.org/t/p/w500/n15iwXmYASiAEWUvkfoVKEIoqWq.jpg|good-bye-dragon-life|Animation|2024|7.5
 Goodbye, Don Glees!||goodbye-don-glees|||
 Granblue Fantasy: The Animation|https://image.tmdb.org/t/p/w500/405yUDIn3rRy5U4UkcS8gv1UozF.jpg|granblue-fantasy-the-animation|Action & Abenteuer|2017|6.4
+Grimms Notes: The Animation|https://image.tmdb.org/t/p/w500/w5h8qCUmgmBGvFHQGk8cgPBohar.jpg|grimms-notes-the-animation|Animation|2019|7.8
+Grimoire of Zero|https://image.tmdb.org/t/p/w500/gacVbdDHrt49bNaMyfNrLzlrU6s.jpg|grimoire-of-zero|Animation|2017|6.7
+Guardian of the Spirit|https://image.tmdb.org/t/p/w500/5rApyG3XDiVn7CkyrAdKk2gpzEO.jpg|guardian-of-the-spirit|Animation|2007|7.8
+Handyman Saitou in Another World|https://image.tmdb.org/t/p/w500/xgrzW23N85tX4alKwuVBrsu0Ppl.jpg|handyman-saitou-in-another-world|Animation|2023|7.0
+Headhunted to Another World: From Salaryman to Big Four!|https://image.tmdb.org/t/p/w500/ruNn68lcGc7z6rqGelM0uMswZ3e.jpg|headhunted-to-another-world-from-salaryman-to-big-four|Animation|2025|6.0
+Heaven Official's Blessing|https://image.tmdb.org/t/p/w500/5PCuHBbni6aEdJxTc5RlAuhVC7B.jpg|heaven-officials-blessing|Animation|2020|8.1
+Heavenly Delusion|https://image.tmdb.org/t/p/w500/kstoMA74FLD1rWV3PwJuIgMlvAl.jpg|heavenly-delusion|Animation|2023|7.9
+Heroic Age|https://image.tmdb.org/t/p/w500/spLNGpN1FUNxUdrxcVjkOQ5oGHs.jpg|heroic-age|Animation|2007|7.5
+High School Prodigies Have It Easy Even In Another World!|https://image.tmdb.org/t/p/w500/ceUlN5txWMJ7cii3Rg5Ga2eveiF.jpg|choujin-koukousei-tachi-wa-isekai-de-mo-yoyuu-de-ikinuku-you-desu|Animation|2019|6.1
+Hortensia Saga|https://image.tmdb.org/t/p/w500/yVdwXFbY4JUUphYBvcS3WNgG303.jpg|hortensia-saga|Animation|2021|5.4
+How a Realist Hero Rebuilt the Kingdom|https://image.tmdb.org/t/p/w500/wwDOOqpgTJT9Sj4y57JgRfA3vio.jpg|how-a-realist-hero-rebuilt-the-kingdom|Animation|2021|7.7
+How Not to Summon a Demon Lord|https://image.tmdb.org/t/p/w500/aU5hzy2jximD87WvBrVOzUBxAUH.jpg|how-not-to-summon-a-demon-lord|Action & Abenteuer|2018|7.9
+Howl's Moving Castle||howls-moving-castle|||
+I Left My A-Rank Party to Help My Former Students Reach the Dungeon Depths!|https://image.tmdb.org/t/p/w500/aGNAhNVdzvhawzJHXgCF5UiWxiE.jpg|i-left-my-a-rank-party-to-help-my-former-students-reach-the-dungeon-depths|Animation|2025|6.5
+I Parry Everything: What Do You Mean I’m the Strongest? I’m Not Even an Adventurer Yet!|https://image.tmdb.org/t/p/w500/gS9QZFCdgRt9tJLpTTGrx0W55Te.jpg|i-parry-everything-what-do-you-mean-im-the-strongest-im-not-even-an-adventurer-yet|Action & Abenteuer|2024|7.9
+I’m a Noble on the Brink of Ruin, So I Might as Well Try Mastering Magic|https://image.tmdb.org/t/p/w500/5Yyj26jRQUTIFF5p5KsN2qFdQw8.jpg|im-a-noble-on-the-brink-of-ruin-so-i-might-as-well-try-mastering-magic|Animation|2025|6.8
+I've Somehow Gotten Stronger When I Improved My Farm-Related Skills|https://image.tmdb.org/t/p/w500/mMytXFRCkC6Z2c9tyKb4LHW561Y.jpg|ive-somehow-gotten-stronger-when-i-improved-my-farm-related-skills|Animation|2022|6.6
+If It's for My Daughter, I'd Even Defeat a Demon Lord|https://image.tmdb.org/t/p/w500/vtpPJuEhoAdDuaHbOIFRfvWWJ3n.jpg|if-its-for-my-daughter-id-even-defeat-a-demon-lord|Animation|2019|7.3
+In Another World With My Smartphone|https://image.tmdb.org/t/p/w500/ym8ZsooSc81T5ZDF16HuzSG3UlC.jpg|in-another-world-with-my-smartphone|Animation|2017|7.3
+In the Land of Leadale|https://image.tmdb.org/t/p/w500/hIrHm8blexgdIFq4LUYuN3ZSc9T.jpg|in-the-land-of-leadale|Animation|2022|7.2
+Infinite Dendrogram|https://image.tmdb.org/t/p/w500/gIhhZsNwP9eVINc7WNOYmBo2Q4P.jpg|infinite-dendrogram|Animation|2020|6.5
+Isekai Cheat Magician|https://image.tmdb.org/t/p/w500/7mhQDoelta3Gavm3FgMYVCkw1C1.jpg|isekai-cheat-magician|Animation|2019|6.2
+Karneval|https://image.tmdb.org/t/p/w500/ae2EWiX9FnkAnAFRz7txRRJ9SQm.jpg|karneval|Animation|2013|7.2
+Katanagatari|https://image.tmdb.org/t/p/w500/4AJZPi8RUIoWq3Wjmha35ElhFFh.jpg|katanagatari|Animation|2010|7.2
+Kino’s Journey: The Beautiful World - The Animated Series|https://image.tmdb.org/t/p/w500/cM5MWMLQsUZywgniaHKw1ojnEpo.jpg|kinos-journey-the-beautiful-world-the-animated-series|Drama|2017|7.3
+Kino's Journey|https://image.tmdb.org/t/p/w500/urwmH3xBtACPPvv4RNJZnQo7WWv.jpg|kinos-journey|Animation|2003|7.8
+Kirby - Right Back At Ya!|https://image.tmdb.org/t/p/w500/sauBMU7ruhpHL3bobEz1nlniaCg.jpg|kirby-right-back-at-ya|Animation|2001|6.7
+KonoSuba: God’s blessing on this wonderful world!|https://image.tmdb.org/t/p/w500/eQPEaAKXgT72FJWi1IlAHqSFMTE.jpg|konosuba-gods-blessing-on-this-wonderful-world|Action & Abenteuer|2016|8.6
+Kuma Kuma Kuma Bear|https://image.tmdb.org/t/p/w500/2CN43d4PfuG4Kh30GuQNJKThKTF.jpg|kuma-kuma-kuma-bear|Animation|2020|7.2
+Kuramerukagari||kuramerukagari|||
+Kurayukaba||kurayukaba|||
+Kyo Kara Maoh!|https://image.tmdb.org/t/p/w500/6juaSJrppiJXTObiNASln8MD5n3.jpg|kyo-kara-maoh|Animation|2004|6.9
+Laputa: Castle in the Sky||laputa-castle-in-the-sky|||
+Last Exile|https://image.tmdb.org/t/p/w500/oTqVM0UyahDw6XZ7m2aTNuhjt8Y.jpg|last-exile|Animation|2003|7.2
+Legend of Mana: The Teardrop Crystal|https://image.tmdb.org/t/p/w500/au32F8uWsO57yQ2oY2qWSMGqGZx.jpg|legend-of-mana-the-teardrop-crystal|Animation|2022|4.7
+Let This Grieving Soul Retire|https://image.tmdb.org/t/p/w500/lQRskaix2xnMRx5MrnqQ4iLVN3E.jpg|let-this-grieving-soul-retire|Animation|2024|6.8
+Log Horizon|https://image.tmdb.org/t/p/w500/2LRsQWNzNSbHXFODidFBxIDQovv.jpg|log-horizon|Animation|2013|7.7
+Loner Life in Another World|https://image.tmdb.org/t/p/w500/nwRPRg2J8pQyUNnJFg4QIZiW3oX.jpg|loner-life-in-another-world|Animation|2024|7.2
+Lupin the Third: The Woman Called Fujiko Mine|https://image.tmdb.org/t/p/w500/vtv1dInLmwkw4kwnNjl8imGcbLq.jpg|lupin-the-third-the-woman-called-fujiko-mine|Action & Abenteuer|2012|7.1
+Made in Abyss|https://image.tmdb.org/t/p/w500/4Bh9qzB1Kau4RDaVQXVFdoJ0HcE.jpg|made-in-abyss|Animation|2017|8.3
+Magi: Adventure of Sinbad|https://image.tmdb.org/t/p/w500/q7tHrdg6uce558nzYb3FEV4DQWM.jpg|magi-adventure-of-sinbad|Animation|2016|8.1
+Magi: The Labyrinth of Magic|https://image.tmdb.org/t/p/w500/4pXn9a3srp6wCuEei7Z2nvYjAC4.jpg|magi-the-labyrinth-of-magic|Animation|2012|8.3
+Magic Knight Rayearth|https://image.tmdb.org/t/p/w500/xHponEu74lB5nDbELzAGHBqSN6N.jpg|magic-knight-rayearth|Animation|1994|8.4
+Maoyu|https://image.tmdb.org/t/p/w500/nrYpyvYhfOD4DT58BvYGIhP4Ezv.jpg|maoyu|Animation|2013|7.6
+Maria the Virgin Witch|https://image.tmdb.org/t/p/w500/rL8Z1Ztgma52J8B2FraCvcwrXh5.jpg|maria-the-virgin-witch|Animation|2015|5.6
+Mary and the Witch's Flower||mary-and-the-witchs-flower|||
+Meiji Tokyo Renka|https://image.tmdb.org/t/p/w500/3ed1aZ0CQHuPFkkazOl6Op7W9qK.jpg|meiji-tokyo-renka|Animation|2019|6.7
+Michiko & Hatchin|https://image.tmdb.org/t/p/w500/xvLPv3Wu75OOfK1bLj678jOc6z1.jpg|michiko-hatchin|Animation|2008|6.8
+Million Arthur|https://image.tmdb.org/t/p/w500/lMSVJuKclEHtR7nKTK9t5eHoFAG.jpg|million-arthur|Action & Abenteuer|2018|6.1
+Monster But Wild|https://image.tmdb.org/t/p/w500/e4SLnzWxyyiMgYkKux3A61RMVu0.jpg|monster-but-wild|Animation|2023|4.8
