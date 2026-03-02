@@ -548,3 +548,53 @@ Peach Boy Riverside|https://image.tmdb.org/t/p/w500/g1yWyMBeYI15wxIxgX6OmwKLFPR.
 Persona5 the Animation|https://image.tmdb.org/t/p/w500/xgA8GwYzsIwAVAFRl5NapWNca4D.jpg|persona5-the-animation|Animation|2018|7.7
 Phantasy Star Online 2: Episode Oracle|https://image.tmdb.org/t/p/w500/4Hgg2whlaulJr3Mp98AXduYjnF7.jpg|phantasy-star-online-2-episode-oracle|Action & Abenteuer|2019|7.3
 Plunderer|https://image.tmdb.org/t/p/w500/cp1iGqNNy5JRhWbpP3qoANgz1gV.jpg|plunderer|Action & Abenteuer|2020|8.3
+Porco Rosso||porco-rosso|||
+Power of Hope ~Precure Full Bloom~|https://image.tmdb.org/t/p/w500/dAZJTYb8oNd2oUkY941rOZWbHlp.jpg|power-of-hope-precure-full-bloom|Animation|2023|7.6
+Pretty Cure|https://image.tmdb.org/t/p/w500/3K4iQs7LBOl6FBWCo4aWK0koYaR.jpg|pretty-cure|Animation|2004|7.8
+Pretty Cure 5 Yes|https://image.tmdb.org/t/p/w500/rIQzYFZ0cQkYjDT0N0qaWeAxDZE.jpg|pretty-cure-5-yes|Animation|2007|8.1
+Princess Principal|https://image.tmdb.org/t/p/w500/2dltGXHFepYw7vCMDFVWVt3crup.jpg|princess-principal|Animation|2017|7.3
+Problem Children are Coming from Another World, aren't they?|https://image.tmdb.org/t/p/w500/alYOk4VgMOlelCbyhfkUws35l5D.jpg|problem-children-are-coming-from-another-world-arent-they|Animation|2013|7.3
+Promare||promare|||
+Qualidea Code|https://image.tmdb.org/t/p/w500/yiGdGy5uHD7DaTjhdsWk21L04Py.jpg|qualidea-code|Action & Abenteuer|2016|5.3
+Quan Zhi Fa Shi|https://image.tmdb.org/t/p/w500/wirofBlPHzaENMu5RCxx9T2gNjB.jpg|quan-zhi-fa-shi|Komoedie|2016|7.3
+Ragna Crimson|https://image.tmdb.org/t/p/w500/dKfCiNed9kF2pRkVrTvaKIqkNej.jpg|ragna-crimson|Animation|2023|6.9
+Redline||redline|||
+Reign of the Seven Spellblades|https://image.tmdb.org/t/p/w500/zQ0NKS691LTwc6kBDdhmECsmBHl.jpg|reign-of-the-seven-spellblades|Action & Abenteuer|2023|6.6
+REVENGER|https://image.tmdb.org/t/p/w500/8crdrNPfiDOll3k03hyvOjyhHIN.jpg|revenger|Animation|2023|6.8
+Revisions|https://image.tmdb.org/t/p/w500/h3UAL7EqEXDTfvCFQfbAyujw2Vd.jpg|revisions|Animation|2019|7.2
+Rewrite|https://image.tmdb.org/t/p/w500/z0NUa1y1tjRP2K97d4g5f4wYNyi.jpg|rewrite|Drama|2019|8.0
+Rin - Daughters of Mnemosyne|https://image.tmdb.org/t/p/w500/5b8PKLQRSZTPa2nEGVx2LqGCvti.jpg|rin-daughters-of-mnemosyne|Animation|2008|6.6
+Rumble Garanndoll|https://image.tmdb.org/t/p/w500/vhAjlkMNe5bEafBNOYe6xO6un7t.jpg|rumble-garanndoll|Animation|2021|4.3
+Run for Money: The Great Mission|https://image.tmdb.org/t/p/w500/cOuLoouCKyjlXQNwvoIeZ5d5KdX.jpg|run-for-money-the-great-mission|Action & Abenteuer|2023|4.0
+Rusted Armors|https://image.tmdb.org/t/p/w500/sLS4zQgGoFdWqss9TrEfaYMGmkF.jpg|rusted-armors|Animation|2022|2.2
+Saber Rider and the Star Sheriffs|https://image.tmdb.org/t/p/w500/oJ5zHS6CR0ewf8Zpxj6D8VIwP3p.jpg|saber-rider-and-the-star-sheriffs|Animation|1987|8.1
+Sacred Seven|https://image.tmdb.org/t/p/w500/kTYUHmTcH5UdmBhOr9Ry85C9GUw.jpg|sacred-seven|Animation|2011|7.2
+Saga of Tanya the Evil|https://image.tmdb.org/t/p/w500/y0NcqaEx6Md4MPcDWHAr8e5CQfF.jpg|saga-of-tanya-the-evil|Animation|2017|8.2
+Saint Seiya: The Lost Canvas|https://image.tmdb.org/t/p/w500/it6bOHyvHaaWJQqB7QBbIrE3RUV.jpg|saint-seiya-the-lost-canvas|Animation|2009|8.3
+Sakura Wars TV|https://image.tmdb.org/t/p/w500/e89Ss4NkuAXWWDD00xh5HGYDG6Y.jpg|sakura-wars-tv|Action & Abenteuer|2000|6.2
+Sakura Wars: The Animation|https://image.tmdb.org/t/p/w500/gFMkIKUKWqQlbTgC7CqN6r8IZzM.jpg|sakura-wars-the-animation|Animation|2020|6.3
+Samurai Warriors|https://image.tmdb.org/t/p/w500/ny2Lg6afSKMEXbZSZ6Ghj1I84Bb.jpg|samurai-warriors|Animation|2015|6.5
+SAND LAND: THE SERIES|https://image.tmdb.org/t/p/w500/4oEibLDv93MA5yktfS7sWPuUy6x.jpg|sand-land-the-series|Animation|2024|8.1
+Scar on the Praeter|https://image.tmdb.org/t/p/w500/qyMM0PVhHNocADOGex4j2uyBQpL.jpg|scar-on-the-praeter|Animation|2021|3.3
+Scarlet Nexus|https://image.tmdb.org/t/p/w500/lMNT7ayoBldk3Jz42SK5I1G2gf7.jpg|scarlet-nexus|Animation|2021|7.3
+Scum of the Brave|https://image.tmdb.org/t/p/w500/zUdByBz1zWn4Prgw5nkVmgfFzfI.jpg|scum-of-the-brave|Animation|2026|8.0
+Scumbag System|https://image.tmdb.org/t/p/w500/zIU36PNvbsGcuGFVzxAFdPgtKR9.jpg|scumbag-system|Animation|2020|6.9
+SD Gundam World Heroes|https://image.tmdb.org/t/p/w500/7erAYO2Uj6aKYO3BkcESbGFEs4t.jpg|sd-gundam-world-heroes|Animation|2021|7.0
+Secrets of the Silent Witch|https://image.tmdb.org/t/p/w500/bPSb5zhnEAz9X5qupp33rqTn9EE.jpg|secrets-of-the-silent-witch|Animation|2025|8.0
+Sengoku Youko|https://image.tmdb.org/t/p/w500/lrDZp18LeTj6iJFcc01SAMB50xv.jpg|sengoku-youko|Animation|2024|6.9
+Seven Mortal Sins|https://image.tmdb.org/t/p/w500/aY7Q2MX5O60njeYV4DB0WrYj9ym.jpg|seven-mortal-sins|Animation|2017|6.9
+Shakugan no Shana|https://image.tmdb.org/t/p/w500/1V98igFU3su5VEXvcCNMd2JuLAD.jpg|shakugan-no-shana|Action & Abenteuer|2005|7.4
+Shangri-La|https://image.tmdb.org/t/p/w500/5CFYv4WYLZXizAyRwRhP0vZLNx.jpg|shangri-la|Animation|2023|8.1
+Shikizakura|https://image.tmdb.org/t/p/w500/fvSCetAl97hM2LZgtGuvUSDycD7.jpg|shikizakura|Animation|2021|5.6
+Shin Ikki Tousen|https://image.tmdb.org/t/p/w500/816zU3IELJlkmRqPt91uu9ty1Qf.jpg|shin-ikki-tousen|Animation|2022|5.7
+Shine On! Bakumatsu Bad Boys!|https://image.tmdb.org/t/p/w500/7Sd0zROVNR0HGrRurUaP9p5mnCx.jpg|shine-on-bakumatsu-bad-boys|Animation|2022|6.1
+Shinobi no Ittoki|https://image.tmdb.org/t/p/w500/xuqsm5RM9cJYloufbqxvPR4P3NX.jpg|shinobi-no-ittoki|Animation|2022|6.4
+SHY|https://image.tmdb.org/t/p/w500/uEkeOsy9d6jTPxHIhLXuc19qACF.jpg|shy|Animation|2023|6.1
+SI-VIS: The Sound of Heroes|https://image.tmdb.org/t/p/w500/fbssiB7q1Ek7pcG2W6AWi2UIJdk.jpg|si-vis-the-sound-of-heroes|Animation|2025|6.0
+SK8 the Infinity|https://image.tmdb.org/t/p/w500/xXSG9DwLefmmvyHyxpS8M2LJ0TU.jpg|sk8-the-infinity|Animation|2021|8.4
+Skeleton Knight in Another World|https://image.tmdb.org/t/p/w500/kztE76NfhDw1LFVyOHVp2a48czQ.jpg|skeleton-knight-in-another-world|Animation|2022|7.4
+Space Pirate Captain Harlock|https://image.tmdb.org/t/p/w500/jnNdw6qlZTGXGXOWedwfd7xX2hs.jpg|space-pirate-captain-harlock|Action & Abenteuer|1978|7.2
+Spare Me, Great Lord!|https://image.tmdb.org/t/p/w500/jO4DI02wo9hqimvELQGPa44T47Q.jpg|spare-me-great-lord|Animation|2021|7.6
+SSSS.Dynazenon|https://image.tmdb.org/t/p/w500/3YnOTIkMoQnzPcgIlLmCtRPyzlW.jpg|ssssdynazenon|Animation|2021|7.5
+SSSS.Gridman|https://image.tmdb.org/t/p/w500/mV3AOQptdjJDPhmnZN0rUBtutlt.jpg|ssssgridman|Animation|2018|7.2
+Star Driver|https://image.tmdb.org/t/p/w500/xqdgSLJwEdvO7T16zVfmqezYGDY.jpg|star-driver|Animation|2010|7.3
