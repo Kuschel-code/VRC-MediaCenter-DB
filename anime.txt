@@ -698,3 +698,53 @@ Beatless|https://image.tmdb.org/t/p/w500/2PtN9nZJYEXiklRe1T5DxwIKED9.jpg|beatles
 Berserk (1997)|https://image.tmdb.org/t/p/w500/9uoJ0PmfV72h3gc1xDJ7ghvuIIz.jpg|berserk-1997|Action & Abenteuer|1997|8.5
 Berserk (2016)|https://image.tmdb.org/t/p/w500/jptkb9j1A1qVIB7XDH7xSFrkFzD.jpg|berserk|Action & Abenteuer|2016|7.4
 Berserk of Gluttony|https://image.tmdb.org/t/p/w500/p5rtHwieByHo1NdzOxB3vtVJJnA.jpg|berserk-of-gluttony|Animation|2023|7.1
+Black Butler|https://image.tmdb.org/t/p/w500/tfjvfipG4FoKOeG3rpDuGWIvx4k.jpg|black-butler|Animation|2008|7.7
+Black Fox|https://image.tmdb.org/t/p/w500/vtil3nCEymiJ4ALsXxurh66BBgi.jpg|black-fox|Western|1995|4.0
+Blame!|https://image.tmdb.org/t/p/w500/tHpNtvBTVCrtnVUDXTP6SQXvUS9.jpg|blame|Animation|2003|5.7
+Blassreiter|https://image.tmdb.org/t/p/w500/9OONCbZKgbiAcBRQ7JuPEvuQUI.jpg|blassreiter|Animation|2008|5.6
+Blood+|https://image.tmdb.org/t/p/w500/7IVCA6xcEYT0OwsyyD5q5pvBnKK.jpg|blood|Animation|2005|8.1
+Blue Miburo|https://image.tmdb.org/t/p/w500/rADnozoUIkrJKBD1CMBPnOBWoqh.jpg|blue-miburo|Animation|2024|7.6
+Broken Blade|https://image.tmdb.org/t/p/w500/nNYgJLG64F6CjrFmsjldHaK33Ex.jpg|broken-blade|Animation|2014|7.5
+Brynhildr in the Darkness|https://image.tmdb.org/t/p/w500/sh8EfDdjR6y1tbICREFtwbtPyIA.jpg|brynhildr-in-the-darkness|Action & Abenteuer|2014|6.2
+Caligula|https://image.tmdb.org/t/p/w500/x9yTT1euc432Efre6X85BBJkxek.jpg|caligula|Animation|2018|7.1
+Casshern Sins|https://image.tmdb.org/t/p/w500/nbJNItndfJF05MbB7DG5qSznMlC.jpg|casshern-sins|Animation|2008|7.1
+Cells at Work! Code Black|https://image.tmdb.org/t/p/w500/hIMpq1emBtu9jne67rzPjlOF9YY.jpg|cells-at-work-code-black|Animation|2021|8.2
+Chainsaw Man|https://image.tmdb.org/t/p/w500/mIz0eKhzHuSPeRSePCyoCt9bKVp.jpg|chainsaw-man|Animation|2022|8.5
+Chrome Shelled Regios|https://image.tmdb.org/t/p/w500/plEeQh43tGHlIeeMvoIXbdtgFrv.jpg|chrome-shelled-regios|Animation|2009|5.7
+Clockwork Planet|https://image.tmdb.org/t/p/w500/nRCEVzfimYSZVvuRsu3T64nZiXi.jpg|clockwork-planet|Animation|2017|6.4
+Code Geass: Lelouch of the Rebellion|https://image.tmdb.org/t/p/w500/r2sbQjPgutBLyT2Jwoh2YY5ZYTo.jpg|code-geass-lelouch-of-the-rebellion|Animation|2006|8.3
+Code Geass: Rozé of the Recapture|https://image.tmdb.org/t/p/w500/irv0m1G1FfAwleE4wwo0a5a6amb.jpg|code-geass-roz-of-the-recapture|Animation|2024|8.1
+Cross Ange: Rondo of Angel and Dragon|https://image.tmdb.org/t/p/w500/36MBuIrZQnsizcgWbNVUacjFJFX.jpg|cross-ange-rondo-of-angel-and-dragon|Animation|2014|8.2
+Dance in the Vampire Bund|https://image.tmdb.org/t/p/w500/7Q3ZU0hyUCJTLm56Lhj6Zxwe0kb.jpg|dance-in-the-vampire-bund|Animation|2010|6.7
+Dances with the Dragons|https://image.tmdb.org/t/p/w500/pcUc2XUIV5uSEzeg989j9OL1uxX.jpg|dances-with-the-dragons|Animation|2018|6.9
+Darling in the Franxx|https://image.tmdb.org/t/p/w500/wwk3zyeXdyCx68oJ7ncjDkLNkU9.jpg|darling-in-the-franxx|Animation|2018|8.5
+Deca-Dence|https://image.tmdb.org/t/p/w500/i0XUehTP9Brtmb8YevpJYMNEWZT.jpg|deca-dence|Animation|2020|7.7
+Demon Slayer: Kimetsu no Yaiba|https://image.tmdb.org/t/p/w500/7Uj6vqmznWQ3w3hpQ1eIY9mMyMw.jpg|demon-slayer-kimetsu-no-yaiba|Animation|2019|8.6
+Divine Gate|https://image.tmdb.org/t/p/w500/vah04zVo4agZVLr9TJXZOlEz1J3.jpg|divine-gate|Action & Abenteuer|2016|5.5
+Dragon's Dogma|https://image.tmdb.org/t/p/w500/vj0alCBuOutq55ZhmlLwEkalZpR.jpg|dragons-dogma|Animation|2020|6.9
+Dragonaut: The Resonance|https://image.tmdb.org/t/p/w500/ecc22QKASVfzpsF3W6GkKtIAbnz.jpg|dragonaut-the-resonance|Action & Abenteuer|2007|7.7
+Elfen Lied|https://image.tmdb.org/t/p/w500/3UnmNPTDMOThd8Oi9L2pEXqfO0D.jpg|elfen-lied|Action & Abenteuer|2004|8.3
+Ergo Proxy|https://image.tmdb.org/t/p/w500/yJ3evB8M87a2uef9jM7gLFelYzQ.jpg|ergo-proxy|Animation|2006|7.6
+Eureka Seven|https://image.tmdb.org/t/p/w500/fbdM3vtY29PkipKrBb6NuTw7VDt.jpg|eureka-seven|Action & Abenteuer|2005|7.4
+Failure Frame: I Became the Strongest and Annihilated Everything With Low-Level Spells|https://image.tmdb.org/t/p/w500/9kGH4vpzZMSONC8db29Tj7HySr1.jpg|failure-frame-i-became-the-strongest-and-annihilated-everything-with-low-level-spells|Animation|2024|7.6
+Fairy Gone|https://image.tmdb.org/t/p/w500/fBL4U2Shyu4nfPQ30ieGfjyazlm.jpg|fairy-gone|Animation|2019|6.2
+Fate/Apocrypha|https://image.tmdb.org/t/p/w500/pCZbePoLGSPj6mKvqQqOCEGFpVc.jpg|fateapocrypha|Animation|2017|7.4
+Fate/EXTRA Last Encore|https://image.tmdb.org/t/p/w500/5qveZHKo8RatUbZDzgGG9QEj558.jpg|fateextra-last-encore|Animation|2018|7.3
+Fate/Grand Order Absolute Demonic Front: Babylonia|https://image.tmdb.org/t/p/w500/mxtX9hi6zCe5PQubdbtECeHPR7A.jpg|fategrand-order-absolute-demonic-front-babylonia|Animation|2019|7.9
+Fate/Grand Order: First Order||fategrand-order-first-order|||
+Fate/Stay Night|https://image.tmdb.org/t/p/w500/mLTo9o8q970F4fyvRUMVkTIYxBm.jpg|fatestay-night|Animation|2006|7.3
+Fate/stay night (Heaven's Feel) I. presage flower||fatestay-night-heavens-feel-i-presage-flower|||
+Fate/stay night (Heaven's Feel) II. lost butterfly||fatestay-night-heavens-feel-ii-lost-butterfly|||
+Fate/stay night (Heaven's Feel) III. spring song||fatestay-night-heavens-feel-iii-spring-song|||
+Fate/Stay Night: Unlimited Blade Works|https://image.tmdb.org/t/p/w500/jyqi5BkDoKKIA2WAoz3HBtRHld3.jpg|fatestay-night-unlimited-blade-works|Action & Abenteuer|2014|8.0
+Fate/Zero|https://image.tmdb.org/t/p/w500/hfTEDISVpFMqmp6uOGylsSakyXZ.jpg|fatezero|Action & Abenteuer|2011|8.0
+For Whom the Alchemist Exists||for-whom-the-alchemist-exists|||
+Ga-Rei-Zero|https://image.tmdb.org/t/p/w500/lxiGvDhWpzlsDBy4mkf1TUSAoED.jpg|ga-rei-zero|Action & Abenteuer|2008|6.7
+Garden of Sinners|https://image.tmdb.org/t/p/w500/fnDXXa40YaFcWQ4BhEoMMVgTDo6.jpg|garden-of-sinners|Animation|2013|7.0
+Ghost in the Shell: SAC_2045|https://image.tmdb.org/t/p/w500/8vfXWaTHkD9DHup0VD8gtHeE2wn.jpg|ghost-in-the-shell-sac_2045|Animation|2020|6.4
+Ghost in the Shell: Stand Alone Complex|https://image.tmdb.org/t/p/w500/izNAIQIT0zPMAPpC74n3xddwOBv.jpg|ghost-in-the-shell-stand-alone-complex|Animation|2002|8.2
+Grimgar of Fantasy and Ash|https://image.tmdb.org/t/p/w500/6g7UdorYr63BkdMnjWyuPDWcZb4.jpg|grimgar-of-fantasy-and-ash|Animation|2016|7.4
+Guilty Crown|https://image.tmdb.org/t/p/w500/x7O5mncnegqfEAp74mQfIhFbkMF.jpg|guilty-crown|Animation|2011|7.3
+Gungrave|https://image.tmdb.org/t/p/w500/42PVFTRjY6UCJKz3u6czzIrktrM.jpg|gungrave|Animation|2003|7.4
+Hakkenden: Eight Dogs of the East|https://image.tmdb.org/t/p/w500/2ilWmJ8k542E7HgLmofZXmCTQyj.jpg|hakkenden-eight-dogs-of-the-east|Animation|2013|7.4
+Hand Shakers|https://image.tmdb.org/t/p/w500/yOKIeM1JUOe6KD7eYk6woviI6D0.jpg|hand-shakers|Action & Abenteuer|2017|5.5
