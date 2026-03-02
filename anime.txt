@@ -398,3 +398,53 @@ Cyberpunk: Edgerunners|https://image.tmdb.org/t/p/w500/wTUVYRF8LcJj10fORuLI0ucCF
 D_Cide Traumerei the Animation|https://image.tmdb.org/t/p/w500/zog1H1WvjkjCNnanyoe2VDCqI1n.jpg|d_cide-traumerei-the-animation|Animation|2021|7.4
 D.N.Angel|https://image.tmdb.org/t/p/w500/bYHn9QTtCYbwtB4ZWUe2vfXRTLw.jpg|dnangel|Animation|2003|6.7
 DAN DA DAN|https://image.tmdb.org/t/p/w500/dse3OM0apuA6HZt4gznRMmUirM3.jpg|dan-da-dan|Animation|2024|8.6
+Dark Moon: The Blood Altar|https://image.tmdb.org/t/p/w500/qgy4z9HsdotSpVUy44ZMUt7J9tL.jpg|dark-moon-the-blood-altar|Animation|2026|8.5
+Darker than Black|https://image.tmdb.org/t/p/w500/34afXj0quZcmFmRhoH4BT82uVIT.jpg|darker-than-black|Animation|2007|7.6
+Darwin’s Game|https://image.tmdb.org/t/p/w500/g7stqGU4WYUXyRon46NoNlN3mAY.jpg|darwins-game|Animation|2020|7.6
+Date a Bullet||date-a-bullet|||
+Dead Account|https://image.tmdb.org/t/p/w500/3KxyECISY5arB72ADxUuY4DUwJL.jpg|dead-account|Animation|2026|6.7
+Dead Mount Death Play|https://image.tmdb.org/t/p/w500/rfpFibe2JIuFLGZ9WPTrNlAYQnA.jpg|dead-mount-death-play|Animation|2023|6.8
+Deadman Wonderland|https://image.tmdb.org/t/p/w500/sO4MXuqhFeXwpdsMQELxQ7C6Irn.jpg|deadman-wonderland|Action & Abenteuer|2011|7.5
+DEMON LORD 2099|https://image.tmdb.org/t/p/w500/mU7QgTm2WadwVoT7jDyMY9Czpsj.jpg|demon-lord-2099|Animation|2024|7.8
+Devil Hunter Yohko|https://image.tmdb.org/t/p/w500/4VvNwNe9rfpVZ9bbByLagejO7Xu.jpg|devil-hunter-yohko|Action & Abenteuer|1990|6.4
+Devil May Cry|https://image.tmdb.org/t/p/w500/tZaO0YddJtUl6G9SD12mbriz9u9.jpg|devil-may-cry|Animation|2007|7.6
+Devil May Cry (2025)||devil-may-cry-2025|||
+Devil Survivor 2 The Animation|https://image.tmdb.org/t/p/w500/yYErEL2GpFMGYHXS7kU1MCPqgJ4.jpg|devil-survivor-2-the-animation|Animation|2013|7.7
+Dies Irae|https://image.tmdb.org/t/p/w500/VV9z6sb2dM4IFiezBd7O3v7Mfg.jpg|dies-irae|Animation|2017|6.1
+Dimension W|https://image.tmdb.org/t/p/w500/ztTPoH9H3NFrd71qYgmAVJjnpvP.jpg|dimension-w|Animation|2016|6.7
+Disney Twisted-Wonderland: The Animation|https://image.tmdb.org/t/p/w500/v53AXYC0YhCpU7h2et0dYkt9IhT.jpg|disney-twisted-wonderland-the-animation|Animation|2025|8.0
+Dragon Raja: The Blazing Dawn|https://image.tmdb.org/t/p/w500/adI8lNn3isDONVblB9gFUvA4R8s.jpg|dragon-raja-the-blazing-dawn|Animation|2022|7.1
+Dragonball GT|https://image.tmdb.org/t/p/w500/kxXsfMR9lQr3Gem6aDFbvmyRyqd.jpg|dragonball-gt|Animation|1996|7.7
+DRAMAtical Murder|https://image.tmdb.org/t/p/w500/nfyRtIFiqaIRFhyzEPKgLGCJDXw.jpg|dramatical-murder|Animation|2014|6.3
+Dream Eater Merry|https://image.tmdb.org/t/p/w500/uqZ0VbMY0bdWxJgwva8ELhPaXZk.jpg|dream-eater-merry|Animation|2011|7.6
+Drifters|https://image.tmdb.org/t/p/w500/cc7HnXZhCoRahXCLCV9en2io1Mu.jpg|drifters|Komoedie|2013|7.1
+Drifting Dragons|https://image.tmdb.org/t/p/w500/pdSAcireZWWqj0l75WLzwojpjZe.jpg|drifting-dragons|Animation|2020|7.3
+Drowning Sorrows in Raging Fire|https://image.tmdb.org/t/p/w500/eK8nsllk5u5hBo2eVOr3MaUge3d.jpg|drowning-sorrows-in-raging-fire|Drama|2021|6.8
+Durarara!!|https://image.tmdb.org/t/p/w500/eV227ZkWjjKhp9xrmY1rr9S8Kwg.jpg|durarara|Action & Abenteuer|2010|7.7
+Estab Life: Great Escape|https://image.tmdb.org/t/p/w500/wRpMV2uEVBxFuZs92zZDaps1jDU.jpg|estab-life-great-escape|Animation|2022|5.6
+Ex-Arm|https://image.tmdb.org/t/p/w500/7Akq7rwVfLx6yrtKIvCA23MMOQv.jpg|ex-arm|Animation|2021|3.6
+Fairy Ranmaru|https://image.tmdb.org/t/p/w500/hBezq7a83SHmRcJCeB0pun06BQp.jpg|fairy-ranmaru|Animation|2021|4.2
+Farmagia|https://image.tmdb.org/t/p/w500/9b3WxClXnOud4JwHeWttX0sHOJV.jpg|farmagia|Animation|2025|7.2
+Fate/strange Fake|https://image.tmdb.org/t/p/w500/lBsBJIGYV7c1Yizva8LpZhghY4j.jpg|fatestrange-fake|Animation|2024|8.4
+Fight League: Gear Gadget Generators|https://image.tmdb.org/t/p/w500/6VKi7ZUKawEQLT5gcN52iA6MTnt.jpg|fight-league-gear-gadget-generators|Action & Abenteuer|2019|6.3
+Fire Force|https://image.tmdb.org/t/p/w500/qDNgM4STqdzl4IBMyqCVMIr6uUV.jpg|fire-force|Animation|2019|8.4
+Firefighter Daigo: Rescuer in Orange|https://image.tmdb.org/t/p/w500/cYJpxiCmEdbRhTxOffGdkduV9DK.jpg|firefighter-daigo-rescuer-in-orange|Animation|2023|5.7
+First Squad: The Moment of Truth||first-squad-the-moment-of-truth|||
+Fist of the North Star|https://image.tmdb.org/t/p/w500/43PXSqoAGADv33IwnBpY9xzC0rQ.jpg|fist-of-the-north-star|Action & Abenteuer|1984|8.1
+Fox Spirit Matchmaker|https://image.tmdb.org/t/p/w500/5Ud02XCc1zuyu3vm4zhnSYRGhdH.jpg|fox-spirit-matchmaker|Animation|2015|6.6
+Freezing|https://image.tmdb.org/t/p/w500/z2K1mgkczE6dVyZsIXcrJj3sZ05.jpg|freezing|Komoedie|2008|5.7
+Full Metal Panic!|https://image.tmdb.org/t/p/w500/yBKI75uzUbtkL2gmNxl39uv5jvm.jpg|full-metal-panic|Animation|2002|7.0
+Fuuto PI|https://image.tmdb.org/t/p/w500/41aC6J2oKla7YkIQ3fbj9VX1eUS.jpg|fuuto-pi|Animation|2022|7.3
+Gachiakuta|https://image.tmdb.org/t/p/w500/RxuL7KuFoOzHC0htjtLGxJEGGx.jpg|gachiakuta|Animation|2025|8.6
+Gangsta|https://image.tmdb.org/t/p/w500/ue7g8bHgJ0aBC86ZjSkYdOzpL3i.jpg|gangsta|Drama|2015|7.2
+Gantz|https://image.tmdb.org/t/p/w500/spyDQ1Cv8m4L8EaXS6iXSpbLWA.jpg|gantz|Animation|2004|7.3
+Garo - Vanishing Line|https://image.tmdb.org/t/p/w500/iYDN3B3p9GJ2DP0aZLtm271mJzF.jpg|garo-vanishing-line|Animation|2017|6.1
+Garo: The Animation|https://image.tmdb.org/t/p/w500/cl9x83myIZtDSqHPu4WMekKt7E0.jpg|garo-the-animation|Animation|2014|7.3
+Gate|https://image.tmdb.org/t/p/w500/6iysgZr6Upm5RlAlVFo5f4D9euu.jpg|gate|Animation|2011|8.4
+Ghost in the Shell: Arise|https://image.tmdb.org/t/p/w500/qCX5Jb1uaKrFVTfOnT265tdzvJT.jpg|ghost-in-the-shell-arise|Animation|2015|7.2
+Giant Beasts of Ars|https://image.tmdb.org/t/p/w500/5MyHJxDQQdzaV290BlXyzR2VN6p.jpg|giant-beast-of-ars|Animation|2023|5.9
+Gibiate|https://image.tmdb.org/t/p/w500/mfhTKkUfTuHpGcKAflyf25UdSs.jpg|gibiate|Animation|2020|7.0
+Girls' Frontline|https://image.tmdb.org/t/p/w500/c5GOXlm4kfRdK4w6XXwDGabW6A0.jpg|girls-frontline|Animation|2022|6.7
+Girly Air Force|https://image.tmdb.org/t/p/w500/hyvkoYUgfMu4PMvd4HaswbeHp6k.jpg|girly-air-force|Animation|2019|5.5
+Gleipnir|https://image.tmdb.org/t/p/w500/1hPI4AAM4hOMNV2ucOvsVg7LJsV.jpg|gleipnir|Animation|2020|8.1
+Go! Go! Loser Ranger!|https://image.tmdb.org/t/p/w500/4Rob4WUlT9RqybEPRTAeR0fijc0.jpg|go-go-loser-ranger|Animation|2024|7.1
