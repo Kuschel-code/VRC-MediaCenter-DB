@@ -1498,3 +1498,53 @@ Welcome to the Ballroom|https://image.tmdb.org/t/p/w500/y7gglCO7G2YlsgHyLDNv7dRa
 Wixoss Diva (A) Live|https://image.tmdb.org/t/p/w500/zGIDqyyLbTMNW5xqLyBo1EVADcM.jpg|wixoss-diva-a-live|Animation|2021|4.7
 YAIBA: Samurai Legend|https://image.tmdb.org/t/p/w500/1jltcsz17CkfyhpcsSlmVC6pQGh.jpg|yaiba-samurai-legend|Action & Abenteuer|2025|7.2
 Yakitate!! Japan|https://image.tmdb.org/t/p/w500/kSxoEjNOZt2YFGuTqBhZ7suuRiT.jpg|yakitate-japan|Animation|2004|7.2
+Yowamushi Pedal|https://image.tmdb.org/t/p/w500/iV1EtFWsdS8a1fSiF5ashiCISPg.jpg|yowamushi-pedal|Komoedie|2013|7.0
+Yu-Gi-Oh!|https://image.tmdb.org/t/p/w500/gzILSA68CddzQ2uMybfRznFKRNr.jpg|yu-gi-oh|Animation|2008|8.1
+Yu-Gi-Oh! 3D: Bonds Beyond Time||yu-gi-oh-3d-bonds-beyond-time|||
+Yu-Gi-Oh! 5D’s|https://image.tmdb.org/t/p/w500/gzILSA68CddzQ2uMybfRznFKRNr.jpg|yu-gi-oh-5ds|Animation|2008|8.1
+Yu-Gi-Oh! Arc-V|https://image.tmdb.org/t/p/w500/sJ0FEXMb4tcRW8kPIdLJUco5H6K.jpg|yu-gi-oh-arc-v|Action & Abenteuer|2014|7.2
+Yu-Gi-Oh! GX|https://image.tmdb.org/t/p/w500/veMmM3STfZo0IsexmtDZW9zB1RF.jpg|yu-gi-oh-gx|Animation|2004|7.9
+Yu-Gi-Oh! Vrains|https://image.tmdb.org/t/p/w500/f05J9joLN57YAKMlorFVtzlTOYN.jpg|yu-gi-oh-vrains|Sci-Fi & Fantasy|2017|7.0
+Yu-Gi-Oh! Zexal|https://image.tmdb.org/t/p/w500/uGOjTI1HQukcCU7wDCtQlnsBaG7.jpg|yu-gi-oh-zexal|Animation|2011|7.4
+Yuri!!! on Ice|https://image.tmdb.org/t/p/w500/aHhKj8FUVqPcwrNuOWpwSXwHBL1.jpg|yuri-on-ice|Animation|2016|8.5
+Ghost Stories|https://image.tmdb.org/t/p/w500/4HNyGCe5xg1lBa18szDx1qKWoCx.jpg|ghost-stories|Mystery|1997|6.9
+Mononoke|https://image.tmdb.org/t/p/w500/g2Hm6h1tQU0w0A1wH7gwB4tH7e7.jpg|mononoke|Animation|2007|7.9
+Muhyo & Roji's Bureau of Supernatural Investigation|https://image.tmdb.org/t/p/w500/oNVphTU8R8BF7jHHQPB0LGHSldG.jpg|muhyo-rojis-bureau-of-supernatural-investigation|Animation|2018|7.9
+My Neighbor Totoro||my-neighbor-totoro|||
+Spirited Away|https://image.tmdb.org/t/p/w500/8uajlTh0Gg2mTn3pu3KClBVzf5A.jpg|spirited-away||2024|
+The Morose Mononokean|https://image.tmdb.org/t/p/w500/tTQBrDWJHXFyOHn8ZcCbydknxRW.jpg|the-morose-mononokean|Animation|2016|7.4
+xxxHOLiC|https://image.tmdb.org/t/p/w500/k9HSk7qw3j7k6Yhuzhmr5SiglXR.jpg|xxxholic|Animation|2006|7.2
+Yamishibai: Japanese Ghost Stories|https://image.tmdb.org/t/p/w500/iYsJyfmQgaOXxr8Y72j8IB5EvFQ.jpg|yamishibai-japanese-ghost-stories|Animation|2013|7.4
+Necronomico and the Cosmic Horror Show|https://image.tmdb.org/t/p/w500/443pa7TaKbBM5VadgnAy4WHNZd7.jpg|necronomico-and-the-cosmic-horror-show|Animation|2025|6.3
+Spy Classroom|https://image.tmdb.org/t/p/w500/nxvPDNLSlhdZMGJ1W0Il4ixnH5w.jpg|spy-classroom|Animation|2023|6.3
+Another|https://image.tmdb.org/t/p/w500/6qGNb8onKau8LUAPdKSoRHpNc3s.jpg|another|Animation|2012|8.3
+BEM|https://image.tmdb.org/t/p/w500/fUd4ejJ1LkqaSaHItHwXE4HVrGy.jpg|bem|Action & Abenteuer|2019|6.4
+Boogiepop and Others|https://image.tmdb.org/t/p/w500/sNDK1G3wD0NTFkd3VwQVvpDg0GL.jpg|boogiepop-and-others|Animation|2019|7.1
+Boogiepop Phantom|https://image.tmdb.org/t/p/w500/rkJsGLs0LGMtvzy7SJgLhtGwLoM.jpg|boogiepop-phantom|Animation|2000|6.7
+Corpse Party - Tortured Souls|https://image.tmdb.org/t/p/w500/2g7s4sT5ybJENO5AMOlZ0dor4q.jpg|corpse-party-tortured-souls|Animation|2013|6.4
+Dark Gathering|https://image.tmdb.org/t/p/w500/lNAJ5Oftfqn9gx1mBWKXuXIgbLq.jpg|dark-gathering|Animation|2023|6.9
+Exception|https://image.tmdb.org/t/p/w500/5i6brHMAczSKnR1tvGIMkjz1wft.jpg|exception|Animation|2022|7.0
+Gegege no Kitarou (2018)|https://image.tmdb.org/t/p/w500/dw1Hp9v0OsdUiojIM7WE7jTKuCh.jpg|gegege-no-kitarou-2018|Komoedie|2018|7.1
+Ghost Hunt|https://image.tmdb.org/t/p/w500/brTGHRujy83fMOkcKcWrtAfa4wy.jpg|ghost-hunt|Animation|2006|8.0
+Gyo: Tokyo Fish Attack!||gyo-tokyo-fish-attack|||
+Hellsing|https://image.tmdb.org/t/p/w500/yMiyKDQ0B0XDstdR5A0xaUk3u3M.jpg|hellsing|Action & Abenteuer|2001|7.9
+Hellsing Ultimate|https://image.tmdb.org/t/p/w500/3wkL0A8WK6tyVFwa4fzQayXn3l5.jpg|hellsing-ultimate|Animation|2006|8.4
+Highschool of the Dead|https://image.tmdb.org/t/p/w500/bKRK0jDz9jccNcqus2LP5mIhA24.jpg|highschool-of-the-dead|Animation|2010|8.2
+Higurashi: When They Cry Gou|https://image.tmdb.org/t/p/w500/6zSPrZq7rCLO5TgMXVi7wKCya6R.jpg|higurashi-when-they-cry-gou|Animation|2020|7.4
+Junji Ito Collection|https://image.tmdb.org/t/p/w500/4tRv9ZSW4OqQG74NcGUjFPf1jtH.jpg|junji-ito-collection|Animation|2018|8.0
+Junji Ito Maniac: Japanese Tales of the Macabre|https://image.tmdb.org/t/p/w500/ukv8mhsMtAGjhFeZ0PLYynA80hX.jpg|junji-ito-maniac-japanese-tales-of-the-macabre|Animation|2023|7.0
+Kaya-chan Isn't Scary|https://image.tmdb.org/t/p/w500/jfWdGJ2HcaCMVRdOUBPd6ayYgz2.jpg|kaya-chan-isnt-scary|Animation|2026|7.9
+King of Thorn|https://image.tmdb.org/t/p/w500/gPCehIc8aQWIHTNTmnD1SzcfliD.jpg|king-of-thorn|Dokumentation||6.0
+King’s Game|https://image.tmdb.org/t/p/w500/4U623rLgz8a3gbBMMys6pUlvrin.jpg|kings-game|Animation|2017|7.4
+Lockdown Zone: Level X|https://image.tmdb.org/t/p/w500/1LTTYkxSPe3MgYvX70rJKedolaZ.jpg|lockdown-zone-level-x|Animation|2024|7.2
+Magical Girl Site|https://image.tmdb.org/t/p/w500/xqgFj6CaqDYsstg6BGSoiAuP8pR.jpg|magical-girl-site|Animation|2018|8.2
+Midori|https://image.tmdb.org/t/p/w500/fjVDKvG1kFmbvuPq19hpJUNgtKh.jpg|midori|Animation|2004|7.5
+Ninja Collection|https://image.tmdb.org/t/p/w500/6J5dDvCdWwFgGrjUpl8ZD9g9rPO.jpg|ninja-collection|Animation|2020|5.8
+Nyaight of the Living Cat|https://image.tmdb.org/t/p/w500/xaiHM6xiEAcjuBSww2rUZ3ZaQM.jpg|nyaight-of-the-living-cat|Animation|2025|7.8
+Paranoia Agent|https://image.tmdb.org/t/p/w500/gVsTX3EJIsq3fHx2xLDFEeWMYDe.jpg|paranoia-agent|Animation|2004|7.9
+Pupa|https://image.tmdb.org/t/p/w500/6p0dnZkr0QIz76rmoqAR8oHkPWs.jpg|pupa|Animation|2014|3.8
+School-Live!|https://image.tmdb.org/t/p/w500/41rIEifDCZDVr5WET8rroWWYgvU.jpg|school-live|Animation|2015|8.4
+Shiki|https://image.tmdb.org/t/p/w500/haxobwMfwQLaz1tgh0Ngp58kmRW.jpg|shiki|Animation|2022|7.8
+The Empire of Corpses||the-empire-of-corpses|||
+The Island of Giant Insects||the-island-of-giant-insects|||
+The Promised Neverland|https://image.tmdb.org/t/p/w500/uK7SjvMpjYMb5PVTSHQNcqAhcap.jpg|the-promised-neverland|Animation|2019|8.3
