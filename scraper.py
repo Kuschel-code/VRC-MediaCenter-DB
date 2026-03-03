@@ -13,23 +13,89 @@ import codecs
 import base64
 import logging
 import asyncio
+import random
 import httpx
 from bs4 import BeautifulSoup
+import sqlite3
+import json
+import time
 from cachetools import TTLCache
 from config import (
     ANIWORLD_BASE,
+    STO_BASE,
+    STREAMKISTE_BASE,
+    FILMPALAST_BASE,
     PREFERRED_HOSTERS,
     REQUEST_HEADERS,
     LIBRARY_CACHE_TTL,
     EPISODE_CACHE_TTL,
     STREAM_CACHE_TTL,
+    TMDB_API_KEY,
 )
 
 log = logging.getLogger("scraper")
 
+# ─── SQLite Cache ─────────────────────────────────────────
+DB_PATH = "cache.db"
+
+def init_db():
+    try:
+        with sqlite3.connect(DB_PATH) as conn:
+            conn.execute("""
+                CREATE TABLE IF NOT EXISTS cache (
+                    key TEXT PRIMARY KEY,
+                    value TEXT,
+                    expires REAL
+                )
+            """)
+    except Exception as e:
+        log.error(f"[Cache] Fehler bei Initialisierung: {e}")
+
+init_db()
+
+def get_cache(key: str):
+    try:
+        with sqlite3.connect(DB_PATH, timeout=10) as conn:
+            cur = conn.execute("SELECT value, expires FROM cache WHERE key = ?", (key,))
+            row = cur.fetchone()
+            if row:
+                value, expires = row
+                if expires > time.time():
+                    return json.loads(value)
+                else:
+                    conn.execute("DELETE FROM cache WHERE key = ?", (key,))
+    except Exception as e:
+        log.error(f"[Cache] Fehler beim Lesen: {e}")
+    return None
+
+def set_cache(key: str, value, ttl: int):
+    try:
+        with sqlite3.connect(DB_PATH, timeout=10) as conn:
+            conn.execute(
+                "INSERT OR REPLACE INTO cache (key, value, expires) VALUES (?, ?, ?)",
+                (key, json.dumps(value), time.time() + ttl)
+            )
+    except Exception as e:
+        log.error(f"[Cache] Fehler beim Schreiben: {e}")
+
 # SSL-Warnungen unterdrücken (manche Hoster haben ungültige Zertifikate)
 import urllib3
 urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+import warnings
+warnings.filterwarnings("ignore", message="Unverified HTTPS request")
+
+# DNS-Bypass# ── PATCH FÜR DNS-SPERREN (UMGEHUNG VON ISP-BLOCKS Z.B. CUII) ──
+import socket
+_orig_getaddrinfo = socket.getaddrinfo
+
+def _patched_getaddrinfo(host, port, family=0, type=0, proto=0, flags=0):
+    if host == "filmpalast.to":
+        return _orig_getaddrinfo("172.67.158.161", port, family, type, proto, flags)
+    elif host in ("serien.sx", "s.to", "serienstream.to"):
+        return _orig_getaddrinfo("186.2.163.237", port, family, type, proto, flags)
+    return _orig_getaddrinfo(host, port, family, type, proto, flags)
+
+socket.getaddrinfo = _patched_getaddrinfo
 
 # cloudscraper fuer Cloudflare-geschuetzte Seiten (Fallback)
 try:
@@ -48,9 +114,9 @@ _stream_cache = TTLCache(maxsize=512, ttl=STREAM_CACHE_TTL)
 def _client() -> httpx.AsyncClient:
     return httpx.AsyncClient(
         headers=REQUEST_HEADERS,
-        follow_redirects=True,
-        timeout=20.0,
+        timeout=httpx.Timeout(15.0, connect=5.0),
         verify=False,  # Manche Hoster haben ungültige Zertifikate
+        follow_redirects=True
     )
 
 
@@ -59,32 +125,133 @@ def _cloudscraper_get(url: str) -> str | None:
     if not _has_cloudscraper:
         return None
     try:
-        scraper = cloudscraper.create_scraper(browser={"browser": "chrome", "platform": "windows"})
-        resp = scraper.get(url, headers=REQUEST_HEADERS, timeout=20)
+        import ssl
+        ctx = ssl.create_default_context()
+        ctx.check_hostname = False
+        ctx.verify_mode = ssl.CERT_NONE
+        
+        scraper = cloudscraper.create_scraper(
+            browser={
+                'browser': 'chrome',
+                'platform': 'windows',
+                'desktop': True
+            },
+            ssl_context=ctx
+        )
+        resp = scraper.get(url, headers=REQUEST_HEADERS, timeout=20, verify=False)
         if resp.status_code == 200:
             return resp.text
         log.info(f"[Scraper] cloudscraper bekam Status {resp.status_code} fuer {url}")
+        
     except Exception as e:
         log.info(f"[Scraper] cloudscraper fehlgeschlagen fuer {url}: {e}")
+        
+    # Letztes Fallback: Nativer cURL über Subprocess (umgeht manche Python-spezifischen Firewalls)
+    log.info(f"[Scraper] Versuche nativen cURL Fallback fuer {url}...")
+    try:
+        import subprocess
+        result = subprocess.run([
+            "curl", "-s", "-L", "-k",
+            "-H", f"User-Agent: {REQUEST_HEADERS['User-Agent']}",
+            "-m", "15",
+            url
+        ], capture_output=True, text=True, check=True)
+        
+        if result.stdout and len(result.stdout) > 500:
+            log.info(f"[Scraper] cURL war erfolgreich fuer {url}")
+            return result.stdout
+    except Exception as curl_e:
+        log.info(f"[Scraper] Nativer cURL fehlgeschlagen: {curl_e}")
+        
     return None
 
 
-async def _fetch_page(client: httpx.AsyncClient, url: str) -> str | None:
-    """Holt eine Seite – erst mit httpx, bei 403/503 Fallback auf cloudscraper."""
-    try:
-        resp = await client.get(url)
-        if resp.status_code == 200:
-            return resp.text
-        if resp.status_code in (403, 503) and _has_cloudscraper:
-            log.info(f"[Scraper] {resp.status_code} von {url} – versuche cloudscraper...")
-            return await asyncio.to_thread(_cloudscraper_get, url)
-        log.info(f"[Scraper] HTTP {resp.status_code} fuer {url}")
-        return None
-    except httpx.HTTPError as e:
-        log.info(f"[Scraper] HTTP-Fehler fuer {url}: {e}")
-        if _has_cloudscraper:
-            return await asyncio.to_thread(_cloudscraper_get, url)
-        return None
+async def _fetch_page(client: httpx.AsyncClient, url: str, max_retries: int = 3) -> str | None:
+    """Holt eine Seite – nutzt für Filmpalast/Serienstream direkt cloudscraper, ansonsten httpx."""
+    if any(domain in url for domain in ["filmpalast.to", "s.to", "serienstream.to"]) and _has_cloudscraper:
+        log.info(f"[Scraper] Direkte Route via cloudscraper ({url})")
+        return await asyncio.to_thread(_cloudscraper_get, url)
+
+    for attempt in range(max_retries):
+        try:
+            resp = await client.get(url)
+
+            if resp.status_code == 429:
+                # Rate-Limit: Retry-After Header beachten, sonst exponential warten
+                wait = float(resp.headers.get("Retry-After", 30 * (attempt + 1)))
+                wait += random.uniform(1, 5)  # Jitter
+                log.info(f"[Scraper] Rate-Limit fuer {url} – warte {wait:.0f}s (Versuch {attempt+1}/{max_retries})")
+                await asyncio.sleep(wait)
+                continue
+
+            if resp.status_code in (403, 503) and _has_cloudscraper:
+                log.info(f"[Scraper] {resp.status_code} von {url} – versuche cloudscraper...")
+                result = await asyncio.to_thread(_cloudscraper_get, url)
+                if result:
+                    return result
+            
+            if resp.status_code == 200:
+                html = resp.text
+                if "cuii.info" in html or "urheberrechtlichen Gr" in html:
+                    log.warning(f"[Scraper] CUII Sperre! Nutze cloudscraper Fallback mit Socket Patch...")
+                    if _has_cloudscraper:
+                        return await asyncio.to_thread(_cloudscraper_get, url)
+                    return None
+                return html
+
+            log.info(f"[Scraper] HTTP {resp.status_code} fuer {url}")
+            # Bei Server-Fehlern (5xx) nochmal versuchen
+            if resp.status_code >= 500 and attempt < max_retries - 1:
+                await asyncio.sleep(10 * (attempt + 1) + random.uniform(0, 5))
+                continue
+            return None
+        except httpx.TimeoutException:
+            wait = 10 * (attempt + 1) + random.uniform(0, 5)
+            log.info(f"[Scraper] Timeout fuer {url} – retry {attempt+1}/{max_retries} in {wait:.0f}s")
+            await asyncio.sleep(wait)
+        except httpx.HTTPError as e:
+            log.info(f"[Scraper] HTTP-Fehler fuer {url}: {e}")
+            if _has_cloudscraper:
+                return await asyncio.to_thread(_cloudscraper_get, url)
+            return None
+    log.info(f"[Scraper] Alle {max_retries} Versuche fehlgeschlagen fuer {url}")
+    return None
+
+
+async def fetch_tmdb_metadata(title: str, content_type: str = "tv") -> dict:
+    """Holt Metadaten von TMDB (Beschreibung, Rating, Poster)."""
+    if not TMDB_API_KEY:
+        return {}
+
+    cache_key = f"tmdb_{title.lower()}_{content_type}"
+    cached = get_cache(cache_key)
+    if cached:
+        return cached
+
+    # Map content_type
+    tmdb_type = "tv" if content_type in ["anime", "series", "serien"] else "movie"
+    
+    url = f"https://api.themoviedb.org/3/search/{tmdb_type}?api_key={TMDB_API_KEY}&query={title}&language=de-DE"
+    
+    async with _client() as client:
+        try:
+            resp = await client.get(url)
+            if resp.status_code == 200:
+                data = resp.json()
+                if data.get("results"):
+                    best_match = data["results"][0]
+                    metadata = {
+                        "description": best_match.get("overview", ""),
+                        "rating": str(best_match.get("vote_average", "")),
+                        "poster": f"https://image.tmdb.org/t/p/w500{best_match.get('poster_path')}" if best_match.get("poster_path") else "",
+                        "year": best_match.get("release_date", best_match.get("first_air_date", ""))[:4]
+                    }
+                    set_cache(cache_key, metadata, 86400 * 7) # Cache 1 week
+                    return metadata
+        except Exception as e:
+            log.error(f"[TMDB] Fehler: {e}")
+    
+    return {}
 
 
 # ═══════════════════════════════════════════════════════
@@ -92,37 +259,85 @@ async def _fetch_page(client: httpx.AsyncClient, url: str) -> str | None:
 # ═══════════════════════════════════════════════════════
 
 async def fetch_library(content_type: str) -> list[dict]:
-    """
-    Holt die Inhaltsliste von AniWorld.
-    content_type: "anime" | "movies" | "series"
-
-    AniWorld Seiten-Struktur (Stand 2026):
-      /animes → Listet alle Anime
-      Jeder Eintrag ist ein <a> in <div class="genre"> mit:
-        - href="/anime/stream/<slug>"
-        - text = Titel
-        - data-alternative-title = alternative Titel (komma-separiert)
-
-    Returns: Liste von {title, thumb, content_id, genre, year, rating, url_path}
-    """
     cache_key = f"library_{content_type}"
-    if cache_key in _library_cache:
-        return _library_cache[cache_key]
+    cached = get_cache(cache_key)
+    if cached:
+        return cached
 
-    # AniWorld-Pfade
+    # AniWorld-Pfade / Filmpalast
+    is_filmpalast = content_type.lower() in ("movies", "filme")
     type_map = {
-        "anime": "/animes",
-        "filme": "/filme",
-        "movies": "/filme",
-        "serien": "/serien",
-        "series": "/serien",
+        "anime":   (ANIWORLD_BASE,    "/animes"),
+        "filme":   (FILMPALAST_BASE,  "/movies/new"),
+        "movies":  (FILMPALAST_BASE,  "/movies/new"),
+        "serien":  (STO_BASE,         "/serien"),
+        "series":  (STO_BASE,         "/serien"),
     }
 
-    path = type_map.get(content_type.lower(), "/animes")
-    url = ANIWORLD_BASE + path
+    base_url, path = type_map.get(content_type.lower(), (ANIWORLD_BASE, "/animes"))
 
     items = []
 
+    # ── Filmpalast: mehrere Seiten laden ───────────────────
+    if is_filmpalast:
+        async with _client() as client:
+            seen_ids: set = set()
+            for page_num in range(1, 10):  # bis zu ~200 Filme (10 Seiten à ~20)
+                page_url = f"{base_url}{path}/page/{page_num}" if page_num > 1 else base_url + path
+                html = await _fetch_page(client, page_url)
+                if not html:
+                    break
+
+                soup = BeautifulSoup(html, "lxml")
+                found_on_page = 0
+
+                for article in soup.find_all("article", class_="liste"):
+                    link = article.find("a", href=True)
+                    if not link:
+                        continue
+                    href = link.get("href", "")
+                    if not href:
+                        continue
+
+                    # Slug extrahieren (z.B. ".../stream/movie-slug")
+                    slug = href.rstrip("/").split("/")[-1]
+                    if not slug or slug in seen_ids or len(slug) < 2:
+                        continue
+                    seen_ids.add(slug)
+
+                    title_tag = article.find(["h2", "h3", "h1"])
+                    title = title_tag.get_text(strip=True) if title_tag else slug.replace("-", " ").title()
+
+                    img_tag = article.find("img")
+                    thumb = ""
+                    if img_tag:
+                        thumb = img_tag.get("data-src", img_tag.get("src", ""))
+                        if thumb and not thumb.startswith("http"):
+                            thumb = base_url + thumb
+
+                    items.append({
+                        "title": title,
+                        "thumb": thumb,
+                        "content_id": slug,
+                        "genre": "",
+                        "year": "",
+                        "rating": "",
+                        "url_path": href,
+                    })
+                    found_on_page += 1
+
+                if found_on_page == 0:
+                    break  # Keine weiteren Seiten
+
+        if items:
+            set_cache(cache_key, items, LIBRARY_CACHE_TTL)
+            log.info(f"[Scraper] {len(items)} Filmpalast-Filme geladen")
+        else:
+            log.info(f"[Scraper] Keine Filmpalast-Filme gefunden")
+        return items
+
+    # ── AniWorld / S.to: einzelne Seite ─────────────────────
+    url = base_url + path
     async with _client() as client:
         html = await _fetch_page(client, url)
         if not html:
@@ -163,10 +378,20 @@ async def fetch_library(content_type: str) -> list[dict]:
                 if img:
                     thumb = img.get("data-src", img.get("src", ""))
                     if thumb and not thumb.startswith("http"):
-                        thumb = ANIWORLD_BASE + thumb
+                        thumb = base_url + thumb
 
                 content_id = slug
-                url_path = href if href.startswith("/") else "/" + href
+                
+                # Serienstream liefert noch alte "s.to" absolute Links aus.
+                if href.startswith("http"):
+                    # Extrahiere relativen Pfad aus /serie/stream...
+                    rel_match = re.search(r"/(anime|serien|serie|filme|stream)/(.+)", href)
+                    if rel_match:
+                        url_path = "/" + rel_match.group(1) + "/" + rel_match.group(2)
+                    else:
+                        url_path = href
+                else:
+                    url_path = href if href.startswith("/") else "/" + href
 
                 items.append({
                     "title": title,
@@ -180,15 +405,15 @@ async def fetch_library(content_type: str) -> list[dict]:
 
         # Methode 2: Falls Genre-Divs leer, generische Link-Suche
         if not items:
-            link_pattern = re.compile(r"/(anime|serien|filme)/stream/([^/]+)")
+            link_pattern = re.compile(r"/(anime|serien|filme)/stream/([^/]+)|/serie/([^/]+)")
             for link in soup.find_all("a", href=link_pattern):
                 href = link.get("href", "")
-                match = re.search(r"/stream/([^/]+)", href)
+                match = re.search(link_pattern, href)
                 if not match:
                     continue
 
-                slug = match.group(1)
-                if slug in seen_ids:
+                slug = match.group(2) or match.group(3)
+                if slug in seen_ids or slug == "stream":
                     continue
                 seen_ids.add(slug)
 
@@ -207,10 +432,81 @@ async def fetch_library(content_type: str) -> list[dict]:
                 })
 
     if items:
-        _library_cache[cache_key] = items
+        set_cache(cache_key, items, LIBRARY_CACHE_TTL)
         log.info(f"[Scraper] {len(items)} Einträge für '{content_type}' geladen")
     else:
         log.info(f"[Scraper] Keine Einträge für '{content_type}' gefunden")
+
+    return items
+
+
+async def fetch_search_results(query: str) -> list[dict]:
+    """
+    Sucht nach Inhalten auf AniWorld.
+    query: Suchbegriff
+    Returns: Liste von {title, thumb, content_id, genre, year, rating, url_path}
+    """
+    if not query or len(query) < 2:
+        return []
+
+    cache_key = f"search_{query.lower()}"
+    cached = get_cache(cache_key)
+    if cached:
+        return cached
+
+    items = []
+    seen_ids = set()
+
+    async with _client() as client:
+        for base_url in [ANIWORLD_BASE, STO_BASE]:
+            url = f"{base_url}/suche?q={query}"
+            html = await _fetch_page(client, url)
+            if not html:
+                continue
+
+            soup = BeautifulSoup(html, "lxml")
+
+            # AniWorld Suche: <div class="seriesListContainer">
+            for link in soup.select(".seriesListContainer a"):
+                href = link.get("href", "")
+                if "/stream/" not in href:
+                    continue
+
+                match = re.search(r"/stream/([^/]+)", href)
+                if not match:
+                    continue
+
+                slug = match.group(1)
+                if slug in seen_ids:
+                    continue
+                seen_ids.add(slug)
+
+                title = link.get_text(strip=True)
+                if not title:
+                    h3 = link.find("h3")
+                    if h3: title = h3.get_text(strip=True)
+                    else: title = slug.replace("-", " ").title()
+
+                img = link.find("img")
+                thumb = ""
+                if img:
+                    thumb = img.get("data-src", img.get("src", ""))
+                    if thumb and not thumb.startswith("http"):
+                        thumb = base_url + thumb
+
+                items.append({
+                    "title": title,
+                    "thumb": thumb,
+                    "content_id": slug,
+                    "genre": "",
+                    "year": "",
+                    "rating": "",
+                    "url_path": href,
+                })
+
+    if items:
+        set_cache(cache_key, items, 3600)  # Search results cache for 1h
+        log.info(f"[Scraper] {len(items)} Suchergebnisse für '{query}'")
 
     return items
 
@@ -220,56 +516,67 @@ async def fetch_library(content_type: str) -> list[dict]:
 # ═══════════════════════════════════════════════════════
 
 async def fetch_episodes(content_id: str) -> list[dict]:
-    """
-    Holt die Episodenliste für eine Serie von AniWorld.
-
-    AniWorld Seiten-Struktur:
-      Staffeln: <a href="/anime/stream/<slug>/staffel-1">
-        → Seite zählen: alle Links die /staffel-N matchen
-      Episoden: <a href="/anime/stream/<slug>/staffel-1/episode-1">
-        → Pro Staffel-Seite alle episode-N Links zählen
-
-    Returns: Liste von {title, episode_id, number, season, ep_in_season, url_path}
-    """
     cache_key = f"episodes_{content_id}"
-    if cache_key in _episode_cache:
-        return _episode_cache[cache_key]
+    cached = get_cache(cache_key)
+    if cached:
+        return cached
 
     episodes = []
 
     async with _client() as client:
-        # Serienhauptseite laden um Staffelanzahl zu bestimmen
-        base_paths = [
-            f"/anime/stream/{content_id}",
-            f"/serien/stream/{content_id}",
-            f"/filme/stream/{content_id}",
-        ]
-
+        # Optimiere: Wenn der Slug in den Filmen ist, nur Filmpalast durchsuchen
+        bases = [ANIWORLD_BASE, STO_BASE, FILMPALAST_BASE]
+        cached_movies = get_cache("library_filme") or get_cache("library_movies") or []
+        if any(m.get("content_id") == content_id for m in cached_movies):
+            bases = [FILMPALAST_BASE]
+        
         series_html = None
         used_path = ""
+        used_base = ""
 
-        for path in base_paths:
-            page = await _fetch_page(client, ANIWORLD_BASE + path)
-            if page and ("/staffel-" in page or "/episode-" in page or "seasonEpisodesList" in page):
-                series_html = page
-                used_path = path
+        for base in bases:
+            base_paths = [
+                f"/anime/stream/{content_id}",
+                f"/serien/stream/{content_id}",
+                f"/serie/stream/{content_id}",
+                f"/serie/{content_id}",
+                f"/filme/stream/{content_id}",
+                f"/stream/{content_id}",
+            ]
+
+            for path in base_paths:
+                page = await _fetch_page(client, base + path)
+                if page and ("/staffel-" in page or "/episode-" in page or "seasonEpisodesList" in page):
+                    series_html = page
+                    used_path = path
+                    used_base = base
+                    break
+            if series_html:
                 break
 
         if not series_html:
-            # Fallback für Filme: Keine Staffeln → eine einzige "Episode" = der Film selbst
-            for path in base_paths:
-                page = await _fetch_page(client, ANIWORLD_BASE + path)
-                if page:
-                    episodes.append({
-                        "title": content_id.replace("-", " ").title(),
-                        "episode_id": f"{content_id}-s1-ep1",
-                        "number": 1,
-                        "season": 1,
-                        "ep_in_season": 1,
-                        "url_path": path,
-                    })
-                    _episode_cache[cache_key] = episodes
-                    return episodes
+            # Fallback für Filme
+            for base in bases:
+                for path in [
+                    f"/anime/stream/{content_id}", 
+                    f"/serien/stream/{content_id}", 
+                    f"/serie/stream/{content_id}",
+                    f"/serie/{content_id}",
+                    f"/filme/stream/{content_id}", 
+                    f"/stream/{content_id}"
+                ]:
+                    page = await _fetch_page(client, base + path)
+                    if page:
+                        episodes.append({
+                            "title": content_id.replace("-", " ").title(),
+                            "episode_id": f"{content_id}-s1-ep1",
+                            "number": 1,
+                            "season": 1,
+                            "ep_in_season": 1,
+                            "url_path": path,
+                        })
+                        set_cache(cache_key, episodes, EPISODE_CACHE_TTL)
+                        return episodes
             log.info(f"[Scraper] Inhalt '{content_id}' nicht gefunden")
             return episodes
 
@@ -280,7 +587,7 @@ async def fetch_episodes(content_id: str) -> list[dict]:
         ep_counter = 0
 
         for season_num in range(1, season_count + 1):
-            season_url = ANIWORLD_BASE + used_path + f"/staffel-{season_num}"
+            season_url = used_base + used_path + f"/staffel-{season_num}"
 
             season_html = await _fetch_page(client, season_url)
             if not season_html:
@@ -311,7 +618,7 @@ async def fetch_episodes(content_id: str) -> list[dict]:
                 })
 
     if episodes:
-        _episode_cache[cache_key] = episodes
+        set_cache(cache_key, episodes, EPISODE_CACHE_TTL)
 
     return episodes
 
@@ -380,20 +687,10 @@ def _extract_episode_titles(html: str) -> dict[int, str]:
 # ═══════════════════════════════════════════════════════
 
 async def get_stream_url(episode_id: str) -> str | None:
-    """
-    Holt die direkte Stream-URL für eine Episode.
-
-    Ablauf:
-    1. AniWorld Episodenseite laden
-    2. Hoster-Links (VOE, Vidoza, Vidmoly) extrahieren
-    3. Hoster-Redirect folgen → Hoster-Embed-Seite laden
-    4. Direkte Stream-URL (MP4/HLS) aus dem Hoster-HTML extrahieren
-
-    Returns: Direkte MP4/HLS URL oder None
-    """
     cache_key = f"stream_{episode_id}"
-    if cache_key in _stream_cache:
-        return _stream_cache[cache_key]
+    cached = get_cache(cache_key)
+    if cached:
+        return cached
 
     # episode_id Format: <slug>-s<season>-ep<episode>
     match = re.match(r"^(.+)-s(\d+)-ep(\d+)$", episode_id)
@@ -409,22 +706,54 @@ async def get_stream_url(episode_id: str) -> str | None:
     paths = [
         f"/anime/stream/{slug}/staffel-{season}/episode-{episode}",
         f"/serien/stream/{slug}/staffel-{season}/episode-{episode}",
+        f"/serie/stream/{slug}/staffel-{season}/episode-{episode}",
+        f"/serie/{slug}/staffel-{season}/episode-{episode}",
         f"/filme/stream/{slug}/staffel-{season}/episode-{episode}",
-        f"/filme/stream/{slug}",  # Filme haben oft keine Staffel/Episode
+        f"/filme/stream/{slug}",
+        f"/stream/{slug}",
     ]
 
     async with _client() as client:
         episode_html = None
+        used_base = ""
 
-        for path in paths:
-            page = await _fetch_page(client, ANIWORLD_BASE + path)
-            if page and (
-                "hosterSiteVideo" in page
-                or "watchEpisode" in page
-                or "data-link-target" in page
-                or "changemark" in page
-            ):
-                episode_html = page
+        cached_movies = get_cache("library_filme") or get_cache("library_movies") or []
+        cached_series = get_cache("library_serien") or get_cache("library_series") or []
+        cached_anime = get_cache("library_anime") or []
+        
+        if any(m.get("content_id") == slug for m in cached_movies):
+            bases = [FILMPALAST_BASE]
+        elif any(s.get("content_id") == slug for s in cached_series):
+            bases = [STO_BASE]
+        elif any(a.get("content_id") == slug for a in cached_anime):
+            bases = [ANIWORLD_BASE]
+        else:
+            bases = [ANIWORLD_BASE, STO_BASE, FILMPALAST_BASE]
+            
+        for base in bases:
+            for path in paths:
+                # Skip anime paths for serienstream to avoid timeouts
+                if base == STO_BASE and "anime" in path:
+                    continue
+                # Skip series paths for aniworld to avoid timeouts
+                if base == ANIWORLD_BASE and ("serie" in path or "filme" in path):
+                    continue
+                # Skip everything but filme paths for filmpalast
+                if base == FILMPALAST_BASE and "filme" not in path:
+                    continue
+                    
+                page = await _fetch_page(client, base + path)
+                if page and (
+                    "hosterSiteVideo" in page
+                    or "watchEpisode" in page
+                    or "data-link-target" in page
+                    or "changemark" in page
+                    or "currentStreamLinks" in page
+                ):
+                    episode_html = page
+                    used_base = base
+                    break
+            if episode_html:
                 break
 
         if not episode_html:
@@ -434,9 +763,21 @@ async def get_stream_url(episode_id: str) -> str | None:
         soup = BeautifulSoup(episode_html, "lxml")
 
         # ── Hoster-Links extrahieren ──
-        # AniWorld zeigt Hoster als Links mit data-link-target Attribut
-        # oder als <li> Elemente in der Hoster-Liste
-        hoster_links = _find_hoster_links(soup)
+        if used_base == FILMPALAST_BASE:
+            hoster_links = []
+            for ul in soup.select('ul.currentStreamLinks'):
+                name_tag = ul.select_one('.hostName')
+                name = name_tag.get_text(strip=True) if name_tag else "Unknown"
+                btn = ul.select_one('li.streamPlayBtn a.iconPlay')
+                if btn and btn.get("href"):
+                    hr = btn.get("href")
+                    hoster_links.append({
+                        "name": name,
+                        "redirect_url": hr,
+                        "is_direct": True
+                    })
+        else:
+            hoster_links = _find_hoster_links(soup)
 
         if not hoster_links:
             log.info(f"[Scraper] Keine Hoster gefunden für: {episode_id}")
@@ -457,14 +798,46 @@ async def get_stream_url(episode_id: str) -> str | None:
             log.info(f"[Scraper] Versuche Hoster: {hoster['name']} -> {hoster['redirect_url']}")
 
             try:
-                # AniWorld redirected zur Hoster-Embed-Seite
+                # Portal-Redirection folgen oder direkten Hosterlink laden
                 redirect_url = hoster["redirect_url"]
-                if not redirect_url.startswith("http"):
-                    redirect_url = ANIWORLD_BASE + redirect_url
+                
+                if hoster.get("is_direct"):
+                    hoster_url = redirect_url
+                    try:
+                        hoster_resp = await client.get(hoster_url)
+                        hoster_html = hoster_resp.text
+                    except Exception as he:
+                        log.info(f"[Scraper] httpx Fehler bei direct Hoster ({he}), probiere cloudscraper...")
+                        hoster_html = await asyncio.to_thread(_cloudscraper_get, hoster_url)
+                        if not hoster_html:
+                            continue
+                else:
+                    if not redirect_url.startswith("http"):
+                        redirect_url = used_base + redirect_url
+                    try:
+                        redirect_resp = await client.get(redirect_url)
+                        hoster_url = str(redirect_resp.url)
+                        hoster_html = redirect_resp.text
+                    except Exception as he:
+                        log.info(f"[Scraper] httpx Fehler bei redirect Hoster ({he}), probiere cloudscraper...")
+                        hoster_html = await asyncio.to_thread(_cloudscraper_get, redirect_url)
+                        hoster_url = redirect_url
+                        if not hoster_html:
+                            continue
 
-                redirect_resp = await client.get(redirect_url)
-                hoster_url = str(redirect_resp.url)
-                hoster_html = redirect_resp.text
+                # JS Redirect (VOE nutzt oft window.location.href statt echten HTTP Redirects)
+                js_redirect = re.search(r"window\.location\.href\s*=\s*['\"](https?://[^'\"]+)['\"]", hoster_html)
+                if js_redirect:
+                    redir_url = js_redirect.group(1)
+                    log.info(f"[Scraper] JS-Redirect bei Hoster gefunden: {redir_url}")
+                    try:
+                        hoster_html = await asyncio.to_thread(_cloudscraper_get, redir_url)
+                        if not hoster_html:
+                            continue
+                        hoster_url = redir_url
+                    except Exception as e:
+                        log.info(f"[Scraper] JS-Redirect fehlgeschlagen: {e}")
+                        continue
 
                 # BeautifulSoup für den Hoster parsen
                 hoster_soup = BeautifulSoup(hoster_html, "lxml")
@@ -472,11 +845,11 @@ async def get_stream_url(episode_id: str) -> str | None:
                 stream_url = _extract_from_hoster(hoster["name"], hoster_url, hoster_html, hoster_soup)
                 if stream_url:
                     log.info(f"[Scraper] Stream-URL gefunden: {stream_url[:80]}...")
-                    _stream_cache[cache_key] = stream_url
+                    set_cache(cache_key, stream_url, STREAM_CACHE_TTL)
                     return stream_url
 
             except Exception as e:
-                log.info(f"[Scraper] Hoster {hoster['name']} fehlgeschlagen: {e}")
+                log.info(f"[Scraper] Hoster {hoster['name']} fehlgeschlagen (Fehlerklasse: {type(e).__name__}): {e}")
                 continue
 
     log.info(f"[Scraper] Kein Stream für {episode_id} gefunden")
@@ -597,14 +970,20 @@ def _extract_voe(html: str, soup: BeautifulSoup) -> str | None:
             if hls_value.startswith("http"):
                 return hls_value
 
-    # ── Schritt 3: VOE Neue Obfuscation (ROT13 + Base64 + Shift) ──
-    # Pattern von aniworld_scraper: suche nach obfuscated Variablen
+    # ── Schritt 3: VOE Neue Obfuscation (JSON + ROT13 + Base64 + Shift) ──
+    # Suche nach dem JSON-Array mit dem obfuscated String
+    json_match = re.search(r'type="application/json">\["(.*?)"\]</script>', html)
+    if json_match:
+        encoded = json_match.group(1)
+        decoded_url = _decode_voe_obfuscated(encoded)
+        if decoded_url and decoded_url.startswith("http"):
+            return decoded_url
+
+    # Fallback: Suche nach obfuscated Variablen (ältere Versionen)
     obf_patterns = [
-        # Neuer VOE-Encoder: Variable = "encoded_string"
         r"var\s+\w+\s*=\s*'([A-Za-z0-9+/=]{50,})'",
         r'let\s+\w+\s*=\s*"([A-Za-z0-9+/=]{50,})"',
     ]
-
     for pattern in obf_patterns:
         match = re.search(pattern, html)
         if match:
@@ -650,24 +1029,50 @@ def _decode_voe_obfuscated(encoded: str) -> str | None:
         # Schritt 1: ROT13
         step1 = codecs.decode(encoded, "rot_13")
 
-        # Schritt 2: Base64 Decode
-        step2 = base64.b64decode(step1).decode("utf-8")
+        # Schritt 2: Separatoren entfernen
+        # VOE nutzt verschiedene Separatoren wie !! ^^ ~@ etc.
+        separators = ['@$', r'\^\^', '~@', r'%\?', r'\*~', '!!', '#&']
+        step2 = step1
+        for sep in separators:
+            step2 = re.sub(sep, '', step2)
 
-        # Schritt 3: Char-Shift (jedes Zeichen um 3 nach links verschieben)
-        step3 = ""
-        for char in step2:
-            step3 += chr(ord(char) - 3)
+        # Schritt 3: Base64 Decode
+        # Wir müssen padding ggf. korrigieren falls durch das Entfernen Zeichen fehlen
+        missing_padding = len(step2) % 4
+        if missing_padding:
+            step2 += '=' * (4 - missing_padding)
+        
+        step3_bytes = base64.b64decode(step2)
+        step3 = step3_bytes.decode("utf-8", errors='ignore')
 
-        # Schritt 4: Reverse
-        step4 = step3[::-1]
+        # Schritt 4: Char-Shift (jedes Zeichen um 3 nach links verschieben)
+        step4 = "".join(chr(ord(char) - 3) for char in step3)
 
-        # Schritt 5: Base64 Decode (finales Ergebnis)
-        result = base64.b64decode(step4).decode("utf-8")
+        # Schritt 5: Reverse
+        step5 = step4[::-1]
 
+        # Schritt 6: Base64 Decode (finales Ergebnis)
+        # Auch hier padding prüfen
+        missing_padding_final = len(step5) % 4
+        if missing_padding_final:
+            step5 += '=' * (4 - missing_padding_final)
+            
+        final_bytes = base64.b64decode(step5)
+        result = final_bytes.decode("utf-8")
+
+        # Falls es ein JSON ist, 'source' extrahieren
+        if result.startswith('{'):
+            try:
+                res_json = json.loads(result)
+                if 'source' in res_json:
+                    return res_json['source']
+            except:
+                pass
+        
         if result.startswith("http"):
             return result
-    except Exception:
-        pass
+    except Exception as e:
+        log.debug(f"[VOE] Decode Fehler: {e}")
 
     # Fallback: Nur Base64
     try:

@@ -52,16 +52,32 @@ async function handleRequest(request, event) {
         return Response.redirect(streamUrl, 302);
     }
 
-    // /library?type=anime|movies|series
+    // /library?type=anime|movies|series&letter=A&q=query
     if (path === "/library") {
         const type = url.searchParams.get("type") || "anime";
+        const letter = url.searchParams.get("letter")?.toUpperCase();
+        const query = url.searchParams.get("q")?.toLowerCase();
+
         const fileMap = { anime: "anime.txt", movies: "movies.txt", series: "series.txt" };
-        const file = fileMap[type] || "anime.txt";
+        let file = fileMap[type] || "anime.txt";
+
+        // Wenn ein Buchstabe angegeben ist, nutze den entsprechenden Chunk
+        if (letter) {
+            file = `${type}_${letter}.txt`;
+        }
+
         const content = await fetchCached(GITHUB_RAW + "/" + file, CACHE_LIBRARY, event);
         if (!content) return new Response("", { status: 503, headers: CORS });
-        const filtered = content.split("\n")
-            .filter(l => l.trim() && !l.trim().startsWith("#")).join("\n");
-        return new Response(filtered, {
+
+        let lines = content.split("\n")
+            .filter(l => l.trim() && !l.trim().startsWith("#"));
+
+        // Server-seitiger Suchfilter (sehr wichtig wegen 100KB Limit!)
+        if (query) {
+            lines = lines.filter(l => l.toLowerCase().includes(query));
+        }
+
+        return new Response(lines.join("\n"), {
             headers: { "Content-Type": "text/plain; charset=utf-8", ...CORS },
         });
     }

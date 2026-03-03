@@ -1,13 +1,14 @@
 #!/usr/bin/env python3
 """
-VRC Media Center - GitHub Database Generator v4 (GitHub Actions kompatibel)
+VRC Media Center - GitHub Database Generator v5
 =============================================================================
-Scraped ALLE Animes von AniWorld.to in ALLEN verfuegbaren Sprachen.
+Scraped Animes, Filme und Serien von AniWorld, Filmpalast und SerienStream.
 
 Sprachen pro Episode:
   - Ger-Dub  → episode_id: <slug>-s1-ep1-ger-dub
   - Ger-Sub  → episode_id: <slug>-s1-ep1-ger-sub
   - Eng-Sub  → episode_id: <slug>-s1-ep1-eng-sub
+  - Eng-Dub  → episode_id: <slug>-s1-ep1-eng-dub
 
 Fortschritt wird in progress.json gesichert → sicheres Fortsetzen nach Abbruch.
 GitHub Actions: Laeuft taeglich automatisch, committed die Aenderungen.
@@ -33,12 +34,13 @@ sys.path.insert(0, str(DB_PATH))
 # ── Konfiguration ───────────────────────────────────────────
 MAX_ANIME  = 0   # 0 = alle (2350+)
 MAX_MOVIES = 0   # 0 = alle
+MAX_SERIES = 0   # 0 = alle
 
 LANGUAGES = ["ger-dub", "ger-sub", "eng-sub", "eng-dub"]
 LANG_DISPLAY = {"ger-dub": "Ger Dub", "ger-sub": "Ger Sub", "eng-sub": "Eng Sub", "eng-dub": "Eng Dub"}
 LANG_NUMBER  = {"ger-dub": "1", "ger-sub": "2", "eng-sub": "3", "eng-dub": "4"}
 
-# Alle N Animes auf GitHub pushen (0 = nur am Ende)
+# Alle N Eintraege auf GitHub pushen (0 = nur am Ende)
 PUSH_INTERVAL = 50
 
 # ── Dependencies sicherstellen ──────────────────────────────
@@ -58,7 +60,7 @@ install_deps()
 # ── Scraper importieren ─────────────────────────────────────
 try:
     import scraper
-    from config import ANIWORLD_BASE, PREFERRED_HOSTERS
+    from config import ANIWORLD_BASE, STO_BASE, FILMPALAST_BASE, PREFERRED_HOSTERS
 except ImportError as e:
     print(f"[!] Fehler: {e}")
     print(f"    Stelle sicher dass scraper.py und config.py im selben Ordner liegen.")
@@ -71,9 +73,12 @@ import httpx
 
 # ── Sprachspezifische Stream-URL ─────────────────────────────
 async def get_stream_for_language(client: httpx.AsyncClient,
-                                   ep_url_path: str, lang: str) -> str | None:
+                                   ep_url_path: str, lang: str,
+                                   base_url: str = None) -> str | None:
+    if base_url is None:
+        base_url = ANIWORLD_BASE
     lang_num = LANG_NUMBER.get(lang, "1")
-    url = ANIWORLD_BASE + ep_url_path + f"?lang={lang_num}"
+    url = base_url + ep_url_path + f"?lang={lang_num}"
 
     try:
         resp = await client.get(url, timeout=20)
@@ -95,9 +100,55 @@ async def get_stream_for_language(client: httpx.AsyncClient,
         for hoster in hoster_links:
             rurl = hoster["redirect_url"]
             if not rurl.startswith("http"):
-                rurl = ANIWORLD_BASE + rurl
+                rurl = base_url + rurl
             try:
                 rr = await client.get(rurl, timeout=20)
+                hsoup = BeautifulSoup(rr.text, "lxml")
+                stream = scraper._extract_from_hoster(hoster["name"], str(rr.url), rr.text, hsoup)
+                if stream:
+                    return stream
+            except Exception:
+                continue
+    except Exception:
+        pass
+    return None
+
+
+# ── Filmpalast Stream-URL (keine Sprachvarianten) ───────────
+async def get_filmpalast_stream(client: httpx.AsyncClient,
+                                 url_path: str) -> str | None:
+    url = FILMPALAST_BASE + url_path
+    try:
+        resp = await client.get(url, timeout=20)
+        if resp.status_code != 200:
+            return None
+        html = resp.text
+        soup = BeautifulSoup(html, "lxml")
+
+        # Filmpalast: ul.currentStreamLinks mit .hostName und a.iconPlay
+        hoster_links = []
+        for ul in soup.select('ul.currentStreamLinks'):
+            name_tag = ul.select_one('.hostName')
+            name = name_tag.get_text(strip=True) if name_tag else "Unknown"
+            btn = ul.select_one('li.streamPlayBtn a.iconPlay')
+            if btn and btn.get("href"):
+                hoster_links.append({
+                    "name": name,
+                    "redirect_url": btn.get("href"),
+                })
+
+        if not hoster_links:
+            return None
+
+        # Nach Praeferenz sortieren
+        hoster_links.sort(key=lambda h: next(
+            (i for i, p in enumerate(PREFERRED_HOSTERS) if p.upper() in h["name"].upper()),
+            len(PREFERRED_HOSTERS)
+        ))
+
+        for hoster in hoster_links:
+            try:
+                rr = await client.get(hoster["redirect_url"], timeout=20)
                 hsoup = BeautifulSoup(rr.text, "lxml")
                 stream = scraper._extract_from_hoster(hoster["name"], str(rr.url), rr.text, hsoup)
                 if stream:
@@ -117,7 +168,7 @@ def load_progress() -> dict:
         except Exception:
             pass
     return {"done_slugs": [], "anime_lines": [], "episode_lines": [],
-            "stream_lines": [], "movie_lines": []}
+            "stream_lines": [], "movie_lines": [], "series_lines": []}
 
 
 def save_progress(p: dict):
@@ -126,17 +177,35 @@ def save_progress(p: dict):
 
 # ── Dateien schreiben ────────────────────────────────────────
 def write_db_files(p: dict):
+    # 1. Hauptdateien
     (DB_PATH / "anime.txt").write_text("\n".join(p["anime_lines"]), encoding="utf-8")
     (DB_PATH / "movies.txt").write_text("\n".join(p["movie_lines"]), encoding="utf-8")
+    (DB_PATH / "series.txt").write_text("\n".join(p.get("series_lines", [])), encoding="utf-8")
     (DB_PATH / "episodes.txt").write_text("\n".join(p["episode_lines"]), encoding="utf-8")
     (DB_PATH / "streams.txt").write_text("\n".join(p["stream_lines"]), encoding="utf-8")
-    if not (DB_PATH / "series.txt").exists():
-        (DB_PATH / "series.txt").write_text("", encoding="utf-8")
+
+    # 2. Anime Splitting (A-Z) für VRChat 100KB Limit
+    chunks = {}
+    for line in p["anime_lines"]:
+        if not line.strip(): continue
+        title = line.split("|")[0].upper()
+        first_char = title[0] if title else "#"
+        if not first_char.isalpha():
+            key = "#"
+        else:
+            key = first_char
+        
+        if key not in chunks: chunks[key] = []
+        chunks[key].append(line)
+    
+    # Schreib Chunks
+    for key, lines in chunks.items():
+        fname = f"anime_{key}.txt"
+        (DB_PATH / fname).write_text("\n".join(lines), encoding="utf-8")
 
 
 # ── Git Push (fuer Zwischen-Pushes) ─────────────────────────
 def git_push(msg: str = "Auto-update library data"):
-    # In GitHub Actions: git config wird ueber env gesetzt
     is_ci = os.environ.get("CI", "false") == "true"
     try:
         if is_ci:
@@ -145,7 +214,7 @@ def git_push(msg: str = "Auto-update library data"):
             subprocess.run(["git", "config", "user.email", "actions@github.com"],
                            cwd=DB_PATH, check=True)
         subprocess.run(["git", "add", "anime.txt", "episodes.txt", "streams.txt",
-                        "movies.txt", "progress.json"], cwd=DB_PATH, check=True)
+                        "movies.txt", "series.txt", "progress.json"], cwd=DB_PATH, check=True)
         r = subprocess.run(["git", "diff", "--staged", "--quiet"], cwd=DB_PATH)
         if r.returncode != 0:  # Aenderungen vorhanden
             subprocess.run(["git", "commit", "-m", msg], cwd=DB_PATH, check=True)
@@ -158,18 +227,140 @@ def git_push(msg: str = "Auto-update library data"):
 # ── Main ─────────────────────────────────────────────────────
 async def main():
     print("=" * 60)
-    print("  VRC Media Center - Database Generator v4")
+    print("  VRC Media Center - Database Generator v5")
     print(f"  Sprachen: {', '.join(LANGUAGES)}")
     print(f"  Animes:   {'alle' if MAX_ANIME == 0 else MAX_ANIME}")
+    print(f"  Filme:    {'alle' if MAX_MOVIES == 0 else MAX_MOVIES}")
+    print(f"  Serien:   {'alle' if MAX_SERIES == 0 else MAX_SERIES}")
     print("=" * 60)
 
     p = load_progress()
+    # Ensure series_lines exists (backwards compat)
+    if "series_lines" not in p:
+        p["series_lines"] = []
     done = set(p["done_slugs"])
     if done:
-        print(f"[*] Fortschritt: {len(done)} Animes bereits fertig")
+        print(f"[*] Fortschritt: {len(done)} Eintraege bereits fertig")
 
-    # Anime-Liste laden
-    print("\n[1] Lade Anime-Liste von AniWorld...")
+    # ═══════════════════════════════════════════════════════
+    # [1] Filme von Filmpalast
+    # ═══════════════════════════════════════════════════════
+    print("\n[1] Lade Filme von Filmpalast...")
+    try:
+        movies = await scraper.fetch_library("movies")
+        if MAX_MOVIES > 0:
+            movies = movies[:MAX_MOVIES]
+        
+        async with scraper._client() as client:
+            for mi, m in enumerate(movies):
+                mc = m.get("content_id", "")
+                m_title = m.get("title", "")
+                m_thumb = m.get("thumb", "")
+                m_url   = m.get("url_path", "")
+                
+                if not mc: continue
+                
+                # Film-Eintrag für Library
+                e = f"{m_title}|{m_thumb}|{mc}|{m.get('genre','')}|{m.get('year','')}|{m.get('rating','')}"
+                if e not in p["movie_lines"]:
+                    p["movie_lines"].append(e)
+
+                # Filmpalast hat keine Sprachvarianten – nur einen Stream
+                lid = f"{mc}-s1-ep1"
+                ep_line = f"{mc}|{m_title}|{lid}"
+                if ep_line not in p["episode_lines"]:
+                    p["episode_lines"].append(ep_line)
+
+                stream = await get_filmpalast_stream(client, m_url)
+                if stream:
+                    s = f"{lid}|{stream}"
+                    if s not in p["stream_lines"]:
+                        p["stream_lines"].append(s)
+                    print(f"    [{mi+1}/{len(movies)}] [OK] {mc}: {stream[:55]}...")
+                else:
+                    print(f"    [{mi+1}/{len(movies)}] [--] {mc}: kein Stream")
+                
+                await asyncio.sleep(0.5)
+
+        print(f"    -> {len(p['movie_lines'])} Filme verarbeitet")
+    except Exception as e:
+        print(f"  [!] Filme Fehler: {e}")
+
+    write_db_files(p)
+    save_progress(p)
+    git_push("Update: Filme von Filmpalast")
+
+    # ═══════════════════════════════════════════════════════
+    # [2] Serien von SerienStream
+    # ═══════════════════════════════════════════════════════
+    print("\n[2] Lade Serien von SerienStream...")
+    try:
+        series = await scraper.fetch_library("series")
+        if MAX_SERIES > 0:
+            series = series[:MAX_SERIES]
+        
+        for si, s_item in enumerate(series):
+            sc = s_item.get("content_id", "")
+            s_title = s_item.get("title", "")
+            s_thumb = s_item.get("thumb", "")
+            
+            if not sc or sc in done: continue
+            
+            # Serien-Eintrag
+            s_entry = f"{s_title}|{s_thumb}|{sc}|{s_item.get('genre','')}|{s_item.get('year','')}|{s_item.get('rating','')}"
+            if s_entry not in p["series_lines"]:
+                p["series_lines"].append(s_entry)
+
+            # Episoden laden
+            episodes = await scraper.fetch_episodes(sc)
+            print(f"  [{si+1}/{len(series)}] {sc}: {len(episodes)} Episoden")
+
+            async with scraper._client() as client:
+                for ep in episodes:
+                    ep_id      = ep.get("episode_id", "")
+                    ep_title   = ep.get("title", "")
+                    ep_urlpath = ep.get("url_path", "")
+                    if not ep_id: continue
+
+                    for lang in LANGUAGES:
+                        lid   = f"{ep_id}-{lang}"
+                        ltitle = f"{ep_title} ({LANG_DISPLAY[lang]})"
+
+                        ep_line = f"{sc}|{ltitle}|{lid}"
+                        if ep_line not in p["episode_lines"]:
+                            p["episode_lines"].append(ep_line)
+
+                        stream = None
+                        if ep_urlpath:
+                            stream = await get_stream_for_language(client, ep_urlpath, lang, STO_BASE)
+
+                        if stream:
+                            s_line = f"{lid}|{stream}"
+                            if s_line not in p["stream_lines"]:
+                                p["stream_lines"].append(s_line)
+                            print(f"    [OK] {lang}: {stream[:55]}...")
+                        else:
+                            print(f"    [--] {lang}: nicht verfuegbar")
+
+                        await asyncio.sleep(0.3)
+
+            p["done_slugs"].append(sc)
+            done.add(sc)
+            save_progress(p)
+            write_db_files(p)
+
+        print(f"    -> {len(p['series_lines'])} Serien verarbeitet")
+    except Exception as e:
+        print(f"  [!] Serien Fehler: {e}")
+
+    write_db_files(p)
+    save_progress(p)
+    git_push("Update: Serien von SerienStream")
+
+    # ═══════════════════════════════════════════════════════
+    # [3] Anime von AniWorld
+    # ═══════════════════════════════════════════════════════
+    print("\n[3] Lade Anime-Liste von AniWorld...")
     animes = await scraper.fetch_library("anime")
     print(f"    -> {len(animes)} Animes gefunden")
     if MAX_ANIME > 0:
@@ -213,7 +404,7 @@ async def main():
 
                     stream = None
                     if ep_urlpath:
-                        stream = await get_stream_for_language(client, ep_urlpath, lang)
+                        stream = await get_stream_for_language(client, ep_urlpath, lang, ANIWORLD_BASE)
 
                     if stream:
                         s = f"{lid}|{stream}"
@@ -233,35 +424,19 @@ async def main():
             write_db_files(p)
 
             if PUSH_INTERVAL > 0 and pushed_count >= PUSH_INTERVAL:
-                git_push(f"Update: {len(done)} Animes verarbeitet")
+                git_push(f"Update: {len(done)} Eintraege verarbeitet")
                 pushed_count = 0
-
-    # Filme
-    print("\n[2] Lade Filme...")
-    try:
-        movies = await scraper.fetch_library("movies")
-        if MAX_MOVIES > 0:
-            movies = movies[:MAX_MOVIES]
-        for m in movies:
-            mc = m.get("content_id", "")
-            if mc:
-                e = (f"{m.get('title','')}|{m.get('thumb','')}|{mc}|"
-                     f"{m.get('genre','')}|{m.get('year','')}|{m.get('rating','')}")
-                if e not in p["movie_lines"]:
-                    p["movie_lines"].append(e)
-        print(f"    -> {len(p['movie_lines'])} Filme")
-    except Exception as e:
-        print(f"  [!] Filme: {e}")
 
     write_db_files(p)
     save_progress(p)
 
     print(f"\n[+] anime.txt:    {len(p['anime_lines'])}")
     print(f"[+] movies.txt:   {len(p['movie_lines'])}")
+    print(f"[+] series.txt:   {len(p['series_lines'])}")
     print(f"[+] episodes.txt: {len(p['episode_lines'])}")
     print(f"[+] streams.txt:  {len(p['stream_lines'])}")
 
-    git_push("Final update: alle Animes und Sprachen verarbeitet")
+    git_push("Final update: alle Inhalte verarbeitet")
 
     # Fortschritt loeschen nach Abschluss
     if PROGRESS_FILE.exists():
