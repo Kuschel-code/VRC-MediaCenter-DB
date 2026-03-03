@@ -1,4 +1,0 @@
-# Serien-Bibliothek
-# Format: Titel|ThumbURL|ContentID|Genre|Jahr|Rating
-# Beispiel:
-# Breaking Bad||breaking-bad|Drama|2008|9.5
