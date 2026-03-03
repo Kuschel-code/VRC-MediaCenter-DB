@@ -2348,3 +2348,4 @@ Steins;Gate 0|https://image.tmdb.org/t/p/w500/9u07yBllJTBRIcYxnfbgUxougk5.jpg|st
 Terror in Tokio|https://image.tmdb.org/t/p/w500/iQratRwoIhys2faomgsoj1E4P1g.jpg|terror-in-tokio|Animation|2014|7.8
 Tomodachi Game|https://image.tmdb.org/t/p/w500/ovl7OfWyHQQHsRu5xVeJjnaL7Mi.jpg|tomodachi-game|Animation|2022|7.5
 Uncharted Walker|https://image.tmdb.org/t/p/w500/9NzPWlSkMrMLPD7iYwYNoqx2aTo.jpg|uncharted-walker|Animation|2018|7.9
+Release that Witch||release-that-witch|||

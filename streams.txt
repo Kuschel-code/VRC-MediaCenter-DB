@@ -1,0 +1,4 @@
+release-that-witch-s1-ep1-ger-dub|https://upload-transit-eu-2x.vmrange.lat/hls/,xqx2pcu565okjiqbtg6s5iyy42el7l4p2b4ahrgkapu4ni3wku4um25toivq,.urlset/master.m3u8
+release-that-witch-s1-ep1-ger-sub|https://upload-transit-eu-2x.vmrange.lat/hls/,xqx2pcu565okjiqbtg6s5iyy42el7l4p2b4ahrgkapu4ni3wku4um25toivq,.urlset/master.m3u8
+release-that-witch-s1-ep1-eng-sub|https://upload-transit-eu-2x.vmrange.lat/hls/,xqx2pcu565okjiqbtg6s5iyy42el7l4p2b4ahrgkapu4ni3wku4uo25toivq,.urlset/master.m3u8
+release-that-witch-s1-ep1-eng-dub|https://upload-transit-eu-2x.vmrange.lat/hls/,xqx2pcu565okjiqbtg6s5iyy42el7l4p2b4ahrgkapu4ni3wku4ui25toivq,.urlset/master.m3u8
