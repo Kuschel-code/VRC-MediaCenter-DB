@@ -81,11 +81,12 @@ async def get_stream_for_language(client: httpx.AsyncClient,
     url = base_url + ep_url_path + f"?lang={lang_num}"
 
     try:
-        resp = await client.get(url, timeout=20)
-        if resp.status_code != 200:
+        # Nutze _fetch_page (geht über Cloudflare Worker Proxy bei CUII-Domains)
+        html = await scraper._fetch_page(client, url)
+        if not html:
             return None
-        html = resp.text
-        # Pruefe ob Sprache verfuegbar (einfach: Hoster-Links vorhanden?)
+        
+        # Pruefe ob Sprache verfuegbar (Hoster-Links vorhanden?)
         soup = BeautifulSoup(html, "lxml")
         hoster_links = scraper._find_hoster_links(soup)
         if not hoster_links:
@@ -102,9 +103,12 @@ async def get_stream_for_language(client: httpx.AsyncClient,
             if not rurl.startswith("http"):
                 rurl = base_url + rurl
             try:
-                rr = await client.get(rurl, timeout=20)
-                hsoup = BeautifulSoup(rr.text, "lxml")
-                stream = scraper._extract_from_hoster(hoster["name"], str(rr.url), rr.text, hsoup)
+                # Hoster-Redirect auch über _fetch_page (falls CUII-Domain)
+                hoster_html = await scraper._fetch_page(client, rurl)
+                if not hoster_html:
+                    continue
+                hsoup = BeautifulSoup(hoster_html, "lxml")
+                stream = scraper._extract_from_hoster(hoster["name"], rurl, hoster_html, hsoup)
                 if stream:
                     return stream
             except Exception:
@@ -119,10 +123,9 @@ async def get_filmpalast_stream(client: httpx.AsyncClient,
                                  url_path: str) -> str | None:
     url = FILMPALAST_BASE + url_path
     try:
-        resp = await client.get(url, timeout=20)
-        if resp.status_code != 200:
+        html = await scraper._fetch_page(client, url)
+        if not html:
             return None
-        html = resp.text
         soup = BeautifulSoup(html, "lxml")
 
         # Filmpalast: ul.currentStreamLinks mit .hostName und a.iconPlay
@@ -148,9 +151,11 @@ async def get_filmpalast_stream(client: httpx.AsyncClient,
 
         for hoster in hoster_links:
             try:
-                rr = await client.get(hoster["redirect_url"], timeout=20)
-                hsoup = BeautifulSoup(rr.text, "lxml")
-                stream = scraper._extract_from_hoster(hoster["name"], str(rr.url), rr.text, hsoup)
+                hoster_html = await scraper._fetch_page(client, hoster["redirect_url"])
+                if not hoster_html:
+                    continue
+                hsoup = BeautifulSoup(hoster_html, "lxml")
+                stream = scraper._extract_from_hoster(hoster["name"], hoster["redirect_url"], hoster_html, hsoup)
                 if stream:
                     return stream
             except Exception:
