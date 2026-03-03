@@ -189,25 +189,55 @@ async def main():
     if done:
         print(f"[*] Fortschritt: {len(done)} Animes bereits fertig")
 
-    # [1] Filme (zuerst laden, da schneller)
+    # [1] Filme (zuerst laden)
     print("\n[1] Lade Filme...")
     try:
         movies = await scraper.fetch_library("movies")
         if MAX_MOVIES > 0:
             movies = movies[:MAX_MOVIES]
-        for m in movies:
-            mc = m.get("content_id", "")
-            if mc:
-                e = (f"{m.get('title','')}|{m.get('thumb','')}|{mc}|"
-                     f"{m.get('genre','')}|{m.get('year','')}|{m.get('rating','')}")
+        
+        async with scraper._client() as client:
+            for m in movies:
+                mc = m.get("content_id", "")
+                m_title = m.get("title", "")
+                m_thumb = m.get("thumb", "")
+                m_url   = m.get("url_path", "") # Bei Filmen zeigt url_path direkt auf die Stream-Seite
+                
+                if not mc: continue
+                
+                # Film-Eintrag für Library
+                e = f"{m_title}|{m_thumb}|{mc}|{m.get('genre','')}|{m.get('year','')}|{m.get('rating','')}"
                 if e not in p["movie_lines"]:
                     p["movie_lines"].append(e)
-        print(f"    -> {len(p['movie_lines'])} Filme gefunden")
+
+                # Filme verhalten sich bei AniWorld wie eine einzelne Episode.
+                # Wir loopen durch Sprachen um Streams zu finden.
+                for lang in LANGUAGES:
+                    lid = f"{mc}-{lang}" # z.B. avatar-the-way-of-water-ger-dub
+                    ltitle = f"{m_title} ({LANG_DISPLAY[lang]})"
+                    
+                    # In episodes.txt eintragen damit es in Unity unter "Folgen" erscheint (als 1 Film)
+                    ep_line = f"{mc}|{ltitle}|{lid}"
+                    if ep_line not in p["episode_lines"]:
+                        p["episode_lines"].append(ep_line)
+
+                    # Stream suchen
+                    stream = await get_stream_for_language(client, m_url, lang)
+                    if stream:
+                        s = f"{lid}|{stream}"
+                        if s not in p["stream_lines"]:
+                            p["stream_lines"].append(s)
+                        print(f"    [OK] Movie {mc} ({lang}): {stream[:55]}...")
+                    
+                    await asyncio.sleep(0.5)
+
+        print(f"    -> {len(p['movie_lines'])} Filme verarbeitet")
     except Exception as e:
-        print(f"  [!] Filme: {e}")
+        print(f"  [!] Filme Fehler: {e}")
 
     write_db_files(p)
     save_progress(p)
+    git_push("Update: Filme mit Sprachen und Streams")
 
     # [2] Anime-Liste laden
     print("\n[2] Lade Anime-Liste von AniWorld...")
