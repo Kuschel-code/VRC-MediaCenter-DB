@@ -91,8 +91,8 @@ _orig_getaddrinfo = socket.getaddrinfo
 def _patched_getaddrinfo(host, port, family=0, type=0, proto=0, flags=0):
     if host == "filmpalast.to":
         return _orig_getaddrinfo("172.67.158.161", port, family, type, proto, flags)
-    elif host in ("serien.sx", "s.to", "serienstream.to"):
-        return _orig_getaddrinfo("186.2.163.237", port, family, type, proto, flags)
+    elif host in ("serien.sx", "s.to", "serienstream.to", "bs.to"):
+        return _orig_getaddrinfo("3.122.9.223", port, family, type, proto, flags)
     return _orig_getaddrinfo(host, port, family, type, proto, flags)
 
 socket.getaddrinfo = _patched_getaddrinfo
@@ -168,7 +168,7 @@ def _cloudscraper_get(url: str) -> str | None:
 
 async def _fetch_page(client: httpx.AsyncClient, url: str, max_retries: int = 3) -> str | None:
     """Holt eine Seite – nutzt für Filmpalast/Serienstream direkt cloudscraper, ansonsten httpx."""
-    if any(domain in url for domain in ["filmpalast.to", "s.to", "serienstream.to"]) and _has_cloudscraper:
+    if any(domain in url for domain in ["filmpalast.to", "s.to", "serienstream.to", "bs.to"]) and _has_cloudscraper:
         log.info(f"[Scraper] Direkte Route via cloudscraper ({url})")
         return await asyncio.to_thread(_cloudscraper_get, url)
 
