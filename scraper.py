@@ -165,9 +165,45 @@ def _cloudscraper_get(url: str) -> str | None:
         
     return None
 
+# Cloudflare Worker Proxy für CUII-geblockte Seiten (läuft auf Cloudflare Edge, kein VPN nötig!)
+WORKER_PROXY = "https://vrc-media-center.weltraumaffe02.workers.dev/proxy"
+
+# Domains die per CUII gesperrt sind und den Proxy brauchen
+CUII_BLOCKED = ["serienstream.to", "s.to", "bs.to", "serien.sx"]
+
+def _proxy_get(url: str) -> str | None:
+    """Holt eine Seite über den Cloudflare Worker Proxy (umgeht CUII)."""
+    import urllib.parse
+    proxy_url = f"{WORKER_PROXY}?url={urllib.parse.quote(url, safe='')}"
+    try:
+        import requests
+        resp = requests.get(proxy_url, timeout=20)
+        if resp.status_code == 200 and len(resp.text) > 500:
+            return resp.text
+        log.info(f"[Proxy] Status {resp.status_code} für {url} (Antwort: {len(resp.text)} bytes)")
+    except ImportError:
+        # Fallback: httpx sync
+        try:
+            resp = httpx.get(proxy_url, timeout=20)
+            if resp.status_code == 200 and len(resp.text) > 500:
+                return resp.text
+        except Exception as e:
+            log.info(f"[Proxy] httpx Fehler: {e}")
+    except Exception as e:
+        log.info(f"[Proxy] Fehler für {url}: {e}")
+    return None
+
 
 async def _fetch_page(client: httpx.AsyncClient, url: str, max_retries: int = 3) -> str | None:
-    """Holt eine Seite – nutzt für Filmpalast/Serienstream direkt cloudscraper, ansonsten httpx."""
+    """Holt eine Seite – nutzt für CUII-geblockte Domains den Cloudflare Worker Proxy."""
+    # CUII-geblockte Domains: Zuerst Cloudflare Worker Proxy versuchen
+    if any(domain in url for domain in CUII_BLOCKED):
+        log.info(f"[Scraper] CUII-Domain erkannt, nutze Cloudflare Worker Proxy ({url})")
+        result = await asyncio.to_thread(_proxy_get, url)
+        if result:
+            return result
+        log.info(f"[Scraper] Proxy fehlgeschlagen, versuche cloudscraper Fallback...")
+
     if any(domain in url for domain in ["filmpalast.to", "s.to", "serienstream.to", "bs.to"]) and _has_cloudscraper:
         log.info(f"[Scraper] Direkte Route via cloudscraper ({url})")
         return await asyncio.to_thread(_cloudscraper_get, url)

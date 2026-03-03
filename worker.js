@@ -100,6 +100,44 @@ async function handleRequest(request, event) {
         });
     }
 
+    // /proxy?url=<encoded_url> — Cloudflare-Edge-Proxy zum Umgehen von ISP-Sperren (CUII)
+    if (path === "/proxy") {
+        const targetUrl = url.searchParams.get("url");
+        if (!targetUrl) {
+            return new Response("Missing parameter: url", { status: 400, headers: CORS });
+        }
+
+        // Whitelist: Nur erlaubte Domains (kein offener Proxy!)
+        const allowed = ["serienstream.to", "s.to", "bs.to", "serien.sx", "aniworld.to", "filmpalast.to"];
+        let targetHost;
+        try {
+            targetHost = new URL(targetUrl).hostname;
+        } catch {
+            return new Response("Invalid URL", { status: 400, headers: CORS });
+        }
+        if (!allowed.some(d => targetHost === d || targetHost.endsWith("." + d))) {
+            return new Response("Domain not allowed", { status: 403, headers: CORS });
+        }
+
+        try {
+            const resp = await fetch(targetUrl, {
+                headers: {
+                    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36",
+                    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
+                    "Accept-Language": "de-DE,de;q=0.9,en-US;q=0.8,en;q=0.7",
+                },
+                redirect: "follow",
+            });
+            const body = await resp.text();
+            return new Response(body, {
+                status: resp.status,
+                headers: { "Content-Type": "text/html; charset=utf-8", ...CORS },
+            });
+        } catch (e) {
+            return new Response("Proxy fetch error: " + e.message, { status: 502, headers: CORS });
+        }
+    }
+
     return new Response("Not Found", { status: 404, headers: CORS });
 }
 
