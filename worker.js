@@ -178,7 +178,7 @@ async function handleRequest(request, event) {
 
 async function fetchCached(url, ttl, event) {
     // Version-basierter Cache-Key: Ändert sich bei jedem Deploy
-    const CACHE_VERSION = "v7";
+    const CACHE_VERSION = "v8";
     const cacheKey = new Request(url + "?_cv=" + CACHE_VERSION, { method: "GET" });
     const cache = caches.default;
     let response = await cache.match(cacheKey);
