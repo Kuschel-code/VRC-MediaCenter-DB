@@ -943,6 +943,50 @@ def _find_hoster_links(soup: BeautifulSoup) -> list[dict]:
                     "redirect_url": href,
                 })
 
+    # Methode 3: SerienStream/S.to button[data-link-id] + iframe[src^="/r?t="]
+    if not hoster_links:
+        # Die Seite enthält ein iframe mit src="/r?t=<base64>" das zum Hoster redirectet
+        iframe = soup.select_one("iframe[src*='/r?t=']")
+        if iframe:
+            iframe_src = iframe.get("src", "")
+            # Provider-Name aus data-provider-name Attribut oder nächstem data-link-id Element
+            provider = ""
+            provider_elem = soup.select_one("[data-provider-name]")
+            if provider_elem:
+                provider = provider_elem.get("data-provider-name", "")
+            if not provider:
+                link_elem = soup.select_one("[data-hoster-name]")
+                if link_elem:
+                    provider = link_elem.get("data-hoster-name", "")
+            if not provider:
+                provider = "Unknown"
+            
+            hoster_links.append({
+                "name": provider.strip(),
+                "redirect_url": iframe_src,
+                "is_direct": True,
+            })
+        
+        # Fallback: data-link-id Buttons (für zukünftige Kompatibilität)
+        if not hoster_links:
+            for elem in soup.select("[data-link-id]"):
+                link_id = elem.get("data-link-id", "")
+                if not link_id or link_id in seen:
+                    continue
+                seen.add(link_id)
+
+                hoster_name = elem.get("data-hoster-name", "") or elem.get("data-provider-name", "")
+                if not hoster_name:
+                    hoster_name = elem.get_text(strip=True)
+
+                redirect_url = f"/redirect/{link_id}"
+
+                if hoster_name:
+                    hoster_links.append({
+                        "name": hoster_name.strip(),
+                        "redirect_url": redirect_url,
+                    })
+
     return hoster_links
 
 
