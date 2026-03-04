@@ -142,7 +142,13 @@ async def get_stream_for_language(client: httpx.AsyncClient,
 # ── Filmpalast Stream-URL (keine Sprachvarianten) ───────────
 async def get_filmpalast_stream(client: httpx.AsyncClient,
                                  url_path: str) -> str | None:
-    url = FILMPALAST_BASE + url_path
+    # url_path kommt als //filmpalast.to/stream/... (vollständig)
+    if url_path.startswith("//"):
+        url = "https:" + url_path
+    elif url_path.startswith("http"):
+        url = url_path
+    else:
+        url = FILMPALAST_BASE + url_path
     try:
         html = await scraper._fetch_page(client, url)
         if not html:
@@ -163,6 +169,7 @@ async def get_filmpalast_stream(client: httpx.AsyncClient,
 
         if not hoster_links:
             return None
+
 
         # Nach Praeferenz sortieren
         hoster_links.sort(key=lambda h: next(
