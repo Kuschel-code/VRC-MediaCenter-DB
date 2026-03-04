@@ -86,7 +86,14 @@ async def get_stream_for_language(client: httpx.AsyncClient,
         if not html:
             return None
         
-        # Pruefe ob Sprache verfuegbar (Hoster-Links vorhanden?)
+        # SerienStream: Spezial-Resolver für iframe → redirect → VOE → delivery → HLS
+        if any(d in base_url for d in ["serienstream.to", "s.to", "bs.to"]):
+            stream = await asyncio.to_thread(scraper._resolve_serienstream_hoster, html, base_url)
+            if stream:
+                return stream
+            return None  # Kein Fallback nötig, STO nutzt nur diesen Weg
+        
+        # AniWorld/Standard: Pruefe ob Sprache verfuegbar (Hoster-Links vorhanden?)
         soup = BeautifulSoup(html, "lxml")
         hoster_links = scraper._find_hoster_links(soup)
         if not hoster_links:
