@@ -169,7 +169,7 @@ def _cloudscraper_get(url: str) -> str | None:
 WORKER_PROXY = "https://vrc-media-center.weltraumaffe02.workers.dev/proxy"
 
 # Domains die per CUII gesperrt sind und den Proxy brauchen
-CUII_BLOCKED = ["serienstream.to", "s.to", "bs.to", "serien.sx"]
+CUII_BLOCKED = ["serienstream.to", "s.to", "bs.to", "serien.sx", "filmpalast.to"]
 
 def _proxy_get(url: str) -> str | None:
     """Holt eine Seite über den Cloudflare Worker Proxy (umgeht CUII)."""
