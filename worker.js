@@ -108,7 +108,8 @@ async function handleRequest(request, event) {
         }
 
         // Whitelist: Nur erlaubte Domains (kein offener Proxy!)
-        const allowed = ["serienstream.to", "s.to", "bs.to", "serien.sx", "aniworld.to", "filmpalast.to"];
+        const allowed = ["serienstream.to", "s.to", "bs.to", "serien.sx", "aniworld.to", "filmpalast.to",
+            "voe.sx", "vidoza.net", "streamtape.com", "doodstream.com", "filemoon.sx"];
         let targetHost;
         try {
             targetHost = new URL(targetUrl).hostname;
@@ -116,8 +117,10 @@ async function handleRequest(request, event) {
             return new Response("Invalid URL", { status: 400, headers: CORS });
         }
         if (!allowed.some(d => targetHost === d || targetHost.endsWith("." + d))) {
-            return new Response("Domain not allowed", { status: 403, headers: CORS });
+            return new Response("Domain not allowed: " + targetHost, { status: 403, headers: CORS });
         }
+
+        const noRedirect = url.searchParams.get("noredirect") === "1";
 
         try {
             const resp = await fetch(targetUrl, {
@@ -126,12 +129,25 @@ async function handleRequest(request, event) {
                     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8",
                     "Accept-Language": "de-DE,de;q=0.9,en-US;q=0.8,en;q=0.7",
                 },
-                redirect: "follow",
+                redirect: noRedirect ? "manual" : "follow",
             });
+
+            if (noRedirect && (resp.status >= 300 && resp.status < 400)) {
+                const location = resp.headers.get("Location") || "";
+                return new Response(JSON.stringify({ redirect: location, status: resp.status }), {
+                    status: 200,
+                    headers: { "Content-Type": "application/json", ...CORS },
+                });
+            }
+
             const body = await resp.text();
             return new Response(body, {
                 status: resp.status,
-                headers: { "Content-Type": "text/html; charset=utf-8", ...CORS },
+                headers: {
+                    "Content-Type": resp.headers.get("Content-Type") || "text/html; charset=utf-8",
+                    "X-Final-Url": resp.url || targetUrl,
+                    ...CORS,
+                },
             });
         } catch (e) {
             return new Response("Proxy fetch error: " + e.message, { status: 502, headers: CORS });
