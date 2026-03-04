@@ -1,171 +1,23 @@
-A 30 Old's Health and Physical Education|https://image.tmdb.org/t/p/w500/izvmVfsgwUjxbEBLhM4UL5agJSZ.jpg|a-30-olds-health-and-physical-education|Animation|2011|6.0
-A Gatherer's Adventure in Isekai|https://image.tmdb.org/t/p/w500/oD4HawWJxmIGNzqwNw7SCFNjaoV.jpg|a-gatherers-adventure-in-isekai|Animation|2025|7.6
-A Gentle Noble's Vacation Recommendation|https://image.tmdb.org/t/p/w500/v0jFsByv3sX4aDpqgpoC7hjtqB8.jpg|a-gentle-nobles-vacation-recommendation|Animation|2026|8.9
-A Journey Through Another World: Raising Kids While Adventuring|https://image.tmdb.org/t/p/w500/1uAbyIVfe1LQQnLCX0dlAiUx1yP.jpg|a-journey-through-another-world-raising-kids-while-adventuring|Animation|2024|7.3
-A Place Further Than the Universe|https://image.tmdb.org/t/p/w500/hg14w0R6YRDARwXPsMNxVeWfptb.jpg|a-place-further-than-the-universe|Animation|2018|7.8
-A Playthrough of a Certain Dude's VRMMO Life|https://image.tmdb.org/t/p/w500/sCLrdFdsweruRFLdN1DytcwHBZw.jpg|a-playthrough-of-a-certain-dudes-vrmmo-life|Animation|2023|6.3
-A Returner's Magic Should Be Special|https://image.tmdb.org/t/p/w500/nBWVWRvSomkuWN5SbJPVQBmwBdq.jpg|a-returners-magic-should-be-special|Animation|2023|7.5
-A Wild Last Boss Appeared!|https://image.tmdb.org/t/p/w500/uLkimDmIWb4VdgFUuiMlS8wGi5S.jpg|a-wild-last-boss-appeared|Animation|2025|7.5
+A 30 Old's Health and Physical Education||a-30-olds-health-and-physical-education|||
+A Gatherer's Adventure in Isekai||a-gatherers-adventure-in-isekai|||
+A Gentle Noble's Vacation Recommendation||a-gentle-nobles-vacation-recommendation|||
+A Journey Through Another World: Raising Kids While Adventuring||a-journey-through-another-world-raising-kids-while-adventuring|||
+A Place Further Than the Universe||a-place-further-than-the-universe|||
+A Returner's Magic Should Be Special||a-returners-magic-should-be-special|||
+A Wild Last Boss Appeared!||a-wild-last-boss-appeared|||
 Adventures of Maya the Honeybee||adventures-of-maya-the-honeybee|||
-Afterlost|https://image.tmdb.org/t/p/w500/snEeC8F69PelHxk5vzCh1wjj9o9.jpg|afterlost|Animation|2019|4.8
-Alle meine Freunde|https://image.tmdb.org/t/p/w500/1S8ATfw5iJh1ZVjWiA1BBxfZDJj.jpg|alle-meine-freunde|Animation|1983|
-Altair: A Record of Battles|https://image.tmdb.org/t/p/w500/3qQJ6u6XLNhaLD1nvAicBwTFb3y.jpg|altair-a-record-of-battles|Animation|2017|7.4
-An Adventurer’s Daily Grind at Age 29|https://image.tmdb.org/t/p/w500/rnwq4Z17xEV29QiT5Kwy9Sh6R8y.jpg|an-adventurers-daily-grind-at-age-29|Animation|2026|9.0
-Ange Vierge|https://image.tmdb.org/t/p/w500/sYMWLlLs3WBFm6sttEApY0JupX8.jpg|ange-vierge|Action & Abenteuer|2016|4.7
+Afterlost||afterlost|||
+Alle meine Freunde||alle-meine-freunde|||
+Altair: A Record of Battles||altair-a-record-of-battles|||
+An Adventurer’s Daily Grind at Age 29||an-adventurers-daily-grind-at-age-29|||
+Ange Vierge||ange-vierge|||
 Angel's Egg||angels-egg|||
 Animal Crossing||animal-crossing|||
-Another Journey to the West|https://image.tmdb.org/t/p/w500/6HI0ouLggqgeCACv6Y2BnxY8XwQ.jpg|another-journey-to-the-west|Animation|2024|5.0
-Appare-Ranman!|https://image.tmdb.org/t/p/w500/mEJ4sm3QeU3k8ERApIQSOzQaDId.jpg|appare-ranman|Animation|2020|7.1
-Arata the Legend|https://image.tmdb.org/t/p/w500/3Jb35wxSy9zBe5VvoIG8NKJPfnF.jpg|arata-the-legend|Animation|2013|6.1
-Are You Lost?|https://image.tmdb.org/t/p/w500/tsEyKSoiDMdbaEavoXRC5DERgAV.jpg|are-you-lost|Animation|2019|7.9
-Arifureta: From Commonplace to World’s Strongest|https://image.tmdb.org/t/p/w500/kB9tdE00Z5zWIJQux1jiYvRyPIC.jpg|arifureta-from-commonplace-to-worlds-strongest|Animation|2019|8.4
-Arknights: Prelude to Dawn|https://image.tmdb.org/t/p/w500/yvNkvdYNS8Pzyu4Rsiflvdg8ogh.jpg|arknights-prelude-to-dawn|Animation|2022|6.4
-Atelier Escha & Logy: Alchemists of the Dusk Sky|https://image.tmdb.org/t/p/w500/hywo9iVfcydKT9aYX6P34Qta7CY.jpg|atelier-escha-logy-alchemists-of-the-dusk-sky|Animation|2014|7.2
-Atelier Ryza: Ever Darkness & the Secret Hideout The Animation|https://image.tmdb.org/t/p/w500/9jKPfjNCJycFys8iasWXZJbpRFp.jpg|atelier-ryza-ever-darkness-the-secret-hideout-the-animation|Animation|2023|6.6
-A Certain Magical Index|https://image.tmdb.org/t/p/w500/3dvNJsc1qfTuOxTQyl0gzIybWGQ.jpg|a-certain-magical-index|Animation|2008|7.5
-A Certain Scientific Accelerator|https://image.tmdb.org/t/p/w500/vD6yqlAyzrFzs2bTAH6gI2G1AyH.jpg|a-certain-scientific-accelerator|Animation|2019|7.5
-A Certain Scientific Railgun|https://image.tmdb.org/t/p/w500/clPfDVNKT8hkmH7ydBSxQ3dxup9.jpg|a-certain-scientific-railgun|Animation|2009|7.3
-A Chivalry of a Failed Knight|https://image.tmdb.org/t/p/w500/d48gIgIwhOBBeOYCPZEa52V1YPl.jpg|a-chivalry-of-a-failed-knight|Animation|2015|7.0
-A Will Eternal|https://image.tmdb.org/t/p/w500/jgeAAUyACa4KIdOPafFlWas3em5.jpg|a-will-eternal|Animation|2020|8.9
-Absolute Duo|https://image.tmdb.org/t/p/w500/lbtRPdxPYwhzflTQRmQpKrskzJm.jpg|absolute-duo|Animation|2015|7.7
-Accel World|https://image.tmdb.org/t/p/w500/lUatfX1FkANXzyCLbymsWuwFGEx.jpg|accel-world|Animation|2012|7.6
-Active Raid|https://image.tmdb.org/t/p/w500/c1o3sK5FHr26IQ4JzsNElY6kqW2.jpg|active-raid|Animation|2016|6.1
-Aesthetica of a Rogue Hero|https://image.tmdb.org/t/p/w500/9liqeO3WE6g0tqyXJbsyEGbnkgv.jpg|aesthetica-of-a-rogue-hero|Animation|2012|6.9
-Akiba Maid War|https://image.tmdb.org/t/p/w500/xtoKI0gu03scuXJ9dI4gQSWh5t0.jpg|akiba-maid-war|Animation|2022|6.8
-Akiba’s Trip: The Animation|https://image.tmdb.org/t/p/w500/vHba6T5GKimojrXTLvEETDdFSr7.jpg|akibas-trip-the-animation|Action & Abenteuer|2017|6.9
-Akira||akira|Drama|2023|
-Akudama Drive|https://image.tmdb.org/t/p/w500/e0xNHFFiMJbU1eGu9d1fMKFecr7.jpg|akudama-drive|Animation|2020|7.5
-Akuma-Kun|https://image.tmdb.org/t/p/w500/3frWTreENCV0ZQfLnNRYnCBwRUC.jpg|akuma-kun|Animation|2023|7.0
-Alice Gear Aegis Expansion|https://image.tmdb.org/t/p/w500/zzEI9afGHbcN5DGEyR4ULoEj34j.jpg|alice-gear-aegis-expansion|Animation|2023|4.8
-AMAIM Warrior at the Borderline|https://image.tmdb.org/t/p/w500/k4tntuoJAKFzev51yGTtoECqYAI.jpg|amaim-warrior-at-the-borderline|Animation|2021|5.8
-Ancient Girl’s Frame|https://image.tmdb.org/t/p/w500/kKt7s9M2MDZmDTYNZP4Clz0RX1V.jpg|ancient-girls-frame|Animation|2021|4.6
-Angel Heart|https://image.tmdb.org/t/p/w500/5o0fpeaB5wnq8HDNMendjlJ3pzX.jpg|angel-heart|Animation|2005|6.1
-Angolmois: Record of Mongol Invasion|https://image.tmdb.org/t/p/w500/aiKhbZsaqRc5qhS8LfVkpj8kiEh.jpg|angolmois-record-of-mongol-invasion|Animation|2018|6.5
-Anti Magic Academy: Test-Trupp 35|https://image.tmdb.org/t/p/w500/sCu2TDgCT0qJ7cxY1tA4GewRkeD.jpg|anti-magic-academy-test-trupp-35|Action & Abenteuer|2015|7.7
-Aoharu x Machinegun|https://image.tmdb.org/t/p/w500/48SmXGhBCgwABuoP8wRNrjD4giF.jpg|aoharu-x-machinegun|Animation|2015|7.7
-Appleseed XIII|https://image.tmdb.org/t/p/w500/nlSNdTPBot1VETOgJw05ryHXDHk.jpg|appleseed-xiii|Animation|2011|5.6
-Arpeggio of Blue Steel: Ars Nova|https://image.tmdb.org/t/p/w500/mqh0c049az1sS1KlXSKl0psFlrx.jpg|arpeggio-of-blue-steel-ars-nova|Animation|2013|7.5
-Assassins Pride|https://image.tmdb.org/t/p/w500/cEG0QHGpHiKxNir77MWN4VPad3l.jpg|assassins-pride|Animation|2019|6.8
-Assault Lily: Bouquet|https://image.tmdb.org/t/p/w500/wXTOfogccbGDmeTgTbQIiOSyaoE.jpg|assault-lily-bouquet|Animation|2020|7.7
-Astra Lost in Space|https://image.tmdb.org/t/p/w500/iQtvwkseinHBxQHxIIOViZw9t9T.jpg|astra-lost-in-space|Animation|2019|7.8
-Asura Cryin’|https://image.tmdb.org/t/p/w500/9PMG7rbOMSbPSqWOuVVpCdO6usz.jpg|asura-cryin|Action & Abenteuer|2009|6.9
-AYAKA (2023)||ayaka-2023|||
-Ayakashi Triangle|https://image.tmdb.org/t/p/w500/7THh6KLjxIXCQcVxSZCr8hyJThS.jpg|ayakashi-triangle|Animation|2023|6.9
-Azur Lane|https://image.tmdb.org/t/p/w500/gXwJAE9DnuP3wiuZPaZpnNaiE5h.jpg|azur-lane|Action & Abenteuer|2019|7.5
-A Wind Named Amnesia||a-wind-named-amnesia|||
-A.I.C.O. Incarnation|https://image.tmdb.org/t/p/w500/1vOPpRqrYwwKf4HV4ybSfb4j3oo.jpg|aico-incarnation|Animation|2018|6.4
-Akame ga Kill!|https://image.tmdb.org/t/p/w500/hDzm2VXxdeK5kztUN3RWTkBsBZg.jpg|akame-ga-kill|Animation|2014|8.3
-Alderamin on the Sky|https://image.tmdb.org/t/p/w500/oKMtEcTwn4Rcj5fg5A7cvfdKeTT.jpg|alderamin-on-the-sky|Action & Abenteuer|2016|7.2
-Aldnoah.Zero|https://image.tmdb.org/t/p/w500/rwDgK4FqjjmAKBjJyvO2thZizxD.jpg|aldnoahzero|Animation|2014|7.6
-An Archdemon's Dilemma: How to Love Your Elf Bride|https://image.tmdb.org/t/p/w500/iW0iY5Fv0V6oHQ33Jk9iTsyV3Y6.jpg|an-archdemons-dilemma-how-to-love-your-elf-bride|Animation|2024|7.2
-Apocalypse Bringer Mynoghra|https://image.tmdb.org/t/p/w500/nrd2DMbn39Usv9Lp5LpHh67yVAN.jpg|apocalypse-bringer-mynoghra|Animation|2025|7.4
-Aquarion|https://image.tmdb.org/t/p/w500/n3gR3ajpnfFA2OKIt6FCoDduwxg.jpg|aquarion|Animation|2005|6.5
-Attack on Titan|https://image.tmdb.org/t/p/w500/qlbcGr0EYKRICD0MTrIwnIztQna.jpg|attack-on-titan|Animation|2013|8.7
-A Dark Rabbit has Seven Lives|https://image.tmdb.org/t/p/w500/g9UcSYDXnO9upPIkG5T0EGH7pVu.jpg|a-dark-rabbit-has-seven-lives|Sci-Fi & Fantasy|2011|5.5
-A Nobody's Way Up to an Exploration Hero|https://image.tmdb.org/t/p/w500/hY8rN6dkGHp8LC1fE24cqeFoSfJ.jpg|a-nobodys-way-up-to-an-exploration-hero|Animation|2024|7.5
-Agent Aika|https://image.tmdb.org/t/p/w500/9i5tejp6j1Qf01UjBZURs6Yku8r.jpg|agent-aika|Action & Abenteuer|1997|8.0
-Akashic Records of Bastard Magical Instructor|https://image.tmdb.org/t/p/w500/drBuXuI6D7d7n0YntzTmLafQPJf.jpg|akashic-records-of-bastard-magical-instructor|Animation|2017|8.4
-Alice & Zoroku|https://image.tmdb.org/t/p/w500/kCBp674A408yrYJmeovb1PvUNFs.jpg|alice-zoroku|Animation|2017|6.8
-Am I Actually the Strongest?|https://image.tmdb.org/t/p/w500/kG5Y53kksNy3f8BjOvhVBILUmNl.jpg|am-i-actually-the-strongest|Animation|2023|7.4
-Arcana Famiglia|https://image.tmdb.org/t/p/w500/iJQv5pcYzZYfguY8YyV5rlvMBoE.jpg|arcana-famiglia|Animation|2012|6.8
-Aria the Scarlet Ammo|https://image.tmdb.org/t/p/w500/luGh4M3QdvGG4skCF7PeScTNW7k.jpg|aria-the-scarlet-ammo|Action & Abenteuer|2011|7.3
-Aria the Scarlet Ammo AA|https://image.tmdb.org/t/p/w500/6B8H1mx1YHNJL6CiSTaQ1RrP5E4.jpg|aria-the-scarlet-ammo-aa|Animation|2015|5.6
-Armed Girl's Machiavellism|https://image.tmdb.org/t/p/w500/yLjeR0yEMMjDNMb505N8QX5MsR7.jpg|armed-girls-machiavellism|Animation|2017|6.7
-As a Reincarnated Aristocrat, I’ll Use My Appraisal Skill to Rise in the New World|https://image.tmdb.org/t/p/w500/6Wmyefo83QKX0Bn4HE8H3EuMXIA.jpg|as-a-reincarnated-aristocrat-ill-use-my-appraisal-skill-to-rise-in-the-new-world|Animation|2024|7.4
-Assassination Classroom|https://image.tmdb.org/t/p/w500/fIOYLPOorKvP4wut9y0edpnWROz.jpg|assassination-classroom|Animation|2015|8.4
-Atom - The Beginning|https://image.tmdb.org/t/p/w500/AiAFZiPnqvDpMq38eU69Gi3AOUe.jpg|atom-the-beginning|Sci-Fi & Fantasy|2017|5.4
-A Mangaka's Weirdly Wonderful Workplace|https://image.tmdb.org/t/p/w500/tth6VcUo38bRI8aI5AY6fQOJVsG.jpg|a-mangakas-weirdly-wonderful-workplace|Animation|2025|8.0
-Azumanga Daioh|https://image.tmdb.org/t/p/w500/7QTvOTafhP9IraqxzHi4trgPgjd.jpg|azumanga-daioh|Animation|2002|7.9
-Amanchu!|https://image.tmdb.org/t/p/w500/2C85K99bMbG7dZdNBGHShZbtMq8.jpg|amanchu|Animation|2016|6.2
-Angel's 3Piece!|https://image.tmdb.org/t/p/w500/aVmLA24NypvwPkh9BGASQlOLuLu.jpg|angels-3piece|Animation|2017|6.8
-Anne of Green Gables|https://image.tmdb.org/t/p/w500/ueSbEVZf0vHzvEmPpeXzcDUOeFB.jpg|anne-of-green-gables|Drama|1985|8.7
-Arte|https://image.tmdb.org/t/p/w500/gHBc5rtFRRTYP9EJXqjyNnFidpp.jpg|arte|Animation|2020|7.1
-Ascendance of a Bookworm|https://image.tmdb.org/t/p/w500/cBgA4PdYNr0EqXB1naRe1ndrC33.jpg|ascendance-of-a-bookworm|Animation|2019|8.1
-Aura: Koga Maryuin’s Last War||aura-koga-maryuins-last-war|||
-A Silent Voice||a-silent-voice||2025|
-ACCA: 13-Territory Inspection Dept.|https://image.tmdb.org/t/p/w500/4djZf2wiFkkkTSX3vHHEiq6pMRs.jpg|acca-13-territory-inspection-dept|Animation|2017|7.2
-Air|https://image.tmdb.org/t/p/w500/wPsxCdeuvTH8EaJKk06iOkvy8Rk.jpg|air|Animation|2005|6.1
-Ameku M.D.: Doctor Detective|https://image.tmdb.org/t/p/w500/jfUwdU2MSi4oZoc8hErn5cOI1Gs.jpg|ameku-md-doctor-detective|Animation|2025|7.2
-Amnesia|https://image.tmdb.org/t/p/w500/fKGuI3OJyjf8gMmgZValT8zB6Ei.jpg|amnesia|Animation|2013|5.5
-Angel Beats!|https://image.tmdb.org/t/p/w500/6FGbsF8k9dJrHfFVYV9mkoMRWvn.jpg|angel-beats|Animation|2010|7.9
-Anne Shirley|https://image.tmdb.org/t/p/w500/rwgWe6wAgP7JDbXdPNdrQO2UQT5.jpg|anne-shirley|Animation|2025|8.0
-AnoHana: The Flower We Saw That Day|https://image.tmdb.org/t/p/w500/dZf3KcRtHBzJ4EjgjwTuqYqoGJe.jpg|anohana-the-flower-we-saw-that-day|Animation|2011|8.2
-Aoi Bungaku Series|https://image.tmdb.org/t/p/w500/ht1PGrCdSY95E1Zh22ZNU7033MF.jpg|aoi-bungaku-series|Animation|2009|6.8
-Apocalypse Hotel|https://image.tmdb.org/t/p/w500/wkjNTpZCH1cb2vQdWUne80OXkUm.jpg|apocalypse-hotel|Animation|2025|8.8
-Acro Trip|https://image.tmdb.org/t/p/w500/u6D1M4m4IkCmy6Aj5SIVeNfi5d5.jpg|acro-trip|Animation|2024|6.1
-Afro Samurai|https://image.tmdb.org/t/p/w500/dOTae78KJ0beGtP5lNP8lrvWLPc.jpg|afro-samurai|Animation|2007|7.3
-A3!|https://image.tmdb.org/t/p/w500/2QROy0rSIv3bbtPid79vagE6zBl.jpg|a3|Animation|2020|6.4
-Ace of the Diamond|https://image.tmdb.org/t/p/w500/2kqZX7OKVHkLm2XmI2AXxAd0MrA.jpg|ace-of-the-diamond|Animation|2013|8.0
-Ahiru no Sora|https://image.tmdb.org/t/p/w500/emHuXZPwTxqkzNtwOTsmf0CERrX.jpg|ahiru-no-sora|Animation|2019|8.4
-Aikatsu Stars!|https://image.tmdb.org/t/p/w500/fiWqW5wYF702dpQWwSeRwKOyXqZ.jpg|aikatsu-stars|Animation|2016|7.3
-Aikatsu!|https://image.tmdb.org/t/p/w500/tRALkRAPfXlDsJ8XPx9Shz4mvsC.jpg|aikatsu|Animation|2012|6.7
-Air Gear|https://image.tmdb.org/t/p/w500/fbNkD6MxjSuAN9TFP6rsWwo5gkc.jpg|air-gear|Komoedie|2006|7.2
-Air Master|https://image.tmdb.org/t/p/w500/zGzDKBByPb3AmIvqCbHBGCKtHBg.jpg|air-master|Animation|2003|8.2
-AKB0048|https://image.tmdb.org/t/p/w500/lRTmEAerrjdBEqGzRA8y1lp8BoF.jpg|akb0048|Animation|2012|5.7
-All Out!!|https://image.tmdb.org/t/p/w500/vj7gUFUHkgTK9SBCxeW9puI7fmc.jpg|all-out|Animation|2016|6.9
-Angelic Layer|https://image.tmdb.org/t/p/w500/nrVA34pYtKrU3dWe1qNwX3KW4W.jpg|angelic-layer|Animation|2001|7.1
-Aoashi|https://image.tmdb.org/t/p/w500/bR33xoasXnezj9UM0Murnjpyz9T.jpg|aoashi|Animation|2022|7.5
-Aokana Four Rhythm Across the Blue|https://image.tmdb.org/t/p/w500/lkcHwnrYmxLMOZmhgcsJd4Afidd.jpg|aokana-four-rhythm-across-the-blue|Animation|2016|7.0
-ARP Backstage Pass|https://image.tmdb.org/t/p/w500/sNizur7SsRX3VfhrJWWY4wPE1Ba.jpg|arp-backstage-pass|Animation|2020|8.5
-Another|https://image.tmdb.org/t/p/w500/6qGNb8onKau8LUAPdKSoRHpNc3s.jpg|another|Animation|2012|8.3
-A Centaur's Life|https://image.tmdb.org/t/p/w500/wmyH7pdCo1RAqlD1rXwmFH9x8OO.jpg|a-centaurs-life|Animation|2017|6.8
-A Destructive God Sits Next to Me|https://image.tmdb.org/t/p/w500/aXKWOTs2nBst2crCz3cX31JCeAo.jpg|a-destructive-god-sits-next-to-me|Animation|2020|7.2
-A Herbivorous Dragon of 5,000 Years Gets Unfairly Villainized|https://image.tmdb.org/t/p/w500/mlLyGEXCHBEqTfsMlAennR7pqVq.jpg|a-herbivorous-dragon-of-5000-years-gets-unfairly-villainized|Animation|2022|6.4
-A Ninja and an Assassin Under One Roof|https://image.tmdb.org/t/p/w500/dk23TT4JXGwPVZAZ1AT7iNYmcOE.jpg|a-ninja-and-an-assassin-under-one-roof|Animation|2025|6.9
-A Salad Bowl of Eccentrics|https://image.tmdb.org/t/p/w500/syqUYWnOIDMzrplUQpcg4dpCxF3.jpg|a-salad-bowl-of-eccentrics|Animation|2024|6.5
-A Terrified Teacher at Ghoul School!|https://image.tmdb.org/t/p/w500/cVKdSKAXsZezOlonygXETvP0rMl.jpg|a-terrified-teacher-at-ghoul-school|Animation|2024|7.5
-Abciee Working Diary|https://image.tmdb.org/t/p/w500/2UiirQKyNqpwh14dJ8PpJABhaH8.jpg|abciee-working-diary|Animation|2021|5.0
-Africa Salaryman|https://image.tmdb.org/t/p/w500/jQNVUTwmhU5IJnPMEN8HjREAW0J.jpg|africa-salaryman|Animation|2019|6.0
-After School Dice Club|https://image.tmdb.org/t/p/w500/tjDK0EVWoPhxZGOhk66eOlV6Hzl.jpg|after-school-dice-club|Animation|2019|6.3
-After-school Hanako-kun|https://image.tmdb.org/t/p/w500/z2HTuCdpRObzpR1oLRqodKrsEXh.jpg|after-school-hanako-kun|Animation|2023|8.0
-Aggretsuko|https://image.tmdb.org/t/p/w500/aVcbyBT1hvgFRi6HS2VkjydkjCO.jpg|aggretsuko|Animation|2018|7.4
-Aho-Girl|https://image.tmdb.org/t/p/w500/qqRrnCiwgN1zKHZKmaU6mvCYtww.jpg|aho-girl|Komoedie|2017|7.8
-Aiura|https://image.tmdb.org/t/p/w500/7jghz8BJVYNbrMeQPRGicgiPZvn.jpg|aiura|Animation|2013|6.6
-All Saints Street|https://image.tmdb.org/t/p/w500/1BaTP3cWQdnla6IhFWCuFEw7svo.jpg|all-saints-street|Animation|2020|7.2
-Alma-chan Wants to Be a Family!|https://image.tmdb.org/t/p/w500/gAYCa3b1nHkxb0FTtPRHkYmg6Ol.jpg|alma-chan-wants-to-have-a-family|Animation|2025|7.1
-Amagi Brilliant Park|https://image.tmdb.org/t/p/w500/menCOx2SGRg3cHAfEHOeJIXG9RL.jpg|amagi-brilliant-park|Animation|2014|7.2
-Amazing Stranger|https://image.tmdb.org/t/p/w500/pPxakEs1TP6JhclPceGxHBoE8Ey.jpg|amazing-stranger|Animation|2019|6.7
-And You Thought There Is Never a Girl Online?|https://image.tmdb.org/t/p/w500/l12unnbaLLnm4bHpNRZ3K0EkTVt.jpg|and-you-thought-there-is-never-a-girl-online|Animation|2016|6.7
-Ane Log: Big Sister Moyako’s Never-ending Monologue||ane-log-big-sister-moyakos-never-ending-monologue|||
-Angel Legend|https://image.tmdb.org/t/p/w500/jQXIbP4VEGQbvJ3mLcv94GIcfeD.jpg|angel-legend|Animation|1996|6.5
-Anima Yell!|https://image.tmdb.org/t/p/w500/qBo1kthm1A4YMkzNmIo7Pq3LVcE.jpg|anima-yell|Animation|2018|6.9
-Arakawa Under the Bridge|https://image.tmdb.org/t/p/w500/xNxYeosP9jlO9RpHmEgvM3w8kml.jpg|arakawa-under-the-bridge|Animation|2010|6.4
-Armor Shop for Ladies & Gentlemen|https://image.tmdb.org/t/p/w500/ryMkIrCbXgIxOl4tBfCMQsHI131.jpg|armor-shop-for-ladies-gentlemen|Animation|2018|6.5
-As Miss Beelzebub Likes It|https://image.tmdb.org/t/p/w500/3KJAPXJOYKdtyq040PuSBe9008B.jpg|as-miss-beelzebub-likes-it|Animation|2018|6.5
-Asteroid in Love|https://image.tmdb.org/t/p/w500/35LuxsAMMPqXUWmS418CtiqFPXl.jpg|asteroid-in-love|Animation|2020|6.5
-Attack on Titan: Junior High|https://image.tmdb.org/t/p/w500/vV9KYoYrnKfFHiYDVCmPyOUSNlM.jpg|attack-on-titan-junior-high|Animation|2015|7.8
-Azur Lane - Slow Ahead!|https://image.tmdb.org/t/p/w500/3PkcQPUztJIldbU19o86P5fTCgh.jpg|azur-lane-slow-ahead|Animation|2021|5.7
-Ace Attorney|https://image.tmdb.org/t/p/w500/ykBxH5jDVNprP5dcfLa32pTLW5h.jpg|ace-attorney|Animation|2016|6.9
-Agatha Christie's Great Detectives Poirot and Marple|https://image.tmdb.org/t/p/w500/7D19c9ndhrd0hpMIbIBbLC2q0Ya.jpg|agatha-christies-great-detectives-poirot-and-marple|Mystery|2004|6.7
-A Girl & Her Guard Dog|https://image.tmdb.org/t/p/w500/3t2EeNMCwUAtm8mRs1DSz8rnzO4.jpg|a-girl-her-guard-dog|Animation|2023|5.1
-A Whisker Away||a-whisker-away|||
-Anonymous Noise|https://image.tmdb.org/t/p/w500/7fYak9DTQLVU49NTZG3k3sGGC8X.jpg|anonymous-noise|Animation|2017|6.6
-Astraea Testament: The Good Witch of the West|https://image.tmdb.org/t/p/w500/n0Vv7aOejLNyerUSyqEqaIELqXg.jpg|astraea-testament-the-good-witch-of-the-west|Animation|2006|9.5
-Ai-Mai-Mi|https://image.tmdb.org/t/p/w500/1hVJnWV0ghfhN3TLKFUxkYn9S2i.jpg|ai-mai-mi|Animation|2013|5.8
-Asobi Asobase: Workshop of Fun|https://image.tmdb.org/t/p/w500/de9UhF8J7HoTMGx1KahTZrcnZ88.jpg|asobi-asobase-workshop-of-fun|Komoedie|2018|8.5
-A Couple of Cuckoos|https://image.tmdb.org/t/p/w500/rK5ZZ9BdA3xcaNmnJIvf4FBA8xT.jpg|a-couple-of-cuckoos|Animation|2022|7.1
-A Galaxy Next Door|https://image.tmdb.org/t/p/w500/d4IrETiK33WQ77XwIt7Iz4KCxKw.jpg|a-galaxy-next-door|Animation|2023|7.2
-A Misanthrope Teaches a Class for Demi-Humans|https://image.tmdb.org/t/p/w500/s1EWar6vrZeWEKwNUIOtTDJD4O.jpg|a-misanthrope-teaches-a-class-for-demi-humans|Animation|2026|8.0
-A Mysterious Scream|https://image.tmdb.org/t/p/w500/uVL1btMrJXHZUy3vQKDzlc2RU7h.jpg|a-mysterious-scream|Drama|2008|6.8
-A Sister's All You Need|https://image.tmdb.org/t/p/w500/k8IBQVcjiFk2w8T0tTzHuJLt7RW.jpg|a-sisters-all-you-need|Komoedie|2017|7.6
-Actually, I am...|https://image.tmdb.org/t/p/w500/kG5Y53kksNy3f8BjOvhVBILUmNl.jpg|actually-i-am|Animation|2023|7.4
-After the Rain|https://image.tmdb.org/t/p/w500/y6BnEwogJzlKtnbESa453dZKNi0.jpg|after-the-rain|Animation|2018|7.1
-Aharen-san wa Hakarenai|https://image.tmdb.org/t/p/w500/3Pqe5r4THECyIsJ58C4YLFZD6nj.jpg|aharen-san-wa-hakarenai|Animation|2022|7.3
-Ai Tenchi Muyo!|https://image.tmdb.org/t/p/w500/rfRVtVJtGzhg6v3mfR5qzspQdI7.jpg|ai-tenchi-muyo|Animation|2014|7.4
-Alya Sometimes Hides Her Feelings in Russian|https://image.tmdb.org/t/p/w500/mvphQkTzkMyeJ1E7YmLDc8nc7SS.jpg|alya-sometimes-hides-her-feelings-in-russian|Animation|2024|7.9
-Amagami SS|https://image.tmdb.org/t/p/w500/jCfRJWiLPvOrZO0f7emXDxiRkBK.jpg|amagami-ss|Animation|2010|7.3
-Ao-chan Can’t Study!|https://image.tmdb.org/t/p/w500/LL4poghLxbJq2uwKwqZWAB52zD.jpg|ao-chan-cant-study|Animation|2019|7.8
-April Showers Bring May Flowers|https://image.tmdb.org/t/p/w500/ldjeoXzlOMaeo1ozlBY6KqlQAkx.jpg|april-showers-bring-may-flowers|Animation|2025|6.0
-Astarotte’s Toy|https://image.tmdb.org/t/p/w500/4ZmANWHQHRchkLdNJcgcZhbhqCC.jpg|astarottes-toy|Animation|2011|6.1
-Astro Note|https://image.tmdb.org/t/p/w500/atVpVPb49td0qPdgvE77lYbMlvf.jpg|astro-note|Animation|2024|6.4
-A Condition Called Love|https://image.tmdb.org/t/p/w500/4zdTYtknEf1egyPORghs9pPXNo5.jpg|a-condition-called-love|Animation|2024|7.3
-A Good Librarian Like a Good Shepherd|https://image.tmdb.org/t/p/w500/lcTR9lQJKtwBYsUDsYKUCyQDfCv.jpg|a-good-librarian-like-a-good-shepherd|Animation|2014|7.8
-A Sign of Affection|https://image.tmdb.org/t/p/w500/3qLwk1sf2rOzAnT48CcVLJnyNmX.jpg|a-sign-of-affection|Animation|2024|8.0
-A Star Brighter Than the Sun|https://image.tmdb.org/t/p/w500/e4MpafZrB2Tdy2IoVn7YlpCwzMy.jpg|a-star-brighter-than-the-sun|Animation|2025|7.8
-A Town Where You Live|https://image.tmdb.org/t/p/w500/n02wroEc0E3z7T05i7YkT8IEXLH.jpg|a-town-where-you-live|Animation|2013|6.1
-Adachi and Shimamura|https://image.tmdb.org/t/p/w500/tirBanHz2pb9F4Ff5a4y7t3ipmP.jpg|adachi-and-shimamura|Animation|2020|6.8
-Akebi's Sailor Uniform|https://image.tmdb.org/t/p/w500/luZhX5AQnk527jAdTnSrmoHErGK.jpg|akebis-sailor-uniform|Animation|2022|6.8
-Anyway, I’m Falling in Love with You|https://image.tmdb.org/t/p/w500/pEo0CsDfaEPZqiQYe9Hcc4BbErQ.jpg|anyway-im-falling-in-love-with-you|Animation|2025|6.8
-ATRI -My Dear Moments-|https://image.tmdb.org/t/p/w500/l6lVxakyK3NcTe7g6K0xm5ZLmZH.jpg|atri-my-dear-moments|Animation|2024|7.5
-Ajin: Demi-Human|https://image.tmdb.org/t/p/w500/uQEVd09ypPxsihePCBZMGCpDxIw.jpg|ajin-demi-human|Animation|2016|7.9
-Angels of Death|https://image.tmdb.org/t/p/w500/1sjK2VGIQSHD9QoU86aBIxLAdaq.jpg|angels-of-death|Action & Abenteuer|2018|7.9
+Another Journey to the West||another-journey-to-the-west|||
+Appare-Ranman!||appare-ranman|||
+Arata the Legend||arata-the-legend|||
+Are You Lost?||are-you-lost|||
+Arifureta: From Commonplace to World’s Strongest||arifureta-from-commonplace-to-worlds-strongest|||
+Arknights: Prelude to Dawn||arknights-prelude-to-dawn|||
+Atelier Escha & Logy: Alchemists of the Dusk Sky||atelier-escha-logy-alchemists-of-the-dusk-sky|||
+Atelier Ryza: Ever Darkness & the Secret Hideout The Animation||atelier-ryza-ever-darkness-the-secret-hideout-the-animation|||

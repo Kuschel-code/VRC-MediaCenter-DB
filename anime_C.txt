@@ -1,99 +1,13 @@
-Cagaster of an Insect Cage|https://image.tmdb.org/t/p/w500/yOIixxFPbfcGytrcYdRrC9Y1bT5.jpg|cagaster-of-an-insect-cage|Animation|2020|7.9
-Cannon Busters|https://image.tmdb.org/t/p/w500/21pFKgmMJOucGGIzKWBpkjT7FN1.jpg|cannon-busters|Animation|2019|5.9
-Captain Future|https://image.tmdb.org/t/p/w500/3L02rauaU47BhFs2mbfBt3RgGeU.jpg|captain-future|Animation|1978|8.1
-Cardfight!! Vanguard: OverDress|https://image.tmdb.org/t/p/w500/mjKtwfnz1X7ehbFgHqRoVoDT8DR.jpg|cardfight-vanguard-overdress|Animation|2021|6.5
-Cautious Hero: The Hero Is Overpowered but Overly Cautious|https://image.tmdb.org/t/p/w500/leobb4kmAFpO1XUH739fkg6PEqH.jpg|cautious-hero-the-hero-is-overpowered-but-overly-cautious|Animation|2019|8.2
-Cerberus|https://image.tmdb.org/t/p/w500/dFKUmHIeT2Ezjbdgi3oZK1oEJJP.jpg|cerberus|Animation|2016|7.6
-CESTVS: The Roman Fighter|https://image.tmdb.org/t/p/w500/zOd8z1HCYP5EApiXyrC6nx2Kk68.jpg|cestvs-the-roman-fighter|Animation|2021|7.2
-Champignon Witch|https://image.tmdb.org/t/p/w500/fnMlh7jvoPvqoIqz5bYnw8MkQwO.jpg|champignon-witch|Animation|2026|6.2
-Cinderella Chef|https://image.tmdb.org/t/p/w500/z7UbVoK84pQLTGI74QzyXoOo5OW.jpg|cinderella-chef|Action & Abenteuer|2018|6.4
-Code: Realize - Guardian of Rebirth|https://image.tmdb.org/t/p/w500/6F1o1RrRe0s8slVpySrIydAaTb5.jpg|code-realize-guardian-of-rebirth|Drama|2017|6.1
-Comet Lucifer|https://image.tmdb.org/t/p/w500/621IzHQCeQf39KOWJ45KVuPE6iV.jpg|comet-lucifer|Animation|2015|7.3
-Coppelion|https://image.tmdb.org/t/p/w500/6dRQVgfqmajmnUn1zTpl4L8zvNm.jpg|coppelion|Animation|2013|7.2
+Cagaster of an Insect Cage||cagaster-of-an-insect-cage|||
+Cannon Busters||cannon-busters|||
+Captain Future||captain-future|||
+Cardfight!! Vanguard: OverDress||cardfight-vanguard-overdress|||
+Cautious Hero: The Hero Is Overpowered but Overly Cautious||cautious-hero-the-hero-is-overpowered-but-overly-cautious|||
+Cerberus||cerberus|||
+CESTVS: The Roman Fighter||cestvs-the-roman-fighter|||
+Champignon Witch||champignon-witch|||
+Cinderella Chef||cinderella-chef|||
+Code: Realize - Guardian of Rebirth||code-realize-guardian-of-rebirth|||
+Comet Lucifer||comet-lucifer|||
+Coppelion||coppelion|||
 Cosmic Princess Kaguya!||cosmic-princess-kaguya|||
-Crest of the Stars|https://image.tmdb.org/t/p/w500/mWc8zp8QhonWFWLG8cvdMtl7jhD.jpg|crest-of-the-stars|Animation|1999|7.1
-Cutey Honey|https://image.tmdb.org/t/p/w500/9uUSPKekXh9gc0FBqK0i95kFqsO.jpg|cutey-honey|Action & Abenteuer|1997|6.4
-Cutie Honey|https://image.tmdb.org/t/p/w500/rh6bZ3aD1qVKeF8w21NewZH7jDM.jpg|cutie-honey|Animation|2018|5.2
-Campione!|https://image.tmdb.org/t/p/w500/jCuU95wiqJLsdLEb2elZZmluAZE.jpg|campione|Animation|2012|8.0
-Castlevania|https://image.tmdb.org/t/p/w500/ubDtIBwdS9b29sBofAkqWz3PqkT.jpg|castlevania|Animation|2017|8.3
-Castlevania: Nocturne|https://image.tmdb.org/t/p/w500/4XJwo95ktJ7xupw1bCMuP91kyYr.jpg|castlevania-nocturne|Animation|2023|7.8
-Cat’s Eye (2025)||cats-eye-2025|||
-Chaika: The Coffin Princess|https://image.tmdb.org/t/p/w500/zFI5AVJbihCBL9h8dDUFKCeWR5r.jpg|chaika-the-coffin-princess|Action & Abenteuer|2014|6.6
-Chain Chronicle: The Light of Haecceitas|https://image.tmdb.org/t/p/w500/rO2Gsd6jfV0qWKX7CkBirnmGNvY.jpg|chain-chronicle-the-light-of-haecceitas|Action & Abenteuer|2017|6.4
-Chained Soldier|https://image.tmdb.org/t/p/w500/ieI3bn3oBKkqbJtYEPiaCV22Gps.jpg|chained-soldier|Animation|2024|7.9
-Chaos Dragon|https://image.tmdb.org/t/p/w500/43N8CQpjwTStpWyael57Xhs7nH1.jpg|chaos-dragon|Action & Abenteuer|2015|6.8
-Chronos Ruler|https://image.tmdb.org/t/p/w500/eU0CaUJk4q1Ms81SrF90EP9bbEK.jpg|chronos-ruler|Action & Abenteuer|2017|7.4
-Clevatess|https://image.tmdb.org/t/p/w500/avajalKjBP5QjwIEb5Xs8QXg1K.jpg|clevatess|Animation|2025|7.9
-Code:Breaker|https://image.tmdb.org/t/p/w500/iwUWYgItga8EdVkqgS5R1q0V5md.jpg|codebreaker|Animation|2012|7.0
-Conception|https://image.tmdb.org/t/p/w500/nrOaefw3x3iXjnMb0FpJABIzAc0.jpg|conception|Animation|2018|5.5
-Concrete Revolutio|https://image.tmdb.org/t/p/w500/AdJYIIsMX2ijapZImmGOY9lyiNN.jpg|concrete-revolutio|Action & Abenteuer|2015|6.1
-Cop Craft|https://image.tmdb.org/t/p/w500/7g3vyoMBPhLih3h6KP0Ps4KBQUo.jpg|cop-craft|Animation|2019|6.9
-Cowboy Bebop|https://image.tmdb.org/t/p/w500/hbLDwYri1pyiEIMpICgftu7s8NE.jpg|cowboy-bebop|Animation|1998|8.5
-Cyberpunk: Edgerunners|https://image.tmdb.org/t/p/w500/wTUVYRF8LcJj10fORuLI0ucCFQW.jpg|cyberpunk-edgerunners|Animation|2022|8.5
-Caligula|https://image.tmdb.org/t/p/w500/x9yTT1euc432Efre6X85BBJkxek.jpg|caligula|Animation|2018|7.1
-Casshern Sins|https://image.tmdb.org/t/p/w500/nbJNItndfJF05MbB7DG5qSznMlC.jpg|casshern-sins|Animation|2008|7.1
-Cells at Work! Code Black|https://image.tmdb.org/t/p/w500/hIMpq1emBtu9jne67rzPjlOF9YY.jpg|cells-at-work-code-black|Animation|2021|8.2
-Chainsaw Man|https://image.tmdb.org/t/p/w500/mIz0eKhzHuSPeRSePCyoCt9bKVp.jpg|chainsaw-man|Animation|2022|8.5
-Chrome Shelled Regios|https://image.tmdb.org/t/p/w500/plEeQh43tGHlIeeMvoIXbdtgFrv.jpg|chrome-shelled-regios|Animation|2009|5.7
-Clockwork Planet|https://image.tmdb.org/t/p/w500/nRCEVzfimYSZVvuRsu3T64nZiXi.jpg|clockwork-planet|Animation|2017|6.4
-Code Geass: Lelouch of the Rebellion|https://image.tmdb.org/t/p/w500/r2sbQjPgutBLyT2Jwoh2YY5ZYTo.jpg|code-geass-lelouch-of-the-rebellion|Animation|2006|8.3
-Code Geass: Rozé of the Recapture|https://image.tmdb.org/t/p/w500/irv0m1G1FfAwleE4wwo0a5a6amb.jpg|code-geass-roz-of-the-recapture|Animation|2024|8.1
-Cross Ange: Rondo of Angel and Dragon|https://image.tmdb.org/t/p/w500/36MBuIrZQnsizcgWbNVUacjFJFX.jpg|cross-ange-rondo-of-angel-and-dragon|Animation|2014|8.2
-Cardcaptors|https://image.tmdb.org/t/p/w500/dj0uI34MOkZMTE233tfRebs0YYx.jpg|cardcaptors|Animation|1998|8.6
-Castle Town Dandelion|https://image.tmdb.org/t/p/w500/wwqbqd7YGTOvIeZsMHNjEZrpFIs.jpg|castle-town-dandelion|Sci-Fi & Fantasy|2015|8.2
-Cheating Craft|https://image.tmdb.org/t/p/w500/8xgSahlLxsIsfnXZHol0Qzj6d.jpg|cheating-craft|Action & Abenteuer|2016|5.4
-City Hunter|https://image.tmdb.org/t/p/w500/2X6YyoDyYdhoFDyfTUelpDTlTfJ.jpg|city-hunter|Action & Abenteuer|1987|7.9
-Classroom for Heroes|https://image.tmdb.org/t/p/w500/7rBoa50RsUGE9v5VntUgQ7HAU1n.jpg|classroom-for-heroes|Animation|2023|7.6
-Combatants Will Be Dispatched!|https://image.tmdb.org/t/p/w500/tBggAwG6MKVhxJaGbOyGIO96Mqd.jpg|combatants-will-be-dispatched|Animation|2021|7.8
-Campfire Cooking in Another World with My Absurd Skill|https://image.tmdb.org/t/p/w500/6IZkTbgZEkzeVPKqfe644mSxbfF.jpg|campfire-cooking-in-another-world-with-my-absurd-skill|Animation|2023|8.3
-Captivated, By You|https://image.tmdb.org/t/p/w500/a5UF6hcFmNUN4p6FSDGwiXJxuKa.jpg|captivated-by-you|Animation|2025|9.0
-Catch Me at the Ballpark!|https://image.tmdb.org/t/p/w500/eFcMiWEpry6ZslhXq5e5Q5UTGQ9.jpg|catch-me-at-the-ballpark|Animation|2025|7.9
-Classic★Stars|https://image.tmdb.org/t/p/w500/lnUVgXsD0oiKvCuqq3k62nexeeC.jpg|classicstars|Animation|2025|4.3
-Candy Boy|https://image.tmdb.org/t/p/w500/rUiEvIuGCgz9qnaiLczXPi8KrQA.jpg|candy-boy|Animation|2008|4.1
-Classroom Crisis|https://image.tmdb.org/t/p/w500/12vvTklZaXHSvfyuQMoi8HuHbh4.jpg|classroom-crisis|Animation|2015|7.5
-CUE!|https://image.tmdb.org/t/p/w500/yyCYwzb4keFcNPCQtqj2nh6URHj.jpg|cue|Animation|2022|7.1
-Carole & Tuesday|https://image.tmdb.org/t/p/w500/mTXHS0EhTMY0gdsmzYDb9HLg2Wp.jpg|carole-tuesday|Animation|2019|7.1
-Celestial Method|https://image.tmdb.org/t/p/w500/xNTk7d7oRvBQvy6v5NCcryPLS8r.jpg|celestial-method|Sci-Fi & Fantasy|2014|7.1
-Charlotte|https://image.tmdb.org/t/p/w500/kFSaVIlBRycGNfrLzJZX7dgSQ1o.jpg|charlotte|Drama|2023|8.0
-Child of Kamiari Month||child-of-kamiari-month|||
-Children of the Whales|https://image.tmdb.org/t/p/w500/hYL7qAGVddrb7IEpbTpBSFnMdox.jpg|children-of-the-whales|Animation|2017|7.3
-Children who Chase Lost Voices||children-who-chase-lost-voices|||
-Clannad|https://image.tmdb.org/t/p/w500/cfhHgzzcpYjBzDGfiJJ3y6QBaUA.jpg|clannad|Animation|2007|8.3
-Classroom of the Elite|https://image.tmdb.org/t/p/w500/mmhx3dImdsfYpcFm3J1tlQt5IRN.jpg|classroom-of-the-elite|Animation|2017|8.4
-Colorful: The Motion Picture||colorful-the-motion-picture|||
-Claymore|https://image.tmdb.org/t/p/w500/aIdsCf6XAzR2AmylK8PF22RUw1D.jpg|claymore|Action & Abenteuer|2007|8.1
-Captain Tsubasa|https://image.tmdb.org/t/p/w500/o5yUM59Y6yvlSP67Bn48BzlBKj.jpg|captain-tsubasa|Animation|2018|8.2
-Captain Tsubasa (1983)||captain-tsubasa-1983|||
-Captain Tsubasa: Road to Dream|https://image.tmdb.org/t/p/w500/lhZrkv153SSUZJ2J6AP4Jwi3kKm.jpg|captain-tsubasa-road-to-dream|Animation|2001|7.7
-Champion Joe|https://image.tmdb.org/t/p/w500/DCUYZRP8xbzSyaSd2mjF24ttZv.jpg|champion-joe|Animation|1970|7.8
-Cheer Boys!!|https://image.tmdb.org/t/p/w500/jtWgkOKNdyuaVlYDp6COWLTzSK6.jpg|cheer-danshi|Animation|2016|5.9
-Chihayafuru|https://image.tmdb.org/t/p/w500/w1oIhPunv4HIMPvMW8SJB04RNTS.jpg|chihayafuru|Animation|2011|7.6
-Cinderella Nine|https://image.tmdb.org/t/p/w500/4CacJXWfsOxMGJaUmVRoJXIlHzm.jpg|cinderella-nine|Animation|2019|5.5
-Cross Game|https://image.tmdb.org/t/p/w500/zxB623CNBYJb5ibsA85QmQopotY.jpg|cross-game|Animation|2009|8.7
-Corpse Party - Tortured Souls|https://image.tmdb.org/t/p/w500/2g7s4sT5ybJENO5AMOlZ0dor4q.jpg|corpse-party-tortured-souls|Animation|2013|6.4
-Cells at Work!|https://image.tmdb.org/t/p/w500/6fQ8KyHVPJ94fuZMmwJCDVdBwss.jpg|cells-at-work|Animation|2018|8.1
-Chillin’ in Another World with Level 2 Super Cheat Powers|https://image.tmdb.org/t/p/w500/uU8JO4PsbgpuZmbkUMPjdpxEjBO.jpg|chillin-in-another-world-with-level-2-super-cheat-powers|Animation|2024|7.3
-Chillin’ in My 30s after Getting Fired from the Demon King’s Army|https://image.tmdb.org/t/p/w500/2XkeBWqMY59mAnNQJNI7qVxC3sn.jpg|chillin-in-my-30s-after-getting-fired-from-the-demon-kings-army|Animation|2023|7.5
-CHIMIMO|https://image.tmdb.org/t/p/w500/6LTVuYTZeKBZYLIaxRFJPfOYgb2.jpg|chimimo|Animation|2022|5.4
-Chio's School Road|https://image.tmdb.org/t/p/w500/qKovHkuixL1yhH3SR4x8vOKTyPh.jpg|chios-school-road|Animation|2018|6.9
-Chuu-Bra|https://image.tmdb.org/t/p/w500/kohcTdLivBh53qJ8OLifcUta1np.jpg|chuu-bra|Animation|2010|5.8
-CITY THE ANIMATION|https://image.tmdb.org/t/p/w500/iF1lDNPZtqqUk200IBFnOe4K26m.jpg|city-the-animation|Animation|2025|8.8
-Clean Freak! Aoyama kun|https://image.tmdb.org/t/p/w500/gJGNYIk6UC5NJhzbZ3b5NkjeoHJ.jpg|clean-freak-aoyama-kun|Animation|2017|6.7
-Comic Girls|https://image.tmdb.org/t/p/w500/elWO0Ldd1XHZYW5wxRwHEWHnVOj.jpg|comic-girls|Animation|2018|6.5
-Cultural Exchange with a Game Centre Girl|https://image.tmdb.org/t/p/w500/gUJ9aChrCzf2yCCEj9M7dNRxcnZ.jpg|cultural-exchange-with-a-game-centre-girl|Animation|2025|8.8
-Cute High Earth Defense Club Love!|https://image.tmdb.org/t/p/w500/iT30nyH7OJtXxoLk1lJtLimVQu.jpg|cute-high-earth-defense-club-love|Komoedie|2015|6.6
-Case File nº221: Kabukicho|https://image.tmdb.org/t/p/w500/mQchrFUVzcOSscv830fiDblFKeu.jpg|case-file-n221-kabukicho|Animation|2019|5.0
-Citrus|https://image.tmdb.org/t/p/w500/u404BsPqJv5lxgNGLnbJbPe6PEe.jpg|citrus|Animation|2018|6.6
-Carnival Phantasm|https://image.tmdb.org/t/p/w500/tDqPa3IOm8kavnoqJu3R1csV3QQ.jpg|carnival-phantasm|Animation|2011|8.5
-C3|https://image.tmdb.org/t/p/w500/eK2gFk1GOYiLofRjSoH1cFoaSQi.jpg|c3|Animation|2013|5.5
-Call of the Night|https://image.tmdb.org/t/p/w500/dlSzlYFUqQ3baTYxM6DAZ4hLgPH.jpg|call-of-the-night|Animation|2022|7.6
-Can a Boy-Girl Friendship Survive?|https://image.tmdb.org/t/p/w500/74Oi8x6kwqgeDgfIgNVQwl9b0FT.jpg|can-a-boy-girl-friendship-survive|Animation|2025|6.6
-Cat Planet Cuties|https://image.tmdb.org/t/p/w500/23gXKFeXV96sPwkkzpYWc8qIAXd.jpg|cat-planet-cuties|Animation|2010|8.0
-Cherry Magic! Thirty Years of Virginity Can Make You a Wizard?!|https://image.tmdb.org/t/p/w500/1rv6Lw43ARlUaHXyCQASkcM43Uk.jpg|cherry-magic-thirty-years-of-virginity-can-make-you-a-wizard|Animation|2024|7.7
-Chibi Devi!|https://image.tmdb.org/t/p/w500/1HYsiVAHYIE8ln6EdZFO7QHKMLb.jpg|chibi-devi|Komoedie|2011|7.4
-Chitose Is in the Ramune Bottle|https://image.tmdb.org/t/p/w500/xCsz0dWkpoya5XK3y2UaEkXnin5.jpg|chitose-is-in-the-ramune-bottle|Animation|2025|8.0
-Chobits|https://image.tmdb.org/t/p/w500/slYEhE26dIiYfVKee5MzJSCXwJW.jpg|chobits|Animation|2002|8.1
-Cupid's Chocolates|https://image.tmdb.org/t/p/w500/hk19cU59e2sp6wtmL0eNIrzIyhs.jpg|cupids-chocolates|Animation|2015|7.3
-C - Control|https://image.tmdb.org/t/p/w500/xiUCxsq5K2UoG0EVfGRlDFMFKmB.jpg|c-control|Animation|2011|7.7
-Chäos;Child|https://image.tmdb.org/t/p/w500/p726IZ7VFmUYvxoEEhqCTO3JngQ.jpg|choschild|Animation|2017|4.9
-ChäoS;HEAd|https://image.tmdb.org/t/p/w500/lewQtkay1zX2VeedVLAbOoSzzBp.jpg|choshead|Animation|2008|6.1

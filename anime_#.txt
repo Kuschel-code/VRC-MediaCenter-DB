@@ -1,23 +1,2 @@
-100 Sleeping Princes & The Kingdom of Dreams|https://image.tmdb.org/t/p/w500/cBPMbuZXZfCsG2PZGPRqMUojsMf.jpg|100-sleeping-princes-the-kingdom-of-dreams|Animation|2018|5.7
-12 Kingdoms: Juuni Kokki|https://image.tmdb.org/t/p/w500/5aZdd5SHDnSnjSHR6hDXMHqFW8b.jpg|12-kingdoms-juuni-kokki|Animation|2002|7.7
-#Compass 2.0 Animation Project|https://image.tmdb.org/t/p/w500/9LSy5cnVmodPG4S6riSpiZxJbKT.jpg|compass-20-animation-project|Animation|2025|4.0
-009 Re:Cyborg||009-recyborg|||
-07-Ghost|https://image.tmdb.org/t/p/w500/v4pW812Jpqpf3Ih5gYGCu51kdDl.jpg|07-ghost|Animation|2009|7.2
-11eyes|https://image.tmdb.org/t/p/w500/o0UnWewTlZbtkRQDQGrKMGzruVI.jpg|11eyes|Action & Abenteuer|2009|7.3
-86: Eighty Six|https://image.tmdb.org/t/p/w500/aEG1ZtdyjDFDtlGqovvAHsAfsR6.jpg|86-eighty-six|Animation|2021|8.1
-2.43 Seiin High Shool Boys Volleyball Team|https://image.tmdb.org/t/p/w500/yhNIlXhlx8XFSPgZHP9hRtN2EKY.jpg|243-seiin-high-shool-boys-volleyball-team|Animation|2021|7.5
-.hack//SIGN|https://image.tmdb.org/t/p/w500/6fSxgsHNxGoO8EKa3E981Lxk9BA.jpg|hacksign|Action & Abenteuer|2002|6.8
-100 Metres|https://image.tmdb.org/t/p/w500/ubwVtWy86MmIEGpOOlzSdyUB4dn.jpg|100-metres|Dokumentation|2021|7.5
-18if|https://image.tmdb.org/t/p/w500/gvKKFv5aIYSAyRY0lCmcYvHqIsN.jpg|18if|Action & Abenteuer|2017|5.4
-7SEEDS|https://image.tmdb.org/t/p/w500/d84XDdYib5nEKvHm2HAh2itIgBY.jpg|7seeds|Animation|2019|7.7
-22/7|https://image.tmdb.org/t/p/w500/cjWycw8txvMmEwrvKe3ECIPYFNK.jpg|227|Animation|2020|6.8
-'Tis Time for "Torture," Princess|https://image.tmdb.org/t/p/w500/k85CRo3kUuRavFPZX1VuUUvQaaD.jpg|tis-time-for-torture-princess|Animation|2024|6.9
-16bit Sensation: ANOTHER LAYER|https://image.tmdb.org/t/p/w500/qqQHa3GCe4tSq3m9AqMaLXDVmEI.jpg|16bit-sensation-another-layer|Animation|2023|6.1
-4 Cut Hero|https://image.tmdb.org/t/p/w500/hkNZwSpscq9AdKMYGpWp0sF359l.jpg|4-cut-hero|Animation|2023|6.8
-5 Centimeters per Second||5-centimeters-per-second|||
-9-nine- Ruler's Crown|https://image.tmdb.org/t/p/w500/mM2XpYKaFIAcTkGng6byHv2I5OI.jpg|9-nine-rulers-crown|Animation|2025|4.0
-2.5 Dimensional Seduction|https://image.tmdb.org/t/p/w500/mScRmknR5OTOxaRdbzNxnJkG4Zo.jpg|25-dimensional-seduction|Animation|2024|8.3
-365 Days to the Wedding|https://image.tmdb.org/t/p/w500/xNuXxVR4P3oWGUcJFVJzOBesxeB.jpg|365-days-to-the-wedding|Animation|2024|7.4
-3D Kanojo: Real Girl|https://image.tmdb.org/t/p/w500/wqkMd5aR6ZQsPvqAQBjSFIeyjCn.jpg|3d-kanojo-real-girl|Animation|2018|8.5
-7th Time Loop: The Villainess Enjoys a Carefree Life Married to Her Worst Enemy!|https://image.tmdb.org/t/p/w500/1ttxQPgX6HJqUsXuC2HgnQRv7wZ.jpg|7th-time-loop-the-villainess-enjoys-a-carefree-life-married-to-her-worst-enemy|Animation|2024|7.9
-91 Days|https://image.tmdb.org/t/p/w500/ArJQiKRRLM3v5SoEaPN0qo6NUVp.jpg|91-days|Animation|2016|7.6
+100 Sleeping Princes & The Kingdom of Dreams||100-sleeping-princes-the-kingdom-of-dreams|||
+12 Kingdoms: Juuni Kokki||12-kingdoms-juuni-kokki|||
