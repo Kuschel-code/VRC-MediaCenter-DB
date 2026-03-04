@@ -1,95 +1,10 @@
-Karneval|https://image.tmdb.org/t/p/w500/ae2EWiX9FnkAnAFRz7txRRJ9SQm.jpg|karneval|Animation|2013|7.2
-Katanagatari|https://image.tmdb.org/t/p/w500/4AJZPi8RUIoWq3Wjmha35ElhFFh.jpg|katanagatari|Animation|2010|7.2
-Kino’s Journey: The Beautiful World - The Animated Series|https://image.tmdb.org/t/p/w500/cM5MWMLQsUZywgniaHKw1ojnEpo.jpg|kinos-journey-the-beautiful-world-the-animated-series|Drama|2017|7.3
-Kino's Journey|https://image.tmdb.org/t/p/w500/urwmH3xBtACPPvv4RNJZnQo7WWv.jpg|kinos-journey|Animation|2003|7.8
-Kirby - Right Back At Ya!|https://image.tmdb.org/t/p/w500/sauBMU7ruhpHL3bobEz1nlniaCg.jpg|kirby-right-back-at-ya|Animation|2001|6.7
-KonoSuba: God’s blessing on this wonderful world!|https://image.tmdb.org/t/p/w500/eQPEaAKXgT72FJWi1IlAHqSFMTE.jpg|konosuba-gods-blessing-on-this-wonderful-world|Action & Abenteuer|2016|8.6
-Kuma Kuma Kuma Bear|https://image.tmdb.org/t/p/w500/2CN43d4PfuG4Kh30GuQNJKThKTF.jpg|kuma-kuma-kuma-bear|Animation|2020|7.2
+Karneval||karneval|||
+Katanagatari||katanagatari|||
+Kino’s Journey: The Beautiful World - The Animated Series||kinos-journey-the-beautiful-world-the-animated-series|||
+Kino's Journey||kinos-journey|||
+Kirby - Right Back At Ya!||kirby-right-back-at-ya|||
+KonoSuba: God’s blessing on this wonderful world!||konosuba-gods-blessing-on-this-wonderful-world|||
+Kuma Kuma Kuma Bear||kuma-kuma-kuma-bear|||
 Kuramerukagari||kuramerukagari|||
 Kurayukaba||kurayukaba|||
-Kyo Kara Maoh!|https://image.tmdb.org/t/p/w500/6juaSJrppiJXTObiNASln8MD5n3.jpg|kyo-kara-maoh|Animation|2004|6.9
-K: Return of Kings|https://image.tmdb.org/t/p/w500/xq2lTc0HLMvGRtz38XjnuuAaTQy.jpg|k-return-of-kings|Action & Abenteuer|2012|7.1
-Kaiju No. 8|https://image.tmdb.org/t/p/w500/A6JOsCdFFTxtbDnKAfE0iY6jOiE.jpg|kaiju-no-8|Animation|2024|8.5
-KamiErabi GOD.app|https://image.tmdb.org/t/p/w500/nj14OOLCAy2npiXwUhNJzmPEIbh.jpg|kamierabi-godapp|Animation|2023|5.1
-Kantai Collection: KanColle|https://image.tmdb.org/t/p/w500/1I8eJyXIA1y2Vew6O7RIAGsPnzU.jpg|kantai-collection-kancolle|Animation|2015|6.1
-Katana Maidens: Toji no Miko|https://image.tmdb.org/t/p/w500/bTp1Ge0zaF6cvrsBbIapMuSGVvz.jpg|katana-maidens-toji-no-miko|Sci-Fi & Fantasy|2018|6.5
-Katsugeki: Touken Ranbu|https://image.tmdb.org/t/p/w500/vGzM9LxSxXWnSdT4UWRIQ0czrws.jpg|katsugeki-touken-ranbu|Action & Abenteuer|2017|7.5
-Kemono Jihen|https://image.tmdb.org/t/p/w500/1ON3UrcmyECZAMug7htkszoNoMC.jpg|kemono-jihen|Animation|2021|7.6
-Kemurikusa|https://image.tmdb.org/t/p/w500/o8RdaIzATv3pzHVtyIyvLS4rq1W.jpg|kemurikusa|Animation|2019|5.9
-KENGAN ASHURA|https://image.tmdb.org/t/p/w500/yB8e1BnzrXoPbxfi3GnUgjCiN41.jpg|kengan-ashura|Animation|2019|8.3
-Kiddy Grade|https://image.tmdb.org/t/p/w500/bPx4Z7STMWR4eucOB6KQs9lsHVL.jpg|kiddy-grade|Mystery|2002|6.1
-Killing Bites|https://image.tmdb.org/t/p/w500/s3F5f0OxHBWR0hvnPn2JKWOZfFU.jpg|killing-bites|Animation|2018|7.7
-Kingdom (2012)||kingdom-2012|||
-Knight Hunters|https://image.tmdb.org/t/p/w500/lqfslCawWxdagvEjcndZRcmJWD7.jpg|knight-hunters|Animation|1998|
-Knight's & Magic|https://image.tmdb.org/t/p/w500/8VmNrtmcFUTpQthFkcrVEU55TCF.jpg|knights-magic|Animation|2017|7.0
-Knights of Sidonia|https://image.tmdb.org/t/p/w500/kzdYpEzyvDbxSLSaCxJhZQgksfJ.jpg|knights-of-sidonia|Action & Abenteuer|2014|7.7
-Kuromukuro|https://image.tmdb.org/t/p/w500/q3Mvd8IgjfvyuEUtalEkY91wzUb.jpg|kuromukuro|Animation|2016|6.4
-Kabaneri of the Iron Fortress|https://image.tmdb.org/t/p/w500/5Iw4PGoSxJCAoFqmOa3ZnPWS5jY.jpg|kabaneri-of-the-iron-fortress|Animation|2016|6.9
-Karakuri Circus|https://image.tmdb.org/t/p/w500/pUhEiAZXI6OqlUnIbUjlANzY8V9.jpg|karakuri-circus|Action & Abenteuer|2018|8.2
-King’s Raid: Successors of the Will|https://image.tmdb.org/t/p/w500/5z2YQG9X4esFFKcKgcbzpImKphn.jpg|kings-raid-successors-of-the-will|Animation|2020|7.8
-Kochoki|https://image.tmdb.org/t/p/w500/aR7cYeWsxpA333unkCeM6xIOJOR.jpg|kochoki|Animation|2019|6.2
-Kokkoku|https://image.tmdb.org/t/p/w500/jeJApvJOlhgDTqUwuxKhpEXJqMO.jpg|kokkoku|Animation|2018|7.0
-Kaze no Stigma|https://image.tmdb.org/t/p/w500/846dVxRSvw4EJFG2SplqXXudH5C.jpg|kaze-no-stigma|Action & Abenteuer|2007|7.0
-Kill la Kill|https://image.tmdb.org/t/p/w500/y2OuQF4oiynNvsTlnyb40jqGMdJ.jpg|kill-la-kill|Action & Abenteuer|2013|8.2
-Kawagoe Boys Sing|https://image.tmdb.org/t/p/w500/o2l1z54hgEq5MuuwziH9sOeG6rx.jpg|kawagoe-boys-sing|Animation|2023|4.0
-Kinokoinu Mushroom Pup|https://image.tmdb.org/t/p/w500/xZkiSANGlpIGHjdpRhVPtqVAjiF.jpg|kinokoinu-mushroom-pup|Animation|2024|7.0
-Kizuna no Allele|https://image.tmdb.org/t/p/w500/vCWOILZQmUyVw7ZKk7PTGjKgS6H.jpg|kizuna-no-allele|Animation|2023|5.3
-Kiki’s Delivery Service||kikis-delivery-service|||
-Kiyo in Kyoto: From the Maiko House|https://image.tmdb.org/t/p/w500/eGlYyJcIAnZ4uJ29c7USnT734KD.jpg|kiyo-in-kyoto-from-the-maiko-house|Animation|2021|6.9
-Kobato|https://image.tmdb.org/t/p/w500/bzE0eksp2MpZh6UWjBBoSxW1Cth.jpg|kobato|Animation|2009|9.4
-Konohana Kitan|https://image.tmdb.org/t/p/w500/d6w9C9iReOHXSmXfNCPweURvCVa.jpg|konohana-kitan|Animation|2017|6.8
-Kowloon Generic Romance|https://image.tmdb.org/t/p/w500/gWKv5pWZRAitLdpZmiA9AEvplpQ.jpg|kowloon-generic-romance|Animation|2025|7.3
-Kageki Shojo!!|https://image.tmdb.org/t/p/w500/jee2p5CXSIS9V5Vxx0Uwe9Qr1Hb.jpg|kageki-shojo|Animation|2021|7.1
-Kaiba|https://image.tmdb.org/t/p/w500/9hg1d3umUTyRakzCWRAO6LVyoc6.jpg|kaiba|Animation|2008|7.9
-Kakegurui Twin|https://image.tmdb.org/t/p/w500/2e8bJIBglxY9djQJ0z81A6MroPr.jpg|kakegurui-twin|Animation|2022|7.3
-Kakuriyo: Bed & Breakfast for Spirits|https://image.tmdb.org/t/p/w500/82VaDgYOSA1Sk36vn5SQha9IgRJ.jpg|kakuriyo-bed-breakfast-for-spirits|Animation|2018|8.3
-Kanon (2002)|https://image.tmdb.org/t/p/w500/TRbcf5Ga3r06f158Q3VwLwnIOJ.jpg|kanon-2002|Animation|2002|6.0
-Kanon (2006)|https://image.tmdb.org/t/p/w500/AedHrlFciZxJSGSyOGiRSve3O5e.jpg|kanon-2006|Animation|2006|6.8
-Kiznaiver|https://image.tmdb.org/t/p/w500/fSRxwPHBwHCgrEr6sjdEb5a3Umn.jpg|kiznaiver|Sci-Fi & Fantasy|2016|7.7
-Kokoro Connect|https://image.tmdb.org/t/p/w500/lF0EYy8HbWPptN39VNhZV0NuveA.jpg|kokoro-connect|Animation|2012|6.6
-Kono Oto Tomare!: Sounds of Life|https://image.tmdb.org/t/p/w500/bc707zdBtjQ2K8vZWYvPmM0OKEb.jpg|kono-oto-tomare-sounds-of-life|Animation|2019|7.3
-Kaina of the Great Snow Sea|https://image.tmdb.org/t/p/w500/1CH7p70slpERvSKl06CIqU767Rq.jpg|kaina-of-the-great-snow-sea|Animation|2023|6.8
-Kunon the Sorcerer Can See|https://image.tmdb.org/t/p/w500/v05adzjtBOhTqu1Ri4FxOmu6Uix.jpg|kunon-the-sorcerer-can-see|Animation|2026|8.7
-Kekkaishi|https://image.tmdb.org/t/p/w500/sbYERVfpRqGMJJQjmsP1cu1qdEU.jpg|kekkaishi|Animation|2006|6.9
-Kenichi: The Mightiest Disciple|https://image.tmdb.org/t/p/w500/1AUBZdBBe4q3XiZrH13vFQPv6S5.jpg|kenichi-the-mightiest-disciple|Action & Abenteuer|2006|8.4
-Knights of the Zodiac|https://image.tmdb.org/t/p/w500/yzfjuIkWzO0ImMEgg9fMHDzR3JP.jpg|knights-of-the-zodiac|Animation|2019|7.4
-Kandagawa Jet Girls|https://image.tmdb.org/t/p/w500/vcrSRSpEHVriusKTrGhuL0xpc3u.jpg|kandagawa-jet-girls|Animation|2019|5.9
-Keijo!!!!!!!!|https://image.tmdb.org/t/p/w500/t9zN06BwacKvyRe2Hi4zoTxd2FY.jpg|keijo|Action & Abenteuer|2016|6.7
-Kickers|https://image.tmdb.org/t/p/w500/lhZrkv153SSUZJ2J6AP4Jwi3kKm.jpg|kickers|Animation|2001|7.7
-Kuroko’s Basketball|https://image.tmdb.org/t/p/w500/ftT1qtT6yWO5rfs237a466N8QRr.jpg|kurokos-basketball|Animation|2012|8.4
-Kaya-chan Isn't Scary|https://image.tmdb.org/t/p/w500/jfWdGJ2HcaCMVRdOUBPd6ayYgz2.jpg|kaya-chan-isnt-scary|Animation|2026|7.9
-King of Thorn|https://image.tmdb.org/t/p/w500/gPCehIc8aQWIHTNTmnD1SzcfliD.jpg|king-of-thorn|Dokumentation||6.0
-King’s Game|https://image.tmdb.org/t/p/w500/4U623rLgz8a3gbBMMys6pUlvrin.jpg|kings-game|Animation|2017|7.4
-K-On!|https://image.tmdb.org/t/p/w500/uXgqW1ffm0g3AKMfksLeKFJnK7J.jpg|k-on|Animation|2009|8.0
-Kaginado|https://image.tmdb.org/t/p/w500/lQXXtlIQYlw4D73mgFQPkrW5FU9.jpg|kaginado|Animation|2021|5.5
-Kakushigoto|https://image.tmdb.org/t/p/w500/e4tZPNriIM0RjcGLDojB0GhSKvV.jpg|kakushigoto|Animation|2020|7.9
-KamiKatsu: Working for God in a Godless World|https://image.tmdb.org/t/p/w500/zIn90M0V83e0F1n9fCudP3My88Q.jpg|kamikatsu-working-for-god-in-a-godless-world|Animation|2023|6.4
-Kanamemo|https://image.tmdb.org/t/p/w500/pUBgvmF1EUCEad6bjcFmMvYGm05.jpg|kanamemo|Animation|2009|5.4
-Kannagi|https://image.tmdb.org/t/p/w500/prMc1xwQs8jJR3vLrwraEsgoCJq.jpg|kannagi|Animation|2008|6.9
-Keep Your Hands Off Eizouken!|https://image.tmdb.org/t/p/w500/6sZdzYquPK3DNdyKqTia9uappIM.jpg|keep-your-hands-off-eizouken|Animation|2020|8.1
-Kemono Michi: Rise Up|https://image.tmdb.org/t/p/w500/jnnlB215gY6hWctTFDydGKyhZBu.jpg|kemono-michi-rise-up|Animation|2019|5.3
-Kill Me Baby|https://image.tmdb.org/t/p/w500/6BBeEiUlGXQRSWBS5CZWf4lp7k0.jpg|kill-me-baby|Animation|2012|6.8
-Komori-san Can't Decline!|https://image.tmdb.org/t/p/w500/llSqbh15N0kIFdijYOVD7ueukGg.jpg|komori-san-cant-decline|Animation|2015|4.7
-Konosuba: An Explosion on This Wonderful World!|https://image.tmdb.org/t/p/w500/xcPT8KuiYAKvhCRaYa9SOtiEWSO.jpg|konosuba-an-explosion-on-this-wonderful-world|Animation|2023|7.4
-Kotaro Lives Alone|https://image.tmdb.org/t/p/w500/bR144FenQIvt5ugXxoNp6npnVts.jpg|kotaro-lives-alone|Animation|2022|7.8
-Kids on the Slope|https://image.tmdb.org/t/p/w500/a8ukRiYnKZHadK4CwZiZM8C5MsO.jpg|kids-on-the-slope|Animation|2012|7.7
-KAMITSUBAKI CITY UNDER CONSTRUCTION|https://image.tmdb.org/t/p/w500/17TgENGeO5YMahY5bdayov7PbW.jpg|kamitsubaki-city-under-construction|Animation|2025|5.6
-Kamen no Maid Guy|https://image.tmdb.org/t/p/w500/cu4ZeUXnDMxwafMTB28tQvir0Nc.jpg|kamen-no-maid-guy|Animation|2008|6.0
-Kämpfer|https://image.tmdb.org/t/p/w500/elpfztHKiyjKbSD94RLJeSv3Uzk.jpg|kmpfer|Animation|2009|6.4
-Koro Sensei Quest!|https://image.tmdb.org/t/p/w500/pu1Z8jXcf49lr84JqWS3XpvRdGf.jpg|koro-sensei-quest|Action & Abenteuer|2016|6.5
-Kaguya-sama: Love is War|https://image.tmdb.org/t/p/w500/tvemh1UGxnDKWPFYj40Zs6IWN7y.jpg|kaguya-sama-love-is-war|Komoedie|2019|8.5
-Kakushite! Makina-san!!|https://image.tmdb.org/t/p/w500/3fmeu7yHmHHPixSdiFxaKslDW6j.jpg|kakushite-makina-san|Animation|2025|4.9
-Kamisama Kiss|https://image.tmdb.org/t/p/w500/8nfyyLqcAbEocNvPXj26uIflThp.jpg|kamisama-kiss|Animation|2012|8.6
-Kanokon: The Girl Who Cried Fox|https://image.tmdb.org/t/p/w500/i14OPG6CSlNldJbW5P920qsjQ2d.jpg|kanokon-the-girl-who-cried-fox|Animation|2008|6.6
-Karin|https://image.tmdb.org/t/p/w500/hZmo87aANSS0QFzKdlMQke6tosu.jpg|karin|Animation|2005|7.3
-Kase-san and Morning Glories||kase-san-and-morning-glories|||
-Kimi ni Todoke: From Me to You|https://image.tmdb.org/t/p/w500/fqsCWDDfm1Gu0ecGsQKPsI0CZbR.jpg|kimi-ni-todoke-from-me-to-you|Animation|2009|8.4
-Kiss Him, Not Me!|https://image.tmdb.org/t/p/w500/3GPjnbeDjwKYIs2DYZIpSWWllOg.jpg|kiss-him-not-me|Animation|2016|8.3
-KissXsis|https://image.tmdb.org/t/p/w500/5bH7lNOwLbnY50rtxc1uWZuYQho.jpg|kissxsis|Animation|2010|6.4
-Koikimo|https://image.tmdb.org/t/p/w500/9Xc0qhDkHoxlGJ1FNrErneTR9xL.jpg|koikimo|Animation|2021|6.8
-Komi Can’t Communicate|https://image.tmdb.org/t/p/w500/vPsuWdxGrDSIlXOiczcjX0wWWa8.jpg|komi-cant-communicate|Animation|2021|8.3
-Kubo Won't Let Me Be Invisible|https://image.tmdb.org/t/p/w500/dFYkffnwLjZ5FGT0N2BtCCLMjlu.jpg|kubo-wont-let-me-be-invisible|Animation|2023|6.7
-Kamigami no Asobi|https://image.tmdb.org/t/p/w500/eGyHddc7V6DRrnMg55RYAirIZDC.jpg|kamigami-no-asobi|Animation|2014|5.6
-KimiKiss Pure Rouge|https://image.tmdb.org/t/p/w500/naUpOu9yGGczI7p5uxgAdITA4LC.jpg|kimikiss-pure-rouge|Animation|2007|5.3
-Kaiji: Ultimate Survivor|https://image.tmdb.org/t/p/w500/5xrFchDg4yKEux9YPcw4l9vT3Gf.jpg|kaiji-ultimate-survivor|Animation|2007|8.1
-Kakegurui|https://image.tmdb.org/t/p/w500/h1MUwcwNjK3nkXFzeFowUqfy0Qw.jpg|kakegurui|Animation|2017|8.1
+Kyo Kara Maoh!||kyo-kara-maoh|||
