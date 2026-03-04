@@ -226,8 +226,7 @@ def git_push(msg: str = "Auto-update library data"):
                            cwd=DB_PATH, check=True)
             subprocess.run(["git", "config", "user.email", "actions@github.com"],
                            cwd=DB_PATH, check=True)
-        subprocess.run(["git", "add", "anime.txt", "episodes.txt", "streams.txt",
-                        "movies.txt", "series.txt", "progress.json"], cwd=DB_PATH, check=True)
+        subprocess.run(["git", "add", "*.txt", "progress.json"], cwd=DB_PATH, check=True)
         r = subprocess.run(["git", "diff", "--staged", "--quiet"], cwd=DB_PATH)
         if r.returncode != 0:  # Aenderungen vorhanden
             subprocess.run(["git", "commit", "-m", msg], cwd=DB_PATH, check=True)
