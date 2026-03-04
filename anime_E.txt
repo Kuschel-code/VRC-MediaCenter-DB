@@ -1,30 +1,5 @@
-Earl and Fairy|https://image.tmdb.org/t/p/w500/av2XyIgbjkXDlVk4LDAUj8LF84Z.jpg|earl-and-fairy|Animation|2008|6.6
-Elemental Gelade|https://image.tmdb.org/t/p/w500/kSnHKVL9cig9wZ5UZ72iFTwIuKQ.jpg|elemental-gelade|Animation|2005|6.9
-Endride|https://image.tmdb.org/t/p/w500/cSpUJIanHiLRZPoAXGqyxOrEJPE.jpg|endride|Animation|2016|6.2
-Escaflowne|https://image.tmdb.org/t/p/w500/eVfaZ0g7BdepgVXdUSSImCw4JG4.jpg|escaflowne|Animation|1996|8.1
-Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest|https://image.tmdb.org/t/p/w500/iWQchD5iAc3Ou9zTQnPuNbLPsLB.jpg|even-given-the-worthless-appraiser-class-im-actually-the-strongest|Animation|2025|6.9
-Estab Life: Great Escape|https://image.tmdb.org/t/p/w500/wRpMV2uEVBxFuZs92zZDaps1jDU.jpg|estab-life-great-escape|Animation|2022|5.6
-Ex-Arm|https://image.tmdb.org/t/p/w500/7Akq7rwVfLx6yrtKIvCA23MMOQv.jpg|ex-arm|Animation|2021|3.6
-Elfen Lied|https://image.tmdb.org/t/p/w500/3UnmNPTDMOThd8Oi9L2pEXqfO0D.jpg|elfen-lied|Action & Abenteuer|2004|8.3
-Ergo Proxy|https://image.tmdb.org/t/p/w500/yJ3evB8M87a2uef9jM7gLFelYzQ.jpg|ergo-proxy|Animation|2006|7.6
-Eureka Seven|https://image.tmdb.org/t/p/w500/fbdM3vtY29PkipKrBb6NuTw7VDt.jpg|eureka-seven|Action & Abenteuer|2005|7.4
-Extreme Hearts|https://image.tmdb.org/t/p/w500/3SIytMEeYpjBa6a80XzPwdF1HCJ.jpg|extreme-hearts|Animation|2022|4.1
-Eden|https://image.tmdb.org/t/p/w500/2sJPpcEd83mILobIlDG1Jexu9bj.jpg|eden|Animation|2021|7.7
-Endro!|https://image.tmdb.org/t/p/w500/jY0tEG5m9U2IAhvmlxVm1QnAT87.jpg|endro|Animation|2019|6.3
-Ef: A Tale of Melodies.|https://image.tmdb.org/t/p/w500/cx5A0on1ZXhdnJmOO08KcbXzKQj.jpg|ef-a-tale-of-melodies|Animation|2007|7.1
-Elegant Yokai Apartment Life|https://image.tmdb.org/t/p/w500/burzxb0f8wwDAL9nzPa4BMlX7Id.jpg|elegant-yokai-apartment-life|Animation|2017|7.4
-Edens Zero|https://image.tmdb.org/t/p/w500/2sJPpcEd83mILobIlDG1Jexu9bj.jpg|edens-zero|Animation|2021|7.7
-Ensemble Stars!|https://image.tmdb.org/t/p/w500/vYhvuXLEYERKXbNcEV9HeZjEqv6.jpg|ensemble-stars|Komoedie|2019|7.8
-Eyeshield 21|https://image.tmdb.org/t/p/w500/rzOdJXyvzyLeRum8B7MXeKFiGY7.jpg|eyeshield-21|Animation|2005|8.4
-Exception|https://image.tmdb.org/t/p/w500/5i6brHMAczSKnR1tvGIMkjz1wft.jpg|exception|Animation|2022|7.0
-Easygoing Territory Defense by the Optimistic Lord|https://image.tmdb.org/t/p/w500/27sQp8T5zwGICIKmxOn6XkK5UtD.jpg|easygoing-territory-defense-by-the-optimistic-lord|Animation|2026|7.8
-Encouragement of Climb|https://image.tmdb.org/t/p/w500/r1L7E5dtfPr6RMuBL9FVskmRxGc.jpg|encouragement-of-climb|Animation|2013|6.5
-Extra Olympia Kyklos|https://image.tmdb.org/t/p/w500/4OiABWqb2aX76jTP1jnRJuOp3lF.jpg|extra-olympia-kyklos|Animation|2020|6.0
-Even If the World Ends Tomorrow||even-if-the-world-ends-tomorrow|||
-Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte|https://image.tmdb.org/t/p/w500/cXCPM1CfZ7q5yTpALRtFM7Hty9X.jpg|endo-and-kobayashi-live-the-latest-on-tsundere-villainess-lieselotte|Animation|2023|6.8
-Engage Kiss|https://image.tmdb.org/t/p/w500/6Kicbd8AmHtqHOULNUw312V22bZ.jpg|engage-kiss|Animation|2022|6.1
-Engaged to the Unidentified|https://image.tmdb.org/t/p/w500/8xmOS79Gn2KkHy9kMpYWzwfnM7P.jpg|engaged-to-the-unidentified|Animation|2014|6.9
-Eromanga Sensei|https://image.tmdb.org/t/p/w500/fJZLob1SkfUQ7PXry6I345dIuVn.jpg|eromanga-sensei|Animation|2017|5.9
-Eden of the East|https://image.tmdb.org/t/p/w500/sMUPkCG1Y1Z6dHcw7QOXuVsW6dr.jpg|eden-of-the-east|Animation|2009|7.0
-Erased|https://image.tmdb.org/t/p/w500/rWGn0q9wWgqB5H3xkbKxf0teidL.jpg|erased|Animation|2016|8.5
-Evil or Live|https://image.tmdb.org/t/p/w500/1HfCgRrbtJ0dAFeoE5yWuNAgJ61.jpg|evil-or-live|Animation|2017|5.2
+Earl and Fairy||earl-and-fairy|||
+Elemental Gelade||elemental-gelade|||
+Endride||endride|||
+Escaflowne||escaflowne|||
+Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest||even-given-the-worthless-appraiser-class-im-actually-the-strongest|||
