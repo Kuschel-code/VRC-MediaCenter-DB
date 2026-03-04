@@ -1,3 +1,9 @@
+river-queen|River Queen|river-queen-s1-ep1
+guardians-of-the-galaxy-vol-2|Guardians Of The Galaxy Vol. 2|guardians-of-the-galaxy-vol-2-s1-ep1
+a-quiet-place|A Quiet Place|a-quiet-place-s1-ep1
+edge-of-tomorrow|Edge of Tomorrow|edge-of-tomorrow-s1-ep1
+aquaman|Aquaman|aquaman-s1-ep1
+fack-ju-gohte|Fack ju Göhte|fack-ju-gohte-s1-ep1
 the-accountant-2016|The Accountant (2016)|the-accountant-2016-s1-ep1
 interstellar|Interstellar|interstellar-s1-ep1
 avatar-the-way-of-water|Avatar: The Way of Water|avatar-the-way-of-water-s1-ep1
@@ -24,12 +30,6 @@ die-vier-federn|Die vier Federn|die-vier-federn-s1-ep1
 die-altern|Die Ältern|die-altern-s1-ep1
 i-am-mother|I Am Mother|i-am-mother-s1-ep1
 22-bahnen|22 Bahnen|22-bahnen-s1-ep1
-the-retirement-plan|The Retirement Plan|the-retirement-plan-s1-ep1
-humane|Humane|humane-s1-ep1
-heads-of-state|Heads of State|heads-of-state-s1-ep1
-guy-ritchies-the-covenant|Guy Ritchies The Covenant|guy-ritchies-the-covenant-s1-ep1
-vampire-in-brooklyn|Vampire in Brooklyn|vampire-in-brooklyn-s1-ep1
-carmilla-fuhre-uns-nicht-in-versuchung|Carmilla - Führe uns nicht in Versuchung|carmilla-fuhre-uns-nicht-in-versuchung-s1-ep1
 psycho-killer-english|Psycho Killer *ENGLISH*|psycho-killer-english-s1-ep1
 scream-7-english|Scream 7 *ENGLISH*|scream-7-english-s1-ep1
 is-this-thing-on|Is This Thing On?|is-this-thing-on-s1-ep1

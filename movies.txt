@@ -1,3 +1,9 @@
+River Queen|https://filmpalast.to/files/movies/315/river-queen.jpg|river-queen|||
+Guardians Of The Galaxy Vol. 2|https://filmpalast.to/files/movies/315/guardians-of-the-galaxy-vol-2.jpg|guardians-of-the-galaxy-vol-2|||
+A Quiet Place|https://filmpalast.to/files/movies/315/a-quiet-place.jpg|a-quiet-place|||
+Edge of Tomorrow|https://filmpalast.to/files/movies/315/edge-of-tomorrow.jpg|edge-of-tomorrow|||
+Aquaman|https://filmpalast.to/files/movies/315/aquaman.jpg|aquaman|||
+Fack ju Göhte|https://filmpalast.to/files/movies/315/fack-ju-gohte.jpg|fack-ju-gohte|||
 The Accountant (2016)|https://filmpalast.to/files/movies/315/the-accountant-2016.jpg|the-accountant-2016|||
 Interstellar|https://filmpalast.to/files/movies/315/interstellar.jpg|interstellar|||
 Avatar: The Way of Water|https://filmpalast.to/files/movies/315/avatar-the-way-of-water.jpg|avatar-the-way-of-water|||
@@ -24,12 +30,6 @@ Die vier Federn|https://filmpalast.to/files/movies/315/die-vier-federn.jpg|die-v
 Die Ältern|https://filmpalast.to/files/movies/315/die-altern.jpg|die-altern|||
 I Am Mother|https://filmpalast.to/files/movies/315/i-am-mother.jpg|i-am-mother|||
 22 Bahnen|https://filmpalast.to/files/movies/315/22-bahnen.jpg|22-bahnen|||
-The Retirement Plan|https://filmpalast.to/files/movies/315/the-retirement-plan.jpg|the-retirement-plan|||
-Humane|https://filmpalast.to/files/movies/315/humane.jpg|humane|||
-Heads of State|https://filmpalast.to/files/movies/315/heads-of-state.jpg|heads-of-state|||
-Guy Ritchies The Covenant|https://filmpalast.to/files/movies/315/guy-ritchies-the-covenant.jpg|guy-ritchies-the-covenant|||
-Vampire in Brooklyn|https://filmpalast.to/files/movies/315/vampire-in-brooklyn.jpg|vampire-in-brooklyn|||
-Carmilla - Führe uns nicht in Versuchung|https://filmpalast.to/files/movies/315/carmilla-fuhre-uns-nicht-in-versuchung.jpg|carmilla-fuhre-uns-nicht-in-versuchung|||
 Psycho Killer *ENGLISH*|https://filmpalast.to/files/movies/315/psycho-killer-english.jpg|psycho-killer-english|||
 Scream 7 *ENGLISH*|https://filmpalast.to/files/movies/315/scream-7-english.jpg|scream-7-english|||
 Is This Thing On?|https://filmpalast.to/files/movies/315/is-this-thing-on.jpg|is-this-thing-on|||
