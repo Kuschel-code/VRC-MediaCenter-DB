@@ -304,13 +304,23 @@ async def main():
     git_push("Update: Filme von Filmpalast")
 
     # ═══════════════════════════════════════════════════════
-    # [2] Serien von SerienStream
+    # [2] Serien von SerienStream (Optimiert: Parallel)
     # ═══════════════════════════════════════════════════════
     print("\n[2] Lade Serien von SerienStream...")
     try:
         series = await scraper.fetch_library("series")
         if MAX_SERIES > 0:
             series = series[:MAX_SERIES]
+        
+        # Semaphore für Rate-Limiting (15 gleichzeitige Requests)
+        sem = asyncio.Semaphore(15)
+        
+        async def fetch_lang_with_limit(client, ep_urlpath, lang, base):
+            """Fetch einer Sprache mit Semaphore Rate-Limiting."""
+            async with sem:
+                return await get_stream_for_language(client, ep_urlpath, lang, base)
+        
+        processed_since_save = 0
         
         for si, s_item in enumerate(series):
             sc = s_item.get("content_id", "")
@@ -335,45 +345,74 @@ async def main():
 
             # Episoden laden
             episodes = await scraper.fetch_episodes(sc)
-            print(f"  [{si+1}/{len(series)}] {sc}: {len(episodes)} Episoden")
+            ep_count = len(episodes)
+            print(f"  [{si+1}/{len(series)}] {sc}: {ep_count} Episoden")
+            
+            if ep_count == 0:
+                p["done_slugs"].append(sc)
+                done.add(sc)
+                continue
 
             async with scraper._client() as client:
-                for ep in episodes:
-                    ep_id      = ep.get("episode_id", "")
-                    ep_title   = ep.get("title", "")
-                    ep_urlpath = ep.get("url_path", "")
-                    if not ep_id: continue
-
-                    for lang in LANGUAGES:
-                        lid   = f"{ep_id}-{lang}"
-                        ltitle = f"{ep_title} ({LANG_DISPLAY[lang]})"
-
-                        ep_line = f"{sc}|{ltitle}|{lid}"
-                        if ep_line not in p["episode_lines"]:
-                            p["episode_lines"].append(ep_line)
-
-                        stream = None
-                        if ep_urlpath:
-                            stream = await get_stream_for_language(client, ep_urlpath, lang, STO_BASE)
-
-                        if stream:
-                            s_line = f"{lid}|{stream}"
-                            if s_line not in p["stream_lines"]:
-                                p["stream_lines"].append(s_line)
-                            print(f"    [OK] {lang}: {stream[:55]}...")
-                        else:
-                            print(f"    [--] {lang}: nicht verfuegbar")
-
-                        await asyncio.sleep(0.3)
+                # Alle Episoden × Sprachen parallel abrufen (in Batches von 10 Episoden)
+                for batch_start in range(0, ep_count, 10):
+                    batch = episodes[batch_start:batch_start + 10]
+                    
+                    async def process_episode(ep):
+                        """Alle 4 Sprachen einer Episode parallel abrufen."""
+                        ep_id      = ep.get("episode_id", "")
+                        ep_title   = ep.get("title", "")
+                        ep_urlpath = ep.get("url_path", "")
+                        if not ep_id:
+                            return
+                        
+                        # Alle Sprachen parallel starten
+                        tasks = {}
+                        for lang in LANGUAGES:
+                            if ep_urlpath:
+                                tasks[lang] = fetch_lang_with_limit(client, ep_urlpath, lang, STO_BASE)
+                            else:
+                                async def _noop():
+                                    return None
+                                tasks[lang] = _noop()
+                        
+                        results = await asyncio.gather(*tasks.values(), return_exceptions=True)
+                        
+                        for lang, result in zip(tasks.keys(), results):
+                            lid   = f"{ep_id}-{lang}"
+                            ltitle = f"{ep_title} ({LANG_DISPLAY[lang]})"
+                            
+                            ep_line = f"{sc}|{ltitle}|{lid}"
+                            if ep_line not in p["episode_lines"]:
+                                p["episode_lines"].append(ep_line)
+                            
+                            stream = result if isinstance(result, str) else None
+                            if stream:
+                                s_line = f"{lid}|{stream}"
+                                if s_line not in p["stream_lines"]:
+                                    p["stream_lines"].append(s_line)
+                                print(f"    [OK] {lang}: {stream[:55]}...")
+                            # Keine Ausgabe für nicht verfügbare Streams (reduziert Spam)
+                    
+                    # 10 Episoden gleichzeitig verarbeiten
+                    await asyncio.gather(*[process_episode(ep) for ep in batch])
 
             p["done_slugs"].append(sc)
             done.add(sc)
-            save_progress(p)
-            write_db_files(p)
+            processed_since_save += 1
+            
+            # Nur alle 50 Serien speichern + pushen (statt jede einzelne)
+            if processed_since_save >= PUSH_INTERVAL:
+                save_progress(p)
+                write_db_files(p)
+                git_push(f"Update: {processed_since_save} Serien")
+                processed_since_save = 0
 
         print(f"    -> {len(p['series_lines'])} Serien verarbeitet")
     except Exception as e:
         print(f"  [!] Serien Fehler: {e}")
+        import traceback
+        traceback.print_exc()
 
     write_db_files(p)
     save_progress(p)
