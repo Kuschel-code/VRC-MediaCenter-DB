@@ -12,7 +12,7 @@ STREAMKISTE_BASE = "https://streamkiste.al"
 FILMPALAST_BASE = "https://filmpalast.to"
 
 # Bevorzugte Hoster-Reihenfolge (erster verfügbarer wird genommen)
-PREFERRED_HOSTERS = ["VOE", "Vidmoly", "Streamtape"]
+PREFERRED_HOSTERS = ["Vidmoly", "Filemoon", "Streamtape", "VOE"]
 
 # Cache-Zeiten in Sekunden
 LIBRARY_CACHE_TTL = 3600

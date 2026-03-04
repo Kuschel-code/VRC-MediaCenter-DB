@@ -178,7 +178,7 @@ async function handleRequest(request, event) {
 
 async function fetchCached(url, ttl, event) {
     // Version-basierter Cache-Key: Ändert sich bei jedem Deploy
-    const CACHE_VERSION = "v8";
+    const CACHE_VERSION = "v9";
     const cacheKey = new Request(url + "?_cv=" + CACHE_VERSION, { method: "GET" });
     const cache = caches.default;
     let response = await cache.match(cacheKey);
@@ -290,6 +290,44 @@ async function resolveStreamUrl(storedUrl) {
     // Step 6: sources Array (VOE)
     const sourcesMatch = html.match(/sources\s*:\s*\[\s*\{\s*src\s*:\s*["']([^"']+)/);
     if (sourcesMatch) return sourcesMatch[1];
+
+    // Step 7: Packed JS (Vidmoly / Filemoon)
+    const packedMatch = html.match(/eval\(function\(p,a,c,k,e,[dr]\)\{.*?\}\('.+?',\d+,\d+,'[^']+'\.split\('\|'\)/);
+    if (packedMatch) {
+        try {
+            const packed = packedMatch[0];
+            const pm = packed.match(/eval\(function\(p,a,c,k,e,[dr]\)\{.*?\}\('(.+?)',(\d+),(\d+),'([^']+)'\.split\('\|'\)/);
+            if (pm) {
+                let payload = pm[1];
+                const a = parseInt(pm[2]);
+                const c = parseInt(pm[3]);
+                const keywords = pm[4].split("|");
+
+                function baseN(num, base) {
+                    const chars = "0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ";
+                    if (num < base) return chars[num];
+                    return baseN(Math.floor(num / base), base) + chars[num % base];
+                }
+
+                for (let i = c - 1; i >= 0; i--) {
+                    if (i < keywords.length && keywords[i]) {
+                        const word = baseN(i, a);
+                        const reg = new RegExp("\\b" + word + "\\b", "g");
+                        payload = payload.replace(reg, keywords[i]);
+                    }
+                }
+
+                // Now search for m3u8 or mp4 in the unpacked payload
+                const unpackedHls = payload.match(/https?:\/\/[^"'\s]+\.m3u8[^"'\s]*/);
+                if (unpackedHls) return unpackedHls[0];
+
+                const unpackedMp4 = payload.match(/https?:\/\/[^"'\s]+\.mp4[^"'\s]*/);
+                if (unpackedMp4) return unpackedMp4[0];
+            }
+        } catch (e) {
+            // Unpacking failed
+        }
+    }
 
     return null;
 }
