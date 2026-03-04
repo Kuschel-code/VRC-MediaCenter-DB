@@ -114,6 +114,20 @@ async def get_stream_for_language(client: httpx.AsyncClient,
                 hoster_html = await scraper._fetch_page(client, rurl)
                 if not hoster_html:
                     continue
+                
+                # VOE/Hosters mit JS-Redirect: delivery URL aus window.location.href
+                import re
+                if len(hoster_html) < 1500:
+                    fallback = re.search(r"window\.location\.href\s*=\s*'(https?://[^']+)'", hoster_html)
+                    if fallback:
+                        delivery_url = fallback.group(1)
+                        try:
+                            delivery_resp = await asyncio.to_thread(httpx.get, delivery_url, timeout=20, follow_redirects=True)
+                            if delivery_resp.status_code == 200:
+                                hoster_html = delivery_resp.text
+                        except Exception:
+                            pass
+                
                 hsoup = BeautifulSoup(hoster_html, "lxml")
                 stream = scraper._extract_from_hoster(hoster["name"], rurl, hoster_html, hsoup)
                 if stream:
@@ -161,6 +175,20 @@ async def get_filmpalast_stream(client: httpx.AsyncClient,
                 hoster_html = await scraper._fetch_page(client, hoster["redirect_url"])
                 if not hoster_html:
                     continue
+                
+                # VOE/Hosters mit JS-Redirect: Extrahiere delivery URL aus window.location.href
+                import re
+                if len(hoster_html) < 1500:
+                    fallback = re.search(r"window\.location\.href\s*=\s*'(https?://[^']+)'", hoster_html)
+                    if fallback:
+                        delivery_url = fallback.group(1)
+                        try:
+                            delivery_resp = await asyncio.to_thread(httpx.get, delivery_url, timeout=20, follow_redirects=True)
+                            if delivery_resp.status_code == 200:
+                                hoster_html = delivery_resp.text
+                        except Exception:
+                            pass
+                
                 hsoup = BeautifulSoup(hoster_html, "lxml")
                 stream = scraper._extract_from_hoster(hoster["name"], hoster["redirect_url"], hoster_html, hsoup)
                 if stream:
