@@ -229,16 +229,23 @@ async function resolveStreamUrl(storedUrl) {
             const resp = await fetch(storedUrl, { headers: HEADERS, redirect: "follow" });
             const pageHtml = await resp.text();
 
-            // Erster iconPlay-Link aus ul.currentStreamLinks
-            const hosterMatch = pageHtml.match(/class="iconPlay"[^>]*href="([^"]+)"/);
-            if (!hosterMatch) {
-                // Fallback: Beliebiger hoster-Link
-                const anyLink = pageHtml.match(/href="(https?:\/\/voe\.sx\/[^"]+)"/);
-                if (!anyLink) return null;
-                embedUrl = anyLink[1];
-            } else {
-                embedUrl = hosterMatch[1];
+            // Hoster-URLs direkt aus href extrahieren (VOE, Veev, Vidsonic, Vidara)
+            const hosterPatterns = [
+                /href="(https?:\/\/voe\.sx\/[^"]+)"/,
+                /href="(https?:\/\/veev\.to\/[^"]+)"/,
+                /href="(https?:\/\/vidsonic\.net\/[^"]+)"/,
+                /href="(https?:\/\/vidara\.to\/[^"]+)"/,
+            ];
+
+            for (const pattern of hosterPatterns) {
+                const match = pageHtml.match(pattern);
+                if (match) {
+                    embedUrl = match[1];
+                    break;
+                }
             }
+
+            if (embedUrl === storedUrl) return null; // Kein Hoster gefunden
         } catch (e) {
             return null;
         }
