@@ -205,10 +205,9 @@ def _proxy_noredirect(url: str) -> str | None:
 
 def _resolve_serienstream_hoster(episode_html: str, base_url: str) -> str | None:
     """
-    Löst die SerienStream Redirect-Kette auf:
+    Löst die SerienStream Redirect-Kette auf bis zur Hoster-Embed-URL:
     1. iframe src=/r?t=<token> → noredirect → 302 → voe.sx/e/xxx
-    2. voe.sx/e/xxx → JS fallback → delivery-domain.com/e/xxx
-    3. delivery-domain.com/e/xxx → full page → HLS m3u8 URL
+    Worker löst den Rest live auf (VOE → delivery → HLS).
     """
     soup = BeautifulSoup(episode_html, "lxml")
     
@@ -228,51 +227,8 @@ def _resolve_serienstream_hoster(episode_html: str, base_url: str) -> str | None
         log.info("[STO] Kein Redirect von /r?t= erhalten")
         return None
     
-    # Step 3: VOE Embed-Seite holen (direkt, nicht via Proxy)
-    try:
-        voe_resp = httpx.get(hoster_url, timeout=15, follow_redirects=False)
-        voe_html = voe_resp.text
-    except Exception as e:
-        log.info(f"[STO] Fehler bei VOE Embed: {e}")
-        return None
-    
-    # Step 4: JS Fallback URL extrahieren (window.location.href = 'https://delivery-domain/e/xxx')
-    import re
-    fallback_match = re.search(r"window\.location\.href\s*=\s*'(https?://[^']+)'", voe_html)
-    if not fallback_match:
-        log.info("[STO] Kein JS fallback URL in VOE-Seite gefunden")
-        return None
-    
-    delivery_url = fallback_match.group(1)
-    log.info(f"[STO] Delivery URL: {delivery_url[:60]}...")
-    
-    # Step 5: Delivery-Seite holen (direkt) und HLS/Stream extrahieren
-    try:
-        delivery_resp = httpx.get(delivery_url, timeout=20, follow_redirects=True)
-        if delivery_resp.status_code != 200:
-            log.info(f"[STO] Delivery Status: {delivery_resp.status_code}")
-            return None
-        
-        delivery_html = delivery_resp.text
-        delivery_soup = BeautifulSoup(delivery_html, "lxml")
-        
-        # Provider-Name aus der Original-Seite
-        provider = ""
-        prov_elem = soup.select_one("[data-provider-name]")
-        if prov_elem:
-            provider = prov_elem.get("data-provider-name", "VOE")
-        if not provider:
-            provider = "VOE"
-        
-        stream = _extract_from_hoster(provider, delivery_url, delivery_html, delivery_soup)
-        if stream:
-            log.info(f"[STO] Stream URL gefunden: {stream[:60]}...")
-            return stream
-        
-    except Exception as e:
-        log.info(f"[STO] Delivery Fehler: {e}")
-    
-    return None
+    log.info(f"[STO] Hoster-Embed-URL: {hoster_url[:60]}...")
+    return hoster_url
 
 
 async def _fetch_page(client: httpx.AsyncClient, url: str, max_retries: int = 3) -> str | None:

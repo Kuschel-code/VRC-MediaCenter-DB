@@ -32,7 +32,7 @@ async function handleRequest(request, event) {
         });
     }
 
-    // /stream?id=<episodeId>
+    // /stream?id=<episodeId> — Live-Auflösung: Holt die aktuelle Stream-URL
     if (path === "/stream") {
         const episodeId = url.searchParams.get("id");
         if (!episodeId) {
@@ -42,14 +42,33 @@ async function handleRequest(request, event) {
         if (!streamsText) {
             return new Response("streams.txt not reachable", { status: 503, headers: CORS });
         }
-        const streamUrl = findInLines(streamsText, episodeId);
-        if (!streamUrl) {
+        const embedUrl = findInLines(streamsText, episodeId);
+        if (!embedUrl) {
             return new Response("No URL for: " + episodeId, {
                 status: 404,
                 headers: { "Content-Type": "text/plain", ...CORS },
             });
         }
-        return Response.redirect(streamUrl, 302);
+
+        // Wenn die URL bereits ein direktes MP4/m3u8 ist (z.B. vidnest), direkt weiterleiten
+        if (embedUrl.includes(".mp4") || embedUrl.includes(".m3u8")) {
+            return Response.redirect(embedUrl, 302);
+        }
+
+        // Live-Auflösung: Hoster-Embed-Seite abrufen → Stream extrahieren
+        try {
+            const streamUrl = await resolveStreamUrl(embedUrl);
+            if (streamUrl) {
+                return Response.redirect(streamUrl, 302);
+            }
+            return new Response("Could not resolve stream from: " + embedUrl, {
+                status: 502, headers: CORS
+            });
+        } catch (e) {
+            return new Response("Stream resolution error: " + e.message, {
+                status: 502, headers: CORS
+            });
+        }
     }
 
     // /library?type=anime|movies|series&letter=A&q=query
@@ -189,5 +208,59 @@ function findInLines(text, key) {
             return t.substring(idx + 1).trim();
         }
     }
+    return null;
+}
+
+/**
+ * Löst eine Hoster-Embed-URL (z.B. voe.sx/xxx) zu einer frischen Stream-URL auf.
+ * Unterstützt VOE, Vidoza, Vidnest, Streamtape und generische HLS/MP4 Extraktion.
+ */
+async function resolveStreamUrl(embedUrl) {
+    const UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36";
+
+    // 1. Embed-Seite abrufen
+    let html = "";
+    try {
+        const resp = await fetch(embedUrl, {
+            headers: { "User-Agent": UA, "Accept": "text/html,*/*" },
+            redirect: "follow",
+        });
+        html = await resp.text();
+    } catch (e) {
+        return null;
+    }
+
+    // 2. VOE JS-Fallback: window.location.href = 'https://delivery.com/xxx'
+    if (html.length < 2000) {
+        const fallback = html.match(/window\.location\.href\s*=\s*'(https?:\/\/[^']+)'/);
+        if (fallback) {
+            try {
+                const resp2 = await fetch(fallback[1], {
+                    headers: { "User-Agent": UA, "Accept": "text/html,*/*" },
+                    redirect: "follow",
+                });
+                html = await resp2.text();
+            } catch (e) {
+                return null;
+            }
+        }
+    }
+
+    // 3. HLS m3u8 URL extrahieren (häufigstes Format)
+    const hlsMatch = html.match(/https?:\/\/[^"'\s]+\.m3u8[^"'\s]*/);
+    if (hlsMatch) return hlsMatch[0];
+
+    // 4. MP4 URL extrahieren (z.B. Vidnest)
+    const mp4Match = html.match(/https?:\/\/[^"'\s]+\.mp4[^"'\s]*/);
+    if (mp4Match) return mp4Match[0];
+
+    // 5. VOE-spezifisch: sources Array
+    const sourcesMatch = html.match(/sources\s*:\s*\[\s*\{\s*src\s*:\s*["']([^"']+)/);
+    if (sourcesMatch) return sourcesMatch[1];
+
+    // 6. Vidoza-spezifisch: sourcesCode
+    const vidozaMatch = html.match(/sourcesCode\s*.*?src\s*:\s*["']([^"']+)/s);
+    if (vidozaMatch) return vidozaMatch[1];
+
     return null;
 }

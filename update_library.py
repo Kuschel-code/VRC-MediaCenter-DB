@@ -109,31 +109,9 @@ async def get_stream_for_language(client: httpx.AsyncClient,
             rurl = hoster["redirect_url"]
             if not rurl.startswith("http"):
                 rurl = base_url + rurl
-            try:
-                # Hoster-Redirect auch über _fetch_page (falls CUII-Domain)
-                hoster_html = await scraper._fetch_page(client, rurl)
-                if not hoster_html:
-                    continue
-                
-                # VOE/Hosters mit JS-Redirect: delivery URL aus window.location.href
-                import re
-                if len(hoster_html) < 1500:
-                    fallback = re.search(r"window\.location\.href\s*=\s*'(https?://[^']+)'", hoster_html)
-                    if fallback:
-                        delivery_url = fallback.group(1)
-                        try:
-                            delivery_resp = await asyncio.to_thread(httpx.get, delivery_url, timeout=20, follow_redirects=True)
-                            if delivery_resp.status_code == 200:
-                                hoster_html = delivery_resp.text
-                        except Exception:
-                            pass
-                
-                hsoup = BeautifulSoup(hoster_html, "lxml")
-                stream = scraper._extract_from_hoster(hoster["name"], rurl, hoster_html, hsoup)
-                if stream:
-                    return stream
-            except Exception:
-                continue
+            # Nur die Embed-URL speichern (Worker löst live auf)
+            if rurl.startswith("http"):
+                return rurl
     except Exception:
         pass
     return None
@@ -177,31 +155,12 @@ async def get_filmpalast_stream(client: httpx.AsyncClient,
             len(PREFERRED_HOSTERS)
         ))
 
+        # Erste verfügbare Hoster-Embed-URL zurückgeben (Worker löst live auf)
         for hoster in hoster_links:
-            try:
-                hoster_html = await scraper._fetch_page(client, hoster["redirect_url"])
-                if not hoster_html:
-                    continue
-                
-                # VOE/Hosters mit JS-Redirect: Extrahiere delivery URL aus window.location.href
-                import re
-                if len(hoster_html) < 1500:
-                    fallback = re.search(r"window\.location\.href\s*=\s*'(https?://[^']+)'", hoster_html)
-                    if fallback:
-                        delivery_url = fallback.group(1)
-                        try:
-                            delivery_resp = await asyncio.to_thread(httpx.get, delivery_url, timeout=20, follow_redirects=True)
-                            if delivery_resp.status_code == 200:
-                                hoster_html = delivery_resp.text
-                        except Exception:
-                            pass
-                
-                hsoup = BeautifulSoup(hoster_html, "lxml")
-                stream = scraper._extract_from_hoster(hoster["name"], hoster["redirect_url"], hoster_html, hsoup)
-                if stream:
-                    return stream
-            except Exception:
-                continue
+            href = hoster["redirect_url"]
+            if href and href.startswith("http"):
+                return href
+
     except Exception:
         pass
     return None
