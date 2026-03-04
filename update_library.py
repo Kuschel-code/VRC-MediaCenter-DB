@@ -127,21 +127,47 @@ async def get_filmpalast_stream(client: httpx.AsyncClient,
         url = url_path
     else:
         url = FILMPALAST_BASE + url_path
-    
-    # Prüfe nur ob die Seite existiert und Hoster hat
     try:
         html = await scraper._fetch_page(client, url)
         if not html:
             return None
         soup = BeautifulSoup(html, "lxml")
-        
-        # Prüfe ob mindestens ein Hoster verfügbar ist
-        hosters = soup.select('ul.currentStreamLinks a.iconPlay[href]')
-        if not hosters:
+
+        # Filmpalast: ul.currentStreamLinks mit .hostName und a.iconPlay
+        hoster_links = []
+        for ul in soup.select('ul.currentStreamLinks'):
+            name_tag = ul.select_one('.hostName')
+            name = name_tag.get_text(strip=True) if name_tag else "Unknown"
+            # VOE HD links haben href, veev.to hat data-player-url
+            btn = ul.select_one('li.streamPlayBtn a.iconPlay[href]')
+            if btn and btn.get("href") and btn["href"].startswith("http"):
+                hoster_links.append({
+                    "name": name,
+                    "redirect_url": btn.get("href"),
+                })
+            # Fallback: data-player-url (für veev.to etc.)
+            embed_btn = ul.select_one('a.iconPlay[data-player-url]')
+            if embed_btn and embed_btn.get("data-player-url"):
+                hoster_links.append({
+                    "name": name + " (embed)",
+                    "redirect_url": embed_btn.get("data-player-url"),
+                })
+
+        if not hoster_links:
             return None
-        
-        # Die permanente Filmpalast-URL zurückgeben (Worker löst live auf)
-        return url
+
+        # Nach Praeferenz sortieren (VOE zuerst, da Worker es auflösen kann)
+        hoster_links.sort(key=lambda h: next(
+            (i for i, p in enumerate(PREFERRED_HOSTERS) if p.upper() in h["name"].upper()),
+            len(PREFERRED_HOSTERS)
+        ))
+
+        # Erste verfügbare Hoster-Embed-URL zurückgeben (Worker löst live auf)
+        for hoster in hoster_links:
+            href = hoster["redirect_url"]
+            if href and href.startswith("http"):
+                return href
+
     except Exception:
         pass
     return None

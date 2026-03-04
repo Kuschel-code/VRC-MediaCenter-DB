@@ -4,7 +4,7 @@
  */
 
 const GITHUB_RAW = "https://raw.githubusercontent.com/Kuschel-code/VRC-MediaCenter-DB/master";
-const CACHE_STREAMS = 300;
+const CACHE_STREAMS = 60;
 const CACHE_LIBRARY = 3600;
 const CACHE_EPISODES = 1800;
 const CORS = {
@@ -177,7 +177,9 @@ async function handleRequest(request, event) {
 }
 
 async function fetchCached(url, ttl, event) {
-    const cacheKey = new Request(url, { method: "GET" });
+    // Version-basierter Cache-Key: Ändert sich bei jedem Deploy
+    const CACHE_VERSION = "v7";
+    const cacheKey = new Request(url + "?_cv=" + CACHE_VERSION, { method: "GET" });
     const cache = caches.default;
     let response = await cache.match(cacheKey);
     if (response) return await response.text();
@@ -229,12 +231,16 @@ async function resolveStreamUrl(storedUrl) {
             const resp = await fetch(storedUrl, { headers: HEADERS, redirect: "follow" });
             const pageHtml = await resp.text();
 
-            // Hoster-URLs direkt aus href extrahieren (VOE, Veev, Vidsonic, Vidara)
+            // Hoster-URLs aus data-player-url und href extrahieren
+            // VOE ist der EINZIGE Hoster dessen Stream ohne JS extrahierbar ist
+            // (window.location.href → delivery domain → HLS)
             const hosterPatterns = [
+                /data-player-url="(https?:\/\/voe\.sx\/[^"]+)"/,
                 /href="(https?:\/\/voe\.sx\/[^"]+)"/,
+                /data-player-url="(https?:\/\/veev\.to\/[^"]+)"/,
                 /href="(https?:\/\/veev\.to\/[^"]+)"/,
+                /data-player-url="(https?:\/\/vidsonic\.net\/[^"]+)"/,
                 /href="(https?:\/\/vidsonic\.net\/[^"]+)"/,
-                /href="(https?:\/\/vidara\.to\/[^"]+)"/,
             ];
 
             for (const pattern of hosterPatterns) {
