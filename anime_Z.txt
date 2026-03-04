@@ -1,0 +1,11 @@
+Zakuro|https://image.tmdb.org/t/p/w500/qQWY4n8wWKnwf92p8bgGGAIb4JO.jpg|zakuro|Animation|2010|5.9
+Z/X Code reunion|https://image.tmdb.org/t/p/w500/2imEsUJyIkT41obdZ2mSIP2iErR.jpg|zx-code-reunion|Animation|2019|4.7
+Z/X Ignition|https://image.tmdb.org/t/p/w500/oeUCXn41raVtge7wT3BAw0gN3El.jpg|zx-ignition|Action & Abenteuer|2014|7.3
+Zenonzard - The Animation|https://image.tmdb.org/t/p/w500/t6Kdmfc8Zluot9oyt38AYf2bmIr.jpg|zenonzard-the-animation|Animation|2020|10.0
+ZENSHU|https://image.tmdb.org/t/p/w500/hiLf3JKUghjhCjDCv3hKKsWtA4S.jpg|zenshu|Animation|2025|7.9
+Zom 100: Bucket List of the Dead|https://image.tmdb.org/t/p/w500/wUgE1ceORQzsZnGrASVKjEaGkzO.jpg|zom-100-bucket-list-of-the-dead|Animation|2023|7.5
+Zetman|https://image.tmdb.org/t/p/w500/4okKvxSog0DPYb61AbXBdojLJfv.jpg|zetman|Action & Abenteuer|2012|6.1
+Zipang|https://image.tmdb.org/t/p/w500/3zLSSSbjl8H4QSY2DKmfMQNy1IT.jpg|zipang|Animation|2004|7.5
+Zombie-Loan|https://image.tmdb.org/t/p/w500/lcfubN14JxIFpUjtG03xdhp4GTQ.jpg|zombie-loan|Animation|2007|5.8
+Zatsu Tabi -That's Journey-|https://image.tmdb.org/t/p/w500/c0kCofjIASHZz09Rfc6fFMUogix.jpg|zatsu-tabi-thats-journey|Animation|2025|7.7
+Zombieland Saga|https://image.tmdb.org/t/p/w500/kJYMZYxB9zkjbKIgQnqYezdJmLf.jpg|zombieland-saga|Animation|2018|8.0
