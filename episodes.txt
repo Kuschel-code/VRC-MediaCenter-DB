@@ -17081,3 +17081,15 @@ acchi-kocchi|Staffel 1 Episode 12 (Ger Dub)|acchi-kocchi-s1-ep12-ger-dub
 acchi-kocchi|Staffel 1 Episode 12 (Ger Sub)|acchi-kocchi-s1-ep12-ger-sub
 acchi-kocchi|Staffel 1 Episode 12 (Eng Sub)|acchi-kocchi-s1-ep12-eng-sub
 acchi-kocchi|Staffel 1 Episode 12 (Eng Dub)|acchi-kocchi-s1-ep12-eng-dub
+the-retirement-plan|The Retirement Plan|the-retirement-plan-s1-ep1
+humane|Humane|humane-s1-ep1
+heads-of-state|Heads of State|heads-of-state-s1-ep1
+guy-ritchies-the-covenant|Guy Ritchies The Covenant|guy-ritchies-the-covenant-s1-ep1
+vampire-in-brooklyn|Vampire in Brooklyn|vampire-in-brooklyn-s1-ep1
+carmilla-fuhre-uns-nicht-in-versuchung|Carmilla - Führe uns nicht in Versuchung|carmilla-fuhre-uns-nicht-in-versuchung-s1-ep1
+superman-returns|Superman Returns|superman-returns-s1-ep1
+crazy-rich-asians|Crazy Rich Asians|crazy-rich-asians-s1-ep1
+jack-reacher-die-jagd-hat-begonnen|Jack Reacher - Die Jagd hat begonnen!|jack-reacher-die-jagd-hat-begonnen-s1-ep1
+dead-rising-watchtower|Dead Rising: Watchtower|dead-rising-watchtower-s1-ep1
+rango|Rango|rango-s1-ep1
+jack-reacher-2-kein-weg-zuruck|Jack Reacher 2: Kein Weg zurück|jack-reacher-2-kein-weg-zuruck-s1-ep1
