@@ -381,12 +381,15 @@ async def fetch_library(content_type: str) -> list[dict]:
                     title_tag = article.find(["h2", "h3", "h1"])
                     title = title_tag.get_text(strip=True) if title_tag else slug.replace("-", " ").title()
 
-                    img_tag = article.find("img")
+                    # Poster-Bild finden (nicht die Star-Rating-Icons!)
                     thumb = ""
-                    if img_tag:
-                        thumb = img_tag.get("data-src", img_tag.get("src", ""))
-                        if thumb and not thumb.startswith("http"):
-                            thumb = base_url + thumb
+                    for img_tag in article.find_all("img"):
+                        src = img_tag.get("data-src", img_tag.get("src", ""))
+                        if src and "star_on" not in src and "star_off" not in src and "themes/" not in src:
+                            thumb = src
+                            if not thumb.startswith("http"):
+                                thumb = base_url + thumb
+                            break
 
                     items.append({
                         "title": title,

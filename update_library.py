@@ -127,40 +127,21 @@ async def get_filmpalast_stream(client: httpx.AsyncClient,
         url = url_path
     else:
         url = FILMPALAST_BASE + url_path
+    
+    # Prüfe nur ob die Seite existiert und Hoster hat
     try:
         html = await scraper._fetch_page(client, url)
         if not html:
             return None
         soup = BeautifulSoup(html, "lxml")
-
-        # Filmpalast: ul.currentStreamLinks mit .hostName und a.iconPlay
-        hoster_links = []
-        for ul in soup.select('ul.currentStreamLinks'):
-            name_tag = ul.select_one('.hostName')
-            name = name_tag.get_text(strip=True) if name_tag else "Unknown"
-            btn = ul.select_one('li.streamPlayBtn a.iconPlay')
-            if btn and btn.get("href"):
-                hoster_links.append({
-                    "name": name,
-                    "redirect_url": btn.get("href"),
-                })
-
-        if not hoster_links:
+        
+        # Prüfe ob mindestens ein Hoster verfügbar ist
+        hosters = soup.select('ul.currentStreamLinks a.iconPlay[href]')
+        if not hosters:
             return None
-
-
-        # Nach Praeferenz sortieren
-        hoster_links.sort(key=lambda h: next(
-            (i for i, p in enumerate(PREFERRED_HOSTERS) if p.upper() in h["name"].upper()),
-            len(PREFERRED_HOSTERS)
-        ))
-
-        # Erste verfügbare Hoster-Embed-URL zurückgeben (Worker löst live auf)
-        for hoster in hoster_links:
-            href = hoster["redirect_url"]
-            if href and href.startswith("http"):
-                return href
-
+        
+        # Die permanente Filmpalast-URL zurückgeben (Worker löst live auf)
+        return url
     except Exception:
         pass
     return None
@@ -311,6 +292,15 @@ async def main():
             s_thumb = s_item.get("thumb", "")
             
             if not sc or sc in done: continue
+            
+            # TMDB Poster-Fallback wenn kein Thumbnail vorhanden
+            if not s_thumb:
+                try:
+                    tmdb = await scraper.fetch_tmdb_metadata(s_title, "series")
+                    if tmdb and tmdb.get("poster"):
+                        s_thumb = tmdb["poster"]
+                except Exception:
+                    pass
             
             # Serien-Eintrag
             s_entry = f"{s_title}|{s_thumb}|{sc}|{s_item.get('genre','')}|{s_item.get('year','')}|{s_item.get('rating','')}"

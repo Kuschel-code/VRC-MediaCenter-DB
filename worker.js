@@ -212,33 +212,53 @@ function findInLines(text, key) {
 }
 
 /**
- * Löst eine Hoster-Embed-URL (z.B. voe.sx/xxx) zu einer frischen Stream-URL auf.
- * Unterstützt VOE, Vidoza, Vidnest, Streamtape und generische HLS/MP4 Extraktion.
+ * Löst eine gespeicherte URL zu einer frischen Stream-URL auf.
+ * Unterstützt:
+ * - Filmpalast-Seiten-URLs (z.B. filmpalast.to/stream/xxx) → parst Hoster-Links → VOE-Kette
+ * - VOE/Hoster-Embed-URLs → JS Fallback → Delivery → HLS/MP4
  */
-async function resolveStreamUrl(embedUrl) {
+async function resolveStreamUrl(storedUrl) {
     const UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36";
+    const HEADERS = { "User-Agent": UA, "Accept": "text/html,*/*" };
 
-    // 1. Embed-Seite abrufen
+    let embedUrl = storedUrl;
+
+    // Step 1: Wenn Filmpalast-URL → Seite laden und Hoster-Link extrahieren
+    if (storedUrl.includes("filmpalast.to")) {
+        try {
+            const resp = await fetch(storedUrl, { headers: HEADERS, redirect: "follow" });
+            const pageHtml = await resp.text();
+
+            // Erster iconPlay-Link aus ul.currentStreamLinks
+            const hosterMatch = pageHtml.match(/class="iconPlay"[^>]*href="([^"]+)"/);
+            if (!hosterMatch) {
+                // Fallback: Beliebiger hoster-Link
+                const anyLink = pageHtml.match(/href="(https?:\/\/voe\.sx\/[^"]+)"/);
+                if (!anyLink) return null;
+                embedUrl = anyLink[1];
+            } else {
+                embedUrl = hosterMatch[1];
+            }
+        } catch (e) {
+            return null;
+        }
+    }
+
+    // Step 2: Embed-Seite abrufen (z.B. voe.sx/xxx)
     let html = "";
     try {
-        const resp = await fetch(embedUrl, {
-            headers: { "User-Agent": UA, "Accept": "text/html,*/*" },
-            redirect: "follow",
-        });
+        const resp = await fetch(embedUrl, { headers: HEADERS, redirect: "follow" });
         html = await resp.text();
     } catch (e) {
         return null;
     }
 
-    // 2. VOE JS-Fallback: window.location.href = 'https://delivery.com/xxx'
+    // Step 3: VOE JS-Fallback: window.location.href = 'https://delivery.com/xxx'
     if (html.length < 2000) {
         const fallback = html.match(/window\.location\.href\s*=\s*'(https?:\/\/[^']+)'/);
         if (fallback) {
             try {
-                const resp2 = await fetch(fallback[1], {
-                    headers: { "User-Agent": UA, "Accept": "text/html,*/*" },
-                    redirect: "follow",
-                });
+                const resp2 = await fetch(fallback[1], { headers: HEADERS, redirect: "follow" });
                 html = await resp2.text();
             } catch (e) {
                 return null;
@@ -246,21 +266,17 @@ async function resolveStreamUrl(embedUrl) {
         }
     }
 
-    // 3. HLS m3u8 URL extrahieren (häufigstes Format)
+    // Step 4: HLS m3u8 URL extrahieren
     const hlsMatch = html.match(/https?:\/\/[^"'\s]+\.m3u8[^"'\s]*/);
     if (hlsMatch) return hlsMatch[0];
 
-    // 4. MP4 URL extrahieren (z.B. Vidnest)
+    // Step 5: MP4 URL extrahieren
     const mp4Match = html.match(/https?:\/\/[^"'\s]+\.mp4[^"'\s]*/);
     if (mp4Match) return mp4Match[0];
 
-    // 5. VOE-spezifisch: sources Array
+    // Step 6: sources Array (VOE)
     const sourcesMatch = html.match(/sources\s*:\s*\[\s*\{\s*src\s*:\s*["']([^"']+)/);
     if (sourcesMatch) return sourcesMatch[1];
-
-    // 6. Vidoza-spezifisch: sourcesCode
-    const vidozaMatch = html.match(/sourcesCode\s*.*?src\s*:\s*["']([^"']+)/s);
-    if (vidozaMatch) return vidozaMatch[1];
 
     return null;
 }
