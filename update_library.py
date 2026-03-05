@@ -427,12 +427,21 @@ async def main():
         animes = animes[:MAX_ANIME]
 
     pushed_count = 0
+    
+    sem_anime = asyncio.Semaphore(15)
+
+    async def fetch_anime_lang_with_limit(client, ep_urlpath, lang, base):
+        async with sem_anime:
+            return await get_stream_for_language(client, ep_urlpath, lang, base)
+
     async with scraper._client() as client:
         for ai, item in enumerate(animes):
             cid = item.get("content_id", "")
             if not cid or cid in done:
                 if cid in done:
-                    print(f"  [{ai+1}/{len(animes)}] {cid} (fertig, ueberspringe)")
+                    # Optional: nur ausgeben, wenn gewünscht, sonst Spam
+                    # print(f"  [{ai+1}/{len(animes)}] {cid} (fertig, ueberspringe)")
+                    pass
                 continue
 
             print(f"\n  [{ai+1}/{len(animes)}] {cid}")
@@ -445,36 +454,50 @@ async def main():
 
             # Episoden laden
             episodes = await scraper.fetch_episodes(cid)
-            print(f"    {len(episodes)} Episoden × {len(LANGUAGES)} Sprachen")
+            ep_count = len(episodes)
+            print(f"    {ep_count} Episoden × {len(LANGUAGES)} Sprachen")
+            
+            if ep_count == 0:
+                p["done_slugs"].append(cid)
+                done.add(cid)
+                continue
 
-            for ep in episodes:
-                ep_id      = ep.get("episode_id", "")
-                ep_title   = ep.get("title", "")
-                ep_urlpath = ep.get("url_path", "")
-                if not ep_id:
-                    continue
+            for batch_start in range(0, ep_count, 10):
+                batch = episodes[batch_start:batch_start + 10]
+                
+                async def process_anime_episode(ep):
+                    ep_id      = ep.get("episode_id", "")
+                    ep_title   = ep.get("title", "")
+                    ep_urlpath = ep.get("url_path", "")
+                    if not ep_id:
+                        return
+                    
+                    tasks = {}
+                    for lang in LANGUAGES:
+                        if ep_urlpath:
+                            tasks[lang] = fetch_anime_lang_with_limit(client, ep_urlpath, lang, ANIWORLD_BASE)
+                        else:
+                            async def _noop(): return None
+                            tasks[lang] = _noop()
+                    
+                    results = await asyncio.gather(*tasks.values(), return_exceptions=True)
+                    
+                    for lang, result in zip(tasks.keys(), results):
+                        lid   = f"{ep_id}-{lang}"
+                        ltitle = f"{ep_title} ({LANG_DISPLAY[lang]})"
 
-                for lang in LANGUAGES:
-                    lid   = f"{ep_id}-{lang}"
-                    ltitle = f"{ep_title} ({LANG_DISPLAY[lang]})"
+                        ep_line = f"{cid}|{ltitle}|{lid}"
+                        if ep_line not in p["episode_lines"]:
+                            p["episode_lines"].append(ep_line)
 
-                    ep_line = f"{cid}|{ltitle}|{lid}"
-                    if ep_line not in p["episode_lines"]:
-                        p["episode_lines"].append(ep_line)
-
-                    stream = None
-                    if ep_urlpath:
-                        stream = await get_stream_for_language(client, ep_urlpath, lang, ANIWORLD_BASE)
-
-                    if stream:
-                        s = f"{lid}|{stream}"
-                        if s not in p["stream_lines"]:
-                            p["stream_lines"].append(s)
-                        print(f"    [OK] {lang}: {stream[:55]}...")
-                    else:
-                        print(f"    [--] {lang}: nicht verfuegbar")
-
-                    await asyncio.sleep(0.3)
+                        stream = result if isinstance(result, str) else None
+                        if stream:
+                            s = f"{lid}|{stream}"
+                            if s not in p["stream_lines"]:
+                                p["stream_lines"].append(s)
+                            print(f"    [OK] {lang}: {stream[:55]}...")
+                
+                await asyncio.gather(*[process_anime_episode(ep) for ep in batch])
 
             p["done_slugs"].append(cid)
             done.add(cid)
