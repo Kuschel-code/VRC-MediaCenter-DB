@@ -45,3 +45,9 @@ BUILD-DIVIDE -#000000- CODE BLACK||build-divide-000000-code-black|||
 BULLET/BULLET||bulletbullet|||
 Burn The Witch||burn-the-witch|||
 Burst Angel||burst-angel|||
+Banana Fish||banana-fish|||
+Basilisk||basilisk|||
+BEASTARS||beastars|||
+Beatless||beatless|||
+Berserk (1997)||berserk-1997|||
+Berserk (2016)||berserk|||
