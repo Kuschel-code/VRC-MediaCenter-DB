@@ -205,3 +205,6 @@ TwoCar||twocar|||
 The Morose Mononokean||the-morose-mononokean|||
 The Empire of Corpses||the-empire-of-corpses|||
 The Island of Giant Insects||the-island-of-giant-insects|||
+The Promised Neverland||the-promised-neverland|||
+Tokko||tokko|||
+Tokyo Ghoul||tokyo-ghoul|||
