@@ -1,208 +1,32 @@
-Sailor Moon|https://image.tmdb.org/t/p/w500/9Uz8Me0l0hNtMOlrdpH64wrYFa8.jpg|sailor-moon|Action & Abenteuer|1992|8.4
-Saiyuki|https://image.tmdb.org/t/p/w500/b5tfbzJ8RIIoM6zzjpp9o9zjmrG.jpg|saiyuki|Animation|2000|6.2
-Sakugan|https://image.tmdb.org/t/p/w500/h4v0id7U9YL8se3kIviAqyMNiqe.jpg|sakugan|Animation|2021|6.9
-Sakuna: Of Rice and Ruin|https://image.tmdb.org/t/p/w500/a36F4UyUhYEj8rm3AKBXPmy1SFc.jpg|sakuna-of-rice-and-ruin|Animation|2024|7.5
-Samurai Champloo|https://image.tmdb.org/t/p/w500/gLFshfLjPIlY0f6LeCZyv8PDl6V.jpg|samurai-champloo|Animation|2004|8.3
-Sasaki and Peeps|https://image.tmdb.org/t/p/w500/m3D7giT0fyJJ5ssjOEhYgUXN7Sg.jpg|sasaki-and-peeps|Animation|2024|6.8
-Scooped Up by an S-Rank Adventurer!|https://image.tmdb.org/t/p/w500/nE1roPkXMjTpGNSuN1mjWsm9DNN.jpg|scooped-up-by-an-s-rank-adventurer|Animation|2025|6.9
-Scott Pilgrim Takes Off|https://image.tmdb.org/t/p/w500/H5rIJEe8YBQmkjsIWpaWjhHeXq.jpg|scott-pilgrim-takes-off|Animation|2023|8.0
-Scrapped Princess|https://image.tmdb.org/t/p/w500/iGhK7nsUsiHcGv1tvIBPjzDLabC.jpg|scrapped-princess|Action & Abenteuer|2003|6.4
-Seirei Gensouki: Spirit Chronicles|https://image.tmdb.org/t/p/w500/zq07L28laGQpTRhaEDkb2deoSbf.jpg|seirei-gensouki-spirit-chronicles|Animation|2021|8.3
-Shachibato! President, It’s Time for Battle!|https://image.tmdb.org/t/p/w500/bIAKziQytefCClDFWhLTpkdXaS3.jpg|shachibato-president-its-time-for-battle|Animation|2020|7.1
-Shangri-La Frontier|https://image.tmdb.org/t/p/w500/5CFYv4WYLZXizAyRwRhP0vZLNx.jpg|shangri-la-frontier|Animation|2023|8.1
-She Professed Herself Pupil of the Wise Man|https://image.tmdb.org/t/p/w500/dohtWG7uG3gn2APTu8nfyObX3Yo.jpg|she-professed-herself-pupil-of-the-wise-man|Animation|2022|6.5
-Shenmue the Animation|https://image.tmdb.org/t/p/w500/dW3vZlL7wjnfLstohrfwVgdTL47.jpg|shenmue-the-animation|Animation|2022|7.2
-Shironeko Project: Zero Chronicle|https://image.tmdb.org/t/p/w500/3X6b8AgI2fqtKpZhkxCd2EWd0ad.jpg|shironeko-project-zero-chronicle|Animation|2020|6.7
-Shonen Onmyouji|https://image.tmdb.org/t/p/w500/pgF0BZYdVcLBk8cx7yhYxohhhrx.jpg|shonen-onmyouji|Animation|2006|7.0
-Slayers|https://image.tmdb.org/t/p/w500/uLvZvVVZ06z8OIEVEmtrpKQ3Ukx.jpg|slayers|Action & Abenteuer|1995|7.4
-So You're Raising a Warrior|https://image.tmdb.org/t/p/w500/bOEexTA3D7HTb5oOLBRJAaLDXEo.jpg|so-youre-raising-a-warrior|Komoedie|2025|6.0
-Solo Leveling|https://image.tmdb.org/t/p/w500/eCD7WS9h4lCT8N4Xavc9u8R1IGk.jpg|solo-leveling|Animation|2024|8.6
-Somali and the Forest Spirit|https://image.tmdb.org/t/p/w500/Wkby0Wjbu3pzTxDnDhjQ3WWJxP.jpg|somali-and-the-forest-spirit|Animation|2020|7.5
-Sorcerous Stabber Orphen|https://image.tmdb.org/t/p/w500/eBJWsby7xOLIKRpVaw28zPsb2LG.jpg|sorcerous-stabber-orphen|Animation|2020|6.9
-Spice and Wolf|https://image.tmdb.org/t/p/w500/4bz8gNfZu3MaJ8ClavmMlvtXB67.jpg|spice-and-wolf|Animation|2008|7.5
-Spice and Wolf: merchant meets the wise wolf|https://image.tmdb.org/t/p/w500/vgfhyqA6n8WWiDhHXdVRBMHAqQw.jpg|spice-and-wolf-merchant-meets-the-wise-wolf|Animation|2024|8.0
-Spriggan|https://image.tmdb.org/t/p/w500/18by4OjqBPl5TKUHNdjlqThmsUr.jpg|spriggan|Animation|2022|6.7
-Star Blazers 2199 - Space Battleship Yamato|https://image.tmdb.org/t/p/w500/ySLYbxZUwMjKwGtPs9iQ3EztuLi.jpg|star-blazers-2199-space-battleship-yamato|Action & Abenteuer|2013|7.3
-Star Wars: Visions|https://image.tmdb.org/t/p/w500/tyEgE0plST1EuwLaLi9pwAQrLyw.jpg|star-wars-visions|Animation|2021|7.1
-Sugar Apple Fairy Tale|https://image.tmdb.org/t/p/w500/rcUFHv5S7eY0nArCYfZlmGXih4J.jpg|sugar-apple-fairy-tale|Animation|2023|7.2
+Sailor Moon||sailor-moon|||
+Saiyuki||saiyuki|||
+Sakugan||sakugan|||
+Sakuna: Of Rice and Ruin||sakuna-of-rice-and-ruin|||
+Samurai Champloo||samurai-champloo|||
+Sasaki and Peeps||sasaki-and-peeps|||
+Scooped Up by an S-Rank Adventurer!||scooped-up-by-an-s-rank-adventurer|||
+Scott Pilgrim Takes Off||scott-pilgrim-takes-off|||
+Scrapped Princess||scrapped-princess|||
+Seirei Gensouki: Spirit Chronicles||seirei-gensouki-spirit-chronicles|||
+Shachibato! President, It’s Time for Battle!||shachibato-president-its-time-for-battle|||
+Shangri-La Frontier||shangri-la-frontier|||
+She Professed Herself Pupil of the Wise Man||she-professed-herself-pupil-of-the-wise-man|||
+Shenmue the Animation||shenmue-the-animation|||
+Shironeko Project: Zero Chronicle||shironeko-project-zero-chronicle|||
+Shonen Onmyouji||shonen-onmyouji|||
+Slayers||slayers|||
+So You're Raising a Warrior||so-youre-raising-a-warrior|||
+Solo Leveling||solo-leveling|||
+Somali and the Forest Spirit||somali-and-the-forest-spirit|||
+Sorcerous Stabber Orphen||sorcerous-stabber-orphen|||
+Spice and Wolf||spice-and-wolf|||
+Spice and Wolf: merchant meets the wise wolf||spice-and-wolf-merchant-meets-the-wise-wolf|||
+Spriggan||spriggan|||
+Star Blazers 2199 - Space Battleship Yamato||star-blazers-2199-space-battleship-yamato|||
+Star Wars: Visions||star-wars-visions|||
+Sugar Apple Fairy Tale||sugar-apple-fairy-tale|||
 Summer Days with Coo||summer-days-with-coo|||
 Summer Wars||summer-wars|||
-Suppose a Kid from the Last Dungeon Boonies moved to a starter town?|https://image.tmdb.org/t/p/w500/fHePXGj1I2nomrGN6UuEZyuyy0R.jpg|suppose-a-kid-from-the-last-dungeon-boonies-moved-to-a-starter-town|Animation|2021|7.1
-Suzume|https://image.tmdb.org/t/p/w500/2fRht0UsBj8mZZTYtC3zhVO8B0M.jpg|suzume|Komoedie|2006|7.8
-Sword Oratoria: Is it Wrong to Try to Pick Up Girls in a Dungeon? On the Side|https://image.tmdb.org/t/p/w500/iKNeAEH3cmXCeQRnE09yBk8NDAM.jpg|danmachi-sword-oratoria|Animation|2017|6.9
-Saber Rider and the Star Sheriffs|https://image.tmdb.org/t/p/w500/oJ5zHS6CR0ewf8Zpxj6D8VIwP3p.jpg|saber-rider-and-the-star-sheriffs|Animation|1987|8.1
-Sacred Seven|https://image.tmdb.org/t/p/w500/kTYUHmTcH5UdmBhOr9Ry85C9GUw.jpg|sacred-seven|Animation|2011|7.2
-Saga of Tanya the Evil|https://image.tmdb.org/t/p/w500/y0NcqaEx6Md4MPcDWHAr8e5CQfF.jpg|saga-of-tanya-the-evil|Animation|2017|8.2
-Saint Seiya: The Lost Canvas|https://image.tmdb.org/t/p/w500/it6bOHyvHaaWJQqB7QBbIrE3RUV.jpg|saint-seiya-the-lost-canvas|Animation|2009|8.3
-Sakura Wars TV|https://image.tmdb.org/t/p/w500/e89Ss4NkuAXWWDD00xh5HGYDG6Y.jpg|sakura-wars-tv|Action & Abenteuer|2000|6.2
-Sakura Wars: The Animation|https://image.tmdb.org/t/p/w500/gFMkIKUKWqQlbTgC7CqN6r8IZzM.jpg|sakura-wars-the-animation|Animation|2020|6.3
-Samurai Warriors|https://image.tmdb.org/t/p/w500/ny2Lg6afSKMEXbZSZ6Ghj1I84Bb.jpg|samurai-warriors|Animation|2015|6.5
-SAND LAND: THE SERIES|https://image.tmdb.org/t/p/w500/4oEibLDv93MA5yktfS7sWPuUy6x.jpg|sand-land-the-series|Animation|2024|8.1
-Scar on the Praeter|https://image.tmdb.org/t/p/w500/qyMM0PVhHNocADOGex4j2uyBQpL.jpg|scar-on-the-praeter|Animation|2021|3.3
-Scarlet Nexus|https://image.tmdb.org/t/p/w500/lMNT7ayoBldk3Jz42SK5I1G2gf7.jpg|scarlet-nexus|Animation|2021|7.3
-Scum of the Brave|https://image.tmdb.org/t/p/w500/zUdByBz1zWn4Prgw5nkVmgfFzfI.jpg|scum-of-the-brave|Animation|2026|8.0
-Scumbag System|https://image.tmdb.org/t/p/w500/zIU36PNvbsGcuGFVzxAFdPgtKR9.jpg|scumbag-system|Animation|2020|6.9
-SD Gundam World Heroes|https://image.tmdb.org/t/p/w500/7erAYO2Uj6aKYO3BkcESbGFEs4t.jpg|sd-gundam-world-heroes|Animation|2021|7.0
-Secrets of the Silent Witch|https://image.tmdb.org/t/p/w500/bPSb5zhnEAz9X5qupp33rqTn9EE.jpg|secrets-of-the-silent-witch|Animation|2025|8.0
-Sengoku Youko|https://image.tmdb.org/t/p/w500/lrDZp18LeTj6iJFcc01SAMB50xv.jpg|sengoku-youko|Animation|2024|6.9
-Seven Mortal Sins|https://image.tmdb.org/t/p/w500/aY7Q2MX5O60njeYV4DB0WrYj9ym.jpg|seven-mortal-sins|Animation|2017|6.9
-Shakugan no Shana|https://image.tmdb.org/t/p/w500/1V98igFU3su5VEXvcCNMd2JuLAD.jpg|shakugan-no-shana|Action & Abenteuer|2005|7.4
-Shangri-La|https://image.tmdb.org/t/p/w500/5CFYv4WYLZXizAyRwRhP0vZLNx.jpg|shangri-la|Animation|2023|8.1
-Shikizakura|https://image.tmdb.org/t/p/w500/fvSCetAl97hM2LZgtGuvUSDycD7.jpg|shikizakura|Animation|2021|5.6
-Shin Ikki Tousen|https://image.tmdb.org/t/p/w500/816zU3IELJlkmRqPt91uu9ty1Qf.jpg|shin-ikki-tousen|Animation|2022|5.7
-Shine On! Bakumatsu Bad Boys!|https://image.tmdb.org/t/p/w500/7Sd0zROVNR0HGrRurUaP9p5mnCx.jpg|shine-on-bakumatsu-bad-boys|Animation|2022|6.1
-Shinobi no Ittoki|https://image.tmdb.org/t/p/w500/xuqsm5RM9cJYloufbqxvPR4P3NX.jpg|shinobi-no-ittoki|Animation|2022|6.4
-SHY|https://image.tmdb.org/t/p/w500/uEkeOsy9d6jTPxHIhLXuc19qACF.jpg|shy|Animation|2023|6.1
-SI-VIS: The Sound of Heroes|https://image.tmdb.org/t/p/w500/fbssiB7q1Ek7pcG2W6AWi2UIJdk.jpg|si-vis-the-sound-of-heroes|Animation|2025|6.0
-SK8 the Infinity|https://image.tmdb.org/t/p/w500/xXSG9DwLefmmvyHyxpS8M2LJ0TU.jpg|sk8-the-infinity|Animation|2021|8.4
-Skeleton Knight in Another World|https://image.tmdb.org/t/p/w500/kztE76NfhDw1LFVyOHVp2a48czQ.jpg|skeleton-knight-in-another-world|Animation|2022|7.4
-Space Pirate Captain Harlock|https://image.tmdb.org/t/p/w500/jnNdw6qlZTGXGXOWedwfd7xX2hs.jpg|space-pirate-captain-harlock|Action & Abenteuer|1978|7.2
-Spare Me, Great Lord!|https://image.tmdb.org/t/p/w500/jO4DI02wo9hqimvELQGPa44T47Q.jpg|spare-me-great-lord|Animation|2021|7.6
-SSSS.Dynazenon|https://image.tmdb.org/t/p/w500/3YnOTIkMoQnzPcgIlLmCtRPyzlW.jpg|ssssdynazenon|Animation|2021|7.5
-SSSS.Gridman|https://image.tmdb.org/t/p/w500/mV3AOQptdjJDPhmnZN0rUBtutlt.jpg|ssssgridman|Animation|2018|7.2
-Star Driver|https://image.tmdb.org/t/p/w500/xqdgSLJwEdvO7T16zVfmqezYGDY.jpg|star-driver|Animation|2010|7.3
-Steamboy||steamboy|||
-Stella Women's Academy, High School Division Class C3|https://image.tmdb.org/t/p/w500/eK2gFk1GOYiLofRjSoH1cFoaSQi.jpg|stella-womens-academy-high-school-division-class-c3|Animation|2013|5.5
-Strait Jacket|https://image.tmdb.org/t/p/w500/satFLfnrhTWHyABLNGohB3UBdcK.jpg|strait-jacket|Animation|2007|6.2
-Strike the Blood|https://image.tmdb.org/t/p/w500/xEYHiTendd99os39wTL3NLJAS2q.jpg|strike-the-blood|Animation|2013|6.9
-Suicide Squad Isekai|https://image.tmdb.org/t/p/w500/AbVwsBJnLoqJzPJn8dlGFSGfygy.jpg|suicide-squad-isekai|Animation|2024|7.4
-Super Crooks|https://image.tmdb.org/t/p/w500/9j4Tl5XbRaaiHEXpkFUF4WCfIlt.jpg|super-crooks|Animation|2021|7.0
-Sword Art Online Alternative: Gun Gale Online|https://image.tmdb.org/t/p/w500/e3lTqAxwYgzURmjI2mKZd02dFqX.jpg|sword-art-online-alternative-gun-gale-online|Animation|2018|7.7
-Sword of the Demon Hunter: Kijin Gentōshō|https://image.tmdb.org/t/p/w500/6phREn6JBjCiodaAy21pXkstv4P.jpg|sword-of-the-demon-hunter-kijin-gentsh|Animation|2025|7.8
-Swordgai The Animation|https://image.tmdb.org/t/p/w500/gSWy4281JWgXcnI4HqBjDf7Umho.jpg|swordgai-the-animation|Animation|2018|6.8
-Symphogear|https://image.tmdb.org/t/p/w500/ky9Bjtk1rYyjSSVeDFF2pweoIiC.jpg|symphogear|Animation|2012|6.9
-SAMURAI 7|https://image.tmdb.org/t/p/w500/LlW1lmRT2RKVLgm3s9huGgd5U3.jpg|samurai-7|Action & Abenteuer|2004|7.0
-Schwarzes Marken|https://image.tmdb.org/t/p/w500/4HLc8gAU1SmAClUvkm5kMtsk1Zn.jpg|schwarzes-marken|Animation|2016|6.8
-Sentenced to Be a Hero|https://image.tmdb.org/t/p/w500/juGNOhRx7MXg3i2NuZ9lR6arVQw.jpg|sentenced-to-be-a-hero|Animation|2026|8.9
-Seraph of the End|https://image.tmdb.org/t/p/w500/jP569pDgvwX3MeZPXUnmteYA2oZ.jpg|seraph-of-the-end|Animation|2015|7.9
-Servamp|https://image.tmdb.org/t/p/w500/ws1dZfIaptH3A6zeWC7ANIXDcLl.jpg|servamp|Animation|2016|8.2
-SHIBOYUGI: Playing Death Games to Put Food on the Table|https://image.tmdb.org/t/p/w500/4EswDHj9GVcSNmKwWcxvQDynTVJ.jpg|shiboyugi-playing-death-games-to-put-food-on-the-table|Animation|2026|6.9
-Sirius the Jaeger|https://image.tmdb.org/t/p/w500/z4Eriu63E6U4JPWLCUpn3QbavaQ.jpg|sirius-the-jaeger|Animation|2018|7.2
-Sky Wizard Academy|https://image.tmdb.org/t/p/w500/wtJVGOCVEqB2kXNr3JMmxgT14uB.jpg|sky-wizard-academy|Animation|2015|7.1
-Sword Art Online|https://image.tmdb.org/t/p/w500/htNohqrYEwuz4fCa9ATVF90s58S.jpg|sword-art-online|Animation|2012|8.2
-Sabagebu!: Survival Game Club!|https://image.tmdb.org/t/p/w500/bqibFFJFY9KAyA3VUHvjE7A0Ehm.jpg|sabagebu-survival-game-club|Animation|2014|7.3
-Sakamoto Days|https://image.tmdb.org/t/p/w500/qTNIxDIzKjLLuS17fxdXjcKAlW7.jpg|sakamoto-days|Animation|2025|8.1
-Samurai Girls|https://image.tmdb.org/t/p/w500/3FeLHQChvAMElHPGsYKDWslTaK6.jpg|samurai-girls|Animation|2010|6.4
-Sekai Seifuku: World Conquest Zvezda Plot|https://image.tmdb.org/t/p/w500/q0VlnKNxqNOgIhzxXDgzpnpftyS.jpg|sekai-seifuku-world-conquest-zvezda-plot|Action & Abenteuer|2014|6.3
-Sekirei|https://image.tmdb.org/t/p/w500/72gRgK8t7FSqY3El41nguj272vR.jpg|sekirei|Animation|2008|7.2
-Senran Kagura|https://image.tmdb.org/t/p/w500/s7YVn2EMkQNt23nD7WEZO0fjegN.jpg|senran-kagura|Action & Abenteuer|2013|5.7
-Sky Girls|https://image.tmdb.org/t/p/w500/3Doo8lW1Vi1ZfJw3KRACEDLl0aN.jpg|sky-girls|Animation|2007|6.9
-So I’m a Spider, So What?|https://image.tmdb.org/t/p/w500/wt7LoTKJUYmyWuxcVowGWaPeKqV.jpg|so-im-a-spider-so-what|Animation|2021|7.8
-Soul Eater Not!|https://image.tmdb.org/t/p/w500/ztbotMzXCEqt344bq4Q9dGwD6t0.jpg|soul-eater-not|Action & Abenteuer|2014|5.7
-Space Dandy|https://image.tmdb.org/t/p/w500/fiF6xVytcy0RHvIzMWUXNIGOIKu.jpg|space-dandy|Animation|2014|7.5
-SPY x FAMILY|https://image.tmdb.org/t/p/w500/vaIREdPGZOnW9Jrs86mheVVlIQQ.jpg|spy-x-family|Animation|2022|8.5
-Strike Witches|https://image.tmdb.org/t/p/w500/zYSQM0y4equEz2C4so4ToJAopOn.jpg|strike-witches|Animation|2008|5.8
-Season of Change|https://image.tmdb.org/t/p/w500/ff03Yl5gBDuZ9zI5Nhoa0cjYKQH.jpg|season-of-change||2022|
-See You Tomorrow at the Food Court|https://image.tmdb.org/t/p/w500/rNyKMLB71VigA26JUoUmLZf5ium.jpg|see-you-tomorrow-at-the-food-court|Animation|2025|8.6
-SHOSHIMIN: How to Become Ordinary|https://image.tmdb.org/t/p/w500/9ri01JvmNHUlqZo77K3CZn5rUhw.jpg|shoshimin-how-to-become-ordinary|Animation|2024|7.4
-Solo Camping for Two|https://image.tmdb.org/t/p/w500/gP7rdhoejxIwZUzB6vpnlsQsdOB.jpg|solo-camping-for-two|Animation|2025|7.7
-Summer Pockets|https://image.tmdb.org/t/p/w500/8WALipI4LbRa3POKJOfGPLrVemK.jpg|summer-pockets|Animation|2025|7.1
-Sagrada Reset|https://image.tmdb.org/t/p/w500/2QtCBgorCCGBnQeD5vh28b7igOD.jpg|sagrada-reset|Animation|2017|7.7
-Sanrio Boys|https://image.tmdb.org/t/p/w500/wml6rxWR7OJvJsNUS0WbDmwqrxF.jpg|sanrio-boys|Animation|2018|7.0
-Seven Days War|https://image.tmdb.org/t/p/w500/yhnSqxQc8QaeBC2ZuWqZDtECtHv.jpg|seven-days-war|Sci-Fi & Fantasy|1998|6.9
-Seven Senses of the Re'Union|https://image.tmdb.org/t/p/w500/33NQ8CFTlO9WCLNY18pA2aX74NB.jpg|seven-senses-of-the-reunion|Animation|2018|6.3
-Skip and Loafer|https://image.tmdb.org/t/p/w500/uTifA4f87D7JQeTFob2xB2QroD1.jpg|skip-and-loafer|Animation|2023|7.8
-Smile Down the Runway|https://image.tmdb.org/t/p/w500/gzMOkjpNRx9oTnn0QnmhuVcrTHQ.jpg|smile-down-the-runway|Animation|2020|7.2
-Sound! Euphonium|https://image.tmdb.org/t/p/w500/5PwD9F9ot5z3CUvb95qXtk3PGsf.jpg|sound-euphonium|Animation|2015|8.0
-Sweetness & Lightning|https://image.tmdb.org/t/p/w500/Aa2s1gYdhZCO3eqQBa5vEdADvMn.jpg|sweetness-lightning|Animation|2016|7.3
-Salaryman's Club|https://image.tmdb.org/t/p/w500/ux31AMkYpFm4KiN21VKxdSjcYOX.jpg|salarymans-club|Animation|2022|7.6
-SANDA|https://image.tmdb.org/t/p/w500/mIA684Vy3CpNXpQihHYYWP1lzAM.jpg|sanda|Animation|2025|7.9
-School Days|https://image.tmdb.org/t/p/w500/cBQEXNsxQrecTazuzwBIglWzKd6.jpg|school-days|Animation|2007|6.4
-Serial Experiments Lain|https://image.tmdb.org/t/p/w500/ej3tcxv2YYVWy6WoOeWZTcrkiI8.jpg|serial-experiments-lain|Animation|1998|8.2
-Shadows House|https://image.tmdb.org/t/p/w500/2XUERaN99so7f6COy5aeJfrNVWc.jpg|shadows-house|Animation|2021|8.0
-She and Her Cat: Everything Flows|https://image.tmdb.org/t/p/w500/pn4NyadZRiEWEvWNBYXgszQ6xVO.jpg|she-and-her-cat-everything-flows|Animation|2016|6.8
-Shuffle!|https://image.tmdb.org/t/p/w500/5Bp4RzCoBzZ3C7cKau1CdgrRMv.jpg|shuffle|Animation|2005|5.7
-Sing "Yesterday" for Me|https://image.tmdb.org/t/p/w500/oI0dhpARSvmy6w0VwqZzt1tX5lE.jpg|sing-yesterday-for-me|Animation|2020|8.0
-Sing a Bit of Harmony||sing-a-bit-of-harmony|||
-Sola|https://image.tmdb.org/t/p/w500/jdM4NVmNRQB5NQ5Ic51hdQktgnK.jpg|sola|Animation|2007|7.2
-Sonny Boy|https://image.tmdb.org/t/p/w500/6sJ7FCtxzrNfgM70s2d7VS0Xjdm.jpg|sonny-boy|Animation|2021|7.2
-Stars Align|https://image.tmdb.org/t/p/w500/vBZ4sxri3P6R0TjCX5ii4ZOldfJ.jpg|stars-align|Animation|2019|8.4
-Summer Ghost||summer-ghost|||
-Super Lovers|https://image.tmdb.org/t/p/w500/cQ8LfYIN0pTUZ3JkjdGkQ9crSGq.jpg|super-lovers|Animation|2016|6.5
-Sweet Reincarnation|https://image.tmdb.org/t/p/w500/dPmbLLoCgvdxsG0kpm8mF9aY4fK.jpg|sweet-reincarnation|Animation|2023|7.1
-Shabake|https://image.tmdb.org/t/p/w500/95frFI1k6Acjes3LNKAv4mexU0C.jpg|shabake|Animation|2025|6.8
-Smile of the Arsnotoria the Animation|https://image.tmdb.org/t/p/w500/ztRF3KZG9s2P64FMNM94Mh6dvZa.jpg|smile-of-the-arsnotoria-the-animation|Animation|2022|4.7
-Saint Seiya - The Hades Chapter|https://image.tmdb.org/t/p/w500/aDFZTZSBm0K91yyJOtoBYcWkjwt.jpg|saint-seiya-the-hades-chapter|Action & Abenteuer|2002|8.0
-Saint Seiya: Knights of the Zodiac|https://image.tmdb.org/t/p/w500/yzfjuIkWzO0ImMEgg9fMHDzR3JP.jpg|saint-seiya-knights-of-the-zodiac|Animation|2019|7.4
-Sengoku Basara - Samurai Kings|https://image.tmdb.org/t/p/w500/qpZLwzQEKE0Z2K1qFlOoPIQsZhD.jpg|sengoku-basara-samurai-kings|Animation|2009|6.2
-Shaman King|https://image.tmdb.org/t/p/w500/tAOwHV9gwx3leW26Xch5gi16aII.jpg|shaman-king|Animation|2021|8.2
-Shaman King (2021)|https://image.tmdb.org/t/p/w500/tAOwHV9gwx3leW26Xch5gi16aII.jpg|shaman-king-2021|Animation|2021|8.2
-Soul Eater|https://image.tmdb.org/t/p/w500/hI5AhxFTSFabTG7Fvhczyb5ZIh8.jpg|soul-eater|Action & Abenteuer|2008|7.8
-Street Fighter II - Victory|https://image.tmdb.org/t/p/w500/p7VSebvaZ6eWTrJDFh1sV7h6GV2.jpg|street-fighter-ii-victory|Animation|1995|7.9
-Super Dragonball Heroes|https://image.tmdb.org/t/p/w500/79C1S70I2nR4o0WpVETIezT3jyG.jpg|super-dragonball-heroes|Animation|2018|7.6
-Saki|https://image.tmdb.org/t/p/w500/80to1jK0MAsX1Bjn6heAXtg0r7t.jpg|saki|Animation|2009|5.6
-Scorching Ping Pong Girls|https://image.tmdb.org/t/p/w500/uUJKEN2OmhsYzMjb1YBosOG7R3s.jpg|scorching-ping-pong-girls|Animation|2016|5.3
-Shadowverse|https://image.tmdb.org/t/p/w500/jxHLdfpZfkc7wPEhY6nZz5tr0eu.jpg|shadowverse|Animation|2020|5.3
-Shadowverse Flame|https://image.tmdb.org/t/p/w500/jxHLdfpZfkc7wPEhY6nZz5tr0eu.jpg|shadowverse-flame|Animation|2020|5.3
-SHOOT! Goal to the Future|https://image.tmdb.org/t/p/w500/utiQcRYDRqUApxWDzl6T9gs6x5X.jpg|shoot-goal-to-the-future|Animation|2022|6.9
-Skate-Leading Stars|https://image.tmdb.org/t/p/w500/tBxK6r1DlDTJDsde4GDQDjpGcIC.jpg|skate-leading-stars|Animation|2021|5.6
-Skip Beat!|https://image.tmdb.org/t/p/w500/d9crmGhDGGJuXj1GKyqhPiFrUQr.jpg|skip-beat|Animation|2008|7.2
-Slam Dunk|https://image.tmdb.org/t/p/w500/tl44cjAK0UiQSH6aRLs1ActnGEp.jpg|slam-dunk|Animation|1993|8.7
-Starmyu|https://image.tmdb.org/t/p/w500/cPeb8sTfqltEHZlOCPc6orwuIsq.jpg|starmyu|Animation|2015|8.4
-Spirited Away|https://image.tmdb.org/t/p/w500/8uajlTh0Gg2mTn3pu3KClBVzf5A.jpg|spirited-away||2024|
-Spy Classroom|https://image.tmdb.org/t/p/w500/nxvPDNLSlhdZMGJ1W0Il4ixnH5w.jpg|spy-classroom|Animation|2023|6.3
-School-Live!|https://image.tmdb.org/t/p/w500/41rIEifDCZDVr5WET8rroWWYgvU.jpg|school-live|Animation|2015|8.4
-Shiki|https://image.tmdb.org/t/p/w500/haxobwMfwQLaz1tgh0Ngp58kmRW.jpg|shiki|Animation|2022|7.8
-Saint Young Men|https://image.tmdb.org/t/p/w500/956DWCHL6zawuUBpTiZ2vKhevuJ.jpg|saint-young-men|Animation|2012|7.2
-Sakura Quest|https://image.tmdb.org/t/p/w500/eowqcuLgHyJHIY8v9Es6tEiOHHl.jpg|sakura-quest|Animation|2017|7.0
-Sasaki and Miyano|https://image.tmdb.org/t/p/w500/tq5AvMd3Qd8JnHxAvOjWPghi07i.jpg|sasaki-and-miyano|Animation|2022|8.4
-Saving 80,000 Gold in Another World for My Retirement|https://image.tmdb.org/t/p/w500/eW7WipQUnl4zFEqGyoZxDvhgMYK.jpg|saving-80000-gold-in-another-world-for-my-retirement|Animation|2023|5.9
-School Babysitters|https://image.tmdb.org/t/p/w500/quK0JhMwXaJQTSLJrFHY9lzXBUo.jpg|school-babysitters|Animation|2018|7.9
-SELECTION PROJECT|https://image.tmdb.org/t/p/w500/kZsNPggW59mKcy5tEkuMRd5TkGF.jpg|selection-project|Animation|2021|6.0
-Servant x Service|https://image.tmdb.org/t/p/w500/fhGmNBTOUUOuonSlpoI1SA485TR.jpg|servant-x-service|Animation|2013|6.7
-Seton Academy: Join the Pack!|https://image.tmdb.org/t/p/w500/pxCeen40VDkUdDe1dUmGl9vNqYJ.jpg|seton-academy-join-the-pack|Animation|2020|8.4
-Shine Post|https://image.tmdb.org/t/p/w500/qz0CWswDNsSsBkHjkcT6a98zo2e.jpg|shine-post|Animation|2022|8.6
-Shirobako|https://image.tmdb.org/t/p/w500/pGcyyvixbsJpgMngSCULFvbnpBK.jpg|shirobako|Animation|2014|7.8
-SHIROHIYO - Reincarnated as a Neglected Noble: Raising My Baby Brother With Memories From My Past Life|https://image.tmdb.org/t/p/w500/9XzYuXioQJr7Ry2KuHErLl8w6ff.jpg|shirohiyo-reincarnated-as-a-neglected-noble-raising-my-baby-brother-with-memories-from-my-past-life|Animation|2025|8.5
-Silver Spoon|https://image.tmdb.org/t/p/w500/vK7o0CUopJpxVXQOI7oSDeED33M.jpg|silver-spoon|Animation|2013|7.8
-Sket Dance|https://image.tmdb.org/t/p/w500/hsFNDzJ5qiCyWhct1EoFqx7FcSY.jpg|sket-dance|Animation|2011|6.2
-Sleepy Princess in the Demon Castle|https://image.tmdb.org/t/p/w500/dQEMtMYx7iUtlscCGa21GUlqNQE.jpg|sleepy-princess-in-the-demon-castle|Animation|2020|8.4
-SLOW LOOP|https://image.tmdb.org/t/p/w500/3eGmJkkiCTnFh0Qpqme7nTRndMq.jpg|slow-loop|Animation|2022|6.4
-Snack Basue|https://image.tmdb.org/t/p/w500/ofcGZLM6vH8ISBB6T8OPkjlDmjy.jpg|snack-basue|Animation|2024|8.2
-Sorairo Utility|https://image.tmdb.org/t/p/w500/lwIqH2y5G2cqbgoC8F3efWLICiA.jpg|sorairo-utility|Animation|2025|7.1
-Sound of the Sky|https://image.tmdb.org/t/p/w500/nloUpXc2REDruYFaFCXevQ58kGy.jpg|sound-of-the-sky|Animation|2010|7.7
-Space Battleship Tiramisu|https://image.tmdb.org/t/p/w500/3nvrwgk0hV7vZrutbNv15meYPo5.jpg|space-battleship-tiramisu|Animation|2018|6.0
-Squid Girl|https://image.tmdb.org/t/p/w500/dZrxnMoeEn0VgNC0Cr8fMCA2cEe.jpg|squid-girl|Animation|2010|6.6
-Stardust Telepath|https://image.tmdb.org/t/p/w500/qaTjwDjHypYpVIwiRMGUKWELKWE.jpg|stardust-telepath|Animation|2023|6.7
-Student Council's Discretion|https://image.tmdb.org/t/p/w500/yGqbBnx4lWVCCjRBOkjyFJAVgRx.jpg|student-councils-discretion|Animation|2009|7.6
-Super Cub|https://image.tmdb.org/t/p/w500/a5h9fMnVtQ28dOxZq799GGbSN61.jpg|super-cub|Animation|2021|7.2
-Super Sonico The Animation|https://image.tmdb.org/t/p/w500/mgRYwjELDnoonXBVWJQoPU6ILyf.jpg|super-sonico-the-animation|Animation|2014|7.8
-Special 7: Special Crime Investigation Unit|https://image.tmdb.org/t/p/w500/9mOQ5aM5tLHJcszNcuwBQXHOiSq.jpg|special-7-special-crime-investigation-unit|Action & Abenteuer|2019|7.4
-Stand My Heroes: Piece of Truth|https://image.tmdb.org/t/p/w500/v6t3OIRMdWJ1w26Cwkv2uJIRODE.jpg|stand-my-heroes-piece-of-truth|Animation|2019|5.4
-Summer Time Rendering|https://image.tmdb.org/t/p/w500/4EHwVHScjPAN7pM3lDBDwbRjoOj.jpg|summer-time-rendering|Animation|2022|8.1
-Sailor Moon Crystal|https://image.tmdb.org/t/p/w500/1jeC3TXZ1YoIeGyS5QeMO4Dn4fl.jpg|sailor-moon-crystal|Animation|2014|8.1
-Say, I Love You|https://image.tmdb.org/t/p/w500/ctTbPg3J42fwnwKbHgqnqhxvcAf.jpg|suki-tte-ii-na-yo|Animation|2012|7.6
-Scum's Wish|https://image.tmdb.org/t/p/w500/gy00KZvi4N8HlYsGTx4MT01qcoV.jpg|scums-wish|Animation|2017|6.4
-Scissor Seven|https://image.tmdb.org/t/p/w500/jz9ii5sft8l6zP3lzu51xNWmgiO.jpg|scissor-seven|Animation|2018|8.6
-Seitokai Yakuindomo|https://image.tmdb.org/t/p/w500/fWZ05GUcRSlWX2Vu3tcl2CBilIp.jpg|seitokai-yakuindomo|Animation|2010|7.0
-Shimoneta: A Boring World Where the Concept of 'Dirty Jokes' Doesn't Exist|https://image.tmdb.org/t/p/w500/y5ruAwzGx5oyFSpzmCbmIt5Zz8l.jpg|shimoneta-a-boring-world-where-the-concept-of-dirty-jokes-doesnt-exist|Animation|2015|7.0
-Saekano: How to Raise a Boring Girlfriend|https://image.tmdb.org/t/p/w500/1jOoIaYLmyzaiuoiV8TG5cd5gih.jpg|saekano-how-to-raise-a-boring-girlfriend|Animation|2015|6.8
-Saint Cecilia and Pastor Lawrence|https://image.tmdb.org/t/p/w500/zgXLOW0dQ2LKHPkB68Db75PgWup.jpg|saint-cecilia-and-pastor-lawrence|Animation|2023|7.5
-Sakura Trick|https://image.tmdb.org/t/p/w500/2Sm1bZSJ8UX1m8mWy8iaSOmexY0.jpg|sakura-trick|Komoedie|2014|6.1
-Samurai Harem|https://image.tmdb.org/t/p/w500/jlIRWrNCdH5u8NlRHfprDtzkKff.jpg|samurai-harem|Animation|2009|7.0
-Sasameki Koto|https://image.tmdb.org/t/p/w500/ilxH4QQFrxtTiU1XMF6moQftVW0.jpg|sasameki-koto|Animation|2009|6.6
-School Rumble|https://image.tmdb.org/t/p/w500/uuldZxy7SRvSvOfRBZObKTMfmtP.jpg|school-rumble|Animation|2004|7.4
-Science fell in Love, so I tried to prove it|https://image.tmdb.org/t/p/w500/pokU2f5EgD5E6EJoK9jhfbkQNXe.jpg|science-fell-in-love-so-i-tried-to-prove-it|Animation|2020|7.6
-Seiren|https://image.tmdb.org/t/p/w500/8OIypScBcXYXjFYnhOyCEmVg0nW.jpg|seiren|Animation|2017|7.9
-Senpai is an Otokonoko|https://image.tmdb.org/t/p/w500/au90540MP5FlnZGZZM6Gszjwcnl.jpg|senpai-is-an-otokonoko|Animation|2024|7.6
-Shikimori's Not Just a Cutie|https://image.tmdb.org/t/p/w500/haxobwMfwQLaz1tgh0Ngp58kmRW.jpg|shikimoris-not-just-a-cutie|Animation|2022|7.8
-Shomin Sample|https://image.tmdb.org/t/p/w500/4lMaDnVgglRshh0vX1x4dhGOCnd.jpg|shomin-sample|Animation|2015|8.3
-So, I Can’t Play H!|https://image.tmdb.org/t/p/w500/wNiyGFic5bmtrrUKUWHOFNrZRS2.jpg|so-i-cant-play-h|Action & Abenteuer|2012|7.7
-Special A|https://image.tmdb.org/t/p/w500/uOx0dDmt72hjIC5gmCzxEdn8qt0.jpg|special-a|Drama|1972|6.4
-Spiritpact|https://image.tmdb.org/t/p/w500/657mCsZKc58PbX4VCv4BL9giFo2.jpg|spiritpact|Animation|2016|6.0
-Strawberry 100%|https://image.tmdb.org/t/p/w500/AaGbEKm5a0lS2vZwVveLgQrmxHN.jpg|strawberry-100|Animation|2005|6.2
-Studio Apartment, Good Lighting, Angel Included|https://image.tmdb.org/t/p/w500/zFxZLWVketbVHJPaINY2v3wTsCN.jpg|studio-apartment-good-lighting-angel-included|Animation|2024|7.4
-Summoned to Another World for a Second Time|https://image.tmdb.org/t/p/w500/sAI7DYEuM9mdtZWJiK7YFQcCn0b.jpg|summoned-to-another-world-for-a-second-time|Animation|2023|6.2
-Sumomomo Momomo - The Strongest Bride on Earth|https://image.tmdb.org/t/p/w500/w2881vAANTSuOUBOT0V3hzQTQIL.jpg|sumomomo-momomo-the-strongest-bride-on-earth|Animation|2006|6.4
-Super HxEros|https://image.tmdb.org/t/p/w500/jwh8eRPJPhE6XXgwlkRf6RFoKUq.jpg|super-hxeros|Animation|2020|6.0
-Sacrificial Princess and the King of Beasts|https://image.tmdb.org/t/p/w500/qmu5Ry16ZcqLyCZS8sWGEBxeGWT.jpg|sacrificial-princess-and-the-king-of-beasts|Animation|2023|6.9
-Sankarea: Undying Love|https://image.tmdb.org/t/p/w500/tksIwtOg3Rb6k5A0QjGP9ZdjMts.jpg|sankarea-undying-love|Animation|2012|7.8
-Sekai Ichi Hatsukoi: World's Greatest First Love|https://image.tmdb.org/t/p/w500/kv8Ds7MWYi3R057TNFsqeBWV2oF.jpg|sekai-ichi-hatsukoi-worlds-greatest-first-love|Animation|2011|6.0
-Shugo Chara!|https://image.tmdb.org/t/p/w500/cP1oeOZCDv1KlQcaV7IpDAUpoFc.jpg|shugo-chara|Animation|2007|7.8
-Snow White with the Red Hair|https://image.tmdb.org/t/p/w500/6ZPxehL2MdsKEtK163yCB9UNN5Z.jpg|die-rothaarige-schneeprinzessin|Animation|2015|7.7
-Strawberry Panic!|https://image.tmdb.org/t/p/w500/tpgJ26KgCMKY3ya8mOk5ulXzV2o.jpg|strawberry-panic|Animation|2006|7.0
-Suzuka|https://image.tmdb.org/t/p/w500/e2gyulTDHTbA9QYFM1ixfcmMAXv.jpg|suzuka|Animation|2005|7.3
-Sweet Blue Flowers|https://image.tmdb.org/t/p/w500/obgU4jGPfI0m2ACL60PLOpm32Ic.jpg|sweet-blue-flowers|Animation|2009|6.4
-SYNDUALITY Noir|https://image.tmdb.org/t/p/w500/15SOjOAReD4cuhtxZVJJnnHKyhm.jpg|synduality-noir|Animation|2023|6.3
-Steins;Gate|https://image.tmdb.org/t/p/w500/6iysgZr6Upm5RlAlVFo5f4D9euu.jpg|steinsgate|Animation|2011|8.4
-Steins;Gate 0|https://image.tmdb.org/t/p/w500/9u07yBllJTBRIcYxnfbgUxougk5.jpg|steinsgate-0|Sci-Fi & Fantasy|2018|8.0
+Suppose a Kid from the Last Dungeon Boonies moved to a starter town?||suppose-a-kid-from-the-last-dungeon-boonies-moved-to-a-starter-town|||
+Suzume||suzume|||
+Sword Oratoria: Is it Wrong to Try to Pick Up Girls in a Dungeon? On the Side||danmachi-sword-oratoria|||
