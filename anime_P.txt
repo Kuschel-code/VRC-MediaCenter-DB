@@ -51,3 +51,6 @@ Pet||pet|||
 Planetes||planetes|||
 Platinum End||platinum-end|||
 Puella Magi Madoka Magica||puella-magi-madoka-magica|||
+Phantom of the Idol||phantom-of-the-idol|||
+Promise of Wizard||promise-of-wizard|||
+Protocol: Rain||protocol-rain|||

@@ -48,3 +48,6 @@ Holy Knight||holy-knight|||
 House of Five Leaves||house-of-five-leaves|||
 Hula Fulla Dance||hula-fulla-dance|||
 Hybrid Child||hybrid-child|||
+Healer Girl||healer-girl|||
+Hunter x Hunter||hunter-x-hunter|||
+Hunter X Hunter (1999)||hunter-x-hunter-1999|||
