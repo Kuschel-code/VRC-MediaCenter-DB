@@ -20,3 +20,4 @@ Exception||exception|||
 Easygoing Territory Defense by the Optimistic Lord||easygoing-territory-defense-by-the-optimistic-lord|||
 Encouragement of Climb||encouragement-of-climb|||
 Extra Olympia Kyklos||extra-olympia-kyklos|||
+Even If the World Ends Tomorrow||even-if-the-world-ends-tomorrow|||
