@@ -1,83 +1,9 @@
-Radiant|https://image.tmdb.org/t/p/w500/yPgjtFvf62BT6EbjGYPt9AwGP2.jpg|radiant|Action & Abenteuer|2018|7.2
-Rage of Bahamut: Genesis|https://image.tmdb.org/t/p/w500/oWjLPatirGO8AxizsTujUGGHjcu.jpg|rage-of-bahamut-genesis|Animation|2014|7.7
-Ragnarök The Animation|https://image.tmdb.org/t/p/w500/abB39KcMPQEIg7FA5IjYJsOqKVi.jpg|ragnark-the-animation|Animation|2004|7.4
-Ranking of Kings|https://image.tmdb.org/t/p/w500/zeFDxoc6PveMnLDfDPqVCK7WZEU.jpg|ranking-of-kings|Animation|2021|8.1
-Rave Master|https://image.tmdb.org/t/p/w500/zBu8G5vARl1i9omZ4AEXpXh9N14.jpg|rave-master|Animation|2024|8.0
-Re:Monster|https://image.tmdb.org/t/p/w500/hos9sChhPb8FWUJUGkDBlzgLdx1.jpg|remonster|Animation|2024|8.1
-Record of Grancrest War|https://image.tmdb.org/t/p/w500/vMFSrDf4H10aE4xuOFGh6O5ftg.jpg|record-of-grancrest-war|Animation|2018|8.2
-Record of Lodoss War OVA|https://image.tmdb.org/t/p/w500/z5HSnjHXQIyTy60vH1uALFNJbfT.jpg|record-of-lodoss-war-ova|Action & Abenteuer|1990|7.5
-Record of Lodoss War: Chronicles of the Heroic Knight|https://image.tmdb.org/t/p/w500/33UUAMX577JrNVb4pwM8yQF8hiy.jpg|record-of-lodoss-war-chronicles-of-the-heroic-knight|Animation|1998|7.1
-Reincarnated as a Dragon Hatchling|https://image.tmdb.org/t/p/w500/wwleFyKVSzCw2GkdJTwXplHsPZp.jpg|reincarnated-as-a-dragon-hatchling|Animation|2026|9.4
-Reincarnated as a Sword|https://image.tmdb.org/t/p/w500/6WhRmP6Ro5WoG8p7apvjagLyGqw.jpg|reincarnated-as-a-sword|Animation|2022|7.4
-Rick and Morty: The Anime|https://image.tmdb.org/t/p/w500/bGf8CzFaqdTgINZOq4zvK7H0UFH.jpg|rick-and-morty-the-anime|Animation|2024|5.1
-Rocket Girls|https://image.tmdb.org/t/p/w500/9ts2xjFeCHsNmrKpDtDb2uBNoCB.jpg|rocket-girls|Animation|2007|6.0
-Rokka: Braves of the Six Flowers|https://image.tmdb.org/t/p/w500/t9O20KwN1jPX3nt6CqJW6A7wLjT.jpg|rokka-braves-of-the-six-flowers|Animation|2015|6.8
-Rozen Maiden|https://image.tmdb.org/t/p/w500/jSflghBLgd1bxUXunTloOljbI47.jpg|rozen-maiden|Animation|2004|7.9
-RPG Real Estate|https://image.tmdb.org/t/p/w500/kpPUNeSzYgKCTVNfTIJiXOJ0Jhn.jpg|rpg-real-estate|Animation|2022|4.7
-Rune Soldier|https://image.tmdb.org/t/p/w500/q7RzsOcT77QtPgNsL1wz9v0MQcS.jpg|rune-soldier|Animation|2001|6.5
-Rurouni Kenshin|https://image.tmdb.org/t/p/w500/mCafSOuO3PqgoxaweNCo45KpctE.jpg|rurouni-kenshin|Animation|2023|8.4
-Rurouni Kenshin (2023)|https://image.tmdb.org/t/p/w500/mCafSOuO3PqgoxaweNCo45KpctE.jpg|rurouni-kenshin-2023|Animation|2023|8.4
-Rust-Eater Bisco|https://image.tmdb.org/t/p/w500/hT9DTlUZxyq96Kuo0b9yEGYZrj9.jpg|rust-eater-bisco|Animation|2022|6.3
-RWBY|https://image.tmdb.org/t/p/w500/pTLBkalS00rc9FSxgdt4bcwWdvH.jpg|rwby|Animation|2013|7.8
-RWBY: Ice Queendom|https://image.tmdb.org/t/p/w500/rO86XlUQrimpvlEXkcYl3j7tXzL.jpg|rwby-ice-queendom|Animation|2022|5.9
-Ragna Crimson|https://image.tmdb.org/t/p/w500/dKfCiNed9kF2pRkVrTvaKIqkNej.jpg|ragna-crimson|Animation|2023|6.9
-Redline||redline|||
-Reign of the Seven Spellblades|https://image.tmdb.org/t/p/w500/zQ0NKS691LTwc6kBDdhmECsmBHl.jpg|reign-of-the-seven-spellblades|Action & Abenteuer|2023|6.6
-REVENGER|https://image.tmdb.org/t/p/w500/8crdrNPfiDOll3k03hyvOjyhHIN.jpg|revenger|Animation|2023|6.8
-Revisions|https://image.tmdb.org/t/p/w500/h3UAL7EqEXDTfvCFQfbAyujw2Vd.jpg|revisions|Animation|2019|7.2
-Rewrite|https://image.tmdb.org/t/p/w500/z0NUa1y1tjRP2K97d4g5f4wYNyi.jpg|rewrite|Drama|2019|8.0
-Rin - Daughters of Mnemosyne|https://image.tmdb.org/t/p/w500/5b8PKLQRSZTPa2nEGVx2LqGCvti.jpg|rin-daughters-of-mnemosyne|Animation|2008|6.6
-Rumble Garanndoll|https://image.tmdb.org/t/p/w500/vhAjlkMNe5bEafBNOYe6xO6un7t.jpg|rumble-garanndoll|Animation|2021|4.3
-Run for Money: The Great Mission|https://image.tmdb.org/t/p/w500/cOuLoouCKyjlXQNwvoIeZ5d5KdX.jpg|run-for-money-the-great-mission|Action & Abenteuer|2023|4.0
-Rusted Armors|https://image.tmdb.org/t/p/w500/sLS4zQgGoFdWqss9TrEfaYMGmkF.jpg|rusted-armors|Animation|2022|2.2
-Rainbow|https://image.tmdb.org/t/p/w500/cAORJWMV0ufuYrYSFrznDTh22AU.jpg|rainbow-die-sieben-von-zelle-sechs|Komoedie|1972|6.6
-Re:Creators|https://image.tmdb.org/t/p/w500/kVxFvpttZ8V3zog5eoFmzMVFppy.jpg|recreators|Animation|2017|6.5
-Record of Ragnarok|https://image.tmdb.org/t/p/w500/m28Ey0LYoeqzx7mdJ25NVUqRueB.jpg|record-of-ragnarok|Action & Abenteuer|2021|8.4
-Riddle Story of Devil|https://image.tmdb.org/t/p/w500/rX5ok0NJ1eoWX39ydBmVxmLMHjB.jpg|riddle-story-of-devil|Animation|2014|7.7
-Rail Wars!|https://image.tmdb.org/t/p/w500/atlRfopvtMPdu4eLuh4kIXXODXF.jpg|rail-wars|Action & Abenteuer|2014|5.7
-Reborn to Master the Blade: From Hero-King to Extraordinary Squire|https://image.tmdb.org/t/p/w500/4g5qdzlq0NCi1USbEI6Cq5S73V6.jpg|reborn-to-master-the-blade-from-hero-king-to-extraordinary-squire|Animation|2023|6.8
-Rock is a Lady's Modesty|https://image.tmdb.org/t/p/w500/c2Li4DhsSJiiKRpMHmTV462oSQH.jpg|rock-is-a-ladys-modesty|Animation|2025|7.6
-Ramen Akaneko|https://image.tmdb.org/t/p/w500/g1cIGDAdqN0Pm5KGqWzjgxbYORH.jpg|ramen-akaneko|Animation|2024|5.8
-Ruri Rocks|https://image.tmdb.org/t/p/w500/mRXXyxNu8ZVwadZ84Kq3PTfqwwT.jpg|ruri-rocks|Animation|2025|7.4
-ReLIFE|https://image.tmdb.org/t/p/w500/oavCFoklxWAqPHSbuPaDZCZQ0gB.jpg|relife|Animation|2016|7.6
-ROLL OVER AND DIE|https://image.tmdb.org/t/p/w500/nH6Ch1q5rwdRs56bYTA9wuOhfbL.jpg|roll-over-and-die|Animation|2026|7.5
-Re:ZERO - Starting Life in Another World|https://image.tmdb.org/t/p/w500/ccG0ZfXOQ0834bIus4SwZrXtkyM.jpg|rezero-starting-life-in-another-world|Animation|2016|7.8
-Re:Zero - Starting Life in Another World: Director’s Cut||rezero-starting-life-in-another-world-directors-cut|||
-RED GARDEN|https://image.tmdb.org/t/p/w500/eSV7AkccRkGJSZAfrT7YQ1LZE8k.jpg|red-garden|Mystery|2006|4.0
-Redo of Healer|https://image.tmdb.org/t/p/w500/txDpyhqgpHhT67HtwjxXts05kTC.jpg|redo-of-healer|Animation|2021|8.3
-Requiem of the Rose King|https://image.tmdb.org/t/p/w500/faSyG7UFdwfmQQw8n2NnH6eFmhl.jpg|requiem-of-the-rose-king|Drama|2022|5.3
-Revolutionary Girl Utena|https://image.tmdb.org/t/p/w500/pOjDuclpsWGV13Nj7XtZukuZj6f.jpg|revolutionary-girl-utena|Animation|1997|8.1
-Romeo x Juliet|https://image.tmdb.org/t/p/w500/ePfk141oZ4Wra3vAsudDjfEE0qs.jpg|romeo-x-juliet|Action & Abenteuer|2007|6.6
-Roujin Z||roujin-z|||
-Run with the Wind|https://image.tmdb.org/t/p/w500/21gPLUB0yxNz3cDJLsSOa21KZdP.jpg|run-with-the-wind|Animation|2018|7.6
-Raven of the Inner Palace|https://image.tmdb.org/t/p/w500/eJI1hJsSJNkKeIBs34qaDCSFbb5.jpg|raven-of-the-inner-palace|Animation|2022|6.4
-Reborn!|https://image.tmdb.org/t/p/w500/6x7mx9f3ufHCC3pNgMoMnzVo3jw.jpg|reborn|Animation|2006|8.1
-Rental Magica|https://image.tmdb.org/t/p/w500/8SSlkdfRsWy0ltIL2zTDWmwdnEU.jpg|rental-magica|Animation|2007|5.0
-RE-MAIN|https://image.tmdb.org/t/p/w500/qA86K7u72cPtUvI0yZ91TcfFx9Q.jpg|re-main|Animation|2021|6.8
-Revue Starlight|https://image.tmdb.org/t/p/w500/flvcdASKspT68ufrtmm3QNlkxCV.jpg|revue-starlight|Animation|2018|7.9
-Rising Impact|https://image.tmdb.org/t/p/w500/2IelH7AY97IgzBiUgn6w7UBNNzF.jpg|rising-impact|Animation|2024|8.5
-Ranma 1/2 (2024)|https://image.tmdb.org/t/p/w500/1C4HtKv13BQnhofwnPZiyfti5aC.jpg|ranma-12-2024|Animation|2024|8.2
-Re:ZERO - Starting Break Time From Zero||rezero-starting-break-time-from-zero|||
-Reborn as a Vending Machine, I Now Wander the Dungeon|https://image.tmdb.org/t/p/w500/eSQrTyg8Zvz7Ymy5oXFkuYu5ZIr.jpg|reborn-as-a-vending-machine-i-now-wander-the-dungeon|Animation|2023|6.9
-Reikenzan: Hoshikuzu-tachi no Utage|https://image.tmdb.org/t/p/w500/moQ6vnO8QEd9wSmQuj1Uf8mrnrf.jpg|reikenzan-hoshikuzu-tachi-no-utage|Action & Abenteuer|2016|6.8
-Restaurant to Another World|https://image.tmdb.org/t/p/w500/2k2c8LswDVD09KBnFepBtZwgD8x.jpg|restaurant-to-another-world|Animation|2017|7.3
-Rifle is Beautiful|https://image.tmdb.org/t/p/w500/5HPZX5y1kI9d7cx9FJbFZDQskLV.jpg|rifle-is-beautiful|Animation|2019|6.3
-Romantic Killer|https://image.tmdb.org/t/p/w500/b6nww3xaBSi9pQWfePBbKb5PTnj.jpg|romantic-killer|Animation|2022|8.3
-Room Camp|https://image.tmdb.org/t/p/w500/pIciB0LZdxBTYEo6a5be97LyTgc.jpg|room-camp|Animation|2020|7.0
-Ranpo Kitan: Game of Laplace|https://image.tmdb.org/t/p/w500/7L2tSZt6SNwOjqwLn43QeNZ9SBM.jpg|ranpo-kitan-game-of-laplace|Animation|2015|6.4
-Ron Kamonohashi's Forbidden Deductions|https://image.tmdb.org/t/p/w500/iMidG4GQACdDmSJSfLAXZrqVVcA.jpg|ron-kamonohashis-forbidden-deductions|Animation|2023|6.3
-Rumbling Hearts|https://image.tmdb.org/t/p/w500/8iicxVqa1NpKBAXuOBstR343Uvb.jpg|rumbling-hearts|Animation|2003|6.4
-R-15|https://image.tmdb.org/t/p/w500/6jsrZnNpmEFaIzAABSlPC2iLRFR.jpg|r-15|Animation|2011|4.6
-Rainbow Days|https://image.tmdb.org/t/p/w500/o7rsIEMjXNMtukssbJnN2MVLJET.jpg|rainbow-days|Komoedie|2016|6.0
-Ranma ½|https://image.tmdb.org/t/p/w500/6LmWAQFMD2j8gTUGgmD8vq7xxyA.jpg|ranma|Komoedie|1989|8.6
-Rascal Does Not Dream of Bunny Girl Senpai|https://image.tmdb.org/t/p/w500/1OdHQ63ba3jZGJadIkHNv7ieEwQ.jpg|rascal-does-not-dream-of-bunny-girl-senpai|Animation|2018|8.5
-Recently, My Sister is Unusual|https://image.tmdb.org/t/p/w500/9xBUnKayy84ZUf4RUGSPqJHpbqH.jpg|recently-my-sister-is-unusual|Animation|2014|5.7
-Recovery of an MMO Junkie|https://image.tmdb.org/t/p/w500/fHq1f1TRQ3wW144A55nRLrsWKzN.jpg|recovery-of-an-mmo-junkie|Action & Abenteuer|2017|7.9
-Remake our Life!|https://image.tmdb.org/t/p/w500/dUq8ZrPotvqy8kUWTuk1EKW765o.jpg|remake-our-life|Animation|2021|7.2
-Rent-A-Girlfriend|https://image.tmdb.org/t/p/w500/awUOcWMgjHcKwhVzz5xbZBaXEfo.jpg|rent-a-girlfriend|Animation|2020|8.3
-Rokudo's Bad Girls|https://image.tmdb.org/t/p/w500/7Ah5r0QwCORMLO3O5DHJbaClPh6.jpg|rokudos-bad-girls|Animation|2023|5.2
-Rosario + Vampire|https://image.tmdb.org/t/p/w500/yVoA47fQASCW18vToWeNPFAVAch.jpg|rosario-vampire|Animation|2008|7.9
-Ride Your Wave||ride-your-wave|||
-Room Mate|https://image.tmdb.org/t/p/w500/8AaD1HV2yDpd2HTfgKbSTD6p66B.jpg|room-mate|Animation|2017|4.6
-Rinkai!|https://image.tmdb.org/t/p/w500/ncyJvQlcDX2RkMRHSRBYQX0weLs.jpg|rinkai|Animation|2024|7.5
-Release that Witch||release-that-witch|||
+Radiant||radiant|||
+Rage of Bahamut: Genesis||rage-of-bahamut-genesis|||
+Ragnarök The Animation||ragnark-the-animation|||
+Ranking of Kings||ranking-of-kings|||
+Rave Master||rave-master|||
+Re:Monster||remonster|||
+Record of Grancrest War||record-of-grancrest-war|||
+Record of Lodoss War OVA||record-of-lodoss-war-ova|||
+Record of Lodoss War: Chronicles of the Heroic Knight||record-of-lodoss-war-chronicles-of-the-heroic-knight|||

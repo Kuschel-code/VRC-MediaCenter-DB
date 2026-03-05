@@ -1,95 +1,14 @@
-Pandora Hearts|https://image.tmdb.org/t/p/w500/sTcIkpSNRBVEqVIpcujCnB1r6xO.jpg|pandora-hearts|Animation|2009|6.3
-Patema Inverted - Beginning of the Day|https://image.tmdb.org/t/p/w500/unGOydeAXSKPdFkFgIM8KUtmkvW.jpg|patema-inverted-beginning-of-the-day|Animation|2012|7.4
-Persona 4 The Animation|https://image.tmdb.org/t/p/w500/14enSe2AEZFijNLeCQZumAMa1MA.jpg|persona-4-the-animation|Animation|2011|7.6
-Persona 4 The Golden Animation|https://image.tmdb.org/t/p/w500/bLXHhl520rvw4uIJXAfZW7KQZ5U.jpg|persona-4-the-golden-animation|Animation|2014|7.2
-Phantasy Star Online 2: The Animation|https://image.tmdb.org/t/p/w500/7iuugdna4tgVmMs0ljbmVY89HFx.jpg|phantasy-star-online-2-the-animation|Animation|2016|6.8
-Planet of the Beast King|https://image.tmdb.org/t/p/w500/KYbZeKkpWHPWl2oHC7NWHEOjNe.jpg|planet-of-the-beast-king|Animation|2006|5.6
-Pokémon|https://image.tmdb.org/t/p/w500/uoBwsiZNyOFDBh9WdDhpxc2JERM.jpg|pokmon|Animation|1997|8.0
-Pokémon Horizons|https://image.tmdb.org/t/p/w500/fXbyZdZ5zsDQJ3foYS2zZpXOwjj.jpg|pokmon-horizons|Sci-Fi & Fantasy|2023|8.7
+Pandora Hearts||pandora-hearts|||
+Patema Inverted - Beginning of the Day||patema-inverted-beginning-of-the-day|||
+Persona 4 The Animation||persona-4-the-animation|||
+Persona 4 The Golden Animation||persona-4-the-golden-animation|||
+Phantasy Star Online 2: The Animation||phantasy-star-online-2-the-animation|||
+Planet of the Beast King||planet-of-the-beast-king|||
+Pokémon||pokmon|||
+Pokémon Horizons||pokmon-horizons|||
 Pom Poko||pom-poko|||
 Ponyo||ponyo|||
-Possibly the Greatest Alchemist of All Time|https://image.tmdb.org/t/p/w500/qfdzcGkQ0j1YEYBO7XZctlFz6FY.jpg|possibly-the-greatest-alchemist-of-all-time|Animation|2025|7.6
+Possibly the Greatest Alchemist of All Time||possibly-the-greatest-alchemist-of-all-time|||
 Princess Mononoke||princess-mononoke|||
-Princess Sarah|https://image.tmdb.org/t/p/w500/48rGNrWqImPIAg2QAIdE3BvNKFM.jpg|princess-sarah|Sci-Fi & Fantasy|2007|8.0
+Princess Sarah||princess-sarah|||
 Professor Layton and the Eternal Diva||professor-layton-and-the-eternal-diva|||
-Pacific Rim: The Black|https://image.tmdb.org/t/p/w500/wz2tUYzlUnfQWpBpoerFDbEZdzz.jpg|pacific-rim-the-black|Sci-Fi & Fantasy|2021|8.2
-Pastel Memories|https://image.tmdb.org/t/p/w500/380LiEEEbyqrVUFpUiperiYNP9S.jpg|pastel-memories|Action & Abenteuer|2019|4.7
-Peach Boy Riverside|https://image.tmdb.org/t/p/w500/g1yWyMBeYI15wxIxgX6OmwKLFPR.jpg|peach-boy-riverside|Animation|2021|7.2
-Persona5 the Animation|https://image.tmdb.org/t/p/w500/xgA8GwYzsIwAVAFRl5NapWNca4D.jpg|persona5-the-animation|Animation|2018|7.7
-Phantasy Star Online 2: Episode Oracle|https://image.tmdb.org/t/p/w500/4Hgg2whlaulJr3Mp98AXduYjnF7.jpg|phantasy-star-online-2-episode-oracle|Action & Abenteuer|2019|7.3
-Plunderer|https://image.tmdb.org/t/p/w500/cp1iGqNNy5JRhWbpP3qoANgz1gV.jpg|plunderer|Action & Abenteuer|2020|8.3
-Porco Rosso||porco-rosso|||
-Power of Hope ~Precure Full Bloom~|https://image.tmdb.org/t/p/w500/dAZJTYb8oNd2oUkY941rOZWbHlp.jpg|power-of-hope-precure-full-bloom|Animation|2023|7.6
-Pretty Cure|https://image.tmdb.org/t/p/w500/3K4iQs7LBOl6FBWCo4aWK0koYaR.jpg|pretty-cure|Animation|2004|7.8
-Pretty Cure 5 Yes|https://image.tmdb.org/t/p/w500/rIQzYFZ0cQkYjDT0N0qaWeAxDZE.jpg|pretty-cure-5-yes|Animation|2007|8.1
-Princess Principal|https://image.tmdb.org/t/p/w500/2dltGXHFepYw7vCMDFVWVt3crup.jpg|princess-principal|Animation|2017|7.3
-Problem Children are Coming from Another World, aren't they?|https://image.tmdb.org/t/p/w500/alYOk4VgMOlelCbyhfkUws35l5D.jpg|problem-children-are-coming-from-another-world-arent-they|Animation|2013|7.3
-Promare||promare|||
-Parasyte: The Maxim|https://image.tmdb.org/t/p/w500/dC1rIfKScgrHjmZYdTpUgWpZF4h.jpg|parasyte-the-maxim|Animation|2014|8.3
-Peacemaker Kurogane|https://image.tmdb.org/t/p/w500/tIN3oZaEwJ7O4jjGmdpI8v6go8C.jpg|peacemaker-kurogane|Animation|2003|6.3
-Phantom - Requiem for the Phantom|https://image.tmdb.org/t/p/w500/n4PghczajiIhQCUMcO5s7UiHEK2.jpg|phantom-requiem-for-the-phantom|Animation|2009|7.1
-Phantom in the Twilight|https://image.tmdb.org/t/p/w500/svQgyQM9mnEeQC8KtbNvU6Bhs76.jpg|phantom-in-the-twilight|Action & Abenteuer|2018|5.1
-Planet With|https://image.tmdb.org/t/p/w500/cj7vHd6nNGPGeAcoiEe80TYa3mT.jpg|planet-with|Animation|2018|5.6
-Plastic Memories|https://image.tmdb.org/t/p/w500/x0uScsfjjIiZCPPojvZcWkn5hSi.jpg|plastic-memories|Animation|2015|8.2
-Pumpkin Scissors|https://image.tmdb.org/t/p/w500/qjmMoVuBrF3tnnY1UY0c6aRn0Bn.jpg|pumpkin-scissors|Animation|2006|6.8
-Pandora in the Crimson Shell: Ghost Urn|https://image.tmdb.org/t/p/w500/ytpIB5O3yYFJe1R6K3JCjq2Q074.jpg|pandora-in-the-crimson-shell-ghost-urn|Animation|2016|5.1
-Powerpuff Girls Z|https://image.tmdb.org/t/p/w500/1hiCucw8E5bgAkIjx5GSxW3MyZf.jpg|powerpuff-girls-z|Animation|2006|8.1
-Princess Connect! Re:Dive|https://image.tmdb.org/t/p/w500/plTwjdbtx42e6CjMtC81tHTZRWl.jpg|princess-connect-redive|Animation|2020|6.8
-Princess Resurrection|https://image.tmdb.org/t/p/w500/ArCdlSghK94kf5qgkwX9Le843Q0.jpg|princess-resurrection|Animation|2007|7.3
-Psychic Squad|https://image.tmdb.org/t/p/w500/zd6zRbgsReMvB5Xp5KELib1juPd.jpg|psychic-squad|Animation|2013|6.6
-Punch Line|https://image.tmdb.org/t/p/w500/f3YZlksJX1ggTJDdlcnybSDMdEg.jpg|punch-line|Animation|2015|5.9
-Prima Doll|https://image.tmdb.org/t/p/w500/z8DjN9RlcMy4WIQpgtbFqp9dLtM.jpg|prima-doll|Animation|2022|5.1
-Penguin Highway||penguin-highway|||
-Poco’s Udon World|https://image.tmdb.org/t/p/w500/AiinC3Nz2hOFdvXezWauYEqlgWp.jpg|pocos-udon-world|Animation|2016|8.5
-Pale Cocoon||pale-cocoon|||
-Paprika|https://image.tmdb.org/t/p/w500/w7PSvKlkgAh6IsTIxNmRKTWtO1i.jpg|paprika|Kids|2018|5.0
-Parallel World Pharmacy|https://image.tmdb.org/t/p/w500/q6vu6ds5XYTzXHGiTpyyvIIcJJq.jpg|parallel-world-pharmacy|Animation|2022|6.9
-Penguindrum|https://image.tmdb.org/t/p/w500/qXhVdZpGeXi98Nwmu0F3WzrxKid.jpg|penguindrum|Animation|2011|8.1
-Persona - Trinity Soul|https://image.tmdb.org/t/p/w500/hREYXGPAijGwAAhw5pd5kOOGybW.jpg|persona-trinity-soul|Animation|2008|7.8
-Persona 3: The Movie||persona-3-the-movie|||
-Pet|https://image.tmdb.org/t/p/w500/3V7XVYjB13iufST1R6Kdfd03Xfv.jpg|pet|Animation|2020|6.2
-Planetes|https://image.tmdb.org/t/p/w500/1PozWTvVhCGIbFiYa9Tvl8Ab9Pq.jpg|planetes|Animation|2003|7.9
-Platinum End|https://image.tmdb.org/t/p/w500/e2BG4cPMkgAI6maPutpZfQcl3X7.jpg|platinum-end|Animation|2021|7.7
-Puella Magi Madoka Magica|https://image.tmdb.org/t/p/w500/qYPUVIhKYirbmVrdEJBZ3ZYpTeE.jpg|puella-magi-madoka-magica|Animation|2011|8.1
-Phantom of the Idol|https://image.tmdb.org/t/p/w500/IdfV3itweGwvm8se5ct65qKhie.jpg|phantom-of-the-idol|Animation|2022|8.3
-Promise of Wizard|https://image.tmdb.org/t/p/w500/qmRgfyEwafV0qpPDh1PfUDigG5T.jpg|promise-of-wizard|Animation|2025|6.8
-Protocol: Rain|https://image.tmdb.org/t/p/w500/5DFnJmZWCTjuMO65g92iqIKuIxF.jpg|protocol-rain|Animation|2023|7.1
-Paradox Live THE ANIMATION|https://image.tmdb.org/t/p/w500/tlPG08mmtFPb6K0PpymddXvuzzt.jpg|paradox-live-the-animation|Animation|2023|5.5
-Ping Pong the Animation|https://image.tmdb.org/t/p/w500/b2S7VqwBzSS9cz0S0FQxTPTKmct.jpg|ping-pong-the-animation|Animation|2014|8.1
-Pretty Rhythm - Aurora Dream|https://image.tmdb.org/t/p/w500/taWXKwAF5Lqy80dPCKHW3eruxqJ.jpg|pretty-rhythm-aurora-dream|Animation|2011|7.4
-Prince of Stride Alternative|https://image.tmdb.org/t/p/w500/3Wg8rzlX187rFsdkhuI5CqtGvzE.jpg|prince-of-stride-alternative|Animation|2016|5.6
-PuraOre! Pride of Orange|https://image.tmdb.org/t/p/w500/jPgVFyhrZRPRbEZl6TpyTEptj0Z.jpg|puraore-pride-of-orange|Animation|2021|5.7
-Paranoia Agent|https://image.tmdb.org/t/p/w500/gVsTX3EJIsq3fHx2xLDFEeWMYDe.jpg|paranoia-agent|Animation|2004|7.9
-Pupa|https://image.tmdb.org/t/p/w500/6p0dnZkr0QIz76rmoqAR8oHkPWs.jpg|pupa|Animation|2014|3.8
-Peter Grill and the Philosopher’s Time|https://image.tmdb.org/t/p/w500/ySLpzqCWSCacm9bDhLL6r2XG0Zi.jpg|peter-grill-and-the-philosophers-time|Animation|2020|7.9
-Pingu in der Stadt|https://image.tmdb.org/t/p/w500/w64h379kW9IcsVuO1VUNJkHGAoz.jpg|pingu-in-der-stadt|Animation|2017|7.6
-Play It Cool, Guys|https://image.tmdb.org/t/p/w500/2CnXuF3rxRCG1Et8vrPdAcPbvwd.jpg|play-it-cool-guys|Animation|2022|7.2
-Please tell me! Galko-chan|https://image.tmdb.org/t/p/w500/tfJyraGn18xflxW9Oh7Xma0Ew2N.jpg|please-tell-me-galko-chan|Komoedie|2016|6.7
-Plus-Sized Elf|https://image.tmdb.org/t/p/w500/jFTa8I2TBaJUVkXWCX04AGpA7zE.jpg|plus-sized-elf|Animation|2024|6.8
-Plus-sized Misadventures in Love!|https://image.tmdb.org/t/p/w500/fz1gWlWA7C0fUdU3qdqx56lz9i2.jpg|plus-sized-misadventures-in-love|Animation|2025|8.2
-Police in a Pod|https://image.tmdb.org/t/p/w500/9mK8skHGUBepjiPhQbUJSTmfKOH.jpg|police-in-a-pod|Animation|2022|6.9
-Pon no Michi|https://image.tmdb.org/t/p/w500/54pd82UGQaTEQH7keVKIw8GFkJr.jpg|pon-no-michi|Animation|2024|6.0
-Princess Princess|https://image.tmdb.org/t/p/w500/qjUn6GVZVDifLHB7bvVrgZsOfzE.jpg|princess-princess|Drama|1995|7.5
-Prison School|https://image.tmdb.org/t/p/w500/50eY9B9JtWcG0KuY5SS1X7E9wQb.jpg|prison-school|Animation|2015|8.1
-Private Tutor to the Duke's Daughter|https://image.tmdb.org/t/p/w500/pTPJVKVGf8fywJQl3yxdeumz9f7.jpg|private-tutor-to-the-dukes-daughter|Animation|2025|6.7
-Puniru is a Kawaii Slime|https://image.tmdb.org/t/p/w500/cDETqaoawgnt6ShUDqfVhyNVVLW.jpg|puniru-is-a-kawaii-slime|Animation|2024|8.0
-Psychic Detective Yakumo|https://image.tmdb.org/t/p/w500/ac3ww6R0OKwEUMwoHQumdrM9GD.jpg|psychic-detective-yakumo|Animation|2010|6.4
-Psycho-Pass|https://image.tmdb.org/t/p/w500/aX6S3P8xiz9nJwXjaka5e9kT6f4.jpg|psycho-pass|Animation|2012|7.7
-Paradise Kiss|https://image.tmdb.org/t/p/w500/cnPYecp5Hw2IBCW0SZCe0bG1Wux.jpg|paradise-kiss|Animation|2005|7.2
-Panty & Stocking with Garterbelt|https://image.tmdb.org/t/p/w500/iCKyoA65JrbYytIC4esGQI27EyM.jpg|panty-stocking-with-garterbelt|Animation|2025|9.1
-Plastic Neesan|https://image.tmdb.org/t/p/w500/vH9JBLZzvhFXjYFSoiPWowiIZc9.jpg|plastic-neesan|Animation|2011|6.9
-Pop Team Epic|https://image.tmdb.org/t/p/w500/dnMTln0TeUqJOESSuFy8IPogbi2.jpg|pop-team-epic|Animation|2018|7.0
-Place to Place|https://image.tmdb.org/t/p/w500/dZpeGTSrO8Xr7ZI08eM7C61v0a3.jpg|place-to-place|Animation|2012|6.8
-Please Put Them On, Takamine-san|https://image.tmdb.org/t/p/w500/aFidY5oV5z5Fm8gPh37IYyBjbhG.jpg|please-put-them-on-takamine-san|Animation|2025|7.4
-Please Teacher!|https://image.tmdb.org/t/p/w500/yyFm23BNb9NudC7HvUM0zijGZCh.jpg|please-teacher|Animation|2002|7.9
-Please Twins|https://image.tmdb.org/t/p/w500/dSbVSQMEIbdzqGm6PV4P9wrcgK4.jpg|please-twins|Animation|2003|7.0
-Princess Lover!|https://image.tmdb.org/t/p/w500/r3KxdTblkMqQ2GDPlAbT4884maG.jpg|princess-lover|Animation|2009|6.2
-Pseudo Harem|https://image.tmdb.org/t/p/w500/r8fPjLeqQHgittVipaJ093gSTlR.jpg|pseudo-harem|Animation|2024|7.8
-Psychic Academy|https://image.tmdb.org/t/p/w500/gBgTKFQpj1enD6xItbMMkcNoux9.jpg|psychic-academy|Animation|2002|4.0
-Psychic Princess|https://image.tmdb.org/t/p/w500/pNMeFEFw8RMc4JG69qYUH9c7GiN.jpg|psychic-princess|Animation|2018|7.9
-Pass the Monster Meat, Milady!|https://image.tmdb.org/t/p/w500/6E1hsfFlwWr14yxfgmt9Lt7Gjw9.jpg|pass-the-monster-meat-milady|Animation|2025|8.8
-Peach Girl|https://image.tmdb.org/t/p/w500/wCruukiTYJXh3zz4Df7Zb1PaiHV.jpg|peach-girl|Animation|2005|8.2
-Photo Kano|https://image.tmdb.org/t/p/w500/tZ97EKLAUfI1lJTDVRshIwtJxtR.jpg|photo-kano|Animation|2013|6.1
-Perfect Blue|https://image.tmdb.org/t/p/w500/58zem5t88f4355IZBrCJ4XKYWAm.jpg|perfect-blue|Familie|2007|
-Phi Brain: Puzzle of God|https://image.tmdb.org/t/p/w500/AvSfAmjKMND6KdSDO4icS3hZSPe.jpg|phi-brain-puzzle-of-god|Animation|2011|6.8
-PLUTO|https://image.tmdb.org/t/p/w500/fPiRaV3mzZ9VaRHZBrlNeIu3MBB.jpg|pluto|Animation|2023|7.9
