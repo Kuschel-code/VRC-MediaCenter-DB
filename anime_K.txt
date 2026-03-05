@@ -50,3 +50,6 @@ Kokoro Connect||kokoro-connect|||
 Kono Oto Tomare!: Sounds of Life||kono-oto-tomare-sounds-of-life|||
 Kaina of the Great Snow Sea||kaina-of-the-great-snow-sea|||
 Kunon the Sorcerer Can See||kunon-the-sorcerer-can-see|||
+Kekkaishi||kekkaishi|||
+Kenichi: The Mightiest Disciple||kenichi-the-mightiest-disciple|||
+Knights of the Zodiac||knights-of-the-zodiac|||

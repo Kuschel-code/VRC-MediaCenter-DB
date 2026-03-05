@@ -100,3 +100,5 @@ Blue Dragon||blue-dragon|||
 Boruto: Naruto Next Generations||boruto-naruto-next-generations|||
 Bubuki Buranki||bubuki-buranki|||
 Buso Renkin||buso-renkin|||
+B-Project||b-project|||
+Baby Steps||baby-steps|||
