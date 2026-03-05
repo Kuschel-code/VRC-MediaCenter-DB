@@ -1,34 +1,4 @@
-Ultramarine Magmell|https://image.tmdb.org/t/p/w500/lj07uyhCAfl1f5L7zHn7Wk2DpLc.jpg|ultramarine-magmell|Animation|2019|6.9
-Utawarerumono|https://image.tmdb.org/t/p/w500/aj43ZYP12K2cQAQmMn54PGJcaqE.jpg|utawarerumono|Animation|2006|7.1
-Utawarerumono: Mask of Truth|https://image.tmdb.org/t/p/w500/aj43ZYP12K2cQAQmMn54PGJcaqE.jpg|utawarerumono-mask-of-truth|Animation|2006|7.1
-Utawarerumono: The False Faces|https://image.tmdb.org/t/p/w500/aj43ZYP12K2cQAQmMn54PGJcaqE.jpg|utawarerumono-the-false-faces|Animation|2006|7.1
-Ultraman|https://image.tmdb.org/t/p/w500/3X5njpZ8obsEZcoxtgW3KckQrex.jpg|ultraman|Animation|2019|7.1
-Undead Murder Farce|https://image.tmdb.org/t/p/w500/eJpGrfcZydnXinxUXrXI9jlfiEo.jpg|undead-murder-farce|Animation|2023|7.6
-Undefeated Bahamut Chronicle|https://image.tmdb.org/t/p/w500/rlQeZmuZILejvHxFzfV8jI1vRJ0.jpg|undefeated-bahamut-chronicle|Animation|2016|7.7
-Under Ninja|https://image.tmdb.org/t/p/w500/sGfndf3p37aSZ7RbV3t6n21xEjM.jpg|under-ninja|Animation|2023|6.8
-Ushio and Tora|https://image.tmdb.org/t/p/w500/sVtdLtTfTswO5NkUxqlu1MGfcER.jpg|ushio-und-tora|Action & Abenteuer|2015|8.0
-Unlimited Fafnir|https://image.tmdb.org/t/p/w500/zY7vcsQsoQqY8zcmjkCeeUBeTAV.jpg|unlimited-fafnir|Action & Abenteuer|2015|5.6
-Unlimited Psychic Squad|https://image.tmdb.org/t/p/w500/zd6zRbgsReMvB5Xp5KELib1juPd.jpg|unlimited-psychic-squad|Animation|2013|6.6
-Unnamed Memory|https://image.tmdb.org/t/p/w500/2h67cW61TtPdl6R41TkbTJv4Xiz.jpg|unnamed-memory|Animation|2024|7.2
-Uglymug, Epicfighter|https://image.tmdb.org/t/p/w500/tuOXsK63UNldWDNiWXZrajWRcyL.jpg|uglymug-epicfighter|Animation|2025|7.7
-Unbreakable Machine-Doll|https://image.tmdb.org/t/p/w500/kr7OHd6Yp6O553UDy6b9c1HuO6a.jpg|unbreakable-machine-doll|Animation|2013|6.1
-Undead Unluck|https://image.tmdb.org/t/p/w500/62LKH8aho4EeZmcpYks9DvxyHxB.jpg|undead-unluck|Animation|2023|7.9
-UQ Holder!|https://image.tmdb.org/t/p/w500/7oUjy6CIwjiPCHtjKWH7vw1k9xN.jpg|uq-holder|Animation|2017|7.5
-UniteUp!|https://image.tmdb.org/t/p/w500/7jWi4SppOmtQMfxmviNlEUAY3Tz.jpg|uniteup|Animation|2023|6.0
-Usagi Drop|https://image.tmdb.org/t/p/w500/acg0lag2hvGUcvUFdgDwVn4k8BB.jpg|usagi-drop|Animation|2011|8.2
-Uma Musume: Cinderella Gray|https://image.tmdb.org/t/p/w500/dMTyte6v3DkM8gPxZfdNGoyla3r.jpg|uma-musume-cinderella-gray|Animation|2025|7.4
-Uma Musume: Pretty Derby|https://image.tmdb.org/t/p/w500/vMbcwRU8xeI63udEz6yk90X4rjb.jpg|uma-musume-pretty-derby|Animation|2018|8.2
-Umineko - When They Cry|https://image.tmdb.org/t/p/w500/7O18EeX6mRYCW2xFHbxHgGzVQDb.jpg|umineko-when-they-cry|Animation|2009|7.0
-Uzumaki|https://image.tmdb.org/t/p/w500/vgSDW8ZNkQ072yBtHydVAUWSHm9.jpg|uzumaki|Animation|2024|7.0
-Uchitama?! Have you seen my Tama?|https://image.tmdb.org/t/p/w500/zKBL6I5PbIbw02lpCwpv6RY97m9.jpg|uchi-tama-uchi-no-tama-shirimasen-ka|Animation|2020|7.2
-Ultimate Otaku Teacher|https://image.tmdb.org/t/p/w500/1Q9GelfaRKmH4ndsLMNV2vQV1Qp.jpg|ultimate-otaku-teacher|Animation|2015|8.0
-Uncle from Another World|https://image.tmdb.org/t/p/w500/fGXvKNhok7kAvi74HH1zmxSn5V7.jpg|uncle-from-another-world|Animation|2022|7.5
-Urara Meirochou|https://image.tmdb.org/t/p/w500/9DHVHbnPF7hrjKdCVK6QJ58UVrB.jpg|urara-meirochou|Animation|2017|5.3
-UzaMaid!|https://image.tmdb.org/t/p/w500/5kVZBHCcJyoO1jw8EpKqCfH38kt.jpg|uzamaid|Animation|2018|7.6
-Umayon|https://image.tmdb.org/t/p/w500/3dtBarye9iI7RTaHojJLQHDeE0K.jpg|umayon|Animation|2020|6.5
-UFO Princess Valkyrie|https://image.tmdb.org/t/p/w500/yl3aRONkLlct2SMgGheyEPiKV8q.jpg|ufo-princess-valkyrie|Animation|2002|5.3
-Ulysses: Jeanne d’Arc and the Alchemist Knight|https://image.tmdb.org/t/p/w500/3T6yudAzMEVzHbJc16oe8yvZrR.jpg|ulysses-jeanne-darc-and-the-alchemist-knight|Action & Abenteuer|2018|7.3
-Urusei Yatsura|https://image.tmdb.org/t/p/w500/oUVW6AlkD50tVufoz1ZXDw467Ry.jpg|urusei-yatsura|Animation|1981|7.3
-Uzaki-chan Wants to Hang Out!|https://image.tmdb.org/t/p/w500/uUU2BTMXaX5g09lDP6pAbsN8EG5.jpg|uzaki-chan-wants-to-hang-out|Animation|2020|8.3
-Utano Prince Sama|https://image.tmdb.org/t/p/w500/5hU5KQXXQyH97uZvnYfNrgBS8zX.jpg|utano-prince-sama|Animation|2011|7.2
-Uncharted Walker|https://image.tmdb.org/t/p/w500/9NzPWlSkMrMLPD7iYwYNoqx2aTo.jpg|uncharted-walker|Animation|2018|7.9
+Ultramarine Magmell||ultramarine-magmell|||
+Utawarerumono||utawarerumono|||
+Utawarerumono: Mask of Truth||utawarerumono-mask-of-truth|||
+Utawarerumono: The False Faces||utawarerumono-the-false-faces|||
