@@ -62,3 +62,5 @@ FLCL||flcl|||
 Fortune Arterial||fortune-arterial|||
 Fruits Basket||fruits-basket|||
 Fruits Basket (2001)||fruits-basket-2001|||
+Fragtime||fragtime|||
+Fuuka||fuuka|||
