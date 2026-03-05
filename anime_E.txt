@@ -8,3 +8,4 @@ Ex-Arm||ex-arm|||
 Elfen Lied||elfen-lied|||
 Ergo Proxy||ergo-proxy|||
 Eureka Seven||eureka-seven|||
+Extreme Hearts||extreme-hearts|||
