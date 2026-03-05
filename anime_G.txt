@@ -33,3 +33,10 @@ Grisaia Phantom Trigger||grisaia-phantom-trigger|||
 GUILTY GEAR STRIVE: DUAL RULERS||guilty-gear-strive-dual-rulers|||
 Gunbuster||gunbuster|||
 Gundam Build Divers||gundam-build-divers|||
+Ga-Rei-Zero||ga-rei-zero|||
+Garden of Sinners||garden-of-sinners|||
+Ghost in the Shell: SAC_2045||ghost-in-the-shell-sac_2045|||
+Ghost in the Shell: Stand Alone Complex||ghost-in-the-shell-stand-alone-complex|||
+Grimgar of Fantasy and Ash||grimgar-of-fantasy-and-ash|||
+Guilty Crown||guilty-crown|||
+Gungrave||gungrave|||
