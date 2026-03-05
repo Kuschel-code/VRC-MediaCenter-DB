@@ -663,3 +663,53 @@ Arrow|https://image.tmdb.org/t/p/w500/u8ZHFj1jC384JEkTt3vNg1DfWEb.jpg|arrow|||
 Ars no Kyojuu|https://image.tmdb.org/t/p/w500/5MyHJxDQQdzaV290BlXyzR2VN6p.jpg|ars-no-kyojuu|||
 Arsène Lupin, der Meisterdieb|https://image.tmdb.org/t/p/w500/gEv5kjMrDUgIr3YQv2udLEtJCGC.jpg|ars-ne-lupin-der-meisterdieb|||
 Arsène Lupin, der Meisterdieb (1971)||arsne-lupin-der-meisterdieb-1971|||
+Arslan Senki||arslan-senki|||
+Art of Crime|https://image.tmdb.org/t/p/w500/AeMFQEe2O4GQYLY1fqCnYF97pOO.jpg|art-of-crime|||
+Art Traffickers – Geraubte Schätze|https://image.tmdb.org/t/p/w500/tdsW0JpAdJyaP84oTcWGpK0cTPG.jpg|art-traffickers-geraubte-schtze|||
+ARTE|https://image.tmdb.org/t/p/w500/ici87mHxzdb7zHHAt7HzKtvX06g.jpg|arte|||
+Arthdal Chronicles|https://image.tmdb.org/t/p/w500/raa566oA0cquXcS1b83TrWePJtT.jpg|arthdal-chronicles|||
+Arthur & George|https://image.tmdb.org/t/p/w500/fKhnOrEo8eKiRlHGMbhS9XnmYIc.jpg|arthur-george|||
+Arthur und die Freunde der Tafelrunde|https://image.tmdb.org/t/p/w500/jdFdGSmhRUorUeRFYxaQDsNJpDC.jpg|arthur-und-die-freunde-der-tafelrunde|||
+Arthur und die Minimoys|https://image.tmdb.org/t/p/w500/9gJBbTKdvCDcy4iqZk1F7f59hxp.jpg|arthur-und-die-minimoys|||
+Arthurs Gesetz|https://image.tmdb.org/t/p/w500/xCxpCpBGokGMT3mbBQQmCbIHIIq.jpg|arthurs-gesetz|||
+Aru Majo ga Shinu Made|https://image.tmdb.org/t/p/w500/kBID23YsUdVdDSS577lG4HJ7DLU.jpg|aru-majo-ga-shinu-made|||
+Aruanas|https://image.tmdb.org/t/p/w500/wfgJF5KSqhvfflNHUhBUUrk3L33.jpg|aruanas|||
+As We See It - Ungewöhnlich normal|https://image.tmdb.org/t/p/w500/bh7OXB05LgElZDMOoxFNSJL9o4h.jpg|as-we-see-it-ungewhnlich-normal|||
+As You Stood By|https://image.tmdb.org/t/p/w500/cAx7vFmy7gBCqGKU1v8lvrvpDBF.jpg|as-you-stood-by|||
+Asaf|https://image.tmdb.org/t/p/w500/zlBMoPwyGOalN0Bu8H6ylsfaYHf.jpg|asaf|||
+Asbest|https://image.tmdb.org/t/p/w500/4DvZhoBscnmu3QDVRMlYBzWr1Bl.jpg|asbest|||
+Ascension|https://image.tmdb.org/t/p/w500/wiFBHo0p4j0wiKuh676fvOQ1Z0N.jpg|ascension|||
+Ash vs. Evil Dead|https://image.tmdb.org/t/p/w500/9tNtSk46s3f1ePr59p0JG6uacc8.jpg|ash_vs_evil_dead|||
+Ashes to Ashes - Zurück in die 80er|https://image.tmdb.org/t/p/w500/ky35fNxJQkO9bCwB010pB4brTL3.jpg|ashes-to-ashes-zurueck-in-die-80er|||
+Ashita, watshi wa dareka no kanojo||ashita-watshi-wa-dareka-no-kanojo|||
+Ashlee+Evan|https://image.tmdb.org/t/p/w500/vJcyMXI6JELL1L7f7yDqB2IV0qs.jpg|ashleeevan|||
+Asia's Underworld|https://image.tmdb.org/t/p/w500/4DYQi6daknHNmK2ue8ohGZi5hnh.jpg|asias-underworld|||
+Ask the Storybots|https://image.tmdb.org/t/p/w500/6IY8bmJcUGmgcB9ERnx8hLw7Qz5.jpg|ask-the-storybots|||
+Asobi Asobase|https://image.tmdb.org/t/p/w500/de9UhF8J7HoTMGx1KahTZrcnZ88.jpg|asobi-asobase|||
+Asobi ni Iku yo!|https://image.tmdb.org/t/p/w500/23gXKFeXV96sPwkkzpYWc8qIAXd.jpg|asobi-ni-iku-yo|||
+Asphalt Cowboys|https://image.tmdb.org/t/p/w500/xg6OV6n5tYamFa7sbLroVdNEzBM.jpg|asphalt-cowboys|||
+Asphalt-Cowboys – Ladies on Tour||asphalt-cowboys-ladies-on-tour|||
+Assassination Classroom|https://image.tmdb.org/t/p/w500/fIOYLPOorKvP4wut9y0edpnWROz.jpg|assassination-classroom|||
+Astarotte no Omocha!|https://image.tmdb.org/t/p/w500/4ZmANWHQHRchkLdNJcgcZhbhqCC.jpg|astarotte-no-omocha|||
+Asterix & Obelix: Der Kampf der Häuptlinge|https://image.tmdb.org/t/p/w500/vO6nVixfNHTKhfLOFmBT1kfw88z.jpg|asterix-obelix-der-kampf-der-huptlinge|||
+Astraea Testament: The Good Witch of the West|https://image.tmdb.org/t/p/w500/n0Vv7aOejLNyerUSyqEqaIELqXg.jpg|astraea-testament-the-good-witch-of-the-west|||
+Astrid & Lilly Save the World|https://image.tmdb.org/t/p/w500/rhzLDXqjNyXOwUWvTV0TR1SJRHd.jpg|astrid-lilly-save-the-world|||
+Astro Note|https://image.tmdb.org/t/p/w500/atVpVPb49td0qPdgvE77lYbMlvf.jpg|astro-note|||
+Astrologischer Leitfaden für gebrochene Herzen|https://image.tmdb.org/t/p/w500/r6hki3ylZHjDG43yKCiLXmxiEIK.jpg|astrologischer-leitfaden-fr-gebrochene-herzen|||
+Asu no Yoichi!|https://image.tmdb.org/t/p/w500/jlIRWrNCdH5u8NlRHfprDtzkKff.jpg|asu-no-yoichi|||
+Atarashii Joushi wa Do Tennen|https://image.tmdb.org/t/p/w500/r3NkqEBdjrgnMHFl8cIwv43gRln.jpg|atarashii-joushi-wa-do-tennen|||
+Atasha Kawajiri Kodama da yo: Dangerous Lifehacker no Tadareta Seikatsu|https://image.tmdb.org/t/p/w500/ojtTswo5dAej6NsHiFRdy0Hobvp.jpg|atasha-kawajiri-kodama-da-yo-dangerous-lifehacker-no-tadareta-seikatsu|||
+Atemlos|https://image.tmdb.org/t/p/w500/4UeAmBQZSW7xGx2dv0zH8S4GWa6.jpg|atemlos|||
+Athena|https://image.tmdb.org/t/p/w500/fzxD38ToyEIWkosfT0p437pToSk.jpg|athena|||
+Atiye: Die Gabe|https://image.tmdb.org/t/p/w500/l3z1iYmRBibJ0nDxiyiFSsWI84q.jpg|atiye-die-gabe|||
+Atlanta|https://image.tmdb.org/t/p/w500/8HZyGMnPLVVb00rmrh6A2SbK9NX.jpg|atlanta|||
+Atlanta Exes|https://image.tmdb.org/t/p/w500/h3K7JZvSnGTcpwhQFotVqRGFydc.jpg|atlanta-exes|||
+Atlanta Medical|https://image.tmdb.org/t/p/w500/z5jRdUhXSDvdSt6fmLwJrKLB5WG.jpg|the-resident|||
+Atlanta Plastic|https://image.tmdb.org/t/p/w500/9hWdsGod2CFqngguUPdInMnAG0l.jpg|atlanta-plastic|||
+Atlantic Crossing|https://image.tmdb.org/t/p/w500/kPJgbaxEWUOsZpfJlnBtDNOH6uX.jpg|atlantic-crossing|||
+Atlantis|https://image.tmdb.org/t/p/w500/bmdlBu7y0pZq3KZwtFFHzWPEsbP.jpg|atlantis|||
+Atom: The Beginning|https://image.tmdb.org/t/p/w500/AiAFZiPnqvDpMq38eU69Gi3AOUe.jpg|atom-the-beginning|||
+Atomic|https://image.tmdb.org/t/p/w500/iVpapvAdSQEE5OZOxOvjVlFZhYx.jpg|atomic|||
+Atomic Age Declassified|https://image.tmdb.org/t/p/w500/LD9FYwr0bIqaS1TE6rrc6YZam1.jpg|atomic-age-declassified|||
+ATRI -My Dear Moments-|https://image.tmdb.org/t/p/w500/l6lVxakyK3NcTe7g6K0xm5ZLmZH.jpg|atri-my-dear-moments|||
+Attack on Titan|https://image.tmdb.org/t/p/w500/qlbcGr0EYKRICD0MTrIwnIztQna.jpg|attack-on-titan|||
