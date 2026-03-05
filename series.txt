@@ -713,3 +713,53 @@ Atomic|https://image.tmdb.org/t/p/w500/iVpapvAdSQEE5OZOxOvjVlFZhYx.jpg|atomic|||
 Atomic Age Declassified|https://image.tmdb.org/t/p/w500/LD9FYwr0bIqaS1TE6rrc6YZam1.jpg|atomic-age-declassified|||
 ATRI -My Dear Moments-|https://image.tmdb.org/t/p/w500/l6lVxakyK3NcTe7g6K0xm5ZLmZH.jpg|atri-my-dear-moments|||
 Attack on Titan|https://image.tmdb.org/t/p/w500/qlbcGr0EYKRICD0MTrIwnIztQna.jpg|attack-on-titan|||
+Attack on Titan: Junior High|https://image.tmdb.org/t/p/w500/vV9KYoYrnKfFHiYDVCmPyOUSNlM.jpg|attack-on-titan-junior-high|||
+Atypical|https://image.tmdb.org/t/p/w500/kNif3eZAjQ7qU3Ol9E7zo0kjPMo.jpg|atypical|||
+Auckland Detectives - Tödliche Bucht|https://image.tmdb.org/t/p/w500/8aFpUPQr3Swtbn1vMl1ovMuVgmK.jpg|auckland-detectives-tdliche-bucht|||
+Auction Hunters – Zwei Asse machen Kasse||auction-hunters-zwei-asse-machen-kasse|||
+Auf 4 Rädern durch Europa mit Paul Hollywood|https://image.tmdb.org/t/p/w500/zmpfN9emCBRqRQl0EG5F3egaXuR.jpg|auf-4-rdern-durch-europa-mit-paul-hollywood-road-trip|||
+Auf Achse|https://image.tmdb.org/t/p/w500/g3ESUdzxmPABLstbcelU5WNGvTQ.jpg|auf-achse|||
+Auf dem Jakobsweg - Bis zum Ende der Welt|https://image.tmdb.org/t/p/w500/3cE2lQsaVcwlAtmlkuPA0yRpX2D.jpg|auf-dem-jakobsweg-bis-zum-ende-der-welt|||
+Auf den Spuren der Aliens|https://image.tmdb.org/t/p/w500/dlh4wthAJImpoOi4UNXq9KDF1M4.jpg|auf-den-spuren-der-aliens|||
+Auf den Spuren der Hobbits|https://image.tmdb.org/t/p/w500/6iiKNdwPQmGoXoXMyux03btfc1W.jpg|auf-den-spuren-der-hobbits|||
+Auf den Spuren verfluchter Orte|https://image.tmdb.org/t/p/w500/lkHLo1CfQYqZDouj7C0aKg34vUI.jpg|auf-den-spuren-verfluchter-orte|||
+Auf der Suche nach Atlantis|https://image.tmdb.org/t/p/w500/s3cL7qzmUTzMeFfwoqWfKNLjFrO.jpg|auf-der-suche-nach-atlantis|||
+Auf der Suche nach den Riesen||auf-der-suche-nach-den-riesen|||
+Auf der Suche nach Kapitän Grant|https://image.tmdb.org/t/p/w500/hgUc4EywbaXsBOKkoem94nB4i5X.jpg|auf-der-suche-nach-kapitn-grant|||
+Auf ins Abenteuer mit Bertie Gregory|https://image.tmdb.org/t/p/w500/gNg2AkNQ9lk9PB1OmzsNeNuyhX9.jpg|auf-ins-abenteuer-mit-bertie-gregory|||
+Auf schlimmer und ewig|https://image.tmdb.org/t/p/w500/b0UUpXSoSWwvkZKFWcDGLQ2xHM5.jpg|auf-schlimmer-und-ewig|||
+Auf Station - Meine Zeit in der Psychiatrie||auf-station-meine-zeit-in-der-psychiatrie|||
+Aufgestaut|https://image.tmdb.org/t/p/w500/216UZRRYbD1w9uFADRX4CGCiqiC.jpg|aufgestaut|||
+Aufräumen mit Marie Kondo|https://image.tmdb.org/t/p/w500/l74KOb99Ffx4ilSEHrm8voi4XL2.jpg|aufrumen-mit-marie-kondo|||
+Aufstand der Barbaren|https://image.tmdb.org/t/p/w500/9a6y8UZJ3jGcLLpJsOrDFZcSfO.jpg|aufstand-der-barbaren|||
+Aufstieg der Milliardäre|https://image.tmdb.org/t/p/w500/sFHaMfPhuLH2hFdzLs1kthtZJu0.jpg|aufstieg-der-milliardre|||
+Auftragskiller gesucht||auftragskiller-gesucht|||
+Augen zu und durch, Bruder|https://image.tmdb.org/t/p/w500/hnpK2dcV5Fd47sVZSqBqTAf7MBp.jpg|augen-zu-und-durch-bruder|||
+Augenzeugen|https://image.tmdb.org/t/p/w500/2R79907yRRUeyGoqKnze7jtWcVQ.jpg|augenzeugen|||
+Augsburger Puppenkiste - 3:0 für die Bärte|https://image.tmdb.org/t/p/w500/hQfhqEbmD76mYDtHLORA8j9KtC8.jpg|augsburger-puppenkiste-30-fr-die-brte|||
+Augsburger Puppenkiste - Bill Bo und seine Kumpane|https://image.tmdb.org/t/p/w500/ylnbCLG2NjXLWAPOzxn2aDE5Vas.jpg|augsburger-puppenkiste-bill-bo-und-seine-kumpane|||
+Aurel Original||aurel-original|||
+Aurelio Zen|https://image.tmdb.org/t/p/w500/7F6RieTb4Z6MrArT0pZiokYyCw.jpg|aurelio-zen|||
+Auris||auris|||
+Aus dem Tagebuch eines Uber-Fahrers|https://image.tmdb.org/t/p/w500/8uY8gdozsg2RjrPTFFU52EYK6Iz.jpg|aus-dem-tagebuch-eines-uber-fahrers|||
+Aus der Spur|https://image.tmdb.org/t/p/w500/dKWe2dD64oOqjJ0QSOW6Mcl5R9F.jpg|aus-der-spur|||
+Aus die Maus|https://image.tmdb.org/t/p/w500/50YWqHw8E0oYGmQwYuogX9MSxSR.jpg|aus-die-maus|||
+Aus Mangel an Beweisen|https://image.tmdb.org/t/p/w500/j1lVe9Inh9ufcGCCDf1fB6HOk28.jpg|aus-mangel-an-beweisen|||
+Aus Versehen glücklich|https://image.tmdb.org/t/p/w500/nqYVMlFjZRalgLvpmC3eqdopaJ1.jpg|aus-versehen-gluecklich|||
+Ausgebremst||ausgebremst|||
+Ausgerechnet Alaska|https://image.tmdb.org/t/p/w500/iyMOw4RTcNoPLScGP3wUzBMiFUo.jpg|ausgerechnet-alaska|||
+Ausgezogen eingezogen - Nackt auf Haussuche||ausgezogen-eingezogen-nackt-auf-haussuche|||
+Außer Kontrolle (2025)||auer-kontrolle-2025|||
+Außerirdische Welten|https://image.tmdb.org/t/p/w500/b8K9FV7ipy6KSUhCcIFLDhVecPR.jpg|auerirdische-welten|||
+Australia - Die Serie|https://image.tmdb.org/t/p/w500/lnWXzGJ030c6Uf6B12hpsmVjgf7.jpg|australia-die-serie|||
+Australia With Julia Bradbury|https://image.tmdb.org/t/p/w500/1wge2XMKZ3G5rvRMdyCd5x72Lad.jpg|australia-with-julia-bradbury|||
+Australia: Earth's Magical Kingdom|https://image.tmdb.org/t/p/w500/aTEgrlFomXlAgl5gtGsafzpXKoJ.jpg|australia-earths-magical-kingdom|||
+Australia's Most Dangerous|https://image.tmdb.org/t/p/w500/7OapMfGLhjFuAri8v428u1ViVIC.jpg|australias-most-dangerous|||
+Australian Gold – Schatzsuche Down Under|https://image.tmdb.org/t/p/w500/pZfb5gtb0ZuzmJH7ka0tRPfDwIY.jpg|australian-gold-schatzsuche-down-under|||
+Australiens geheime Inseln|https://image.tmdb.org/t/p/w500/zXstdLpAsrHVIxSrszpAmD6qQ9o.jpg|australiens-geheime-inseln|||
+Auto/Biography|https://image.tmdb.org/t/p/w500/hdDyjCx5VTvSvHO4BrUM4ghBNvG.jpg|autobiography|||
+Autobahn|https://image.tmdb.org/t/p/w500/vd4GYNpGugeXMt6hsCmnnf5TFNx.jpg|autobahn|||
+Automan – Der Superdetektiv||automan-der-superdetektiv|||
+Avatar - Der Herr der Elemente|https://image.tmdb.org/t/p/w500/wGAz0skYHUOB8LzZLtVcMjOAOZz.jpg|avatar|||
+Avatar - Der Herr der Elemente (2024)||avatar-herr-der-elemente-2024|||
+Avenger|https://image.tmdb.org/t/p/w500/8XIFRGmB552O23GZGTNKAoe9tYo.jpg|avenger|||
