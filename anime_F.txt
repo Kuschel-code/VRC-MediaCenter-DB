@@ -64,3 +64,4 @@ Fruits Basket||fruits-basket|||
 Fruits Basket (2001)||fruits-basket-2001|||
 Fragtime||fragtime|||
 Fuuka||fuuka|||
+Future Diary||future-diary|||
