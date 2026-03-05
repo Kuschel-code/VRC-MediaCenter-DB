@@ -1780,3 +1780,54 @@ Criminal: Spain|https://image.tmdb.org/t/p/w500/dLXoEooo1ocH1qQGjvgD1ywsX4R.jpg|
 Criminal: United Kingdom|https://image.tmdb.org/t/p/w500/bfsLO69G3ly9OyPlUxWFxgjbrLt.jpg|criminal-united-kingdom|||
 Crimson Wedding|https://image.tmdb.org/t/p/w500/7oZPWoVuYttNEPFC3rjiqdH76WH.jpg|crimson-wedding|||
 Crisis|https://image.tmdb.org/t/p/w500/BvcrUL7G9mVZo7YrfC5uWu4fpa.jpg|crisis|||
+Cristela|https://image.tmdb.org/t/p/w500/qmvHnL6TP5XoUJB9pUDMaz95tOz.jpg|cristela|||
+Cristóbal Balenciaga|https://image.tmdb.org/t/p/w500/97Dtc3l0HbVurtTrQCcjNnK35pO.jpg|cristbal-balenciaga|||
+Critters: A New Binge|https://image.tmdb.org/t/p/w500/pS4E3DZ01e5vVD0fgsExyDQBW9R.jpg|critters-a-new-binge|||
+Crocodile Hunter|https://image.tmdb.org/t/p/w500/aiMPEaR7z8FDZNxuKm3KmDPu4xE.jpg|crocodile-hunter|||
+Crooks|https://image.tmdb.org/t/p/w500/8KkAi8uaCKainPE0OeBp6zHRWTa.jpg|crooks|||
+Cross Ange: Rondo of Angel and Dragon|https://image.tmdb.org/t/p/w500/36MBuIrZQnsizcgWbNVUacjFJFX.jpg|cross-ange-rondo-of-angel-and-dragon|||
+Crossbones|https://image.tmdb.org/t/p/w500/l1FvNiEC61VvuNPkaKMseDXnDGc.jpg|crossbones|||
+Crossfire|https://image.tmdb.org/t/p/w500/1opiu4UYkPDwxmXr6IxV0Az24nX.jpg|crossfire|||
+Crossing Jordan - Pathologin mit Profil|https://image.tmdb.org/t/p/w500/bywFoHoLZvW2vxDc7n4ToAKkR0y.jpg|crossing-jordan-pathologin-mit-profil|||
+Crossing Lines|https://image.tmdb.org/t/p/w500/ow8RQrZJUQfOeR5alsj9OAXoxic.jpg|crossing-lines|||
+Crossing Swords|https://image.tmdb.org/t/p/w500/l3jSJcrXTcXK1ibq7vM4GPDGSrk.jpg|crossing-swords|||
+Crowded|https://image.tmdb.org/t/p/w500/e7FwiyuzQp5vmUAkQLPLp5OedWm.jpg|crowded|||
+Cruel Summer|https://image.tmdb.org/t/p/w500/x7CMVS7kjWJFdt1wdtj5rdvTwss.jpg|cruel-summer|||
+Crusoe|https://image.tmdb.org/t/p/w500/hMhLX6t3C5xAmPqqHoD6ddcwI3I.jpg|crusoe|||
+Crutch|https://image.tmdb.org/t/p/w500/9tDDG9mLfhJmqOyvolWneeF6Y1g.jpg|crutch|||
+Cry Wolf||cry-wolf|||
+Cryptid|https://image.tmdb.org/t/p/w500/osC6DLGcup7Uy48DrOrqHVWdQ1y.jpg|cryptid|||
+Crystal Blaze|https://image.tmdb.org/t/p/w500/zRNhXozBENybyhY0nH5VkxyHYBe.jpg|crystal-blaze|||
+Crystal Wall|https://image.tmdb.org/t/p/w500/szYPlwS4MhBe6gxNiEBE7rcvVve.jpg|crystal-wall|||
+CSI: Cyber|https://image.tmdb.org/t/p/w500/p56xB5YJDeYaGGOaYFtsjWycTYl.jpg|csi-cyber|||
+CSI: Den Tätern auf der Spur|https://image.tmdb.org/t/p/w500/dKWe2dD64oOqjJ0QSOW6Mcl5R9F.jpg|csi|||
+CSI: Miami|https://image.tmdb.org/t/p/w500/oWSpWkL57u9PuDkJwV5uyoWMyEb.jpg|csi-miami|||
+CSI: NY|https://image.tmdb.org/t/p/w500/4TGV4Bb3OPay4cHkQRlfwghv3vC.jpg|csi-ny|||
+CSI: Vegas|https://image.tmdb.org/t/p/w500/8DtOnaOQPiptM9umpV0Xntwv9t3.jpg|csi-vegas|||
+Cucumber|https://image.tmdb.org/t/p/w500/3AO5wxK4jb7ZKiGpze73fXDMbHi.jpg|cucumber|||
+CUE!|https://image.tmdb.org/t/p/w500/yyCYwzb4keFcNPCQtqj2nh6URHj.jpg|cue|||
+Culinary Class Wars|https://image.tmdb.org/t/p/w500/tsEIrmV6SIbEVqPZimWqXGvbFcw.jpg|culinary-class-wars|||
+Culpa - Niemand ist ohne Schuld|https://image.tmdb.org/t/p/w500/uKDnquQCPYu4eQyhc3IRqeCKAuE.jpg|culpa-niemand-ist-ohne-schuld|||
+Culprits|https://image.tmdb.org/t/p/w500/gOo5KW8NAvtZdX5jdwnCTYTTpjB.jpg|culprits|||
+Cult|https://image.tmdb.org/t/p/w500/3qSnfv0tRUnWGOgVGebpZRGjQRG.jpg|cult|||
+Cunk on Earth|https://image.tmdb.org/t/p/w500/2ZEZF2IVQkaAlfC8l3Oh7j8ZjDy.jpg|cunk-on-earth|||
+Cupcake und Dino: Dienste aller Art|https://image.tmdb.org/t/p/w500/uoO5CFx4U72rNih8owCLM4iQhX5.jpg|cupcake-und-dino-dienste-aller-art|||
+Curfew|https://image.tmdb.org/t/p/w500/qM3mGK7Z2HVRRfofUqecnjmWHqV.jpg|curfew|||
+Curfew (2024)||curfew-2024|||
+Curious Life and Death of ..|https://image.tmdb.org/t/p/w500/5vdjHNzCqvPKfSlAyJOnOUFxFuM.jpg|curious-life-and-death-of|||
+Curon|https://image.tmdb.org/t/p/w500/vmNpI4C0LDfWGiSYWyKLVkCSaOi.jpg|curon|||
+Cursed - Die Auserwählte|https://image.tmdb.org/t/p/w500/wrLC5kx0nEq9U0MyJD7dnOT6m5F.jpg|cursed-die-auserwhlte|||
+Cutie Honey Universe|https://image.tmdb.org/t/p/w500/rh6bZ3aD1qVKeF8w21NewZH7jDM.jpg|cutie-honey-universe|||
+Cyber City OEDO 808|https://image.tmdb.org/t/p/w500/e37wlrbo2hOgmq9i2i8N29oa3wc.jpg|cyber-city-oedo-808|||
+Cybill|https://image.tmdb.org/t/p/w500/xN3eCrHdRWY3loR5IxCJ613sGyq.jpg|cybill|||
+Cyborg 009: Call of Justice|https://image.tmdb.org/t/p/w500/sSSvU544sE3GKbGadDQbmJCkBe5.jpg|cyborg-009-call-of-justice|||
+D.C.: Da Capo|https://image.tmdb.org/t/p/w500/yaDB7CTZA8PatqVmPnfwBynA9SI.jpg|d-c-da-capo|||
+D.Gray-Man|https://image.tmdb.org/t/p/w500/sCud9dr6nxsY1Oza5SCCb83qNwY.jpg|d-gray-man|||
+D.Gray-man Hallow|https://image.tmdb.org/t/p/w500/4TQvVtH1MTs7ZMvuEJ95lulaQGc.jpg|dgray-man-hallow|||
+D.P.|https://image.tmdb.org/t/p/w500/ufovksqVTNogMdU5LlCVbJSiMVa.jpg|dp|||
+D'Artagnan und die drei Musketiere|https://image.tmdb.org/t/p/w500/y4hkMoX6n5CDLjrxHnvlEbbzHej.jpg|dartagnan-und-die-drei-musketiere|||
+D4DJ First Mix|https://image.tmdb.org/t/p/w500/cdwGRZbx3bf1HPGINlztepouVAV.jpg|d4dj-first-mix|||
+Da Ali G Show (US)||da-ali-g-show-us|||
+Da Vinci’s Demons|https://image.tmdb.org/t/p/w500/sR8m3EUxmRJi4S9u5sfBDRLce1Z.jpg|da-vinci-s-demons|||
+Dad Stop Embarrassing Me!|https://image.tmdb.org/t/p/w500/6uyHcbsxmJRUsFYL9qsbN3QwA7J.jpg|dad-stop-embarrassing-me|||
+Dads|https://image.tmdb.org/t/p/w500/q6XsUrhscUlHt8ShApnE39XmxP6.jpg|dads|||
