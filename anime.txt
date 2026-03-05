@@ -2348,3 +2348,4 @@ Steins;Gate||steinsgate|||
 Steins;Gate 0||steinsgate-0|||
 Terror in Tokio||terror-in-tokio|||
 Tomodachi Game||tomodachi-game|||
+Uncharted Walker||uncharted-walker|||
