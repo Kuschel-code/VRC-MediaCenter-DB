@@ -55,3 +55,5 @@ Is the Order a Rabbit?||is-the-order-a-rabbit|||
 Isekai Izakaya: Japanese Food From Another World||isekai-izakaya-japanese-food-from-another-world|||
 Isekai Onsen Paradise||isekai-onsen-paradise|||
 Isekai Quartet||isekai-quartet|||
+ID: Invaded||id-invaded|||
+In/Spectre||inspectre|||
