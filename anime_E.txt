@@ -9,3 +9,5 @@ Elfen Lied||elfen-lied|||
 Ergo Proxy||ergo-proxy|||
 Eureka Seven||eureka-seven|||
 Extreme Hearts||extreme-hearts|||
+Eden||eden|||
+Endro!||endro|||
