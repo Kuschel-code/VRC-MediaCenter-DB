@@ -1477,3 +1477,54 @@ Cassandra|https://image.tmdb.org/t/p/w500/9ZkaVSaotpJ0vUv6OIR1c5Ris5o.jpg|cassan
 Casshan Robot Hunter|https://image.tmdb.org/t/p/w500/f5vgKHy2udH4Nw0Xr1uqbb3VLr8.jpg|casshan-robot-hunter|||
 Castaway Diva|https://image.tmdb.org/t/p/w500/1NseFoBcprx5BYJcd03sTUEczG3.jpg|castaway-diva|||
 Castle|https://image.tmdb.org/t/p/w500/cNWrNpd8TawT5GVbtBs65ljJ1pN.jpg|castle|||
+Castle Rock|https://image.tmdb.org/t/p/w500/x3yQe7Oo7M9y4A1ocU1pVoCkvT0.jpg|castle-rock|||
+Casual|https://image.tmdb.org/t/p/w500/wWxTA0T98HRaIqP01iQtuY9QlOC.jpg|casual|||
+Cat`s Eye - Ein Supertrio|https://image.tmdb.org/t/p/w500/76kkhs9fEo4u3GWkHcu6n9EoAO6.jpg|cats-eye-ein-supertrio|||
+CAT. 8 - Wenn die Erde verglüht|https://image.tmdb.org/t/p/w500/syWxP9YiXU4T2mPSQrfi1WD3wvG.jpg|cat-8-wenn-die-erde-verglht|||
+Cat’s Eyes|https://image.tmdb.org/t/p/w500/jbi8uZtzxXxfwECdBIAt3DQknUD.jpg|cats-eyes|||
+Catastrophe|https://image.tmdb.org/t/p/w500/2saxUzvXv2b0FgjuzAqItH5bH0x.jpg|catastrophe|||
+Catch-22|https://image.tmdb.org/t/p/w500/1huTLz8UaEeOLJNwqMKCQs76Bl5.jpg|catch-22|||
+Catching Killers|https://image.tmdb.org/t/p/w500/628U5ybT3fV0gGbT41Lk3R15Ya0.jpg|catching-killers|||
+CatDog|https://image.tmdb.org/t/p/w500/qgF4mKJO9lEjGsnXYXWn0sAoZ4R.jpg|catdog|||
+Catherine the Great (2019)||catherine-the-great-2019|||
+Catweazle|https://image.tmdb.org/t/p/w500/1OnOttfJulYE2F5gIjWXjIyFeZE.jpg|catweazle|||
+Caught|https://image.tmdb.org/t/p/w500/cwWPFwtRQ91jwLC6T3KmRCht9vk.jpg|caught|||
+Cecilia (2021)||cecilia-2021|||
+Cedar Cove - Das Gesetz des Herzens|https://image.tmdb.org/t/p/w500/jI7srft4ntH3C4iJwaq4vDQMnHG.jpg|cedar-cove-das-gesetz-des-herzens|||
+Celebrity (2023)||celebrity-2023|||
+Celebrity Hunted - Jede Spur kann dich verraten|https://image.tmdb.org/t/p/w500/czVJC60tLJ1HRQ8S2GDraTy7dlD.jpg|celebrity-hunted-jede-spur-kann-dich-verraten|||
+Cell 8|https://image.tmdb.org/t/p/w500/yQsohgW2Je5vUF1KuXZhu3YEC3B.jpg|cell-8|||
+Centaur no Nayami|https://image.tmdb.org/t/p/w500/wmyH7pdCo1RAqlD1rXwmFH9x8OO.jpg|centaur-no-nayami|||
+Centaurworld|https://image.tmdb.org/t/p/w500/2klp8BwNDbmV5pfBSWhNjr1MktC.jpg|centaurworld|||
+Central Park|https://image.tmdb.org/t/p/w500/ckmEgQdbSAw0jiJFJT1a1W1LEFy.jpg|central-park|||
+Centurions - Volle Energie!|https://image.tmdb.org/t/p/w500/iQpTDb8VTMylGRK861BPxkLwVbs.jpg|centurions-volle-energie|||
+Chad Powers|https://image.tmdb.org/t/p/w500/75En7d46cTOTraAcvtZXaxx0xmB.jpg|chad-powers|||
+Chaika, die Sargprinzessin|https://image.tmdb.org/t/p/w500/zFI5AVJbihCBL9h8dDUFKCeWR5r.jpg|chaika-die-sargprinzessin|||
+Chain Chronicle: Haecceitas no Hikari|https://image.tmdb.org/t/p/w500/rO2Gsd6jfV0qWKX7CkBirnmGNvY.jpg|chain-chronicle-haecceitas-no-hikari|||
+Chain of Command|https://image.tmdb.org/t/p/w500/50DpBMMXC4KSqYNpnWDGdk1uyn0.jpg|chain-of-command|||
+Chainsaw Man|https://image.tmdb.org/t/p/w500/mIz0eKhzHuSPeRSePCyoCt9bKVp.jpg|chainsaw-man|||
+Chambers|https://image.tmdb.org/t/p/w500/h6jgj9zwwdyxIEsmWwkQHHdfEJ6.jpg|chambers|||
+Champignon no Majo|https://image.tmdb.org/t/p/w500/fnMlh7jvoPvqoIqz5bYnw8MkQwO.jpg|champignon-no-majo|||
+Champion (2023)||champion-2023|||
+Champions|https://image.tmdb.org/t/p/w500/p0lsqyrRwV7rKBLuXAl7WgWQoRt.jpg|champions|||
+Chance|https://image.tmdb.org/t/p/w500/OC3QtOSM8fURbkV6nJ8guOUFnu.jpg|chance|||
+Channel Zero|https://image.tmdb.org/t/p/w500/oCutmhFznao1Pzy6wM1C32kxAEu.jpg|channel-zero|||
+Chanto Suenai Kyuuketsuki-chan|https://image.tmdb.org/t/p/w500/4ldkUuEe5YqrJ6QwIxCFBSfv9wV.jpg|chanto-suenai-kyuuketsuki-chan|||
+Chaos City|https://image.tmdb.org/t/p/w500/r5jtJdMr57AOx3JfOY7VLlvot1T.jpg|chaos-city|||
+Chaos City Wrestling||chaos-city-wrestling|||
+Chaos-Queens||chaos-queens|||
+Chäos;Child|https://image.tmdb.org/t/p/w500/p726IZ7VFmUYvxoEEhqCTO3JngQ.jpg|choschild|||
+ChäoS;HEAd|https://image.tmdb.org/t/p/w500/lewQtkay1zX2VeedVLAbOoSzzBp.jpg|choshead|||
+Chapelwaite|https://image.tmdb.org/t/p/w500/v7Oix3Zkhg3ftRxmLmyDBJc9ycp.jpg|chapelwaite|||
+Chappelle's Show|https://image.tmdb.org/t/p/w500/aHpTmNU2wLHokoVpzcnh2VQBJOI.jpg|chappelle-s-show|||
+Charité|https://image.tmdb.org/t/p/w500/8QLXHbXLkdx6xyLl6DuGsVaHphP.jpg|charit|||
+Charles - Schicksalsjahre eines Königs|https://image.tmdb.org/t/p/w500/b50LvGnMuxtJ3a9mH6toLthqM1B.jpg|charles-schicksalsjahre-eines-knigs|||
+Charles Dickens’ Große Erwartungen|https://image.tmdb.org/t/p/w500/lcS3dqdpYj07cysAqkaCpKf6y7Y.jpg|charles-dickens-grosse-erwartungen|||
+Charles Manson: Aufstieg eines Monsters|https://image.tmdb.org/t/p/w500/sv5aJozbwr7nrIcXJQcOkGxQAG4.jpg|making-manson|||
+Charles Manson: Die verschollenen Filmaufnahmen|https://image.tmdb.org/t/p/w500/j834jbwYSH2yc79pjbLeBl0KfOo.jpg|charles-manson-die-verschollenen-filmaufnahmen|||
+Charlie Grace - Der Schnüffler|https://image.tmdb.org/t/p/w500/lLKWU96PwC64FB0TbAcnOC43Hba.jpg|charlie-grace-der-schnffler|||
+Charlie's Angels|https://image.tmdb.org/t/p/w500/eWiQavBjVummG5P9PMUwxFzKJfb.jpg|charlie-s-angels|||
+Charlotte|https://image.tmdb.org/t/p/w500/kFSaVIlBRycGNfrLzJZX7dgSQ1o.jpg|charlotte|||
+Charlotte’s Web|https://image.tmdb.org/t/p/w500/aQAgKexRAQFednLUtJyyLBW1yU6.jpg|charlottes-web|||
+Charmed - Zauberhafte Hexen|https://image.tmdb.org/t/p/w500/6hQ2O1rMuUYL1Ve1DvfV93XT6uI.jpg|charmed|||
+Charmed (2018)|https://image.tmdb.org/t/p/w500/doXHjfOtEmX8kEq1tsMnNqq9YLZ.jpg|charmed-2018|||
