@@ -171,8 +171,26 @@ WORKER_PROXY = "https://vrc-media-center.weltraumaffe02.workers.dev/proxy"
 # Domains die per CUII gesperrt sind und den Proxy brauchen
 CUII_BLOCKED = ["serienstream.to", "s.to", "bs.to", "serien.sx", "filmpalast.to"]
 
+import os
+
 def _proxy_get(url: str) -> str | None:
     """Holt eine Seite über den Cloudflare Worker Proxy (umgeht CUII)."""
+    # Wenn in GitHub Actions (USA/EU Server ohne CUII-Sperre), Proxy ignorieren und direkt laden!
+    if os.environ.get("CI") == "true":
+        log.info(f"[Scraper] CI Environment (GitHub)! Überspringe Proxy für {url}")
+        import urllib3
+        urllib3.disable_warnings(urllib3.exceptions.InsecureRequestWarning)
+        try:
+            resp = httpx.get(url, headers=REQUEST_HEADERS, timeout=20, follow_redirects=True, verify=False)
+            if resp.status_code == 200 and len(resp.text) > 500:
+                log.info(f"[Scraper] CI Direktabruf erfolgreich (Status 200)")
+                return resp.text
+            log.info(f"[Scraper] CI Direktabruf für {url} liefert {resp.status_code}")
+        except Exception as e:
+            log.info(f"[Scraper] CI Direktabruf Fehler für {url}: {e}")
+            pass
+        return None # Fallback auf cloudscraper in _fetch_page
+
     import urllib.parse
     proxy_url = f"{WORKER_PROXY}?url={urllib.parse.quote(url, safe='')}"
     try:

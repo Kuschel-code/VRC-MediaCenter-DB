@@ -32,9 +32,9 @@ PROGRESS_FILE = DB_PATH / "progress.json"
 sys.path.insert(0, str(DB_PATH))
 
 # ── Konfiguration ───────────────────────────────────────────
-MAX_ANIME  = 0   # 0 = alle (2350+)
-MAX_MOVIES = 0   # 0 = alle
-MAX_SERIES = 0   # 0 = alle
+MAX_ANIME  = 100   # 0 = alle (2350+), Limit für Interval-Updates (Worker Limits!)
+MAX_MOVIES = 50    # 0 = alle
+MAX_SERIES = 100   # 0 = alle
 
 LANGUAGES = ["ger-dub", "ger-sub", "eng-sub", "eng-dub"]
 LANG_DISPLAY = {"ger-dub": "Ger Dub", "ger-sub": "Ger Sub", "eng-sub": "Eng Sub", "eng-dub": "Eng Dub"}
