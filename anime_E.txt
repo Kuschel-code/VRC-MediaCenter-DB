@@ -16,3 +16,4 @@ Elegant Yokai Apartment Life||elegant-yokai-apartment-life|||
 Edens Zero||edens-zero|||
 Ensemble Stars!||ensemble-stars|||
 Eyeshield 21||eyeshield-21|||
+Exception||exception|||

@@ -58,3 +58,7 @@ HIGHSPEED Étoile||highspeed-toile|||
 Hikaru no Go||hikaru-no-go|||
 Hinomaru Sumo||hinomaru-sumo|||
 Hypnosis Mic: Division Rap Battle - Rhyme Anima||hypnosis-mic-division-rap-battle-rhyme-anima|||
+Hellsing||hellsing|||
+Hellsing Ultimate||hellsing-ultimate|||
+Highschool of the Dead||highschool-of-the-dead|||
+Higurashi: When They Cry Gou||higurashi-when-they-cry-gou|||
