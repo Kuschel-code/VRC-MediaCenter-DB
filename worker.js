@@ -32,7 +32,7 @@ async function handleRequest(request, event) {
         });
     }
 
-    // /stream?id=<episodeId> — Live-Auflösung: Holt die aktuelle Stream-URL
+    // /stream?id=<episodeId> — Live-Aufloesung: Holt die aktuelle Stream-URL
     if (path === "/stream") {
         const episodeId = url.searchParams.get("id");
         if (!episodeId) {
@@ -59,7 +59,7 @@ async function handleRequest(request, event) {
             return Response.redirect(embedUrl, 302);
         }
 
-        // Live-Auflösung: Hoster-Embed-Seite abrufen → Stream extrahieren
+        // Live-Aufloesung: Hoster-Embed-Seite abrufen -> Stream extrahieren
         try {
             const streamUrl = await resolveStreamUrl(embedUrl);
             if (streamUrl) {
@@ -177,11 +177,36 @@ async function handleRequest(request, event) {
         }
     }
 
+    // /youtube?url=<youtubeUrl> or /youtube?v=<videoId> — YouTube URL resolver for AVPro
+    if (path === "/youtube") {
+        const videoUrl = url.searchParams.get("url");
+        const videoIdParam = url.searchParams.get("v");
+
+        let videoId = videoIdParam;
+        if (!videoId && videoUrl) {
+            videoId = extractYouTubeId(videoUrl);
+        }
+        if (!videoId) {
+            return new Response("Missing parameter: url or v. Example: /youtube?v=dQw4w9WgXcQ", {
+                status: 400, headers: { "Content-Type": "text/plain", ...CORS },
+            });
+        }
+
+        const result = await resolveYouTubeStream(videoId);
+        if (result) {
+            return Response.redirect(result, 302);
+        }
+
+        return new Response("Could not resolve YouTube video: " + videoId, {
+            status: 502, headers: { "Content-Type": "text/plain", ...CORS },
+        });
+    }
+
     return new Response("Not Found", { status: 404, headers: CORS });
 }
 
 async function fetchCached(url, ttl, event) {
-    // Version-basierter Cache-Key: Ändert sich bei jedem Deploy
+    // Version-basierter Cache-Key: Aendert sich bei jedem Deploy
     const CACHE_VERSION = "v9";
     const cacheKey = new Request(url + "?_cv=" + CACHE_VERSION, { method: "GET" });
     const cache = caches.default;
@@ -218,10 +243,10 @@ function findInLines(text, key) {
 }
 
 /**
- * Löst eine gespeicherte URL zu einer frischen Stream-URL auf.
- * Unterstützt:
- * - Filmpalast-Seiten-URLs (z.B. filmpalast.to/stream/xxx) → parst Hoster-Links → VOE-Kette
- * - VOE/Hoster-Embed-URLs → JS Fallback → Delivery → HLS/MP4
+ * Loest eine gespeicherte URL zu einer frischen Stream-URL auf.
+ * Unterstuetzt:
+ * - Filmpalast-Seiten-URLs (z.B. filmpalast.to/stream/xxx) -> parst Hoster-Links -> VOE-Kette
+ * - VOE/Hoster-Embed-URLs -> JS Fallback -> Delivery -> HLS/MP4
  */
 async function resolveStreamUrl(storedUrl) {
     const UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36";
@@ -229,15 +254,12 @@ async function resolveStreamUrl(storedUrl) {
 
     let embedUrl = storedUrl;
 
-    // Step 1: Wenn Filmpalast-URL → Seite laden und Hoster-Link extrahieren
+    // Step 1: Wenn Filmpalast-URL -> Seite laden und Hoster-Link extrahieren
     if (storedUrl.includes("filmpalast.to")) {
         try {
             const resp = await fetch(storedUrl, { headers: HEADERS, redirect: "follow" });
             const pageHtml = await resp.text();
 
-            // Hoster-URLs aus data-player-url und href extrahieren
-            // VOE ist der EINZIGE Hoster dessen Stream ohne JS extrahierbar ist
-            // (window.location.href → delivery domain → HLS)
             const hosterPatterns = [
                 /data-player-url="(https?:\/\/voe\.sx\/[^"]+)"/,
                 /href="(https?:\/\/voe\.sx\/[^"]+)"/,
@@ -255,7 +277,7 @@ async function resolveStreamUrl(storedUrl) {
                 }
             }
 
-            if (embedUrl === storedUrl) return null; // Kein Hoster gefunden
+            if (embedUrl === storedUrl) return null;
         } catch (e) {
             return null;
         }
@@ -321,7 +343,6 @@ async function resolveStreamUrl(storedUrl) {
                     }
                 }
 
-                // Now search for m3u8 or mp4 in the unpacked payload
                 const unpackedHls = payload.match(/https?:\/\/[^"'\s]+\.m3u8[^"'\s]*/);
                 if (unpackedHls) return unpackedHls[0];
 
@@ -330,6 +351,112 @@ async function resolveStreamUrl(storedUrl) {
             }
         } catch (e) {
             // Unpacking failed
+        }
+    }
+
+    return null;
+}
+
+/**
+ * Extract a YouTube video ID from various URL formats.
+ */
+function extractYouTubeId(urlStr) {
+    if (!urlStr) return null;
+    // Already just an ID (11 chars, alphanumeric + dash/underscore)
+    if (/^[A-Za-z0-9_-]{11}$/.test(urlStr)) return urlStr;
+    try {
+        const u = new URL(urlStr);
+        // youtube.com/watch?v=xxx
+        if (u.searchParams.has("v")) return u.searchParams.get("v");
+        // youtu.be/xxx
+        if (u.hostname === "youtu.be") return u.pathname.slice(1).split("/")[0];
+        // youtube.com/embed/xxx or youtube.com/v/xxx or youtube.com/shorts/xxx
+        const embedMatch = u.pathname.match(/\/(embed|v|shorts)\/([A-Za-z0-9_-]{11})/);
+        if (embedMatch) return embedMatch[2];
+    } catch {
+        // Not a valid URL, try regex fallback
+        const m = urlStr.match(/(?:v=|youtu\.be\/|\/(?:embed|v|shorts)\/)([A-Za-z0-9_-]{11})/);
+        if (m) return m[1];
+    }
+    return null;
+}
+
+/**
+ * Resolve a YouTube video ID to a direct progressive (audio+video) MP4 stream URL
+ * using public Invidious and Piped API instances.
+ * AVPro needs a single URL with both audio and video (not DASH separate streams).
+ * Prefers 720p, falls back to 360p or any available progressive stream.
+ */
+async function resolveYouTubeStream(videoId) {
+    // Invidious instances — formatStreams contains progressive (combined) streams
+    const invidiousInstances = [
+        "https://vid.puffyan.us",
+        "https://y.com.sb",
+        "https://invidious.kavin.rocks",
+        "https://inv.nadeko.net",
+        "https://invidious.nerdvpn.de",
+    ];
+
+    // Piped instances — streams where videoOnly === false are combined
+    const pipedInstances = [
+        "https://pipedapi.kavin.rocks",
+        "https://piped-api.privacy.com.de",
+        "https://pipedapi.adminforge.de",
+    ];
+
+    // Try Invidious first (most reliable for progressive streams)
+    for (const instance of invidiousInstances) {
+        try {
+            const resp = await fetch(`${instance}/api/v1/videos/${videoId}`, {
+                headers: { "Accept": "application/json" },
+                signal: AbortSignal.timeout(5000),
+            });
+            if (!resp.ok) continue;
+            const data = await resp.json();
+
+            // formatStreams = progressive streams (audio+video combined)
+            const streams = data.formatStreams;
+            if (!streams || streams.length === 0) continue;
+
+            // Prefer 720p MP4, then 360p, then any
+            let best = streams.find(s => s.qualityLabel === "720p" && s.type && s.type.includes("video/mp4"));
+            if (!best) best = streams.find(s => s.qualityLabel === "720p");
+            if (!best) best = streams.find(s => s.qualityLabel === "360p" && s.type && s.type.includes("video/mp4"));
+            if (!best) best = streams.find(s => s.qualityLabel === "360p");
+            if (!best) best = streams.find(s => s.type && s.type.includes("video/mp4"));
+            if (!best) best = streams[0];
+
+            if (best && best.url) return best.url;
+        } catch {
+            continue;
+        }
+    }
+
+    // Fallback: Try Piped instances
+    for (const instance of pipedInstances) {
+        try {
+            const resp = await fetch(`${instance}/streams/${videoId}`, {
+                headers: { "Accept": "application/json" },
+                signal: AbortSignal.timeout(5000),
+            });
+            if (!resp.ok) continue;
+            const data = await resp.json();
+
+            // videoStreams where videoOnly === false are progressive (combined audio+video)
+            const combined = (data.videoStreams || []).filter(s => s.videoOnly === false);
+            if (combined.length === 0) continue;
+
+            // Prefer 720p MP4, then 360p, then any
+            let best = combined.find(s => s.quality === "720p" && s.mimeType && s.mimeType.includes("video/mp4"));
+            if (!best) best = combined.find(s => s.quality === "720p");
+            if (!best) best = combined.find(s => s.quality === "360p" && s.mimeType && s.mimeType.includes("video/mp4"));
+            if (!best) best = combined.find(s => s.quality === "360p");
+            if (!best) best = combined.find(s => s.mimeType && s.mimeType.includes("video/mp4"));
+            if (!best) best = combined[0];
+
+            if (best && best.url) return best.url;
+        } catch {
+            continue;
         }
     }
 
