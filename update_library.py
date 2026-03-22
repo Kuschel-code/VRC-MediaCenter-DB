@@ -109,8 +109,22 @@ async def get_stream_for_language(client: httpx.AsyncClient,
             rurl = hoster["redirect_url"]
             if not rurl.startswith("http"):
                 rurl = base_url + rurl
-            # Nur die Embed-URL speichern (Worker löst live auf)
-            if rurl.startswith("http"):
+            if not rurl.startswith("http"):
+                continue
+            # Redirect folgen um echte Hoster-Embed-URL zu bekommen
+            try:
+                resp = await client.get(rurl, follow_redirects=True)
+                final_url = str(resp.url)
+                # Nur akzeptieren wenn es eine echte Hoster-URL ist (nicht aniworld.to)
+                if final_url and not any(d in final_url for d in ["aniworld.to", "serienstream.to", "s.to"]):
+                    return final_url
+                # Fallback: JS redirect check
+                import re
+                js_redir = re.search(r"window\.location\.href\s*=\s*['"]([^'"]+)['"]", resp.text)
+                if js_redir:
+                    return js_redir.group(1)
+            except Exception:
+                # If redirect fails, try returning the URL as-is (Worker might resolve it)
                 return rurl
     except Exception:
         pass
@@ -288,6 +302,10 @@ async def main():
                     s = f"{lid}|{stream}"
                     if s not in p["stream_lines"]:
                         p["stream_lines"].append(s)
+                    # Duplicate entry with just slug (no -s1-ep1) so Worker can find movies by either key
+                    s_slug = f"{mc}|{stream}"
+                    if s_slug not in p["stream_lines"]:
+                        p["stream_lines"].append(s_slug)
                     print(f"    [{mi+1}/{len(movies)}] [OK] {mc}: {stream[:55]}...")
                 else:
                     print(f"    [{mi+1}/{len(movies)}] [--] {mc}: kein Stream")
@@ -446,8 +464,18 @@ async def main():
 
             print(f"\n  [{ai+1}/{len(animes)}] {cid}")
 
+            # TMDB Poster-Fallback wenn kein Thumbnail vorhanden
+            thumb = item.get('thumb', '')
+            if not thumb:
+                try:
+                    tmdb = await scraper.fetch_tmdb_metadata(item.get('title', ''), 'anime')
+                    if tmdb and tmdb.get('poster'):
+                        thumb = tmdb['poster']
+                except Exception:
+                    pass
+
             # Anime-Eintrag
-            entry = (f"{item.get('title','')}|{item.get('thumb','')}|{cid}|"
+            entry = (f"{item.get('title','')}|{thumb}|{cid}|"
                      f"{item.get('genre','')}|{item.get('year','')}|{item.get('rating','')}")
             if entry not in p["anime_lines"]:
                 p["anime_lines"].append(entry)

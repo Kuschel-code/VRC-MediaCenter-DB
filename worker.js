@@ -42,7 +42,11 @@ async function handleRequest(request, event) {
         if (!streamsText) {
             return new Response("streams.txt not reachable", { status: 503, headers: CORS });
         }
-        const embedUrl = findInLines(streamsText, episodeId);
+        let embedUrl = findInLines(streamsText, episodeId);
+        if (!embedUrl) {
+            // Film-Fallback: Versuche mit -s1-ep1 Suffix
+            embedUrl = findInLines(streamsText, episodeId + "-s1-ep1");
+        }
         if (!embedUrl) {
             return new Response("No URL for: " + episodeId, {
                 status: 404,
