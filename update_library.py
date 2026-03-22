@@ -120,7 +120,7 @@ async def get_stream_for_language(client: httpx.AsyncClient,
                     return final_url
                 # Fallback: JS redirect check
                 import re
-                js_redir = re.search(r"window\.location\.href\s*=\s*['"]([^'"]+)['"]", resp.text)
+                js_redir = re.search(r'''window\.location\.href\s*=\s*['"]([^'"]+)['"]''', resp.text)
                 if js_redir:
                     return js_redir.group(1)
             except Exception:
