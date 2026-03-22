@@ -67,6 +67,8 @@ except ImportError as e:
     sys.exit(1)
 
 import json
+import time
+import urllib.parse
 from bs4 import BeautifulSoup
 import httpx
 
@@ -248,6 +250,121 @@ def git_push(msg: str = "Auto-update library data"):
             print(f"[+] Git Push: {msg}")
     except subprocess.CalledProcessError as e:
         print(f"[!] Git-Fehler: {e}")
+
+
+# ── TMDB Thumbnail Backfill ──────────────────────────────────
+async def tmdb_backfill_thumbnails(p: dict):
+    """
+    Scannt alle Library-Listen nach Eintraegen mit fehlenden Thumbnails
+    und versucht, diese ueber die TMDB API zu fuellen.
+
+    Format: title|thumb|content_id|genre|year|rating
+    Feld 1 (thumb) ist leer bei fehlenden Thumbnails.
+    """
+    from config import TMDB_API_KEY
+    if not TMDB_API_KEY:
+        print("[TMDB Backfill] Kein TMDB_API_KEY konfiguriert, ueberspringe.")
+        return
+
+    file_configs = [
+        ("anime_lines",  "tv",    "Anime"),
+        ("movie_lines",  "movie", "Filme"),
+        ("series_lines", "tv",    "Serien"),
+    ]
+
+    total_backfilled = 0
+    total_failed = 0
+    request_count = 0
+    window_start = time.time()
+
+    async with httpx.AsyncClient(timeout=15.0, follow_redirects=True) as client:
+        for lines_key, tmdb_type, label in file_configs:
+            lines = p.get(lines_key, [])
+            if not lines:
+                continue
+
+            backfilled = 0
+            skipped = 0
+            missing = sum(1 for l in lines if len(l.split("|")) >= 3 and not l.split("|")[1].strip())
+            if missing == 0:
+                print(f"  [{label}] Keine fehlenden Thumbnails")
+                continue
+            print(f"  [{label}] {missing} fehlende Thumbnails, starte Backfill...")
+
+            for i, line in enumerate(lines):
+                parts = line.split("|")
+                if len(parts) < 3:
+                    continue
+
+                title = parts[0].strip()
+                thumb = parts[1].strip()
+
+                # Bereits Thumbnail vorhanden -> ueberspringen
+                if thumb:
+                    continue
+
+                if not title:
+                    continue
+
+                # Rate Limiting: max 38 requests per 10 seconds (unter TMDB Limit von 40)
+                request_count += 1
+                if request_count >= 38:
+                    elapsed = time.time() - window_start
+                    if elapsed < 10.0:
+                        wait = 10.0 - elapsed + 0.5
+                        await asyncio.sleep(wait)
+                    request_count = 0
+                    window_start = time.time()
+
+                # TMDB API abfragen
+                encoded_title = urllib.parse.quote(title)
+                url = (f"https://api.themoviedb.org/3/search/{tmdb_type}"
+                       f"?api_key={TMDB_API_KEY}&query={encoded_title}&language=de-DE")
+
+                try:
+                    resp = await client.get(url)
+                    if resp.status_code == 200:
+                        data = resp.json()
+                        results = data.get("results", [])
+                        if results and results[0].get("poster_path"):
+                            poster_path = results[0]["poster_path"]
+                            new_thumb = f"https://image.tmdb.org/t/p/w500{poster_path}"
+                            parts[1] = new_thumb
+                            lines[i] = "|".join(parts)
+                            backfilled += 1
+                        else:
+                            skipped += 1
+                    elif resp.status_code == 429:
+                        # Rate limited - warte und retry
+                        retry_after = int(resp.headers.get("Retry-After", "10"))
+                        print(f"    [429] Rate Limited, warte {retry_after}s...")
+                        await asyncio.sleep(retry_after)
+                        resp2 = await client.get(url)
+                        if resp2.status_code == 200:
+                            data2 = resp2.json()
+                            results2 = data2.get("results", [])
+                            if results2 and results2[0].get("poster_path"):
+                                new_thumb = f"https://image.tmdb.org/t/p/w500{results2[0]['poster_path']}"
+                                parts[1] = new_thumb
+                                lines[i] = "|".join(parts)
+                                backfilled += 1
+                            else:
+                                skipped += 1
+                        else:
+                            skipped += 1
+                    else:
+                        skipped += 1
+                except Exception as e:
+                    print(f"    [!] TMDB Fehler fuer \"{title}\": {e}")
+                    total_failed += 1
+
+                # Kleine Pause zwischen Requests
+                await asyncio.sleep(0.25)
+
+            print(f"  [{label}] {backfilled} Thumbnails ergaenzt, {skipped} nicht gefunden")
+            total_backfilled += backfilled
+
+    print(f"[TMDB Backfill] Gesamt: {total_backfilled} Thumbnails ergaenzt, {total_failed} Fehler")
 
 
 # ── Main ─────────────────────────────────────────────────────
@@ -547,7 +664,15 @@ async def main():
     print(f"[+] episodes.txt: {len(p['episode_lines'])}")
     print(f"[+] streams.txt:  {len(p['stream_lines'])}")
 
-    git_push("Final update: alle Inhalte verarbeitet")
+    # ═══════════════════════════════════════════════════════
+    # [4] TMDB Thumbnail Backfill
+    # ═══════════════════════════════════════════════════════
+    print("\n[4] TMDB Thumbnail Backfill fuer fehlende Thumbnails...")
+    await tmdb_backfill_thumbnails(p)
+    write_db_files(p)
+    save_progress(p)
+
+    git_push("Final update: alle Inhalte verarbeitet + TMDB Backfill")
 
     # Fortschritt loeschen nach Abschluss
     if PROGRESS_FILE.exists():
