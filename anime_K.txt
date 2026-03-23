@@ -1,95 +1,95 @@
-Karneval||karneval|||
-Katanagatari||katanagatari|||
-Kino’s Journey: The Beautiful World - The Animated Series||kinos-journey-the-beautiful-world-the-animated-series|||
-Kino's Journey||kinos-journey|||
-Kirby - Right Back At Ya!||kirby-right-back-at-ya|||
-KonoSuba: God’s blessing on this wonderful world!||konosuba-gods-blessing-on-this-wonderful-world|||
-Kuma Kuma Kuma Bear||kuma-kuma-kuma-bear|||
+Karneval|https://image.tmdb.org/t/p/w500/ae2EWiX9FnkAnAFRz7txRRJ9SQm.jpg|karneval|||
+Katanagatari|https://image.tmdb.org/t/p/w500/4AJZPi8RUIoWq3Wjmha35ElhFFh.jpg|katanagatari|||
+Kino’s Journey: The Beautiful World - The Animated Series|https://image.tmdb.org/t/p/w500/cM5MWMLQsUZywgniaHKw1ojnEpo.jpg|kinos-journey-the-beautiful-world-the-animated-series|||
+Kino's Journey|https://image.tmdb.org/t/p/w500/urwmH3xBtACPPvv4RNJZnQo7WWv.jpg|kinos-journey|||
+Kirby - Right Back At Ya!|https://image.tmdb.org/t/p/w500/sauBMU7ruhpHL3bobEz1nlniaCg.jpg|kirby-right-back-at-ya|||
+KonoSuba: God’s blessing on this wonderful world!|https://image.tmdb.org/t/p/w500/eQPEaAKXgT72FJWi1IlAHqSFMTE.jpg|konosuba-gods-blessing-on-this-wonderful-world|||
+Kuma Kuma Kuma Bear|https://image.tmdb.org/t/p/w500/2CN43d4PfuG4Kh30GuQNJKThKTF.jpg|kuma-kuma-kuma-bear|||
 Kuramerukagari||kuramerukagari|||
 Kurayukaba||kurayukaba|||
-Kyo Kara Maoh!||kyo-kara-maoh|||
-K: Return of Kings||k-return-of-kings|||
-Kaiju No. 8||kaiju-no-8|||
-KamiErabi GOD.app||kamierabi-godapp|||
-Kantai Collection: KanColle||kantai-collection-kancolle|||
-Katana Maidens: Toji no Miko||katana-maidens-toji-no-miko|||
-Katsugeki: Touken Ranbu||katsugeki-touken-ranbu|||
-Kemono Jihen||kemono-jihen|||
-Kemurikusa||kemurikusa|||
-KENGAN ASHURA||kengan-ashura|||
-Kiddy Grade||kiddy-grade|||
-Killing Bites||killing-bites|||
+Kyo Kara Maoh!|https://image.tmdb.org/t/p/w500/6juaSJrppiJXTObiNASln8MD5n3.jpg|kyo-kara-maoh|||
+K: Return of Kings|https://image.tmdb.org/t/p/w500/xq2lTc0HLMvGRtz38XjnuuAaTQy.jpg|k-return-of-kings|||
+Kaiju No. 8|https://image.tmdb.org/t/p/w500/A6JOsCdFFTxtbDnKAfE0iY6jOiE.jpg|kaiju-no-8|||
+KamiErabi GOD.app|https://image.tmdb.org/t/p/w500/nj14OOLCAy2npiXwUhNJzmPEIbh.jpg|kamierabi-godapp|||
+Kantai Collection: KanColle|https://image.tmdb.org/t/p/w500/1I8eJyXIA1y2Vew6O7RIAGsPnzU.jpg|kantai-collection-kancolle|||
+Katana Maidens: Toji no Miko|https://image.tmdb.org/t/p/w500/bTp1Ge0zaF6cvrsBbIapMuSGVvz.jpg|katana-maidens-toji-no-miko|||
+Katsugeki: Touken Ranbu|https://image.tmdb.org/t/p/w500/vGzM9LxSxXWnSdT4UWRIQ0czrws.jpg|katsugeki-touken-ranbu|||
+Kemono Jihen|https://image.tmdb.org/t/p/w500/1ON3UrcmyECZAMug7htkszoNoMC.jpg|kemono-jihen|||
+Kemurikusa|https://image.tmdb.org/t/p/w500/o8RdaIzATv3pzHVtyIyvLS4rq1W.jpg|kemurikusa|||
+KENGAN ASHURA|https://image.tmdb.org/t/p/w500/yB8e1BnzrXoPbxfi3GnUgjCiN41.jpg|kengan-ashura|||
+Kiddy Grade|https://image.tmdb.org/t/p/w500/bPx4Z7STMWR4eucOB6KQs9lsHVL.jpg|kiddy-grade|||
+Killing Bites|https://image.tmdb.org/t/p/w500/s3F5f0OxHBWR0hvnPn2JKWOZfFU.jpg|killing-bites|||
 Kingdom (2012)||kingdom-2012|||
-Knight Hunters||knight-hunters|||
-Knight's & Magic||knights-magic|||
-Knights of Sidonia||knights-of-sidonia|||
-Kuromukuro||kuromukuro|||
-Kabaneri of the Iron Fortress||kabaneri-of-the-iron-fortress|||
-Karakuri Circus||karakuri-circus|||
-King’s Raid: Successors of the Will||kings-raid-successors-of-the-will|||
-Kochoki||kochoki|||
-Kokkoku||kokkoku|||
-Kaze no Stigma||kaze-no-stigma|||
-Kill la Kill||kill-la-kill|||
-Kawagoe Boys Sing||kawagoe-boys-sing|||
-Kinokoinu Mushroom Pup||kinokoinu-mushroom-pup|||
-Kizuna no Allele||kizuna-no-allele|||
+Knight Hunters|https://image.tmdb.org/t/p/w500/lqfslCawWxdagvEjcndZRcmJWD7.jpg|knight-hunters|||
+Knight's & Magic|https://image.tmdb.org/t/p/w500/8VmNrtmcFUTpQthFkcrVEU55TCF.jpg|knights-magic|||
+Knights of Sidonia|https://image.tmdb.org/t/p/w500/kzdYpEzyvDbxSLSaCxJhZQgksfJ.jpg|knights-of-sidonia|||
+Kuromukuro|https://image.tmdb.org/t/p/w500/q3Mvd8IgjfvyuEUtalEkY91wzUb.jpg|kuromukuro|||
+Kabaneri of the Iron Fortress|https://image.tmdb.org/t/p/w500/5Iw4PGoSxJCAoFqmOa3ZnPWS5jY.jpg|kabaneri-of-the-iron-fortress|||
+Karakuri Circus|https://image.tmdb.org/t/p/w500/pUhEiAZXI6OqlUnIbUjlANzY8V9.jpg|karakuri-circus|||
+King’s Raid: Successors of the Will|https://image.tmdb.org/t/p/w500/5z2YQG9X4esFFKcKgcbzpImKphn.jpg|kings-raid-successors-of-the-will|||
+Kochoki|https://image.tmdb.org/t/p/w500/aR7cYeWsxpA333unkCeM6xIOJOR.jpg|kochoki|||
+Kokkoku|https://image.tmdb.org/t/p/w500/jeJApvJOlhgDTqUwuxKhpEXJqMO.jpg|kokkoku|||
+Kaze no Stigma|https://image.tmdb.org/t/p/w500/846dVxRSvw4EJFG2SplqXXudH5C.jpg|kaze-no-stigma|||
+Kill la Kill|https://image.tmdb.org/t/p/w500/y2OuQF4oiynNvsTlnyb40jqGMdJ.jpg|kill-la-kill|||
+Kawagoe Boys Sing|https://image.tmdb.org/t/p/w500/o2l1z54hgEq5MuuwziH9sOeG6rx.jpg|kawagoe-boys-sing|||
+Kinokoinu Mushroom Pup|https://image.tmdb.org/t/p/w500/xZkiSANGlpIGHjdpRhVPtqVAjiF.jpg|kinokoinu-mushroom-pup|||
+Kizuna no Allele|https://image.tmdb.org/t/p/w500/vCWOILZQmUyVw7ZKk7PTGjKgS6H.jpg|kizuna-no-allele|||
 Kiki’s Delivery Service||kikis-delivery-service|||
-Kiyo in Kyoto: From the Maiko House||kiyo-in-kyoto-from-the-maiko-house|||
-Kobato||kobato|||
-Konohana Kitan||konohana-kitan|||
-Kowloon Generic Romance||kowloon-generic-romance|||
-Kageki Shojo!!||kageki-shojo|||
-Kaiba||kaiba|||
-Kakegurui Twin||kakegurui-twin|||
-Kakuriyo: Bed & Breakfast for Spirits||kakuriyo-bed-breakfast-for-spirits|||
-Kanon (2002)||kanon-2002|||
-Kanon (2006)||kanon-2006|||
-Kiznaiver||kiznaiver|||
-Kokoro Connect||kokoro-connect|||
-Kono Oto Tomare!: Sounds of Life||kono-oto-tomare-sounds-of-life|||
-Kaina of the Great Snow Sea||kaina-of-the-great-snow-sea|||
-Kunon the Sorcerer Can See||kunon-the-sorcerer-can-see|||
-Kekkaishi||kekkaishi|||
-Kenichi: The Mightiest Disciple||kenichi-the-mightiest-disciple|||
-Knights of the Zodiac||knights-of-the-zodiac|||
-Kandagawa Jet Girls||kandagawa-jet-girls|||
-Keijo!!!!!!!!||keijo|||
-Kickers||kickers|||
-Kuroko’s Basketball||kurokos-basketball|||
-Kaya-chan Isn't Scary||kaya-chan-isnt-scary|||
-King of Thorn||king-of-thorn|||
-King’s Game||kings-game|||
-K-On!||k-on|||
-Kaginado||kaginado|||
-Kakushigoto||kakushigoto|||
-KamiKatsu: Working for God in a Godless World||kamikatsu-working-for-god-in-a-godless-world|||
-Kanamemo||kanamemo|||
-Kannagi||kannagi|||
-Keep Your Hands Off Eizouken!||keep-your-hands-off-eizouken|||
-Kemono Michi: Rise Up||kemono-michi-rise-up|||
-Kill Me Baby||kill-me-baby|||
-Komori-san Can't Decline!||komori-san-cant-decline|||
-Konosuba: An Explosion on This Wonderful World!||konosuba-an-explosion-on-this-wonderful-world|||
-Kotaro Lives Alone||kotaro-lives-alone|||
-Kids on the Slope||kids-on-the-slope|||
-KAMITSUBAKI CITY UNDER CONSTRUCTION||kamitsubaki-city-under-construction|||
-Kamen no Maid Guy||kamen-no-maid-guy|||
-Kämpfer||kmpfer|||
-Koro Sensei Quest!||koro-sensei-quest|||
-Kaguya-sama: Love is War||kaguya-sama-love-is-war|||
-Kakushite! Makina-san!!||kakushite-makina-san|||
-Kamisama Kiss||kamisama-kiss|||
-Kanokon: The Girl Who Cried Fox||kanokon-the-girl-who-cried-fox|||
-Karin||karin|||
+Kiyo in Kyoto: From the Maiko House|https://image.tmdb.org/t/p/w500/eGlYyJcIAnZ4uJ29c7USnT734KD.jpg|kiyo-in-kyoto-from-the-maiko-house|||
+Kobato|https://image.tmdb.org/t/p/w500/bzE0eksp2MpZh6UWjBBoSxW1Cth.jpg|kobato|||
+Konohana Kitan|https://image.tmdb.org/t/p/w500/d6w9C9iReOHXSmXfNCPweURvCVa.jpg|konohana-kitan|||
+Kowloon Generic Romance|https://image.tmdb.org/t/p/w500/gWKv5pWZRAitLdpZmiA9AEvplpQ.jpg|kowloon-generic-romance|||
+Kageki Shojo!!|https://image.tmdb.org/t/p/w500/jee2p5CXSIS9V5Vxx0Uwe9Qr1Hb.jpg|kageki-shojo|||
+Kaiba|https://image.tmdb.org/t/p/w500/9hg1d3umUTyRakzCWRAO6LVyoc6.jpg|kaiba|||
+Kakegurui Twin|https://image.tmdb.org/t/p/w500/2e8bJIBglxY9djQJ0z81A6MroPr.jpg|kakegurui-twin|||
+Kakuriyo: Bed & Breakfast for Spirits|https://image.tmdb.org/t/p/w500/82VaDgYOSA1Sk36vn5SQha9IgRJ.jpg|kakuriyo-bed-breakfast-for-spirits|||
+Kanon (2002)|https://image.tmdb.org/t/p/w500/TRbcf5Ga3r06f158Q3VwLwnIOJ.jpg|kanon-2002|||
+Kanon (2006)|https://image.tmdb.org/t/p/w500/AedHrlFciZxJSGSyOGiRSve3O5e.jpg|kanon-2006|||
+Kiznaiver|https://image.tmdb.org/t/p/w500/fSRxwPHBwHCgrEr6sjdEb5a3Umn.jpg|kiznaiver|||
+Kokoro Connect|https://image.tmdb.org/t/p/w500/lF0EYy8HbWPptN39VNhZV0NuveA.jpg|kokoro-connect|||
+Kono Oto Tomare!: Sounds of Life|https://image.tmdb.org/t/p/w500/bc707zdBtjQ2K8vZWYvPmM0OKEb.jpg|kono-oto-tomare-sounds-of-life|||
+Kaina of the Great Snow Sea|https://image.tmdb.org/t/p/w500/1CH7p70slpERvSKl06CIqU767Rq.jpg|kaina-of-the-great-snow-sea|||
+Kunon the Sorcerer Can See|https://image.tmdb.org/t/p/w500/v05adzjtBOhTqu1Ri4FxOmu6Uix.jpg|kunon-the-sorcerer-can-see|||
+Kekkaishi|https://image.tmdb.org/t/p/w500/sbYERVfpRqGMJJQjmsP1cu1qdEU.jpg|kekkaishi|||
+Kenichi: The Mightiest Disciple|https://image.tmdb.org/t/p/w500/yS7tucKPBcdSAr7J1hevYGu1O9L.jpg|kenichi-the-mightiest-disciple|||
+Knights of the Zodiac|https://image.tmdb.org/t/p/w500/yzfjuIkWzO0ImMEgg9fMHDzR3JP.jpg|knights-of-the-zodiac|||
+Kandagawa Jet Girls|https://image.tmdb.org/t/p/w500/vcrSRSpEHVriusKTrGhuL0xpc3u.jpg|kandagawa-jet-girls|||
+Keijo!!!!!!!!|https://image.tmdb.org/t/p/w500/t9zN06BwacKvyRe2Hi4zoTxd2FY.jpg|keijo|||
+Kickers|https://image.tmdb.org/t/p/w500/lhZrkv153SSUZJ2J6AP4Jwi3kKm.jpg|kickers|||
+Kuroko’s Basketball|https://image.tmdb.org/t/p/w500/ftT1qtT6yWO5rfs237a466N8QRr.jpg|kurokos-basketball|||
+Kaya-chan Isn't Scary|https://image.tmdb.org/t/p/w500/jfWdGJ2HcaCMVRdOUBPd6ayYgz2.jpg|kaya-chan-isnt-scary|||
+King of Thorn|https://image.tmdb.org/t/p/w500/gPCehIc8aQWIHTNTmnD1SzcfliD.jpg|king-of-thorn|||
+King’s Game|https://image.tmdb.org/t/p/w500/4U623rLgz8a3gbBMMys6pUlvrin.jpg|kings-game|||
+K-On!|https://image.tmdb.org/t/p/w500/uXgqW1ffm0g3AKMfksLeKFJnK7J.jpg|k-on|||
+Kaginado|https://image.tmdb.org/t/p/w500/lQXXtlIQYlw4D73mgFQPkrW5FU9.jpg|kaginado|||
+Kakushigoto|https://image.tmdb.org/t/p/w500/e4tZPNriIM0RjcGLDojB0GhSKvV.jpg|kakushigoto|||
+KamiKatsu: Working for God in a Godless World|https://image.tmdb.org/t/p/w500/zIn90M0V83e0F1n9fCudP3My88Q.jpg|kamikatsu-working-for-god-in-a-godless-world|||
+Kanamemo|https://image.tmdb.org/t/p/w500/pUBgvmF1EUCEad6bjcFmMvYGm05.jpg|kanamemo|||
+Kannagi|https://image.tmdb.org/t/p/w500/prMc1xwQs8jJR3vLrwraEsgoCJq.jpg|kannagi|||
+Keep Your Hands Off Eizouken!|https://image.tmdb.org/t/p/w500/6sZdzYquPK3DNdyKqTia9uappIM.jpg|keep-your-hands-off-eizouken|||
+Kemono Michi: Rise Up|https://image.tmdb.org/t/p/w500/jnnlB215gY6hWctTFDydGKyhZBu.jpg|kemono-michi-rise-up|||
+Kill Me Baby|https://image.tmdb.org/t/p/w500/6BBeEiUlGXQRSWBS5CZWf4lp7k0.jpg|kill-me-baby|||
+Komori-san Can't Decline!|https://image.tmdb.org/t/p/w500/llSqbh15N0kIFdijYOVD7ueukGg.jpg|komori-san-cant-decline|||
+Konosuba: An Explosion on This Wonderful World!|https://image.tmdb.org/t/p/w500/xcPT8KuiYAKvhCRaYa9SOtiEWSO.jpg|konosuba-an-explosion-on-this-wonderful-world|||
+Kotaro Lives Alone|https://image.tmdb.org/t/p/w500/bR144FenQIvt5ugXxoNp6npnVts.jpg|kotaro-lives-alone|||
+Kids on the Slope|https://image.tmdb.org/t/p/w500/a8ukRiYnKZHadK4CwZiZM8C5MsO.jpg|kids-on-the-slope|||
+KAMITSUBAKI CITY UNDER CONSTRUCTION|https://image.tmdb.org/t/p/w500/17TgENGeO5YMahY5bdayov7PbW.jpg|kamitsubaki-city-under-construction|||
+Kamen no Maid Guy|https://image.tmdb.org/t/p/w500/cu4ZeUXnDMxwafMTB28tQvir0Nc.jpg|kamen-no-maid-guy|||
+Kämpfer|https://image.tmdb.org/t/p/w500/elpfztHKiyjKbSD94RLJeSv3Uzk.jpg|kmpfer|||
+Koro Sensei Quest!|https://image.tmdb.org/t/p/w500/pu1Z8jXcf49lr84JqWS3XpvRdGf.jpg|koro-sensei-quest|||
+Kaguya-sama: Love is War|https://image.tmdb.org/t/p/w500/tvemh1UGxnDKWPFYj40Zs6IWN7y.jpg|kaguya-sama-love-is-war|||
+Kakushite! Makina-san!!|https://image.tmdb.org/t/p/w500/3fmeu7yHmHHPixSdiFxaKslDW6j.jpg|kakushite-makina-san|||
+Kamisama Kiss|https://image.tmdb.org/t/p/w500/8nfyyLqcAbEocNvPXj26uIflThp.jpg|kamisama-kiss|||
+Kanokon: The Girl Who Cried Fox|https://image.tmdb.org/t/p/w500/i14OPG6CSlNldJbW5P920qsjQ2d.jpg|kanokon-the-girl-who-cried-fox|||
+Karin|https://image.tmdb.org/t/p/w500/ycdXSTMNlfpd5grJFc6Js2bNm6S.jpg|karin|||
 Kase-san and Morning Glories||kase-san-and-morning-glories|||
-Kimi ni Todoke: From Me to You||kimi-ni-todoke-from-me-to-you|||
-Kiss Him, Not Me!||kiss-him-not-me|||
-KissXsis||kissxsis|||
-Koikimo||koikimo|||
-Komi Can’t Communicate||komi-cant-communicate|||
-Kubo Won't Let Me Be Invisible||kubo-wont-let-me-be-invisible|||
-Kamigami no Asobi||kamigami-no-asobi|||
-KimiKiss Pure Rouge||kimikiss-pure-rouge|||
-Kaiji: Ultimate Survivor||kaiji-ultimate-survivor|||
-Kakegurui||kakegurui|||
+Kimi ni Todoke: From Me to You|https://image.tmdb.org/t/p/w500/fqsCWDDfm1Gu0ecGsQKPsI0CZbR.jpg|kimi-ni-todoke-from-me-to-you|||
+Kiss Him, Not Me!|https://image.tmdb.org/t/p/w500/3GPjnbeDjwKYIs2DYZIpSWWllOg.jpg|kiss-him-not-me|||
+KissXsis|https://image.tmdb.org/t/p/w500/5bH7lNOwLbnY50rtxc1uWZuYQho.jpg|kissxsis|||
+Koikimo|https://image.tmdb.org/t/p/w500/9Xc0qhDkHoxlGJ1FNrErneTR9xL.jpg|koikimo|||
+Komi Can’t Communicate|https://image.tmdb.org/t/p/w500/dPaI9Ho4k4ZhNgPyRIkfEyiA2K7.jpg|komi-cant-communicate|||
+Kubo Won't Let Me Be Invisible|https://image.tmdb.org/t/p/w500/dFYkffnwLjZ5FGT0N2BtCCLMjlu.jpg|kubo-wont-let-me-be-invisible|||
+Kamigami no Asobi|https://image.tmdb.org/t/p/w500/eGyHddc7V6DRrnMg55RYAirIZDC.jpg|kamigami-no-asobi|||
+KimiKiss Pure Rouge|https://image.tmdb.org/t/p/w500/naUpOu9yGGczI7p5uxgAdITA4LC.jpg|kimikiss-pure-rouge|||
+Kaiji: Ultimate Survivor|https://image.tmdb.org/t/p/w500/5xrFchDg4yKEux9YPcw4l9vT3Gf.jpg|kaiji-ultimate-survivor|||
+Kakegurui|https://image.tmdb.org/t/p/w500/h1MUwcwNjK3nkXFzeFowUqfy0Qw.jpg|kakegurui|||

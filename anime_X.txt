@@ -1,5 +1,5 @@
-Xuan Yuan Sword Luminary||xuan-yuan-sword-luminary|||
-X||x|||
-Xam’d: Lost Memories||xamd-lost-memories|||
-xxxHOLiC||xxxholic|||
-X&Y: Ai You De Mishi||xy|||
+Xuan Yuan Sword Luminary|https://image.tmdb.org/t/p/w500/7lVvblfZr6hpMON58V7hKbdHGJ0.jpg|xuan-yuan-sword-luminary|||
+X|https://image.tmdb.org/t/p/w500/qouWZKZ1ygWkvqSgMQOMDei1kFX.jpg|x|||
+Xam’d: Lost Memories|https://image.tmdb.org/t/p/w500/48dAreQbSLIn89Vkzx0HPiWn9Ys.jpg|xamd-lost-memories|||
+xxxHOLiC|https://image.tmdb.org/t/p/w500/k9HSk7qw3j7k6Yhuzhmr5SiglXR.jpg|xxxholic|||
+X&Y: Ai You De Mishi|https://image.tmdb.org/t/p/w500/m6eK4zfYhJwxU4b43KPQciTTkFD.jpg|xy|||

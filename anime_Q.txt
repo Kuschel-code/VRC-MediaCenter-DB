@@ -1,5 +1,5 @@
-Qi Refining for 3000 Years||qi-refining-for-3000-years|||
-Quality Assurance in Another World||quality-assurance-in-another-world|||
-Qualidea Code||qualidea-code|||
-Quan Zhi Fa Shi||quan-zhi-fa-shi|||
-Queen’s Blade||queens-blade|||
+Qi Refining for 3000 Years|https://image.tmdb.org/t/p/w500/7cpHEzXivjhdKhHcgLqReYyOtZv.jpg|qi-refining-for-3000-years|||
+Quality Assurance in Another World|https://image.tmdb.org/t/p/w500/am7dab5D46Pee5KH951qQrpXJy7.jpg|quality-assurance-in-another-world|||
+Qualidea Code|https://image.tmdb.org/t/p/w500/yiGdGy5uHD7DaTjhdsWk21L04Py.jpg|qualidea-code|||
+Quan Zhi Fa Shi|https://image.tmdb.org/t/p/w500/wirofBlPHzaENMu5RCxx9T2gNjB.jpg|quan-zhi-fa-shi|||
+Queen’s Blade|https://image.tmdb.org/t/p/w500/kj3ja1O7pOLbvSUXEhecppt9Hfj.jpg|queens-blade|||

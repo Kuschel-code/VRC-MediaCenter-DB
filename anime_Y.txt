@@ -1,51 +1,51 @@
-Yona of the Dawn||yona-of-the-dawn|||
-Yasuke||yasuke|||
-Yoroi-Shinden Samurai Troopers||yoroi-shinden-samurai-troopers|||
-You and Idol Precure||you-and-idol-precure|||
-Yozakura Quartet||yozakura-quartet|||
-Yozakura Quartet: Hana no Uta||yozakura-quartet-hana-no-uta|||
-Yuyushiki||yuyushiki|||
-Yakuza Fiancé||yakuza-fianc|||
-Yosuga No Sora: In Solitude Where We Are Least Alone||yosuga-no-sora-in-solitude-where-we-are-least-alone|||
-Young Black Jack||young-black-jack|||
-Your Lie in April||your-lie-in-april|||
-Your Name.||your-name|||
+Yona of the Dawn|https://image.tmdb.org/t/p/w500/gPuJTgizkFmFGNvBHrkUFrAdP8i.jpg|yona-of-the-dawn|||
+Yasuke|https://image.tmdb.org/t/p/w500/EyrE3HJsMArVSORCnP0ooiAd9T.jpg|yasuke|||
+Yoroi-Shinden Samurai Troopers|https://image.tmdb.org/t/p/w500/gTJXC84z3pq9VxVGjbStvMP0I2g.jpg|yoroi-shinden-samurai-troopers|||
+You and Idol Precure|https://image.tmdb.org/t/p/w500/fvmTTlKu2Q6q4pQMu62SZpQEiVT.jpg|you-and-idol-precure|||
+Yozakura Quartet|https://image.tmdb.org/t/p/w500/iFU2USdbLmelVAViU2OIIARXNrO.jpg|yozakura-quartet|||
+Yozakura Quartet: Hana no Uta|https://image.tmdb.org/t/p/w500/nFAWQUqu7FgePSLt4MaOtBpzEkM.jpg|yozakura-quartet-hana-no-uta|||
+Yuyushiki|https://image.tmdb.org/t/p/w500/oEcYsmRtaru4YiPvQ0EaRmRHt6E.jpg|yuyushiki|||
+Yakuza Fiancé|https://image.tmdb.org/t/p/w500/6jiDJntkOI9HouEIY2vT7K2reUW.jpg|yakuza-fianc|||
+Yosuga No Sora: In Solitude Where We Are Least Alone|https://image.tmdb.org/t/p/w500/fjfKpBOqRVPzfG9h7F7yPj6BVT1.jpg|yosuga-no-sora-in-solitude-where-we-are-least-alone|||
+Young Black Jack|https://image.tmdb.org/t/p/w500/6BOJC4GiHxaaV4KeC2r0pwLiAyp.jpg|young-black-jack|||
+Your Lie in April|https://image.tmdb.org/t/p/w500/1Rn4Cvts2w7tkZ9w7NthgPrmALz.jpg|your-lie-in-april|||
+Your Name.|https://image.tmdb.org/t/p/w500/rP0nYKUd5huQHhRrFkBHQjc0PTN.jpg|your-name|||
 Your Voice: Kimikoe||your-voice-kimikoe|||
-Yu-No: A Girl Who Chants Love at the Bound of This World||yu-no-a-girl-who-chants-love-at-the-bound-of-this-world|||
-Yuki Yuna is a Hero||yuki-yuna-is-a-hero|||
-YATAGARASU: The Raven Does Not Choose Its Master||yatagarasu-the-raven-does-not-choose-its-master|||
-Yohane the Parhelion -SUNSHINE in the MIRROR-||yohane-the-parhelion-sunshine-in-the-mirror|||
-Yashahime: Princess Half-Demon||yashahime-princess-half-demon|||
-Yu Yu Hakusho: Ghost Files||yu-yu-hakusho-ghost-files|||
-YAIBA: Samurai Legend||yaiba-samurai-legend|||
-Yakitate!! Japan||yakitate-japan|||
-Yowamushi Pedal||yowamushi-pedal|||
-Yu-Gi-Oh!||yu-gi-oh|||
+Yu-No: A Girl Who Chants Love at the Bound of This World|https://image.tmdb.org/t/p/w500/gIpIimuvz9FXtvb5rTORz9BWQXY.jpg|yu-no-a-girl-who-chants-love-at-the-bound-of-this-world|||
+Yuki Yuna is a Hero|https://image.tmdb.org/t/p/w500/nOyvBJ6DdmHN0bmK30F1WvP6hbp.jpg|yuki-yuna-is-a-hero|||
+YATAGARASU: The Raven Does Not Choose Its Master|https://image.tmdb.org/t/p/w500/zBu8G5vARl1i9omZ4AEXpXh9N14.jpg|yatagarasu-the-raven-does-not-choose-its-master|||
+Yohane the Parhelion -SUNSHINE in the MIRROR-|https://image.tmdb.org/t/p/w500/veG1PzAYKR5aGbXfmF5ioT3wIk3.jpg|yohane-the-parhelion-sunshine-in-the-mirror|||
+Yashahime: Princess Half-Demon|https://image.tmdb.org/t/p/w500/xnHfAL0zejjJo7OBmWkY96uDhde.jpg|yashahime-princess-half-demon|||
+Yu Yu Hakusho: Ghost Files|https://image.tmdb.org/t/p/w500/Aq5af62w7eQlqjK6vgpEbFA8Z2b.jpg|yu-yu-hakusho-ghost-files|||
+YAIBA: Samurai Legend|https://image.tmdb.org/t/p/w500/1jltcsz17CkfyhpcsSlmVC6pQGh.jpg|yaiba-samurai-legend|||
+Yakitate!! Japan|https://image.tmdb.org/t/p/w500/kSxoEjNOZt2YFGuTqBhZ7suuRiT.jpg|yakitate-japan|||
+Yowamushi Pedal|https://image.tmdb.org/t/p/w500/iV1EtFWsdS8a1fSiF5ashiCISPg.jpg|yowamushi-pedal|||
+Yu-Gi-Oh!|https://image.tmdb.org/t/p/w500/dJas6Y7lXzgPHgr4ro0qCOTgNiM.jpg|yu-gi-oh|||
 Yu-Gi-Oh! 3D: Bonds Beyond Time||yu-gi-oh-3d-bonds-beyond-time|||
-Yu-Gi-Oh! 5D’s||yu-gi-oh-5ds|||
-Yu-Gi-Oh! Arc-V||yu-gi-oh-arc-v|||
-Yu-Gi-Oh! GX||yu-gi-oh-gx|||
-Yu-Gi-Oh! Vrains||yu-gi-oh-vrains|||
-Yu-Gi-Oh! Zexal||yu-gi-oh-zexal|||
-Yuri!!! on Ice||yuri-on-ice|||
-Yamishibai: Japanese Ghost Stories||yamishibai-japanese-ghost-stories|||
-Ya Boy Kongming!||ya-boy-kongming|||
-Yamada-kun and the Seven Witches||yamada-kun-and-the-seven-witches|||
-Yamada's First Time: B Gata H Kei||yamadas-first-time-b-gata-h-kei|||
-Yatogame-chan Kansatsu Nikki||yatogame-chan-kansatsu-nikki|||
-You and Me||you-and-me|||
-You Don’t Know Gunma Yet||you-dont-know-gunma-yet|||
-You're Under Arrest!||youre-under-arrest|||
-Yuruyuri: Happy Go Lily||yuruyuri-happy-go-lily|||
-YOUR FORMA||your-forma|||
-Yandere Dark Elf: She Chased Me All The Way From Another World||yandere-dark-elf-she-chased-me-all-the-way-from-another-world|||
-Yano-kun's Ordinary Days||yano-kuns-ordinary-days|||
-You and I Are Polar Opposites||you-and-i-are-polar-opposites|||
-You Are Ms. Servant||you-are-ms-servant|||
-You Can Do It, Douki-chan||you-can-do-it-douki-chan|||
-You Can't Be In a Rom-Com with Your Childhood Friends!||you-cant-be-in-a-rom-com-with-your-childhood-friends|||
-Yumeiro Patissiere||yumeiro-patissiere|||
-Yuri Is My Job!||yuri-is-my-job|||
-Yuuna and the Haunted Hot Springs||yunas-geisterhaus|||
+Yu-Gi-Oh! 5D’s|https://image.tmdb.org/t/p/w500/gzILSA68CddzQ2uMybfRznFKRNr.jpg|yu-gi-oh-5ds|||
+Yu-Gi-Oh! Arc-V|https://image.tmdb.org/t/p/w500/sJ0FEXMb4tcRW8kPIdLJUco5H6K.jpg|yu-gi-oh-arc-v|||
+Yu-Gi-Oh! GX|https://image.tmdb.org/t/p/w500/veMmM3STfZo0IsexmtDZW9zB1RF.jpg|yu-gi-oh-gx|||
+Yu-Gi-Oh! Vrains|https://image.tmdb.org/t/p/w500/f05J9joLN57YAKMlorFVtzlTOYN.jpg|yu-gi-oh-vrains|||
+Yu-Gi-Oh! Zexal|https://image.tmdb.org/t/p/w500/uGOjTI1HQukcCU7wDCtQlnsBaG7.jpg|yu-gi-oh-zexal|||
+Yuri!!! on Ice|https://image.tmdb.org/t/p/w500/aHhKj8FUVqPcwrNuOWpwSXwHBL1.jpg|yuri-on-ice|||
+Yamishibai: Japanese Ghost Stories|https://image.tmdb.org/t/p/w500/iYsJyfmQgaOXxr8Y72j8IB5EvFQ.jpg|yamishibai-japanese-ghost-stories|||
+Ya Boy Kongming!|https://image.tmdb.org/t/p/w500/vKhZ5nCdIEEAlmNV1HlFuKbFwIv.jpg|ya-boy-kongming|||
+Yamada-kun and the Seven Witches|https://image.tmdb.org/t/p/w500/duNjXCTArkT7dbHDNR5dD8ElLHI.jpg|yamada-kun-and-the-seven-witches|||
+Yamada's First Time: B Gata H Kei|https://image.tmdb.org/t/p/w500/z4ORrDF2gX0QA81lDsZO8cmNNhd.jpg|yamadas-first-time-b-gata-h-kei|||
+Yatogame-chan Kansatsu Nikki|https://image.tmdb.org/t/p/w500/46wAXa5YKpYrwK2NyxprCOqVC66.jpg|yatogame-chan-kansatsu-nikki|||
+You and Me|https://image.tmdb.org/t/p/w500/ljmg6AiM56PlV9aGLtIqfGOamUA.jpg|you-and-me|||
+You Don’t Know Gunma Yet|https://image.tmdb.org/t/p/w500/jP84jUiC2wtsZTYEUmHhbLkO9Sy.jpg|you-dont-know-gunma-yet|||
+You're Under Arrest!|https://image.tmdb.org/t/p/w500/k2eK05xbqbILLUb0ag152auT0R5.jpg|youre-under-arrest|||
+Yuruyuri: Happy Go Lily|https://image.tmdb.org/t/p/w500/IA0nSV6uvzlQxFHK2ynALqE22s.jpg|yuruyuri-happy-go-lily|||
+YOUR FORMA|https://image.tmdb.org/t/p/w500/uq3FFKHW6lUQxdiTetjgSIL0vMs.jpg|your-forma|||
+Yandere Dark Elf: She Chased Me All The Way From Another World|https://image.tmdb.org/t/p/w500/br6b3hhZQYOyN6zKS3INNxuLjla.jpg|yandere-dark-elf-she-chased-me-all-the-way-from-another-world|||
+Yano-kun's Ordinary Days|https://image.tmdb.org/t/p/w500/igEZvMvb060v6LhGvIrSwJG7nyA.jpg|yano-kuns-ordinary-days|||
+You and I Are Polar Opposites|https://image.tmdb.org/t/p/w500/lLjcMT7fwuO5fgswb2drlbFwoTJ.jpg|you-and-i-are-polar-opposites|||
+You Are Ms. Servant|https://image.tmdb.org/t/p/w500/ncwR6gL58cf1Z6xNcnA8iTS4PyG.jpg|you-are-ms-servant|||
+You Can Do It, Douki-chan|https://image.tmdb.org/t/p/w500/phjhDDopklmnlu1uhl4qF7MSpQ4.jpg|you-can-do-it-douki-chan|||
+You Can't Be In a Rom-Com with Your Childhood Friends!|https://image.tmdb.org/t/p/w500/rMoMsLOTbEKCWFEzgbxryoXUgRe.jpg|you-cant-be-in-a-rom-com-with-your-childhood-friends|||
+Yumeiro Patissiere|https://image.tmdb.org/t/p/w500/wYO3e3MK2OcENzq1Yq55x49iQ1v.jpg|yumeiro-patissiere|||
+Yuri Is My Job!|https://image.tmdb.org/t/p/w500/pEnUnkGxKOWDhG34PSZOVTyC4vG.jpg|yuri-is-my-job|||
+Yuuna and the Haunted Hot Springs|https://image.tmdb.org/t/p/w500/wx8TRRnruS8VkzoOYeUmYeL2tLF.jpg|yunas-geisterhaus|||
 Yes, No, or Maybe?||yes-no-or-maybe|||
-YUREI DECO||yurei-deco|||
+YUREI DECO|https://image.tmdb.org/t/p/w500/8UvOpGWKuEUQ5A1NBcvrEIA6BxV.jpg|yurei-deco|||

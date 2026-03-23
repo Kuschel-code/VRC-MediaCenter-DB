@@ -1,78 +1,78 @@
 Laputa: Castle in the Sky||laputa-castle-in-the-sky|||
-Last Exile||last-exile|||
-Legend of Mana: The Teardrop Crystal||legend-of-mana-the-teardrop-crystal|||
-Let This Grieving Soul Retire||let-this-grieving-soul-retire|||
-Log Horizon||log-horizon|||
-Loner Life in Another World||loner-life-in-another-world|||
-Lupin the Third: The Woman Called Fujiko Mine||lupin-the-third-the-woman-called-fujiko-mine|||
-Lagrange - The Flower of Rin-ne||lagrange-the-flower-of-rin-ne|||
-Lance N' Masques||lance-n-masques|||
-Last Hope||last-hope|||
-LAZARUS||lazarus|||
-LBX Girls||lbx-girls|||
-League of Nations Air Force Aviation Magic Band Luminous Witches||league-of-nations-air-force-aviation-magic-band-luminous-witches|||
-Legends of the Dark King: A Fist of the North Star Story||legends-of-the-dark-king-a-fist-of-the-north-star-story|||
-Lord El-Melloi II’s Case Files: Rail Zeppelin - Grace Note||lord-el-melloi-iis-case-files-rail-zeppelin-grace-note|||
-Lord Marksman and Vanadis||lord-marksman-and-vanadis|||
-Lord of Vermilion: The Crimson King||lord-of-vermilion-the-crimson-king|||
-Love of Kill||love-of-kill|||
-Lucifer and the Biscuit Hammer||lucifer-and-the-biscuit-hammer|||
-Luck & Logic||luck-logic|||
-Lupin the 3rd||lupin-the-3rd|||
-Lycoris Recoil||lycoris-recoil|||
-Laughing Under the Clouds||laughing-under-the-clouds|||
-Legend of the Galactic Heroes||legend-of-the-galactic-heroes|||
-Legend of the Galactic Heroes: Die Neue These||legend-of-the-galactic-heroes-die-neue-these|||
-Listeners||listeners|||
-Lord of Mysteries||lord-of-mysteries|||
-Liar Liar||liar-liar|||
-Library War||library-war|||
+Last Exile|https://image.tmdb.org/t/p/w500/oTqVM0UyahDw6XZ7m2aTNuhjt8Y.jpg|last-exile|||
+Legend of Mana: The Teardrop Crystal|https://image.tmdb.org/t/p/w500/au32F8uWsO57yQ2oY2qWSMGqGZx.jpg|legend-of-mana-the-teardrop-crystal|||
+Let This Grieving Soul Retire|https://image.tmdb.org/t/p/w500/lQRskaix2xnMRx5MrnqQ4iLVN3E.jpg|let-this-grieving-soul-retire|||
+Log Horizon|https://image.tmdb.org/t/p/w500/2LRsQWNzNSbHXFODidFBxIDQovv.jpg|log-horizon|||
+Loner Life in Another World|https://image.tmdb.org/t/p/w500/nwRPRg2J8pQyUNnJFg4QIZiW3oX.jpg|loner-life-in-another-world|||
+Lupin the Third: The Woman Called Fujiko Mine|https://image.tmdb.org/t/p/w500/vtv1dInLmwkw4kwnNjl8imGcbLq.jpg|lupin-the-third-the-woman-called-fujiko-mine|||
+Lagrange - The Flower of Rin-ne|https://image.tmdb.org/t/p/w500/wGMfnvoNWbGS6WuziMefTXFMe3S.jpg|lagrange-the-flower-of-rin-ne|||
+Lance N' Masques|https://image.tmdb.org/t/p/w500/bk35ArMdP1giITGafGGTdTYk0kM.jpg|lance-n-masques|||
+Last Hope|https://image.tmdb.org/t/p/w500/zb9TXIZ1zX8pmEq207BfEhBMYg6.jpg|last-hope|||
+LAZARUS|https://image.tmdb.org/t/p/w500/8ViqUWPWh6aPZGQA57FMRVmaXZ1.jpg|lazarus|||
+LBX Girls|https://image.tmdb.org/t/p/w500/rMyUgCTuKoKiuU96l9Z2b3LdXSG.jpg|lbx-girls|||
+League of Nations Air Force Aviation Magic Band Luminous Witches|https://image.tmdb.org/t/p/w500/eVRioDYq4CplRvEuCqLmFX1spQ2.jpg|league-of-nations-air-force-aviation-magic-band-luminous-witches|||
+Legends of the Dark King: A Fist of the North Star Story|https://image.tmdb.org/t/p/w500/p4Jimz8z4d1RJwaHFfA8TtFWOMB.jpg|legends-of-the-dark-king-a-fist-of-the-north-star-story|||
+Lord El-Melloi II’s Case Files: Rail Zeppelin - Grace Note|https://image.tmdb.org/t/p/w500/ucG23No69U0lCrWlo5QpYGzFMp0.jpg|lord-el-melloi-iis-case-files-rail-zeppelin-grace-note|||
+Lord Marksman and Vanadis|https://image.tmdb.org/t/p/w500/e376zozRB5P3i14VmD9bSc9Ar2X.jpg|lord-marksman-and-vanadis|||
+Lord of Vermilion: The Crimson King|https://image.tmdb.org/t/p/w500/2w0JD2SPjxLnRobVxLvOd4ix1EQ.jpg|lord-of-vermilion-the-crimson-king|||
+Love of Kill|https://image.tmdb.org/t/p/w500/xSn1VQ8nvf7vH4qMh0k2FiJMrrv.jpg|love-of-kill|||
+Lucifer and the Biscuit Hammer|https://image.tmdb.org/t/p/w500/tgfw4kCVBsFKD27L6b3QuIZVeP4.jpg|lucifer-and-the-biscuit-hammer|||
+Luck & Logic|https://image.tmdb.org/t/p/w500/eQnw06qPm6a6NuKT95Nn0vFzHSd.jpg|luck-logic|||
+Lupin the 3rd|https://image.tmdb.org/t/p/w500/hqvK45KPyNZMUc2IliXTXYpwLtW.jpg|lupin-the-3rd|||
+Lycoris Recoil|https://image.tmdb.org/t/p/w500/1GJMVzfL7lRy4XqvS8UjsX2tzHt.jpg|lycoris-recoil|||
+Laughing Under the Clouds|https://image.tmdb.org/t/p/w500/hw5WmqIccMPKtNjw6fGI8qkLcVk.jpg|laughing-under-the-clouds|||
+Legend of the Galactic Heroes|https://image.tmdb.org/t/p/w500/aulptGcYofH3KaFAmoBgicTbea1.jpg|legend-of-the-galactic-heroes|||
+Legend of the Galactic Heroes: Die Neue These|https://image.tmdb.org/t/p/w500/dqrE88EZUs9qjqMjNEyeHD7dnO2.jpg|legend-of-the-galactic-heroes-die-neue-these|||
+Listeners|https://image.tmdb.org/t/p/w500/n0POfeEvy3NQH0sRZ0fW1TNzM14.jpg|listeners|||
+Lord of Mysteries|https://image.tmdb.org/t/p/w500/kBRyCCZWipMO5Gu9Y02nE3iMgr0.jpg|lord-of-mysteries|||
+Liar Liar|https://image.tmdb.org/t/p/w500/vmT5VZb6AACzIt3s6FcIfARbqfP.jpg|liar-liar|||
+Library War|https://image.tmdb.org/t/p/w500/ePeKRpKgWApiN0pbaCJMZn07Jq3.jpg|library-war|||
 Loveless: SD Theatre||loveless-sd-theatre|||
-Let's Go Karaoke!||lets-go-karaoke|||
-Little Women||little-women|||
+Let's Go Karaoke!|https://image.tmdb.org/t/p/w500/isc39cls8o7Xv4kP2tkzdEu3K7o.jpg|lets-go-karaoke|||
+Little Women|https://image.tmdb.org/t/p/w500/c9jFRl34eqwU3VTbPrZFlNcZqXF.jpg|little-women|||
 Liz and the Blue Bird||liz-and-the-blue-bird|||
-Love, Election and Chocolate||love-election-and-chocolate|||
-Lady Oscar||lady-oscar|||
-Land of the Lustrous||land-of-the-lustrous|||
+Love, Election and Chocolate|https://image.tmdb.org/t/p/w500/zTA8r6GcibORfwOfArSBmkSdp5m.jpg|love-election-and-chocolate|||
+Lady Oscar|https://image.tmdb.org/t/p/w500/d8YF6O2QS7o8r7wLM80L71umc0a.jpg|lady-oscar|||
+Land of the Lustrous|https://image.tmdb.org/t/p/w500/viEgkNkUhGeBhsV15mON4YRIftk.jpg|land-of-the-lustrous|||
 Les Miserables: Shoujo Cossette||les-miserables-shoujo-cossette|||
-Levius||levius|||
-Link Click||link-click|||
-Little Busters||little-busters|||
-Look Back||look-back|||
-Lost Song||lost-song|||
-Love Through a Prism||love-through-a-prism|||
-Let Me Check the Walkthrough First||let-me-check-the-walkthrough-first|||
-Left-Hand Layup!||left-hand-layup|||
-Love All Play||love-all-play|||
-Love Live! Nijigasaki High School Idol Club||love-live-nijigasaki-high-school-idol-club|||
-Love Live! School Idol Project||love-live-school-idol-project|||
-Love Live! Sunshine!!||love-live-sunshine|||
-Lockdown Zone: Level X||lockdown-zone-level-x|||
-Ladies versus Butlers!||ladies-versus-butlers|||
-Laid-Back Camp||laid-back-camp|||
-Lee’s Detective Agency||lees-detective-agency|||
-Let’s Make a Mug Too||lets-make-a-mug-too|||
-Level 1 Demon Lord and One Room Hero||level-1-demon-lord-and-one-room-hero|||
-Li'l Miss Vampire Can't Suck Right||lil-miss-vampire-cant-suck-right|||
-Life Lessons with Uramichi Oniisan||life-lessons-with-uramichi-oniisan|||
-Little Witch Academia||little-witch-academia|||
-Long Riders!||long-riders|||
-Lookism||lookism|||
-Love Lab||love-lab|||
-Love Live! Superstar!!||love-live-superstar|||
-Love Tyrant||love-tyrant|||
-Lucky Star||lucky-star|||
-Love and Lies||love-and-lies|||
-Life With an Ordinary Guy Who Reincarnated Into a Total Fantasy Knockout||life-with-an-ordinary-guy-who-reincarnated-into-a-total-fantasy-knockout|||
-Listen to Me, Girls. I'm Your Father!||listen-to-me-girls-im-your-father|||
-Love After World Domination||love-after-world-domination|||
-LOVE FLOPS||love-flops|||
-Love Hina||love-hina|||
-Love Is Indivisible by Twins||love-is-indivisible-by-twins|||
-Love is Like a Cocktail||love-is-like-a-cocktail|||
-LOVE STAGE!!||love-stage|||
-Love, Chunibyo & Other Delusions||love-chunibyo-other-delusions|||
-Lovely Complex||lovely-complex|||
-Let's Play||lets-play|||
+Levius|https://image.tmdb.org/t/p/w500/xLYt9rDYs4LmAiqe8hPvPVno0xa.jpg|levius|||
+Link Click|https://image.tmdb.org/t/p/w500/A9z3veK4kJhaPog9laE4eHNeI8D.jpg|link-click|||
+Little Busters|https://image.tmdb.org/t/p/w500/cjMfB3K4ODfz160KmWMuiNZbqKf.jpg|little-busters|||
+Look Back|https://image.tmdb.org/t/p/w500/lIzForYCpB7Q4JrONDZJ8HyTPXh.jpg|look-back|||
+Lost Song|https://image.tmdb.org/t/p/w500/7s3umqNxBgeU872K4ZsVDRztSHs.jpg|lost-song|||
+Love Through a Prism|https://image.tmdb.org/t/p/w500/ogbZc8ELD0XnzCtWE0jGNbesiNc.jpg|love-through-a-prism|||
+Let Me Check the Walkthrough First|https://image.tmdb.org/t/p/w500/wjqu0Sgs0a9zJhrrO70sDGucOLD.jpg|let-me-check-the-walkthrough-first|||
+Left-Hand Layup!|https://image.tmdb.org/t/p/w500/eONDt3A8fBeAaDMiqN5roullnJL.jpg|left-hand-layup|||
+Love All Play|https://image.tmdb.org/t/p/w500/AvkDDOD1dy4ZygO0Z433o42hxsd.jpg|love-all-play|||
+Love Live! Nijigasaki High School Idol Club|https://image.tmdb.org/t/p/w500/10TCK99AXCTiS8KtbGgtEPeyw8f.jpg|love-live-nijigasaki-high-school-idol-club|||
+Love Live! School Idol Project|https://image.tmdb.org/t/p/w500/ynbpiXGC01pCzHZGo16WigbJsQQ.jpg|love-live-school-idol-project|||
+Love Live! Sunshine!!|https://image.tmdb.org/t/p/w500/3ZRYUZpHepxk50O5dLiYCBXbn3N.jpg|love-live-sunshine|||
+Lockdown Zone: Level X|https://image.tmdb.org/t/p/w500/1LTTYkxSPe3MgYvX70rJKedolaZ.jpg|lockdown-zone-level-x|||
+Ladies versus Butlers!|https://image.tmdb.org/t/p/w500/f5PYhEkLAO7NiKq0Tf5UHSaWnNY.jpg|ladies-versus-butlers|||
+Laid-Back Camp|https://image.tmdb.org/t/p/w500/rzU73SNffW8afzOhXtVv2qq5Eyi.jpg|laid-back-camp|||
+Lee’s Detective Agency|https://image.tmdb.org/t/p/w500/AkIlIis01thD87lOjb67VK2rcZ5.jpg|lees-detective-agency|||
+Let’s Make a Mug Too|https://image.tmdb.org/t/p/w500/7ugTcRcwKCviKFWd8l6p1tvcwR0.jpg|lets-make-a-mug-too|||
+Level 1 Demon Lord and One Room Hero|https://image.tmdb.org/t/p/w500/1C6KNv2x346K9Dey0Lxi2Gul50x.jpg|level-1-demon-lord-and-one-room-hero|||
+Li'l Miss Vampire Can't Suck Right|https://image.tmdb.org/t/p/w500/4ldkUuEe5YqrJ6QwIxCFBSfv9wV.jpg|lil-miss-vampire-cant-suck-right|||
+Life Lessons with Uramichi Oniisan|https://image.tmdb.org/t/p/w500/eiBMrPIG8jokkcAwhKpwcAZG7gh.jpg|life-lessons-with-uramichi-oniisan|||
+Little Witch Academia|https://image.tmdb.org/t/p/w500/wRQgNzqjajITlHTLkrDEuS5rhVX.jpg|little-witch-academia|||
+Long Riders!|https://image.tmdb.org/t/p/w500/87rjTNDb3i9Czd8DyIMLmoLcgRS.jpg|long-riders|||
+Lookism|https://image.tmdb.org/t/p/w500/b4DjQI8jkQKrlyYly3iiUDYQo6n.jpg|lookism|||
+Love Lab|https://image.tmdb.org/t/p/w500/iDGK0HJl9dmCb80mQwidKhUiy4r.jpg|love-lab|||
+Love Live! Superstar!!|https://image.tmdb.org/t/p/w500/4KoXFWudJb389qH0EoAdRq8xtvs.jpg|love-live-superstar|||
+Love Tyrant|https://image.tmdb.org/t/p/w500/pxlPNY7MQh4HRJCFZvsA2KW2yZ9.jpg|love-tyrant|||
+Lucky Star|https://image.tmdb.org/t/p/w500/8p2HhNFKFi14Yl5DjSQ2Ex1SnKo.jpg|lucky-star|||
+Love and Lies|https://image.tmdb.org/t/p/w500/9ZqCOzYxoJngFKAx2Wu4UjUQ2YX.jpg|love-and-lies|||
+Life With an Ordinary Guy Who Reincarnated Into a Total Fantasy Knockout|https://image.tmdb.org/t/p/w500/8g9hBo48dLEKq88Mst0axux1pIS.jpg|life-with-an-ordinary-guy-who-reincarnated-into-a-total-fantasy-knockout|||
+Listen to Me, Girls. I'm Your Father!|https://image.tmdb.org/t/p/w500/A7rO8bP6a24h2S2eGnfHk6QQSux.jpg|listen-to-me-girls-im-your-father|||
+Love After World Domination|https://image.tmdb.org/t/p/w500/8QKM7fWxRSoDfljnUUdgTXDxMHM.jpg|love-after-world-domination|||
+LOVE FLOPS|https://image.tmdb.org/t/p/w500/oCxUN465HVHhLwqRFd30hwqCjrs.jpg|love-flops|||
+Love Hina|https://image.tmdb.org/t/p/w500/iRY2uBOJp1JJTGkwwp9vIt98KfN.jpg|love-hina|||
+Love Is Indivisible by Twins|https://image.tmdb.org/t/p/w500/47ZcjTx6bebpOE16r4mblPLJmSA.jpg|love-is-indivisible-by-twins|||
+Love is Like a Cocktail|https://image.tmdb.org/t/p/w500/aKou5JGxvVY5fdHbVNbhjyhUG97.jpg|love-is-like-a-cocktail|||
+LOVE STAGE!!|https://image.tmdb.org/t/p/w500/drudqRieOKYqv66EISTSpT1v1t4.jpg|love-stage|||
+Love, Chunibyo & Other Delusions|https://image.tmdb.org/t/p/w500/3K20upYT0fyGUEVbOPQgxN5FSFU.jpg|love-chunibyo-other-delusions|||
+Lovely Complex|https://image.tmdb.org/t/p/w500/upz1NpOpWo4coEicGFKb2VwWhmV.jpg|lovely-complex|||
+Let's Play|https://image.tmdb.org/t/p/w500/ohEVj2YPIyIJxuT9uw6r4eDMD5Q.jpg|lets-play|||
 Love Me, Love Me Not||love-me-love-me-not|||
-Leviathan||leviathan|||
+Leviathan|https://image.tmdb.org/t/p/w500/dSo7tUQQ4gneagQ43DfL9t37CKj.jpg|leviathan|||

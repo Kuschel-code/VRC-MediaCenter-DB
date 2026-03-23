@@ -1,67 +1,67 @@
-Fairies Albums||fairies-albums|||
-Fantasia Sango Realm of Legends||fantasia-sango-realm-of-legends|||
-Fena: Pirate Princess||fena-pirate-princess|||
-Flip Flappers||flip-flappers|||
-Fluffy Paradise||fluffy-paradise|||
-Frieren: Beyond Journey's End||frieren-beyond-journeys-end|||
-Fullmetal Alchemist||fullmetal-alchemist|||
-Fullmetal Alchemist: Brotherhood||fullmetal-alchemist-brotherhood|||
-Future Folktales||future-folktales|||
-Fairy Ranmaru||fairy-ranmaru|||
-Farmagia||farmagia|||
-Fate/strange Fake||fatestrange-fake|||
-Fight League: Gear Gadget Generators||fight-league-gear-gadget-generators|||
-Fire Force||fire-force|||
-Firefighter Daigo: Rescuer in Orange||firefighter-daigo-rescuer-in-orange|||
+Fairies Albums|https://image.tmdb.org/t/p/w500/7HHs4FTmOELs5JruIAfQ6Udyc2P.jpg|fairies-albums|||
+Fantasia Sango Realm of Legends|https://image.tmdb.org/t/p/w500/eCHFmXtjGpsJw1XHPhBvbDGLB6K.jpg|fantasia-sango-realm-of-legends|||
+Fena: Pirate Princess|https://image.tmdb.org/t/p/w500/49ZnZEHVVXOMyiICCpCMDxWc0ku.jpg|fena-pirate-princess|||
+Flip Flappers|https://image.tmdb.org/t/p/w500/jD8H9RsRQB5ITSjoTB3jLhbf8eo.jpg|flip-flappers|||
+Fluffy Paradise|https://image.tmdb.org/t/p/w500/tDvb4SRltQLs1hkKe5WYQmpi6gJ.jpg|fluffy-paradise|||
+Frieren: Beyond Journey's End|https://image.tmdb.org/t/p/w500/k1YVj5fGW1oKjZ19oy0PcphKXlj.jpg|frieren-beyond-journeys-end|||
+Fullmetal Alchemist|https://image.tmdb.org/t/p/w500/vIkH7fUQf8Olo8Apq56FQLGDXOo.jpg|fullmetal-alchemist|||
+Fullmetal Alchemist: Brotherhood|https://image.tmdb.org/t/p/w500/vIkH7fUQf8Olo8Apq56FQLGDXOo.jpg|fullmetal-alchemist-brotherhood|||
+Future Folktales|https://image.tmdb.org/t/p/w500/4gZvR6N7KCzVR8s0P6E2R8hDSrr.jpg|future-folktales|||
+Fairy Ranmaru|https://image.tmdb.org/t/p/w500/hBezq7a83SHmRcJCeB0pun06BQp.jpg|fairy-ranmaru|||
+Farmagia|https://image.tmdb.org/t/p/w500/9b3WxClXnOud4JwHeWttX0sHOJV.jpg|farmagia|||
+Fate/strange Fake|https://image.tmdb.org/t/p/w500/lBsBJIGYV7c1Yizva8LpZhghY4j.jpg|fatestrange-fake|||
+Fight League: Gear Gadget Generators|https://image.tmdb.org/t/p/w500/6VKi7ZUKawEQLT5gcN52iA6MTnt.jpg|fight-league-gear-gadget-generators|||
+Fire Force|https://image.tmdb.org/t/p/w500/qDNgM4STqdzl4IBMyqCVMIr6uUV.jpg|fire-force|||
+Firefighter Daigo: Rescuer in Orange|https://image.tmdb.org/t/p/w500/cYJpxiCmEdbRhTxOffGdkduV9DK.jpg|firefighter-daigo-rescuer-in-orange|||
 First Squad: The Moment of Truth||first-squad-the-moment-of-truth|||
-Fist of the North Star||fist-of-the-north-star|||
-Fox Spirit Matchmaker||fox-spirit-matchmaker|||
-Freezing||freezing|||
-Full Metal Panic!||full-metal-panic|||
-Fuuto PI||fuuto-pi|||
-Failure Frame: I Became the Strongest and Annihilated Everything With Low-Level Spells||failure-frame-i-became-the-strongest-and-annihilated-everything-with-low-level-spells|||
-Fairy Gone||fairy-gone|||
-Fate/Apocrypha||fateapocrypha|||
-Fate/EXTRA Last Encore||fateextra-last-encore|||
-Fate/Grand Order Absolute Demonic Front: Babylonia||fategrand-order-absolute-demonic-front-babylonia|||
+Fist of the North Star|https://image.tmdb.org/t/p/w500/43PXSqoAGADv33IwnBpY9xzC0rQ.jpg|fist-of-the-north-star|||
+Fox Spirit Matchmaker|https://image.tmdb.org/t/p/w500/5Ud02XCc1zuyu3vm4zhnSYRGhdH.jpg|fox-spirit-matchmaker|||
+Freezing|https://image.tmdb.org/t/p/w500/z2K1mgkczE6dVyZsIXcrJj3sZ05.jpg|freezing|||
+Full Metal Panic!|https://image.tmdb.org/t/p/w500/yBKI75uzUbtkL2gmNxl39uv5jvm.jpg|full-metal-panic|||
+Fuuto PI|https://image.tmdb.org/t/p/w500/41aC6J2oKla7YkIQ3fbj9VX1eUS.jpg|fuuto-pi|||
+Failure Frame: I Became the Strongest and Annihilated Everything With Low-Level Spells|https://image.tmdb.org/t/p/w500/9kGH4vpzZMSONC8db29Tj7HySr1.jpg|failure-frame-i-became-the-strongest-and-annihilated-everything-with-low-level-spells|||
+Fairy Gone|https://image.tmdb.org/t/p/w500/fBL4U2Shyu4nfPQ30ieGfjyazlm.jpg|fairy-gone|||
+Fate/Apocrypha|https://image.tmdb.org/t/p/w500/pCZbePoLGSPj6mKvqQqOCEGFpVc.jpg|fateapocrypha|||
+Fate/EXTRA Last Encore|https://image.tmdb.org/t/p/w500/5qveZHKo8RatUbZDzgGG9QEj558.jpg|fateextra-last-encore|||
+Fate/Grand Order Absolute Demonic Front: Babylonia|https://image.tmdb.org/t/p/w500/mxtX9hi6zCe5PQubdbtECeHPR7A.jpg|fategrand-order-absolute-demonic-front-babylonia|||
 Fate/Grand Order: First Order||fategrand-order-first-order|||
-Fate/Stay Night||fatestay-night|||
+Fate/Stay Night|https://image.tmdb.org/t/p/w500/mLTo9o8q970F4fyvRUMVkTIYxBm.jpg|fatestay-night|||
 Fate/stay night (Heaven's Feel) I. presage flower||fatestay-night-heavens-feel-i-presage-flower|||
 Fate/stay night (Heaven's Feel) II. lost butterfly||fatestay-night-heavens-feel-ii-lost-butterfly|||
 Fate/stay night (Heaven's Feel) III. spring song||fatestay-night-heavens-feel-iii-spring-song|||
-Fate/Stay Night: Unlimited Blade Works||fatestay-night-unlimited-blade-works|||
-Fate/Zero||fatezero|||
+Fate/Stay Night: Unlimited Blade Works|https://image.tmdb.org/t/p/w500/jyqi5BkDoKKIA2WAoz3HBtRHld3.jpg|fatestay-night-unlimited-blade-works|||
+Fate/Zero|https://image.tmdb.org/t/p/w500/hfTEDISVpFMqmp6uOGylsSakyXZ.jpg|fatezero|||
 For Whom the Alchemist Exists||for-whom-the-alchemist-exists|||
-Fate/Kaleid Liner Prisma Illya||fatekaleid-liner-prisma-illya|||
-From Old Country Bumpkin to Master Swordsman||from-old-country-bumpkin-to-master-swordsman|||
-Fermat Kitchen||fermat-kitchen|||
-Food for the Soul||food-for-the-soul|||
-Frankenstein Family||frankenstein-family|||
+Fate/Kaleid Liner Prisma Illya|https://image.tmdb.org/t/p/w500/soKOltXvbGY5HRpWqTj0LceIJuW.jpg|fatekaleid-liner-prisma-illya|||
+From Old Country Bumpkin to Master Swordsman|https://image.tmdb.org/t/p/w500/nYRhlkfRyNzyQwmdUbuIevzWVej.jpg|from-old-country-bumpkin-to-master-swordsman|||
+Fermat Kitchen|https://image.tmdb.org/t/p/w500/A8k5mUDfLX0eEEzcYflontbCAUt.jpg|fermat-kitchen|||
+Food for the Soul|https://image.tmdb.org/t/p/w500/2qMKqWsHGIHRTswQH3hXJlmRTJa.jpg|food-for-the-soul|||
+Frankenstein Family|https://image.tmdb.org/t/p/w500/ue72revk27X4RWIEHgrRVsPiffy.jpg|frankenstein-family|||
 From up on Poppy Hill||from-up-on-poppy-hill|||
-Fireworks||fireworks|||
-Flower and Asura||flower-and-asura|||
-Flowers of Evil||flowers-of-evil|||
-Forest of Piano||forest-of-piano|||
-From the New World||from-the-new-world|||
-Full Moon||full-moon|||
-From Bureaucrat to Villainess: Dad's Been Reincarnated!||from-bureaucrat-to-villainess-dads-been-reincarnated|||
-Fairy Tail||fairy-tail|||
-Fanfare of Adolescence||fanfare-of-adolescence|||
-Farewell, My Dear Cramer||farewell-my-dear-cramer|||
-Fighting Spirit||fighting-spirit|||
-Food Wars! Shokugeki no Sōma||food-wars-shokugeki-no-sma|||
-Free!||free|||
-Futsal Boys||futsal-boys|||
-Farming Life in Another World||farming-life-in-another-world|||
-Flying Witch||flying-witch|||
-Full Dive: This Ultimate Next-Gen Full Dive RPG Is Even Shittier than Real Life!||full-dive-this-ultimate-next-gen-full-dive-rpg-is-even-shittier-than-real-life|||
-Full Metal Panic? Fumoffu||full-metal-panic-fumoffu|||
+Fireworks|https://image.tmdb.org/t/p/w500/luXbvywZ5FgMtOBGgXwKzU2aDRj.jpg|fireworks|||
+Flower and Asura|https://image.tmdb.org/t/p/w500/2Y03i4RjGxrOhy2a65UVrPZa8Zz.jpg|flower-and-asura|||
+Flowers of Evil|https://image.tmdb.org/t/p/w500/vezXsjxymR07IzatIV1C2F20FQH.jpg|flowers-of-evil|||
+Forest of Piano|https://image.tmdb.org/t/p/w500/aP95sip6J0JkwC5DS2uWDzl2VyM.jpg|forest-of-piano|||
+From the New World|https://image.tmdb.org/t/p/w500/24oILAH1MeU2MjUqTaUyYZeG3GT.jpg|from-the-new-world|||
+Full Moon|https://image.tmdb.org/t/p/w500/AecYTAKiDXj8z2Sa1ccD5LDtzGm.jpg|full-moon|||
+From Bureaucrat to Villainess: Dad's Been Reincarnated!|https://image.tmdb.org/t/p/w500/byRY71SZ76krFFkm273IeSTBmA.jpg|from-bureaucrat-to-villainess-dads-been-reincarnated|||
+Fairy Tail|https://image.tmdb.org/t/p/w500/iuRJ2QRRNMIu2VdEIuLIaJvt1PZ.jpg|fairy-tail|||
+Fanfare of Adolescence|https://image.tmdb.org/t/p/w500/lwemAReugVfFG1N61CdVOZacQf6.jpg|fanfare-of-adolescence|||
+Farewell, My Dear Cramer|https://image.tmdb.org/t/p/w500/jMpjStc5RgDu2AmFHyPOfL2pCq5.jpg|farewell-my-dear-cramer|||
+Fighting Spirit|https://image.tmdb.org/t/p/w500/vcIYlKjyJWh6RLVkZnnHMMuBpAI.jpg|fighting-spirit|||
+Food Wars! Shokugeki no Sōma|https://image.tmdb.org/t/p/w500/3oSeChFJVlZXspPyBhNpb7q4S5k.jpg|food-wars-shokugeki-no-sma|||
+Free!|https://image.tmdb.org/t/p/w500/owoZ7XlWMqnahtkIaQjWXPIHt3U.jpg|free|||
+Futsal Boys|https://image.tmdb.org/t/p/w500/q5xQuacTBVqtW8FWfnbNhSqdEp5.jpg|futsal-boys|||
+Farming Life in Another World|https://image.tmdb.org/t/p/w500/mE4pE6NOV3AbvTUE3MkFMlfs12n.jpg|farming-life-in-another-world|||
+Flying Witch|https://image.tmdb.org/t/p/w500/1fU9uaXlyZfQSQKhk35cFiRQf2P.jpg|flying-witch|||
+Full Dive: This Ultimate Next-Gen Full Dive RPG Is Even Shittier than Real Life!|https://image.tmdb.org/t/p/w500/cfcYACAPhL9fcPboZR1ctEqJrKQ.jpg|full-dive-this-ultimate-next-gen-full-dive-rpg-is-even-shittier-than-real-life|||
+Full Metal Panic? Fumoffu|https://image.tmdb.org/t/p/w500/yBKI75uzUbtkL2gmNxl39uv5jvm.jpg|full-metal-panic-fumoffu|||
 Flavors of Youth: Love in Shanghai||flavors-of-youth-love-in-shanghai|||
-First Love Monster||first-love-monster|||
-FLCL||flcl|||
-Fortune Arterial||fortune-arterial|||
-Fruits Basket||fruits-basket|||
+First Love Monster|https://image.tmdb.org/t/p/w500/wtUVq21XSiYhgc7ahhi8uos4ojI.jpg|first-love-monster|||
+FLCL|https://image.tmdb.org/t/p/w500/om2H6f3Wevjxs11yvVOi4RSoJW4.jpg|flcl|||
+Fortune Arterial|https://image.tmdb.org/t/p/w500/ici87mHxzdb7zHHAt7HzKtvX06g.jpg|fortune-arterial|||
+Fruits Basket|https://image.tmdb.org/t/p/w500/wVe8vcSqpJjLib5TWer6kgkGjjM.jpg|fruits-basket|||
 Fruits Basket (2001)||fruits-basket-2001|||
 Fragtime||fragtime|||
-Fuuka||fuuka|||
-Future Diary||future-diary|||
+Fuuka|https://image.tmdb.org/t/p/w500/hOlLCZCS20E2AxcmXxh8bAQWO0P.jpg|fuuka|||
+Future Diary|https://image.tmdb.org/t/p/w500/rasclNYrUJY6GnwnduktPM3Ce3c.jpg|future-diary|||

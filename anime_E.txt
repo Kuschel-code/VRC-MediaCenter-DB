@@ -1,30 +1,30 @@
-Earl and Fairy||earl-and-fairy|||
-Elemental Gelade||elemental-gelade|||
-Endride||endride|||
-Escaflowne||escaflowne|||
-Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest||even-given-the-worthless-appraiser-class-im-actually-the-strongest|||
-Estab Life: Great Escape||estab-life-great-escape|||
-Ex-Arm||ex-arm|||
-Elfen Lied||elfen-lied|||
-Ergo Proxy||ergo-proxy|||
-Eureka Seven||eureka-seven|||
-Extreme Hearts||extreme-hearts|||
-Eden||eden|||
-Endro!||endro|||
-Ef: A Tale of Melodies.||ef-a-tale-of-melodies|||
-Elegant Yokai Apartment Life||elegant-yokai-apartment-life|||
-Edens Zero||edens-zero|||
-Ensemble Stars!||ensemble-stars|||
-Eyeshield 21||eyeshield-21|||
-Exception||exception|||
-Easygoing Territory Defense by the Optimistic Lord||easygoing-territory-defense-by-the-optimistic-lord|||
-Encouragement of Climb||encouragement-of-climb|||
-Extra Olympia Kyklos||extra-olympia-kyklos|||
+Earl and Fairy|https://image.tmdb.org/t/p/w500/av2XyIgbjkXDlVk4LDAUj8LF84Z.jpg|earl-and-fairy|||
+Elemental Gelade|https://image.tmdb.org/t/p/w500/kSnHKVL9cig9wZ5UZ72iFTwIuKQ.jpg|elemental-gelade|||
+Endride|https://image.tmdb.org/t/p/w500/cSpUJIanHiLRZPoAXGqyxOrEJPE.jpg|endride|||
+Escaflowne|https://image.tmdb.org/t/p/w500/eVfaZ0g7BdepgVXdUSSImCw4JG4.jpg|escaflowne|||
+Even Given the Worthless “Appraiser” Class, I’m Actually the Strongest|https://image.tmdb.org/t/p/w500/iWQchD5iAc3Ou9zTQnPuNbLPsLB.jpg|even-given-the-worthless-appraiser-class-im-actually-the-strongest|||
+Estab Life: Great Escape|https://image.tmdb.org/t/p/w500/wRpMV2uEVBxFuZs92zZDaps1jDU.jpg|estab-life-great-escape|||
+Ex-Arm|https://image.tmdb.org/t/p/w500/7Akq7rwVfLx6yrtKIvCA23MMOQv.jpg|ex-arm|||
+Elfen Lied|https://image.tmdb.org/t/p/w500/3UnmNPTDMOThd8Oi9L2pEXqfO0D.jpg|elfen-lied|||
+Ergo Proxy|https://image.tmdb.org/t/p/w500/rObNchuE0AHF6KSsA5bVxpj2Lre.jpg|ergo-proxy|||
+Eureka Seven|https://image.tmdb.org/t/p/w500/fbdM3vtY29PkipKrBb6NuTw7VDt.jpg|eureka-seven|||
+Extreme Hearts|https://image.tmdb.org/t/p/w500/3SIytMEeYpjBa6a80XzPwdF1HCJ.jpg|extreme-hearts|||
+Eden|https://image.tmdb.org/t/p/w500/2sJPpcEd83mILobIlDG1Jexu9bj.jpg|eden|||
+Endro!|https://image.tmdb.org/t/p/w500/jY0tEG5m9U2IAhvmlxVm1QnAT87.jpg|endro|||
+Ef: A Tale of Melodies.|https://image.tmdb.org/t/p/w500/cx5A0on1ZXhdnJmOO08KcbXzKQj.jpg|ef-a-tale-of-melodies|||
+Elegant Yokai Apartment Life|https://image.tmdb.org/t/p/w500/burzxb0f8wwDAL9nzPa4BMlX7Id.jpg|elegant-yokai-apartment-life|||
+Edens Zero|https://image.tmdb.org/t/p/w500/2sJPpcEd83mILobIlDG1Jexu9bj.jpg|edens-zero|||
+Ensemble Stars!|https://image.tmdb.org/t/p/w500/vYhvuXLEYERKXbNcEV9HeZjEqv6.jpg|ensemble-stars|||
+Eyeshield 21|https://image.tmdb.org/t/p/w500/rzOdJXyvzyLeRum8B7MXeKFiGY7.jpg|eyeshield-21|||
+Exception|https://image.tmdb.org/t/p/w500/5i6brHMAczSKnR1tvGIMkjz1wft.jpg|exception|||
+Easygoing Territory Defense by the Optimistic Lord|https://image.tmdb.org/t/p/w500/27sQp8T5zwGICIKmxOn6XkK5UtD.jpg|easygoing-territory-defense-by-the-optimistic-lord|||
+Encouragement of Climb|https://image.tmdb.org/t/p/w500/r1L7E5dtfPr6RMuBL9FVskmRxGc.jpg|encouragement-of-climb|||
+Extra Olympia Kyklos|https://image.tmdb.org/t/p/w500/4OiABWqb2aX76jTP1jnRJuOp3lF.jpg|extra-olympia-kyklos|||
 Even If the World Ends Tomorrow||even-if-the-world-ends-tomorrow|||
-Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte||endo-and-kobayashi-live-the-latest-on-tsundere-villainess-lieselotte|||
-Engage Kiss||engage-kiss|||
-Engaged to the Unidentified||engaged-to-the-unidentified|||
-Eromanga Sensei||eromanga-sensei|||
-Eden of the East||eden-of-the-east|||
-Erased||erased|||
-Evil or Live||evil-or-live|||
+Endo and Kobayashi Live! The Latest on Tsundere Villainess Lieselotte|https://image.tmdb.org/t/p/w500/cXCPM1CfZ7q5yTpALRtFM7Hty9X.jpg|endo-and-kobayashi-live-the-latest-on-tsundere-villainess-lieselotte|||
+Engage Kiss|https://image.tmdb.org/t/p/w500/6Kicbd8AmHtqHOULNUw312V22bZ.jpg|engage-kiss|||
+Engaged to the Unidentified|https://image.tmdb.org/t/p/w500/8xmOS79Gn2KkHy9kMpYWzwfnM7P.jpg|engaged-to-the-unidentified|||
+Eromanga Sensei|https://image.tmdb.org/t/p/w500/fJZLob1SkfUQ7PXry6I345dIuVn.jpg|eromanga-sensei|||
+Eden of the East|https://image.tmdb.org/t/p/w500/sMUPkCG1Y1Z6dHcw7QOXuVsW6dr.jpg|eden-of-the-east|||
+Erased|https://image.tmdb.org/t/p/w500/rWGn0q9wWgqB5H3xkbKxf0teidL.jpg|erased|||
+Evil or Live|https://image.tmdb.org/t/p/w500/1HfCgRrbtJ0dAFeoE5yWuNAgJ61.jpg|evil-or-live|||

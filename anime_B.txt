@@ -1,150 +1,150 @@
-Baggy||baggy|||
-Beast Tamer||beast-tamer|||
-Blast of Tempest||blast-of-tempest|||
-Boarding School Juliet||boarding-school-juliet|||
-Bodacious Space Pirates||bodacious-space-pirates|||
-Bogus Skill „Fruitmaster“: About That Time I Became Able to Eat Unlimited Numbers of Skill Fruits (That Kill You)||bogus-skill-fruitmaster-about-that-time-i-became-able-to-eat-unlimited-numbers-of-skill-fruits-that-kill-you|||
+Baggy|https://image.tmdb.org/t/p/w500/hfjX8FnLora053fLJ2tEqN4kzsH.jpg|baggy|||
+Beast Tamer|https://image.tmdb.org/t/p/w500/zR4to7glpmL6nTBW0ZkrrKGtk5K.jpg|beast-tamer|||
+Blast of Tempest|https://image.tmdb.org/t/p/w500/d8QIJ5BnRoR45mGZjfT48u0wTZP.jpg|blast-of-tempest|||
+Boarding School Juliet|https://image.tmdb.org/t/p/w500/bgGMPgTtAPGq3OLRWYgsPYFFE7X.jpg|boarding-school-juliet|||
+Bodacious Space Pirates|https://image.tmdb.org/t/p/w500/zDvfKiNdUC3scwRK44pNLNO6BIN.jpg|bodacious-space-pirates|||
+Bogus Skill „Fruitmaster“: About That Time I Became Able to Eat Unlimited Numbers of Skill Fruits (That Kill You)|https://image.tmdb.org/t/p/w500/ctnnqBBZoJ3O3Mvo6leqYWxjGos.jpg|bogus-skill-fruitmaster-about-that-time-i-became-able-to-eat-unlimited-numbers-of-skill-fruits-that-kill-you|||
 Brave Story||brave-story|||
-Bubble||bubble|||
-Bungo and Alchemist: Gears of Judgement||bungo-and-alchemist-gears-of-judgement|||
-Bureau of Paranormal Investigation||bureau-of-paranormal-investigation|||
-By the Grace of the Gods||by-the-grace-of-the-gods|||
-Bye Bye, Earth||bye-bye-earth|||
-Baccano!||baccano|||
-Back Arrow||back-arrow|||
-Battle Angel Alita||battle-angel-alita|||
-Battle Game in 5 Seconds||battle-game-in-5-seconds|||
-Battle Girl High School||battle-girl-high-school|||
+Bubble|https://image.tmdb.org/t/p/w500/7wP2q18XCECnug8Imru0BA8Pk0K.jpg|bubble|||
+Bungo and Alchemist: Gears of Judgement|https://image.tmdb.org/t/p/w500/9Ve8Cqrr1ub5aiXGh6TjXdjz2db.jpg|bungo-and-alchemist-gears-of-judgement|||
+Bureau of Paranormal Investigation|https://image.tmdb.org/t/p/w500/qjCv7OiGYPAa6dGntKddGEUYqSC.jpg|bureau-of-paranormal-investigation|||
+By the Grace of the Gods|https://image.tmdb.org/t/p/w500/qorFmA7XengVd3UMYG2SJrxygCe.jpg|by-the-grace-of-the-gods|||
+Bye Bye, Earth|https://image.tmdb.org/t/p/w500/mPFow4Aw7Rq6n5qfpFUhZF3UKdl.jpg|bye-bye-earth|||
+Baccano!|https://image.tmdb.org/t/p/w500/qOxUTQAOTrMKTHuC9HQZiVsTK0F.jpg|baccano|||
+Back Arrow|https://image.tmdb.org/t/p/w500/q3kPnyoYbgKKaHjeAoEtrUIyAHI.jpg|back-arrow|||
+Battle Angel Alita|https://image.tmdb.org/t/p/w500/nfxiFHpISveKL4NSPrmDohOEh1Y.jpg|battle-angel-alita|||
+Battle Game in 5 Seconds|https://image.tmdb.org/t/p/w500/vSAEYOen3HnXGLl1qTFifLrBOXt.jpg|battle-game-in-5-seconds|||
+Battle Girl High School|https://image.tmdb.org/t/p/w500/vdngCetchUoxvBmWerIWu9UX8Kk.jpg|battle-girl-high-school|||
 Bayonetta: Bloody Fate||bayonetta-bloody-fate|||
-BEYBLADE X||beyblade-x|||
-Beyond the Boundary||beyond-the-boundary|||
-Big Order||big-order|||
-Black and White Warriors||black-and-white-warriors|||
-Black Bullet||black-bullet|||
-Black Lagoon||black-lagoon|||
-Black Rock Shooter: Dawn Fall||black-rock-shooter-dawn-fall|||
-Blade||blade|||
-Blade of the Immortal||blade-of-the-immortal|||
-Blade Runner: Black Lotus||blade-runner-black-lotus|||
-BlazBlue: Alter Memory||blazblue-alter-memory|||
-Blood Blockade Battlefront||blood-blockade-battlefront|||
-Blood of Zeus||blood-of-zeus|||
-Blood-C||blood-c|||
-Bloodivores||bloodivores|||
-Blue Archive: The Animation||blue-archive-the-animation|||
-Blue Exorcist||blue-exorcist|||
-Blue Submarine No. 6||blue-submarine-no-6|||
-BNA||bna|||
-Brave Bang Bravern!||brave-bang-bravern|||
+BEYBLADE X|https://image.tmdb.org/t/p/w500/66wkm14IWdrY5LaKZDAbkD2T9Jt.jpg|beyblade-x|||
+Beyond the Boundary|https://image.tmdb.org/t/p/w500/h99ADMiMZ6h7f8g4Y07WEgle7hT.jpg|beyond-the-boundary|||
+Big Order|https://image.tmdb.org/t/p/w500/q5EkN2qWh5WBY44gmDYu2PV0aVt.jpg|big-order|||
+Black and White Warriors|https://image.tmdb.org/t/p/w500/yEpEduKZBv4CrXtZ3jPwMRfPiPK.jpg|black-and-white-warriors|||
+Black Bullet|https://image.tmdb.org/t/p/w500/40VOiJkEVsF6cYeOtGE088VFwUw.jpg|black-bullet|||
+Black Lagoon|https://image.tmdb.org/t/p/w500/PTmMkCIMZ8m0Dc1FtEkVRZ12r3.jpg|black-lagoon|||
+Black Rock Shooter: Dawn Fall|https://image.tmdb.org/t/p/w500/x607kupq3V7rsIz2gakITqwElum.jpg|black-rock-shooter-dawn-fall|||
+Blade|https://image.tmdb.org/t/p/w500/jyqi5BkDoKKIA2WAoz3HBtRHld3.jpg|blade|||
+Blade of the Immortal|https://image.tmdb.org/t/p/w500/dx8PMM2cQSe4dmzLtj1sBkAIYHw.jpg|blade-of-the-immortal|||
+Blade Runner: Black Lotus|https://image.tmdb.org/t/p/w500/aR06SJRDGqRmGQYXAXqeOkRZq7T.jpg|blade-runner-black-lotus|||
+BlazBlue: Alter Memory|https://image.tmdb.org/t/p/w500/eWBtjYry9ZoCDFF8WBaPt0DokTI.jpg|blazblue-alter-memory|||
+Blood Blockade Battlefront|https://image.tmdb.org/t/p/w500/uOUn6sBwkUjD72e9uf4F6nVfBRv.jpg|blood-blockade-battlefront|||
+Blood of Zeus|https://image.tmdb.org/t/p/w500/zXRR5tgGLtKrRmuN4ko9SLAdCiZ.jpg|blood-of-zeus|||
+Blood-C|https://image.tmdb.org/t/p/w500/5Mn9uQf5mqZ4ZqsZoi7oCcQslUj.jpg|blood-c|||
+Bloodivores|https://image.tmdb.org/t/p/w500/1siA3Telvg03wk3JL4v5exnzQxa.jpg|bloodivores|||
+Blue Archive: The Animation|https://image.tmdb.org/t/p/w500/mQUHs5srrBG3VtQkMFjMHnje2TI.jpg|blue-archive-the-animation|||
+Blue Exorcist|https://image.tmdb.org/t/p/w500/8TTa91UMjuH3TUqB7dblTZzxSrj.jpg|blue-exorcist|||
+Blue Submarine No. 6|https://image.tmdb.org/t/p/w500/qwUSYOlyBZKiJncfSzKKT6valXy.jpg|blue-submarine-no-6|||
+BNA|https://image.tmdb.org/t/p/w500/57tccw2UNqgTPxK8fScYTQ1SLrS.jpg|bna|||
+Brave Bang Bravern!|https://image.tmdb.org/t/p/w500/4Tl5OoDqV9A0cQ8NWta55853xIP.jpg|brave-bang-bravern|||
 Bright: Samurai Soul||bright-samurai-soul|||
-Brotherhood - Final Fantasy XV||brotherhood-final-fantasy-xv|||
-Btooom!||btooom|||
-Buddy Complex||buddy-complex|||
-Buddy Daddies||buddy-daddies|||
-BUILD-DIVIDE -#000000- CODE BLACK||build-divide-000000-code-black|||
-BULLET/BULLET||bulletbullet|||
-Burn The Witch||burn-the-witch|||
-Burst Angel||burst-angel|||
-Banana Fish||banana-fish|||
-Basilisk||basilisk|||
-BEASTARS||beastars|||
-Beatless||beatless|||
-Berserk (1997)||berserk-1997|||
-Berserk (2016)||berserk|||
-Berserk of Gluttony||berserk-of-gluttony|||
-Black Butler||black-butler|||
-Black Fox||black-fox|||
-Blame!||blame|||
-Blassreiter||blassreiter|||
-Blood+||blood|||
-Blue Miburo||blue-miburo|||
-Broken Blade||broken-blade|||
-Brynhildr in the Darkness||brynhildr-in-the-darkness|||
-Bastard!! Heavy Metal, Dark Fantasy||bastard-heavy-metal-dark-fantasy|||
-Beelzebub||beelzebub|||
-Beheneko: The Elf-Girl's Cat is Secretly an S-Ranked Monster!||beheneko-the-elf-girls-cat-is-secretly-an-s-ranked-monster|||
-Bikini Warriors||bikini-warriors|||
-Black Cat||black-cat|||
-Black Summoner||black-summoner|||
-Blood Lad||blood-lad|||
-Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense||bofuri-i-dont-want-to-get-hurt-so-ill-max-out-my-defense|||
-Brave Witches||brave-witches|||
-Brave10||brave10|||
-Bungo Stray Dogs||bungo-stray-dogs|||
-Butlers × Battlers||butlers-battlers|||
-BanG Dream! It's MyGO!!!!!||bang-dream-its-mygo|||
-Baby, My Love||baby-my-love|||
-Bartender||bartender|||
-BARTENDER Glass of God||bartender-glass-of-god|||
-Black Jack||black-jack|||
-Blue Period||blue-period|||
-Babanba Banban Vampire||babanba-banban-vampire|||
-Babylon||babylon|||
-Backflip!!||backflip|||
-Barefoot Gen||barefoot-gen|||
-Belle||belle|||
-Bibliophile Princess||bibliophile-princess|||
+Brotherhood - Final Fantasy XV|https://image.tmdb.org/t/p/w500/oBnVTXHvlVXpfHE5Lp0tzNxMDwf.jpg|brotherhood-final-fantasy-xv|||
+Btooom!|https://image.tmdb.org/t/p/w500/bABnkUVzG9iUMIWJwt7RUt09XJ7.jpg|btooom|||
+Buddy Complex|https://image.tmdb.org/t/p/w500/kUuxI7OucnPRNxT5YI7IGqAgKcQ.jpg|buddy-complex|||
+Buddy Daddies|https://image.tmdb.org/t/p/w500/qjRWZ1Ak9Ag6EvcA5LNhphqX8oV.jpg|buddy-daddies|||
+BUILD-DIVIDE -#000000- CODE BLACK|https://image.tmdb.org/t/p/w500/pbBCMwz4fsah7zON2qEkUvmgaZ3.jpg|build-divide-000000-code-black|||
+BULLET/BULLET|https://image.tmdb.org/t/p/w500/iHhC0D1B9IhD8beyMedHPUiakVK.jpg|bulletbullet|||
+Burn The Witch|https://image.tmdb.org/t/p/w500/ipeab4BmCkSOoubAWi2mt4e5i97.jpg|burn-the-witch|||
+Burst Angel|https://image.tmdb.org/t/p/w500/7mvPoVJ81ZM6tNoszc4lFMN5cMe.jpg|burst-angel|||
+Banana Fish|https://image.tmdb.org/t/p/w500/3GiB5Ybbhzt0ePRR2zgld9R56DB.jpg|banana-fish|||
+Basilisk|https://image.tmdb.org/t/p/w500/dHW4ZNEZDpUmkd8MOoGVnXkaNER.jpg|basilisk|||
+BEASTARS|https://image.tmdb.org/t/p/w500/fSIsY78Kd07uD4fNIH0obxWxoGB.jpg|beastars|||
+Beatless|https://image.tmdb.org/t/p/w500/2PtN9nZJYEXiklRe1T5DxwIKED9.jpg|beatless|||
+Berserk (1997)|https://image.tmdb.org/t/p/w500/9uoJ0PmfV72h3gc1xDJ7ghvuIIz.jpg|berserk-1997|||
+Berserk (2016)|https://image.tmdb.org/t/p/w500/jptkb9j1A1qVIB7XDH7xSFrkFzD.jpg|berserk|||
+Berserk of Gluttony|https://image.tmdb.org/t/p/w500/p5rtHwieByHo1NdzOxB3vtVJJnA.jpg|berserk-of-gluttony|||
+Black Butler|https://image.tmdb.org/t/p/w500/tfjvfipG4FoKOeG3rpDuGWIvx4k.jpg|black-butler|||
+Black Fox|https://image.tmdb.org/t/p/w500/vtil3nCEymiJ4ALsXxurh66BBgi.jpg|black-fox|||
+Blame!|https://image.tmdb.org/t/p/w500/tHpNtvBTVCrtnVUDXTP6SQXvUS9.jpg|blame|||
+Blassreiter|https://image.tmdb.org/t/p/w500/9OONCbZKgbiAcBRQ7JuPEvuQUI.jpg|blassreiter|||
+Blood+|https://image.tmdb.org/t/p/w500/xEYHiTendd99os39wTL3NLJAS2q.jpg|blood|||
+Blue Miburo|https://image.tmdb.org/t/p/w500/rADnozoUIkrJKBD1CMBPnOBWoqh.jpg|blue-miburo|||
+Broken Blade|https://image.tmdb.org/t/p/w500/nNYgJLG64F6CjrFmsjldHaK33Ex.jpg|broken-blade|||
+Brynhildr in the Darkness|https://image.tmdb.org/t/p/w500/sh8EfDdjR6y1tbICREFtwbtPyIA.jpg|brynhildr-in-the-darkness|||
+Bastard!! Heavy Metal, Dark Fantasy|https://image.tmdb.org/t/p/w500/g9Txn5XXCf2DgpKuEIFOb4z12Ms.jpg|bastard-heavy-metal-dark-fantasy|||
+Beelzebub|https://image.tmdb.org/t/p/w500/4NJPI4q4EeuGZJRKj3zZX8249ds.jpg|beelzebub|||
+Beheneko: The Elf-Girl's Cat is Secretly an S-Ranked Monster!|https://image.tmdb.org/t/p/w500/scznNXCiOckibSG5wIxfAEfP6CH.jpg|beheneko-the-elf-girls-cat-is-secretly-an-s-ranked-monster|||
+Bikini Warriors|https://image.tmdb.org/t/p/w500/x3Cqimi0eXWGVH5PEkZbZLuMYgI.jpg|bikini-warriors|||
+Black Cat|https://image.tmdb.org/t/p/w500/hCthQWb3xojDhgsm1c9LJVS0zbl.jpg|black-cat|||
+Black Summoner|https://image.tmdb.org/t/p/w500/7Tz42T9L9zjM6u0rqPQicmYQmH6.jpg|black-summoner|||
+Blood Lad|https://image.tmdb.org/t/p/w500/2JmtUtysPQnSpZTpvlZ1rVsnStm.jpg|blood-lad|||
+Bofuri: I Don't Want to Get Hurt, so I'll Max Out My Defense|https://image.tmdb.org/t/p/w500/33t9rt31ZKzi97VE9wjEd0whKHq.jpg|bofuri-i-dont-want-to-get-hurt-so-ill-max-out-my-defense|||
+Brave Witches|https://image.tmdb.org/t/p/w500/6Ew3lcSFyrITOvgsaYPXWSaECKg.jpg|brave-witches|||
+Brave10|https://image.tmdb.org/t/p/w500/r2YEvFQfCOMlFteOiGMC3yTfDI5.jpg|brave10|||
+Bungo Stray Dogs|https://image.tmdb.org/t/p/w500/4WlY8Wflsa4ySLxwQzBSLORBQPy.jpg|bungo-stray-dogs|||
+Butlers × Battlers|https://image.tmdb.org/t/p/w500/VKdYEpfoEUQ5bDvX957SwV9Dx2.jpg|butlers-battlers|||
+BanG Dream! It's MyGO!!!!!|https://image.tmdb.org/t/p/w500/rV5YhLd0J1nf0DYUCTKQegAjYLw.jpg|bang-dream-its-mygo|||
+Baby, My Love|https://image.tmdb.org/t/p/w500/4Ph4ANSk0TDHp8JCGnocf8xdBiH.jpg|baby-my-love|||
+Bartender|https://image.tmdb.org/t/p/w500/9GKw0yE8TNW8Gme4FOvvNdx0bnn.jpg|bartender|||
+BARTENDER Glass of God|https://image.tmdb.org/t/p/w500/9GKw0yE8TNW8Gme4FOvvNdx0bnn.jpg|bartender-glass-of-god|||
+Black Jack|https://image.tmdb.org/t/p/w500/lZKbi7Q2AimoJ7Ncpq3oituxjOB.jpg|black-jack|||
+Blue Period|https://image.tmdb.org/t/p/w500/uUkcPV1tPxloYShhNiKxqyHuXmK.jpg|blue-period|||
+Babanba Banban Vampire|https://image.tmdb.org/t/p/w500/eHO3t7hLXmvD39m553Pgp8YTgEB.jpg|babanba-banban-vampire|||
+Babylon|https://image.tmdb.org/t/p/w500/y5BDBMC1EZ0JwEiglbyz6jT0p6l.jpg|babylon|||
+Backflip!!|https://image.tmdb.org/t/p/w500/x8OolzKIDb5coJgGjVCQabtpMY7.jpg|backflip|||
+Barefoot Gen|https://image.tmdb.org/t/p/w500/gkEtHT3vdVbl5uIoLu5QcOC6nBi.jpg|barefoot-gen|||
+Belle|https://image.tmdb.org/t/p/w500/jmU8HlTDn87xmRqXagcL2swDr8I.jpg|belle|||
+Bibliophile Princess|https://image.tmdb.org/t/p/w500/XZLV3LnpcMIO41dkAPF8AbutWe.jpg|bibliophile-princess|||
 Big Fish & Begonia||big-fish-begonia|||
-Black Rock Shooter||black-rock-shooter|||
-Blue Lock||blue-lock|||
-Blue Orchestra||blue-orchestra|||
-Blue Reflection Ray||blue-reflection-ray|||
+Black Rock Shooter|https://image.tmdb.org/t/p/w500/x607kupq3V7rsIz2gakITqwElum.jpg|black-rock-shooter|||
+Blue Lock|https://image.tmdb.org/t/p/w500/9aICTTHECyRwB2pBHm3rAj1SgGg.jpg|blue-lock|||
+Blue Orchestra|https://image.tmdb.org/t/p/w500/wB3tZ1vRuPa1vvOsd70xhthYKD8.jpg|blue-orchestra|||
+Blue Reflection Ray|https://image.tmdb.org/t/p/w500/t0w10nKiLAqlwp0Vb7mMxGqyJm9.jpg|blue-reflection-ray|||
 Blue Thermal||blue-thermal|||
-Bokurano||bokurano|||
-Butareba -The Story of a Man Turned into a Pig-||butareba-the-story-of-a-man-turned-into-a-pig|||
-Baki||baki|||
+Bokurano|https://image.tmdb.org/t/p/w500/t3IShrqdzq51vxfeDCEa3jUXVRv.jpg|bokurano|||
+Butareba -The Story of a Man Turned into a Pig-|https://image.tmdb.org/t/p/w500/pMYfvz5SLkiwqdTKiXBwqNgzCvE.jpg|butareba-the-story-of-a-man-turned-into-a-pig|||
+Baki|https://image.tmdb.org/t/p/w500/wViuuy27uauEs3A8Vn69Q43MFAQ.jpg|baki|||
 Baki (2001)||baki-2001|||
-Black Clover||black-clover|||
-Bleach||bleach|||
-Blue Dragon||blue-dragon|||
-Boruto: Naruto Next Generations||boruto-naruto-next-generations|||
-Bubuki Buranki||bubuki-buranki|||
-Buso Renkin||buso-renkin|||
-B-Project||b-project|||
-Baby Steps||baby-steps|||
-Bakugan Battle Brawlers||bakugan-battle-brawlers|||
-Bakugan Battle Planet||bakugan-battle-planet|||
-Bakuman.||bakuman|||
-Beck: Mongolian Chop Squad||beck-mongolian-chop-squad|||
-Beyblade||beyblade|||
-Beyblade Burst||beyblade-burst|||
-Beyblade Burst QuadDrive||beyblade-burst-quaddrive|||
-Beyblade Burst Rise||beyblade-burst-rise|||
-Beyblade Burst Surge||beyblade-burst-surge|||
-Beyblade Burst Turbo||beyblade-burst-turbo|||
-Beyblade: Metal Fusion||beyblade-metal-fusion|||
-BIRDIE WING -Golf Girls' Story-||birdie-wing-golf-girls-story|||
-Burning Kabaddi||burning-kabaddi|||
-BEM||bem|||
-Boogiepop and Others||boogiepop-and-others|||
-Boogiepop Phantom||boogiepop-phantom|||
+Black Clover|https://image.tmdb.org/t/p/w500/p3rUhlE81nWxPqpPR8F2u7a01Tl.jpg|black-clover|||
+Bleach|https://image.tmdb.org/t/p/w500/e0kKmeM8R7Kersh5N2PPzIRNRhr.jpg|bleach|||
+Blue Dragon|https://image.tmdb.org/t/p/w500/fI5npStCAoL34YO67h3oATYj2EF.jpg|blue-dragon|||
+Boruto: Naruto Next Generations|https://image.tmdb.org/t/p/w500/n4OLeeHqP4tpdvDxiloV65N6M5h.jpg|boruto-naruto-next-generations|||
+Bubuki Buranki|https://image.tmdb.org/t/p/w500/zVjFhC43B3hklP83JgC4vxhhI0X.jpg|bubuki-buranki|||
+Buso Renkin|https://image.tmdb.org/t/p/w500/dx4wVPrb5mHfbD9W98KmXJQFBV4.jpg|buso-renkin|||
+B-Project|https://image.tmdb.org/t/p/w500/2GuZ8IRVYXkepzYZGz3kBsmr5ot.jpg|b-project|||
+Baby Steps|https://image.tmdb.org/t/p/w500/dVXgyHizeUbL1RdyKd58WjVGrNv.jpg|baby-steps|||
+Bakugan Battle Brawlers|https://image.tmdb.org/t/p/w500/wAqs4kdvCUNlzF9NK4OEV7WheHP.jpg|bakugan-battle-brawlers|||
+Bakugan Battle Planet|https://image.tmdb.org/t/p/w500/lg6QqCdvZOZM7EWf9zFJL12EsKv.jpg|bakugan-battle-planet|||
+Bakuman.|https://image.tmdb.org/t/p/w500/fAVxZaCS4j93ebPIpGwTMLLpjOZ.jpg|bakuman|||
+Beck: Mongolian Chop Squad|https://image.tmdb.org/t/p/w500/tZ3oKqwaeX2v9j6hSNhX4vPjP4c.jpg|beck-mongolian-chop-squad|||
+Beyblade|https://image.tmdb.org/t/p/w500/8WWTb5sVADcxar0RXUJRE4XBB5L.jpg|beyblade|||
+Beyblade Burst|https://image.tmdb.org/t/p/w500/fG7BHxDlntPyB57UuNo9sXmAmLV.jpg|beyblade-burst|||
+Beyblade Burst QuadDrive|https://image.tmdb.org/t/p/w500/fG7BHxDlntPyB57UuNo9sXmAmLV.jpg|beyblade-burst-quaddrive|||
+Beyblade Burst Rise|https://image.tmdb.org/t/p/w500/fG7BHxDlntPyB57UuNo9sXmAmLV.jpg|beyblade-burst-rise|||
+Beyblade Burst Surge|https://image.tmdb.org/t/p/w500/fG7BHxDlntPyB57UuNo9sXmAmLV.jpg|beyblade-burst-surge|||
+Beyblade Burst Turbo|https://image.tmdb.org/t/p/w500/fG7BHxDlntPyB57UuNo9sXmAmLV.jpg|beyblade-burst-turbo|||
+Beyblade: Metal Fusion|https://image.tmdb.org/t/p/w500/8WWTb5sVADcxar0RXUJRE4XBB5L.jpg|beyblade-metal-fusion|||
+BIRDIE WING -Golf Girls' Story-|https://image.tmdb.org/t/p/w500/ey4pyW8RVAvoh2Zxs2xj5h0z66e.jpg|birdie-wing-golf-girls-story|||
+Burning Kabaddi|https://image.tmdb.org/t/p/w500/dQ54BKvJBtVlR7yyKj7dcrUMmuS.jpg|burning-kabaddi|||
+BEM|https://image.tmdb.org/t/p/w500/fUd4ejJ1LkqaSaHItHwXE4HVrGy.jpg|bem|||
+Boogiepop and Others|https://image.tmdb.org/t/p/w500/sNDK1G3wD0NTFkd3VwQVvpDg0GL.jpg|boogiepop-and-others|||
+Boogiepop Phantom|https://image.tmdb.org/t/p/w500/rkJsGLs0LGMtvzy7SJgLhtGwLoM.jpg|boogiepop-phantom|||
 Baby Princess 3D Paradise 0||baby-princess-3d-paradise-0|||
-Back Street Girls: Gokudols||back-street-girls-gokudols|||
-Bad Girl||bad-girl|||
-Bagel Girl||bagel-girl|||
-Bakuon!!||bakuon|||
-Bananya||bananya|||
-Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside||banished-from-the-heros-party-i-decided-to-live-a-quiet-life-in-the-countryside|||
-Barakamon||barakamon|||
-Battle Athletes Victory Restart||battle-athletes-victory-restart|||
-Ben-To||ben-to|||
-Blend-S||blend-s|||
-Bocchi the Rock!||bocchi-the-rock|||
-BUCCHIGIRI?!||bucchigiri|||
-Bungo Stray Dogs Wan!||bungo-stray-dogs-wan|||
-B: The Beginning||b-the-beginning|||
-Beautiful Bones - Sakurako's Investigation||beautiful-bones-sakurakos-investigation|||
-Bloom Into You||bloom-into-you|||
-Blue Spring Ride||blue-spring-ride|||
-Bokura ga Ita||bokura-ga-ita|||
-BULLBUSTER||bullbuster|||
-Bludgeoning Angel Dokuro-Chan||bludgeoning-angel-dokuro-chan|||
-Bobobo-bo Bo-bobo||bobobo-bo-bo-bobo|||
-Baka and Test: Summon the Beasts||baka-and-test-summon-the-beasts|||
-Bladedance of Elementalers||bladedance-of-elementalers|||
-Bottom-Tier Character Tomozaki||bottom-tier-character-tomozaki|||
-Betrothed to My Sister's Ex||betrothed-to-my-sisters-ex|||
-Blue Box||blue-box|||
-Bonjour: Sweet Love Patisserie||bonjour-sweet-love-patisserie|||
-Brothers Conflict||brothers-conflict|||
-B King||b-king|||
+Back Street Girls: Gokudols|https://image.tmdb.org/t/p/w500/kEdDC69YO2Jdau9prfYmJIFFJJ9.jpg|back-street-girls-gokudols|||
+Bad Girl|https://image.tmdb.org/t/p/w500/ovE3txsuLdvpIPWpG4WodlkWXGi.jpg|bad-girl|||
+Bagel Girl|https://image.tmdb.org/t/p/w500/drPIJqMh8SNkkJJi9gIpU3AS1p5.jpg|bagel-girl|||
+Bakuon!!|https://image.tmdb.org/t/p/w500/4rcmdpZNN7lVKC1YBJR6F4HvuQp.jpg|bakuon|||
+Bananya|https://image.tmdb.org/t/p/w500/f49Ps67aCayBAYnt8YJy2gkqjlq.jpg|bananya|||
+Banished from the Hero's Party, I Decided to Live a Quiet Life in the Countryside|https://image.tmdb.org/t/p/w500/mgYMsOsFrQ9Q5NjlQwKRWu0K3uM.jpg|banished-from-the-heros-party-i-decided-to-live-a-quiet-life-in-the-countryside|||
+Barakamon|https://image.tmdb.org/t/p/w500/6V0Ko7e1KWoW9v82t6acQ04iMrZ.jpg|barakamon|||
+Battle Athletes Victory Restart|https://image.tmdb.org/t/p/w500/tBiNZ4WXiN0AiaovmKLaYhtL40f.jpg|battle-athletes-victory-restart|||
+Ben-To|https://image.tmdb.org/t/p/w500/e9xpu2aYuAbqLuVykBQ4yagV4dj.jpg|ben-to|||
+Blend-S|https://image.tmdb.org/t/p/w500/slrd0u0lHoQlTTpy7U0A62iWGxB.jpg|blend-s|||
+Bocchi the Rock!|https://image.tmdb.org/t/p/w500/se9xLGHlSqQwVgEzLw326CJjaRm.jpg|bocchi-the-rock|||
+BUCCHIGIRI?!|https://image.tmdb.org/t/p/w500/6WNDshG1wTRyqzDxw6HijqqBiWk.jpg|bucchigiri|||
+Bungo Stray Dogs Wan!|https://image.tmdb.org/t/p/w500/viry4F1iQ7Jrnggy09Tb3jVrKOM.jpg|bungo-stray-dogs-wan|||
+B: The Beginning|https://image.tmdb.org/t/p/w500/icgDgsRLKZR7IkYEjUjY0xRSzoK.jpg|b-the-beginning|||
+Beautiful Bones - Sakurako's Investigation|https://image.tmdb.org/t/p/w500/jo2mo1ZFGHf4kyQ0shUftser1Lt.jpg|beautiful-bones-sakurakos-investigation|||
+Bloom Into You|https://image.tmdb.org/t/p/w500/piw1RTr9hy7WoimiXJHbLHVoRrm.jpg|bloom-into-you|||
+Blue Spring Ride|https://image.tmdb.org/t/p/w500/c4TTkNCkrClHGjKztNLRgEzrL2T.jpg|blue-spring-ride|||
+Bokura ga Ita|https://image.tmdb.org/t/p/w500/vBYOXOnlKAB2wlw3H2BPhrcZQcw.jpg|bokura-ga-ita|||
+BULLBUSTER|https://image.tmdb.org/t/p/w500/wT4v5C1Bm3xgk0Uko0BEe5frD8U.jpg|bullbuster|||
+Bludgeoning Angel Dokuro-Chan|https://image.tmdb.org/t/p/w500/3VDsNW4I1W0oATwbtt5vDkVcbNd.jpg|bludgeoning-angel-dokuro-chan|||
+Bobobo-bo Bo-bobo|https://image.tmdb.org/t/p/w500/92jw3GcbwtgBMiL4n7HHNQVXu2s.jpg|bobobo-bo-bo-bobo|||
+Baka and Test: Summon the Beasts|https://image.tmdb.org/t/p/w500/jrNrHEq1iezBQAYBnLMAkJmlBpx.jpg|baka-and-test-summon-the-beasts|||
+Bladedance of Elementalers|https://image.tmdb.org/t/p/w500/4zbUJBbk1I2Sk6JRN4J9hXNhwiY.jpg|bladedance-of-elementalers|||
+Bottom-Tier Character Tomozaki|https://image.tmdb.org/t/p/w500/99lvxrZP8c7r57ShlM51TQTJ3cc.jpg|bottom-tier-character-tomozaki|||
+Betrothed to My Sister's Ex|https://image.tmdb.org/t/p/w500/kwV4MylQoDhz14Qd54z3Hq4qppf.jpg|betrothed-to-my-sisters-ex|||
+Blue Box|https://image.tmdb.org/t/p/w500/v33ztxB7YfXd0QXs1qwUTuwltjY.jpg|blue-box|||
+Bonjour: Sweet Love Patisserie|https://image.tmdb.org/t/p/w500/cF5j2sGnwHEE0jVbac7SAqUoZ6i.jpg|bonjour-sweet-love-patisserie|||
+Brothers Conflict|https://image.tmdb.org/t/p/w500/3JeluvLVWA7FabOCua1y36eP4Tl.jpg|brothers-conflict|||
+B King|https://image.tmdb.org/t/p/w500/cAWdKu5VOE3vSaEqcn79Kn0XXDk.jpg|b-king|||

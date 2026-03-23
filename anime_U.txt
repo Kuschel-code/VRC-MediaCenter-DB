@@ -1,34 +1,34 @@
-Ultramarine Magmell||ultramarine-magmell|||
-Utawarerumono||utawarerumono|||
-Utawarerumono: Mask of Truth||utawarerumono-mask-of-truth|||
-Utawarerumono: The False Faces||utawarerumono-the-false-faces|||
-Ultraman||ultraman|||
-Undead Murder Farce||undead-murder-farce|||
-Undefeated Bahamut Chronicle||undefeated-bahamut-chronicle|||
-Under Ninja||under-ninja|||
-Ushio and Tora||ushio-und-tora|||
-Unlimited Fafnir||unlimited-fafnir|||
-Unlimited Psychic Squad||unlimited-psychic-squad|||
-Unnamed Memory||unnamed-memory|||
-Uglymug, Epicfighter||uglymug-epicfighter|||
-Unbreakable Machine-Doll||unbreakable-machine-doll|||
-Undead Unluck||undead-unluck|||
-UQ Holder!||uq-holder|||
-UniteUp!||uniteup|||
-Usagi Drop||usagi-drop|||
-Uma Musume: Cinderella Gray||uma-musume-cinderella-gray|||
-Uma Musume: Pretty Derby||uma-musume-pretty-derby|||
-Umineko - When They Cry||umineko-when-they-cry|||
-Uzumaki||uzumaki|||
-Uchitama?! Have you seen my Tama?||uchi-tama-uchi-no-tama-shirimasen-ka|||
-Ultimate Otaku Teacher||ultimate-otaku-teacher|||
-Uncle from Another World||uncle-from-another-world|||
-Urara Meirochou||urara-meirochou|||
-UzaMaid!||uzamaid|||
-Umayon||umayon|||
-UFO Princess Valkyrie||ufo-princess-valkyrie|||
-Ulysses: Jeanne d’Arc and the Alchemist Knight||ulysses-jeanne-darc-and-the-alchemist-knight|||
-Urusei Yatsura||urusei-yatsura|||
-Uzaki-chan Wants to Hang Out!||uzaki-chan-wants-to-hang-out|||
-Utano Prince Sama||utano-prince-sama|||
-Uncharted Walker||uncharted-walker|||
+Ultramarine Magmell|https://image.tmdb.org/t/p/w500/lj07uyhCAfl1f5L7zHn7Wk2DpLc.jpg|ultramarine-magmell|||
+Utawarerumono|https://image.tmdb.org/t/p/w500/aj43ZYP12K2cQAQmMn54PGJcaqE.jpg|utawarerumono|||
+Utawarerumono: Mask of Truth|https://image.tmdb.org/t/p/w500/aj43ZYP12K2cQAQmMn54PGJcaqE.jpg|utawarerumono-mask-of-truth|||
+Utawarerumono: The False Faces|https://image.tmdb.org/t/p/w500/aj43ZYP12K2cQAQmMn54PGJcaqE.jpg|utawarerumono-the-false-faces|||
+Ultraman|https://image.tmdb.org/t/p/w500/3X5njpZ8obsEZcoxtgW3KckQrex.jpg|ultraman|||
+Undead Murder Farce|https://image.tmdb.org/t/p/w500/eJpGrfcZydnXinxUXrXI9jlfiEo.jpg|undead-murder-farce|||
+Undefeated Bahamut Chronicle|https://image.tmdb.org/t/p/w500/rlQeZmuZILejvHxFzfV8jI1vRJ0.jpg|undefeated-bahamut-chronicle|||
+Under Ninja|https://image.tmdb.org/t/p/w500/sGfndf3p37aSZ7RbV3t6n21xEjM.jpg|under-ninja|||
+Ushio and Tora|https://image.tmdb.org/t/p/w500/sVtdLtTfTswO5NkUxqlu1MGfcER.jpg|ushio-und-tora|||
+Unlimited Fafnir|https://image.tmdb.org/t/p/w500/zY7vcsQsoQqY8zcmjkCeeUBeTAV.jpg|unlimited-fafnir|||
+Unlimited Psychic Squad|https://image.tmdb.org/t/p/w500/zd6zRbgsReMvB5Xp5KELib1juPd.jpg|unlimited-psychic-squad|||
+Unnamed Memory|https://image.tmdb.org/t/p/w500/2h67cW61TtPdl6R41TkbTJv4Xiz.jpg|unnamed-memory|||
+Uglymug, Epicfighter|https://image.tmdb.org/t/p/w500/tuOXsK63UNldWDNiWXZrajWRcyL.jpg|uglymug-epicfighter|||
+Unbreakable Machine-Doll|https://image.tmdb.org/t/p/w500/kr7OHd6Yp6O553UDy6b9c1HuO6a.jpg|unbreakable-machine-doll|||
+Undead Unluck|https://image.tmdb.org/t/p/w500/62LKH8aho4EeZmcpYks9DvxyHxB.jpg|undead-unluck|||
+UQ Holder!|https://image.tmdb.org/t/p/w500/7oUjy6CIwjiPCHtjKWH7vw1k9xN.jpg|uq-holder|||
+UniteUp!|https://image.tmdb.org/t/p/w500/7jWi4SppOmtQMfxmviNlEUAY3Tz.jpg|uniteup|||
+Usagi Drop|https://image.tmdb.org/t/p/w500/acg0lag2hvGUcvUFdgDwVn4k8BB.jpg|usagi-drop|||
+Uma Musume: Cinderella Gray|https://image.tmdb.org/t/p/w500/dMTyte6v3DkM8gPxZfdNGoyla3r.jpg|uma-musume-cinderella-gray|||
+Uma Musume: Pretty Derby|https://image.tmdb.org/t/p/w500/vMbcwRU8xeI63udEz6yk90X4rjb.jpg|uma-musume-pretty-derby|||
+Umineko - When They Cry|https://image.tmdb.org/t/p/w500/7O18EeX6mRYCW2xFHbxHgGzVQDb.jpg|umineko-when-they-cry|||
+Uzumaki|https://image.tmdb.org/t/p/w500/vgSDW8ZNkQ072yBtHydVAUWSHm9.jpg|uzumaki|||
+Uchitama?! Have you seen my Tama?|https://image.tmdb.org/t/p/w500/zKBL6I5PbIbw02lpCwpv6RY97m9.jpg|uchi-tama-uchi-no-tama-shirimasen-ka|||
+Ultimate Otaku Teacher|https://image.tmdb.org/t/p/w500/1Q9GelfaRKmH4ndsLMNV2vQV1Qp.jpg|ultimate-otaku-teacher|||
+Uncle from Another World|https://image.tmdb.org/t/p/w500/fGXvKNhok7kAvi74HH1zmxSn5V7.jpg|uncle-from-another-world|||
+Urara Meirochou|https://image.tmdb.org/t/p/w500/9DHVHbnPF7hrjKdCVK6QJ58UVrB.jpg|urara-meirochou|||
+UzaMaid!|https://image.tmdb.org/t/p/w500/5kVZBHCcJyoO1jw8EpKqCfH38kt.jpg|uzamaid|||
+Umayon|https://image.tmdb.org/t/p/w500/3dtBarye9iI7RTaHojJLQHDeE0K.jpg|umayon|||
+UFO Princess Valkyrie|https://image.tmdb.org/t/p/w500/yl3aRONkLlct2SMgGheyEPiKV8q.jpg|ufo-princess-valkyrie|||
+Ulysses: Jeanne d’Arc and the Alchemist Knight|https://image.tmdb.org/t/p/w500/3T6yudAzMEVzHbJc16oe8yvZrR.jpg|ulysses-jeanne-darc-and-the-alchemist-knight|||
+Urusei Yatsura|https://image.tmdb.org/t/p/w500/oUVW6AlkD50tVufoz1ZXDw467Ry.jpg|urusei-yatsura|||
+Uzaki-chan Wants to Hang Out!|https://image.tmdb.org/t/p/w500/uUU2BTMXaX5g09lDP6pAbsN8EG5.jpg|uzaki-chan-wants-to-hang-out|||
+Utano Prince Sama|https://image.tmdb.org/t/p/w500/5hU5KQXXQyH97uZvnYfNrgBS8zX.jpg|utano-prince-sama|||
+Uncharted Walker|https://image.tmdb.org/t/p/w500/9NzPWlSkMrMLPD7iYwYNoqx2aTo.jpg|uncharted-walker|||

@@ -1,11 +1,11 @@
-Zakuro||zakuro|||
-Z/X Code reunion||zx-code-reunion|||
-Z/X Ignition||zx-ignition|||
-Zenonzard - The Animation||zenonzard-the-animation|||
-ZENSHU||zenshu|||
-Zom 100: Bucket List of the Dead||zom-100-bucket-list-of-the-dead|||
-Zetman||zetman|||
-Zipang||zipang|||
-Zombie-Loan||zombie-loan|||
-Zatsu Tabi -That's Journey-||zatsu-tabi-thats-journey|||
-Zombieland Saga||zombieland-saga|||
+Zakuro|https://image.tmdb.org/t/p/w500/qQWY4n8wWKnwf92p8bgGGAIb4JO.jpg|zakuro|||
+Z/X Code reunion|https://image.tmdb.org/t/p/w500/2imEsUJyIkT41obdZ2mSIP2iErR.jpg|zx-code-reunion|||
+Z/X Ignition|https://image.tmdb.org/t/p/w500/oeUCXn41raVtge7wT3BAw0gN3El.jpg|zx-ignition|||
+Zenonzard - The Animation|https://image.tmdb.org/t/p/w500/t6Kdmfc8Zluot9oyt38AYf2bmIr.jpg|zenonzard-the-animation|||
+ZENSHU|https://image.tmdb.org/t/p/w500/hiLf3JKUghjhCjDCv3hKKsWtA4S.jpg|zenshu|||
+Zom 100: Bucket List of the Dead|https://image.tmdb.org/t/p/w500/nWX0UcQMj3kJyqBFBE65dd7y3Px.jpg|zom-100-bucket-list-of-the-dead|||
+Zetman|https://image.tmdb.org/t/p/w500/4okKvxSog0DPYb61AbXBdojLJfv.jpg|zetman|||
+Zipang|https://image.tmdb.org/t/p/w500/3zLSSSbjl8H4QSY2DKmfMQNy1IT.jpg|zipang|||
+Zombie-Loan|https://image.tmdb.org/t/p/w500/lcfubN14JxIFpUjtG03xdhp4GTQ.jpg|zombie-loan|||
+Zatsu Tabi -That's Journey-|https://image.tmdb.org/t/p/w500/c0kCofjIASHZz09Rfc6fFMUogix.jpg|zatsu-tabi-thats-journey|||
+Zombieland Saga|https://image.tmdb.org/t/p/w500/kJYMZYxB9zkjbKIgQnqYezdJmLf.jpg|zombieland-saga|||
